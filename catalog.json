@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-15T20:17:28Z",
+  "Updated": "2026-11-15T21:12:50Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -19,10 +19,12 @@
       "UninstallName": "Rdzeń",
       "Icon": null,
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/shot-20261115211247-1.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#8FD3FF",
       "Featured": true,
       "Hidden": false,
