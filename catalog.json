@@ -1,8 +1,46 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-15T21:20:11Z",
+  "Updated": "2026-11-15T21:20:29Z",
   "Apps": [
-    
+    {
+      "Id": "rdzen",
+      "Name": "Rdzeń",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.1.0",
+      "Date": "2026-11-15",
+      "Type": "installer",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
+      "FileName": "Rdzen-Setup.exe",
+      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
+      "Size": 478208,
+      "Args": "",
+      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
+      "UninstallName": "Rdzeń",
+      "Icon": null,
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Color": "#8FD3FF",
+      "Featured": true,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Zobacz, co zjada Twój dysk – skanowanie, duplikaty, śmieci i ochrona w jednym miejscu.",
+        "en": "See what\u0027s eating your disk – scanning, duplicates, junk and protection in one place.",
+        "ro": "Vezi ce îți ocupă discul – scanare, duplicate, fișiere inutile și protecție într-un singur loc.",
+        "de": "Sehen Sie, was Ihre Festplatte füllt – Scan, Duplikate, Datenmüll und Schutz an einem Ort."
+      },
+      "Description": {
+        "pl": "Rdzeń skanuje dysk w kilka minut i pokazuje na animowanym pierścieniu, które foldery zajmują najwięcej miejsca.\n\n• Czyszczenie śmieci systemowych jednym kliknięciem (pliki tymczasowe, Kosz, stare aktualizacje, cache)\n• Duplikaty i duże pliki nieruszane od roku – z podziałem na formaty\n• Pełna lista przed usunięciem, ważne pliki oznaczone na czerwono, wszystko trafia do Kosza\n• Ochrona: skanowanie wirusów przez Windows Defender, niechciane programy „bez ikon”, autostart, ukryte pliki\n\nWersja próbna: skanowanie, podgląd i sprawdzanie wirusów. Czyszczenie i usuwanie – licencja 5 zł / miesiąc."
+      },
+      "Changelog": {
+        "pl": "• Ostry obraz na ekranach 4K\n• Nowa sekcja Ochrona: wirusy, programy bez ikon, autostart, ukryte pliki\n• Pełna lista z podziałem na formaty przed usunięciem\n• Płatność przez PayPal"
+      }
+    }
   ],
   "Launcher": null
 }
