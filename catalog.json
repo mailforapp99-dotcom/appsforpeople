@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T10:39:54Z",
+  "Updated": "2026-11-16T10:40:00Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -47,26 +47,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.1",
-      "Date": "2026-11-16",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.1/Porzadek.zip",
-      "FileName": "Porzadek.zip",
-      "Sha256": "dbff2da59bef9da0181489a90489555f1a72f55c453117690a75ca7099321a90",
-      "Size": 142236,
-      "Args": "",
-      "Launch": "Porzadek.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#F2B544",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Porzadek.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
       "Tagline": {
         "pl": "Sam układa bałagan w folderze Pobrane – dokumenty, zdjęcia i instalatory trafiają na swoje miejsce.",
         "en": "Tidies your messy Downloads folder – documents, photos and installers go where they belong.",
@@ -84,7 +70,21 @@
         "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1).",
         "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1).",
         "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1)."
-      }
+      },
+      "Date": "2026-11-16",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.1/Porzadek.zip",
+      "FileName": "Porzadek.zip",
+      "Sha256": "dbff2da59bef9da0181489a90489555f1a72f55c453117690a75ca7099321a90",
+      "Size": 142236,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "opiekun",
@@ -92,26 +92,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.1.0",
-      "Date": "2026-11-16",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.1.0/Opiekun.zip",
-      "FileName": "Opiekun.zip",
-      "Sha256": "c39f5eb3965d66b7f47a7b8953bd007ca0b6675e4d6d4acaf9d46cd65c4adcca",
-      "Size": 306180,
-      "Args": "",
-      "Launch": "Opiekun.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#A78BFA",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Opiekun.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
       "Tagline": {
         "pl": "Uczciwa kontrola rodzicielska: limity czasu przy komputerze, dozwolone godziny i prośby o więcej czasu.",
         "en": "Fair parental control: computer time limits, allowed hours and requests for extra time.",
@@ -129,34 +115,34 @@
         "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1). Control your child\u0027s computer from your own computer on the home network (PRO), an “End time now” button, the PIN is stored in a file your child cannot read.",
         "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1). Controlul calculatorului copilului de pe calculatorul tău în rețeaua de acasă (PRO), butonul „Încheie timpul acum”, PIN-ul păstrat într-un fișier inaccesibil copilului.",
         "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1). Kindercomputer vom eigenen Computer im Heimnetz steuern (PRO), Button „Zeit jetzt beenden“, die PIN liegt in einer für das Kind unlesbaren Datei."
-      }
+      },
+      "Date": "2026-11-16",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.1.0/Opiekun.zip",
+      "FileName": "Opiekun.zip",
+      "Sha256": "c39f5eb3965d66b7f47a7b8953bd007ca0b6675e4d6d4acaf9d46cd65c4adcca",
+      "Size": 306180,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "straznik",
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.0",
-      "Date": "2026-11-16",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.0/Straznik.zip",
-      "FileName": "Straznik.zip",
-      "Sha256": "917a507b51f82362bc63ea3c632004268cb7d4eeae1d670339a31cf1d5222158",
-      "Size": 152395,
-      "Args": "",
-      "Launch": "Straznik.exe",
-      "UninstallName": "Strażnik",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
-      "Shots": [
-        
-      ],
+      "Version": "1.0.1",
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#4FD1C5",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Straznik.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
         "en": "Watches your disks\u0027 health and warns you before you lose your photos and files.",
@@ -170,11 +156,25 @@
         "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nMit PRO läuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja: ocena zdrowia dysków, dane SMART, miejsce na dyskach, pilnowanie w tle i raport (PRO).",
-        "en": "First release: disk health verdict, SMART data, disk space, background monitoring and report (PRO).",
-        "ro": "Prima versiune: verdict de sănătate, date SMART, spațiu pe disc, supraveghere în fundal și raport (PRO).",
-        "de": "Erste Version: Zustandsbewertung, SMART-Daten, Speicherplatz, Hintergrundüberwachung und Bericht (PRO)."
-      }
+        "pl": "Nowość: skróty klawiszowe (Ctrl+C, Ctrl+Z, F5, F1…), menu pod prawym przyciskiem myszy i samouczek „Pokaż mi” (F1).",
+        "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1).",
+        "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1).",
+        "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1)."
+      },
+      "Date": "2026-11-16",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.1/Straznik.zip",
+      "FileName": "Straznik.zip",
+      "Sha256": "b6983ecd17a88445c97a6d21f0dc5cb570cadd8164473f8426da96e0a76e867c",
+      "Size": 164362,
+      "Args": "",
+      "UninstallName": "Strażnik",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "lacze",
@@ -182,26 +182,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Internet",
       "Version": "1.0.1",
-      "Date": "2026-11-16",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.1/Lacze.zip",
-      "FileName": "Lacze.zip",
-      "Sha256": "6adebe723b31813370abfd6cc9eff87b7b927725bc972e3ee68da81503ddf9d8",
-      "Size": 165633,
-      "Args": "",
-      "Launch": "Lacze.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#5AA9FF",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Lacze.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
       "Tagline": {
         "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
         "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
@@ -219,7 +205,21 @@
         "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1).",
         "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1).",
         "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1)."
-      }
+      },
+      "Date": "2026-11-16",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.1/Lacze.zip",
+      "FileName": "Lacze.zip",
+      "Sha256": "6adebe723b31813370abfd6cc9eff87b7b927725bc972e3ee68da81503ddf9d8",
+      "Size": 165633,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "teczka",
@@ -227,26 +227,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.1",
-      "Date": "2026-11-16",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.0.1/Teczka.zip",
-      "FileName": "Teczka.zip",
-      "Sha256": "59dd6d83e23883e7009f4f5934a968ae52ce0d5ed0bb37d4e5c7ff99e48394ab",
-      "Size": 4307250,
-      "Args": "",
-      "Launch": "Teczka.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#FF7A6B",
       "Featured": true,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Teczka.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
       "Tagline": {
         "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
         "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
@@ -264,7 +250,21 @@
         "en": "PDF editor fix: corrected text now keeps the same size as the original.",
         "ro": "Corecție în editorul PDF: textul corectat păstrează acum aceeași mărime ca originalul.",
         "de": "Korrektur im PDF-Editor: korrigierter Text behält jetzt die gleiche Größe wie das Original."
-      }
+      },
+      "Date": "2026-11-16",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.0.1/Teczka.zip",
+      "FileName": "Teczka.zip",
+      "Sha256": "59dd6d83e23883e7009f4f5934a968ae52ce0d5ed0bb37d4e5c7ff99e48394ab",
+      "Size": 4307250,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     }
   ],
   "Launcher": null
