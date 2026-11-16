@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T08:42:27Z",
+  "Updated": "2026-11-16T08:42:59Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -155,7 +155,7 @@
       "Page": null,
       "BuyUrl": "",
       "Color": "#4FD1C5",
-      "Featured": true,
+      "Featured": false,
       "Hidden": false,
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
@@ -219,6 +219,51 @@
         "en": "First release: outage detection, speed test, contract comparison, provider report (PRO).",
         "ro": "Prima versiune: detectarea întreruperilor, test de viteză, comparație cu contractul, raport pentru furnizor (PRO).",
         "de": "Erste Version: Ausfallerkennung, Geschwindigkeitstest, Vertragsvergleich, Bericht für den Anbieter (PRO)."
+      }
+    },
+    {
+      "Id": "teczka",
+      "Name": "Teczka",
+      "Publisher": "AppsForPeople",
+      "Category": "Biuro",
+      "Version": "1.0.0",
+      "Date": "2026-11-16",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.0.0/Teczka.zip",
+      "FileName": "Teczka.zip",
+      "Sha256": "4bb4271b1c626decb2728d5b5fc19ecefe12b377525ba331e628f5b7f5113e95",
+      "Size": 4307117,
+      "Args": "",
+      "Launch": "Teczka.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304153628168892",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Color": "#FF7A6B",
+      "Featured": true,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
+        "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
+        "ro": "Totul pentru PDF într-un singur loc: corectează text, semnează, unește, comprimă – fără să încarci fișierele pe internet.",
+        "de": "Alles für PDF an einem Ort: Text korrigieren, unterschreiben, zusammenfügen, verkleinern – ohne Dateien hochzuladen."
+      },
+      "Description": {
+        "pl": "Umowy, faktury i skany z PESEL-em czy numerem konta nie powinny trafiać na przypadkowe strony „PDF online”. Teczka robi wszystko na Twoim komputerze. Klikasz tekst w dokumencie i go poprawiasz, dopisujesz brakujące dane, zakrywasz to, czego inni nie powinni widzieć, zakreślasz ważne fragmenty i podpisujesz się myszką lub palcem. Zamienisz zdjęcia i skany na jeden PDF, połączysz kilka plików, wytniesz, obrócisz lub usuniesz strony, a z tekstu zrobisz porządny dokument A4. Oryginał nigdy nie jest nadpisywany: wynik zapisuje się jako nowy plik.\n\nWersja PRO odblokowuje zapis zmian z edytora, łączenie dowolnej liczby plików, zmniejszanie PDF do wysłania mailem, hasło, znak wodny, numery stron oraz hurtową zamianę dokumentów Word, Excel i PowerPoint na PDF.",
+        "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nPRO unlocks saving edits from the editor, merging any number of files, compressing PDFs for e-mail, passwords, watermarks, page numbers and batch conversion of Word, Excel and PowerPoint files to PDF.",
+        "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nPRO deblochează salvarea modificărilor din editor, unirea oricâtor fișiere, comprimarea PDF pentru e-mail, parola, filigranul, numerele de pagină și conversia în serie a fișierelor Word, Excel și PowerPoint în PDF.",
+        "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nPRO schaltet das Speichern von Bearbeitungen, das Zusammenfügen beliebig vieler Dateien, das Verkleinern für E-Mails, Passwort, Wasserzeichen, Seitenzahlen und die Stapelumwandlung von Word-, Excel- und PowerPoint-Dateien in PDF frei."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja: edytor PDF (poprawianie tekstu, podpis, zakrywanie, zakreślanie), zdjęcia→PDF, łączenie, strony, kompresja, hasło, Word/Excel→PDF.",
+        "en": "First release: PDF editor (fix text, signature, cover, highlight), images→PDF, merge, pages, compression, password, Word/Excel→PDF.",
+        "ro": "Prima versiune: editor PDF (corectare text, semnătură, acoperire, evidențiere), imagini→PDF, unire, pagini, comprimare, parolă, Word/Excel→PDF.",
+        "de": "Erste Version: PDF-Editor (Text korrigieren, Unterschrift, Abdecken, Markieren), Bilder→PDF, Zusammenfügen, Seiten, Komprimierung, Passwort, Word/Excel→PDF."
       }
     }
   ],
