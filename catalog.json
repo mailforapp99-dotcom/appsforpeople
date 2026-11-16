@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T07:07:55Z",
+  "Updated": "2026-11-16T07:10:22Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -55,7 +55,7 @@
       "Size": 188928,
       "Args": "",
       "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
-      "UninstallName": "",
+      "UninstallName": "Strażnik",
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304096716863222",
       "Shots": [
         
