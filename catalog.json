@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T06:58:38Z",
+  "Updated": "2026-11-16T07:07:55Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -26,7 +26,7 @@
       "Page": null,
       "BuyUrl": "",
       "Color": "#8FD3FF",
-      "Featured": true,
+      "Featured": false,
       "Hidden": false,
       "Tagline": {
         "pl": "Zobacz, co zjada Twój dysk – skanowanie, duplikaty, śmieci i ochrona w jednym miejscu.",
@@ -39,6 +39,42 @@
       },
       "Changelog": {
         "pl": "• Ostry obraz na ekranach 4K\n• Nowa sekcja Ochrona: wirusy, programy bez ikon, autostart, ukryte pliki\n• Pełna lista z podziałem na formaty przed usunięciem\n• Płatność przez PayPal"
+      }
+    },
+    {
+      "Id": "straznik",
+      "Name": "Strażnik",
+      "Publisher": "AppsForPeople",
+      "Category": "",
+      "Version": "1.0.0.0",
+      "Date": "2026-11-16",
+      "Type": "installer",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.0.0/Straznik.exe",
+      "FileName": "Straznik.exe",
+      "Sha256": "4fce6b20f671c75e16d9ce9cc6ed0c3f6b6978eec4a086a9446a86ac74159fab",
+      "Size": 188928,
+      "Args": "",
+      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304096716863222",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / mies. (PRO)",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Color": "",
+      "Featured": true,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty."
+      },
+      "Description": {
+        "pl": "Dysk rzadko psuje się bez ostrzeżenia, tylko nikt tych ostrzeżeń nie widzi. Strażnik czyta dane SMART wbudowane w każdy dysk i pokazuje je po ludzku: temperaturę, zużycie SSD w procentach, czas pracy i błędy. Na górze jedna jasna ocena: zielony – wszystko dobrze, żółty – warto sprawdzić, czerwony – zrób kopię zapasową teraz. Widzisz też, ile miejsca zostało na każdym dysku, a gdy go brakuje, jednym przyciskiem otworzysz Rdzeń. Program niczego nie zmienia na dyskach i nie łączy się z internetem.\nW wersji PRO Strażnik działa w tle, sprawdza dyski co kilka godzin i wysyła powiadomienie, gdy coś się pogarsza. Dostajesz też wykresy temperatury i zużycia, prognozę życia SSD i raport do zapisania lub wydruku."
+      },
+      "Changelog": {
+        
       }
     }
   ],
