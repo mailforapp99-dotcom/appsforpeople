@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T10:39:49Z",
+  "Updated": "2026-11-16T10:39:54Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -46,13 +46,13 @@
       "Name": "Porządek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-16",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.0/Porzadek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.1/Porzadek.zip",
       "FileName": "Porzadek.zip",
-      "Sha256": "c8487357aebead85963ccc81a462dd8a8686a0ffd4251e0cf2582c9b1d52114e",
-      "Size": 129600,
+      "Sha256": "dbff2da59bef9da0181489a90489555f1a72f55c453117690a75ca7099321a90",
+      "Size": 142236,
       "Args": "",
       "Launch": "Porzadek.exe",
       "UninstallName": "",
@@ -80,10 +80,10 @@
         "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nMit PRO arbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja: porządkowanie z podglądem i cofaniem, stare instalatory do Kosza, tryb automatyczny (PRO).",
-        "en": "First release: tidying with preview and undo, old installers to the Recycle Bin, automatic mode (PRO).",
-        "ro": "Prima versiune: organizare cu previzualizare și anulare, instalatoare vechi în Coș, mod automat (PRO).",
-        "de": "Erste Version: Aufräumen mit Vorschau und Rückgängig, alte Installer in den Papierkorb, Automatikmodus (PRO)."
+        "pl": "Nowość: skróty klawiszowe (Ctrl+C, Ctrl+Z, F5, F1…), menu pod prawym przyciskiem myszy i samouczek „Pokaż mi” (F1).",
+        "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1).",
+        "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1).",
+        "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1)."
       }
     },
     {
