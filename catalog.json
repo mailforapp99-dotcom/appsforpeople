@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T07:46:31Z",
+  "Updated": "2026-11-16T08:31:30Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -75,6 +75,51 @@
       },
       "Changelog": {
         "pl": "Pierwsza wersja: ocena zdrowia dysków, dane SMART, miejsce na dyskach, pilnowanie w tle i raport (PRO)."
+      }
+    },
+    {
+      "Id": "porzadek",
+      "Name": "Porządek",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.0",
+      "Date": "2026-11-16",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.0/Porzadek.zip",
+      "FileName": "Porzadek.zip",
+      "Sha256": "c8487357aebead85963ccc81a462dd8a8686a0ffd4251e0cf2582c9b1d52114e",
+      "Size": 129600,
+      "Args": "",
+      "Launch": "Porzadek.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Color": "#F2B544",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Sam układa bałagan w folderze Pobrane – dokumenty, zdjęcia i instalatory trafiają na swoje miejsce.",
+        "en": "Tidies your messy Downloads folder – documents, photos and installers go where they belong.",
+        "ro": "Pune ordine în folderul Descărcări – documentele, pozele și instalatoarele ajung la locul lor.",
+        "de": "Räumt Ihren Download-Ordner auf – Dokumente, Fotos und Installer landen am richtigen Platz."
+      },
+      "Description": {
+        "pl": "Folder Pobrane po kilku miesiącach to setki plików, w których nic nie da się znaleźć. Porządek układa je w podfoldery: Dokumenty, Obrazy, Wideo, Muzyka, Archiwa, Instalatory i Inne. Najpierw pokazuje podgląd, co gdzie trafi, a dopiero potem przenosi. Niczego nie usuwa, a każde porządkowanie cofniesz jednym przyciskiem. Pomija pliki, które właśnie się pobierają. Dodatkowo znajduje stare instalatory programów, które zajmują gigabajty, i po Twojej zgodzie przenosi je do Kosza.\n\nW wersji PRO Porządek działa sam w tle: nowy plik trafia na swoje miejsce chwilę po pobraniu. Możesz też dzielić pliki na miesiące (np. Dokumenty\\2026-11) i porządkować inne foldery, na przykład Pulpit.",
+        "en": "After a few months, the Downloads folder holds hundreds of files you can never find. Porządek sorts them into subfolders: Documents, Images, Videos, Music, Archives, Installers and Other. It shows you a preview of where everything will go before moving anything. Nothing is ever deleted, and every clean-up can be undone with one click. Files that are still downloading are skipped. It also finds old program installers taking up gigabytes and moves them to the Recycle Bin once you agree.\n\nWith PRO, Porządek works on its own in the background: each new file is sorted shortly after it downloads. You can also split files by month (e.g. Documents\\2026-11) and tidy other folders, such as your Desktop.",
+        "ro": "După câteva luni, folderul Descărcări are sute de fișiere în care nu mai găsești nimic. Porządek le sortează în subfoldere: Documente, Imagini, Video, Muzică, Arhive, Programe de instalare și Altele. Înainte să mute ceva, îți arată unde va ajunge fiecare fișier. Nu șterge nimic, iar orice organizare se anulează cu un clic. Fișierele aflate în curs de descărcare sunt omise. Găsește și instalatoarele vechi care ocupă gigabați și, cu acordul tău, le mută în Coșul de reciclare.\n\nCu PRO, Porządek lucrează singur în fundal: fiecare fișier nou ajunge la locul lui la scurt timp după descărcare. Poți împărți fișierele pe luni (de ex. Documente\\2026-11) și poți organiza și alte foldere, cum ar fi Desktopul.",
+        "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nMit PRO arbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja: porządkowanie z podglądem i cofaniem, stare instalatory do Kosza, tryb automatyczny (PRO).",
+        "en": "First release: tidying with preview and undo, old installers to the Recycle Bin, automatic mode (PRO).",
+        "ro": "Prima versiune: organizare cu previzualizare și anulare, instalatoare vechi în Coș, mod automat (PRO).",
+        "de": "Erste Version: Aufräumen mit Vorschau und Rückgängig, alte Installer in den Papierkorb, Automatikmodus (PRO)."
       }
     }
   ],
