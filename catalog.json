@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T08:42:59Z",
+  "Updated": "2026-11-16T09:25:30Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -226,17 +226,17 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-16",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.0.0/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.0.1/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "4bb4271b1c626decb2728d5b5fc19ecefe12b377525ba331e628f5b7f5113e95",
-      "Size": 4307117,
+      "Sha256": "59dd6d83e23883e7009f4f5934a968ae52ce0d5ed0bb37d4e5c7ff99e48394ab",
+      "Size": 4307250,
       "Args": "",
       "Launch": "Teczka.exe",
       "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304153628168892",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
       "Shots": [
         
       ],
@@ -260,10 +260,10 @@
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nPRO schaltet das Speichern von Bearbeitungen, das Zusammenfügen beliebig vieler Dateien, das Verkleinern für E-Mails, Passwort, Wasserzeichen, Seitenzahlen und die Stapelumwandlung von Word-, Excel- und PowerPoint-Dateien in PDF frei."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja: edytor PDF (poprawianie tekstu, podpis, zakrywanie, zakreślanie), zdjęcia→PDF, łączenie, strony, kompresja, hasło, Word/Excel→PDF.",
-        "en": "First release: PDF editor (fix text, signature, cover, highlight), images→PDF, merge, pages, compression, password, Word/Excel→PDF.",
-        "ro": "Prima versiune: editor PDF (corectare text, semnătură, acoperire, evidențiere), imagini→PDF, unire, pagini, comprimare, parolă, Word/Excel→PDF.",
-        "de": "Erste Version: PDF-Editor (Text korrigieren, Unterschrift, Abdecken, Markieren), Bilder→PDF, Zusammenfügen, Seiten, Komprimierung, Passwort, Word/Excel→PDF."
+        "pl": "Poprawka edytora PDF: poprawiony tekst ma teraz taką samą wielkość jak oryginał.",
+        "en": "PDF editor fix: corrected text now keeps the same size as the original.",
+        "ro": "Corecție în editorul PDF: textul corectat păstrează acum aceeași mărime ca originalul.",
+        "de": "Korrektur im PDF-Editor: korrigierter Text behält jetzt die gleiche Größe wie das Original."
       }
     }
   ],
