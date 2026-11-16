@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T07:10:22Z",
+  "Updated": "2026-11-16T07:10:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -74,7 +74,7 @@
         "pl": "Dysk rzadko psuje się bez ostrzeżenia, tylko nikt tych ostrzeżeń nie widzi. Strażnik czyta dane SMART wbudowane w każdy dysk i pokazuje je po ludzku: temperaturę, zużycie SSD w procentach, czas pracy i błędy. Na górze jedna jasna ocena: zielony – wszystko dobrze, żółty – warto sprawdzić, czerwony – zrób kopię zapasową teraz. Widzisz też, ile miejsca zostało na każdym dysku, a gdy go brakuje, jednym przyciskiem otworzysz Rdzeń. Program niczego nie zmienia na dyskach i nie łączy się z internetem.\nW wersji PRO Strażnik działa w tle, sprawdza dyski co kilka godzin i wysyła powiadomienie, gdy coś się pogarsza. Dostajesz też wykresy temperatury i zużycia, prognozę życia SSD i raport do zapisania lub wydruku."
       },
       "Changelog": {
-        
+        "pl": "Pierwsza wersja: ocena zdrowia dysków, dane SMART, miejsce na dyskach, pilnowanie w tle i raport (PRO)."
       }
     }
   ],
