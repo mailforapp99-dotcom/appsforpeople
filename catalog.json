@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T08:34:22Z",
+  "Updated": "2026-11-16T08:42:27Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -174,6 +174,51 @@
         "en": "First release: disk health verdict, SMART data, disk space, background monitoring and report (PRO).",
         "ro": "Prima versiune: verdict de sănătate, date SMART, spațiu pe disc, supraveghere în fundal și raport (PRO).",
         "de": "Erste Version: Zustandsbewertung, SMART-Daten, Speicherplatz, Hintergrundüberwachung und Bericht (PRO)."
+      }
+    },
+    {
+      "Id": "lacze",
+      "Name": "Łącze",
+      "Publisher": "AppsForPeople",
+      "Category": "Internet",
+      "Version": "1.0.0",
+      "Date": "2026-11-16",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.0/Lacze.zip",
+      "FileName": "Lacze.zip",
+      "Sha256": "cfc6c98def8721805fb8b635c846364888802e1e97da1d5c4ae57dac36108635",
+      "Size": 153726,
+      "Args": "",
+      "Launch": "Lacze.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Color": "#5AA9FF",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
+        "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
+        "ro": "Înregistrează fiecare întrerupere a internetului și măsoară viteza – dovezi pentru reclamații la furnizor.",
+        "de": "Protokolliert jeden Internetausfall und misst die Geschwindigkeit – Belege für Beschwerden beim Anbieter."
+      },
+      "Description": {
+        "pl": "„U nas wszystko działa” – tak często odpowiada infolinia. Łącze co 15 sekund sprawdza, czy internet działa, i zapisuje każdą przerwę z dokładną godziną i czasem trwania. Rozpoznaje też, gdzie leży problem: po stronie operatora czy w Twoim Wi-Fi i routerze. Test prędkości pokazuje pobieranie, wysyłanie i ping, a porównanie z prędkością z umowy mówi, czy dostajesz to, za co płacisz. Na ekranie widzisz na żywo ping z ostatniej godziny i liczbę przerw z dzisiaj.\n\nW wersji PRO Łącze pilnuje internetu 24/7 w tle, samo robi testy prędkości o wybranych porach i powiadamia, gdy internet wróci po przerwie. Jednym kliknięciem tworzysz raport dla operatora z listą przerw i wynikami testów z 30 dni – gotowy do wydruku i dołączenia do reklamacji.",
+        "en": "“Everything is fine on our side” – that\u0027s what the helpline usually says. Łącze checks every 15 seconds whether your internet works and logs every outage with its exact time and duration. It also tells you where the problem is: with your provider, or in your own Wi-Fi and router. The speed test shows download, upload and ping, and a comparison with your contract speed tells you whether you get what you pay for. The screen shows live ping for the last hour and today\u0027s number of outages.\n\nWith PRO, Łącze watches your internet 24/7 in the background, runs speed tests automatically and notifies you when the connection comes back after an outage. One click creates a report for your provider with the outages and test results from the last 30 days – ready to print and attach to your complaint.",
+        "ro": "„La noi totul funcționează” – așa răspunde de obicei serviciul clienți. Łącze verifică la fiecare 15 secunde dacă internetul funcționează și înregistrează fiecare întrerupere cu ora exactă și durata. Arată și unde este problema: la furnizor sau în Wi-Fi-ul și routerul tău. Testul de viteză arată descărcarea, încărcarea și ping-ul, iar comparația cu viteza din contract îți spune dacă primești ce plătești. Pe ecran vezi în direct ping-ul din ultima oră și numărul de întreruperi de azi.\n\nCu PRO, Łącze supraveghează internetul 24/7 în fundal, face automat teste de viteză și te anunță când conexiunea revine după o întrerupere. Cu un clic creezi un raport pentru furnizor cu întreruperile și testele din ultimele 30 de zile – gata de tipărit și de atașat la reclamație.",
+        "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja: wykrywanie przerw, test prędkości, porównanie z umową, raport dla operatora (PRO).",
+        "en": "First release: outage detection, speed test, contract comparison, provider report (PRO).",
+        "ro": "Prima versiune: detectarea întreruperilor, test de viteză, comparație cu contractul, raport pentru furnizor (PRO).",
+        "de": "Erste Version: Ausfallerkennung, Geschwindigkeitstest, Vertragsvergleich, Bericht für den Anbieter (PRO)."
       }
     }
   ],
