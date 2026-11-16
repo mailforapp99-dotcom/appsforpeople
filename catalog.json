@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-15T21:20:29Z",
+  "Updated": "2026-11-16T06:58:38Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -17,7 +17,7 @@
       "Args": "",
       "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
       "UninstallName": "Rdzeń",
-      "Icon": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/icon.png?v=639304091181387870",
       "Shots": [
         
       ],
