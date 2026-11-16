@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T09:25:30Z",
+  "Updated": "2026-11-16T10:39:44Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -181,13 +181,13 @@
       "Name": "Łącze",
       "Publisher": "AppsForPeople",
       "Category": "Internet",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-16",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.0/Lacze.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.1/Lacze.zip",
       "FileName": "Lacze.zip",
-      "Sha256": "cfc6c98def8721805fb8b635c846364888802e1e97da1d5c4ae57dac36108635",
-      "Size": 153726,
+      "Sha256": "6adebe723b31813370abfd6cc9eff87b7b927725bc972e3ee68da81503ddf9d8",
+      "Size": 165633,
       "Args": "",
       "Launch": "Lacze.exe",
       "UninstallName": "",
@@ -215,10 +215,10 @@
         "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja: wykrywanie przerw, test prędkości, porównanie z umową, raport dla operatora (PRO).",
-        "en": "First release: outage detection, speed test, contract comparison, provider report (PRO).",
-        "ro": "Prima versiune: detectarea întreruperilor, test de viteză, comparație cu contractul, raport pentru furnizor (PRO).",
-        "de": "Erste Version: Ausfallerkennung, Geschwindigkeitstest, Vertragsvergleich, Bericht für den Anbieter (PRO)."
+        "pl": "Nowość: skróty klawiszowe (Ctrl+C, Ctrl+Z, F5, F1…), menu pod prawym przyciskiem myszy i samouczek „Pokaż mi” (F1).",
+        "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1).",
+        "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1).",
+        "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1)."
       }
     },
     {
