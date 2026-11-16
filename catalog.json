@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T07:10:40Z",
+  "Updated": "2026-11-16T07:11:09Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -45,7 +45,7 @@
       "Id": "straznik",
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
-      "Category": "",
+      "Category": "Narzędzia",
       "Version": "1.0.0.0",
       "Date": "2026-11-16",
       "Type": "installer",
@@ -64,7 +64,7 @@
       "Website": "",
       "Page": null,
       "BuyUrl": "",
-      "Color": "",
+      "Color": "#4FD1C5",
       "Featured": true,
       "Hidden": false,
       "Tagline": {
