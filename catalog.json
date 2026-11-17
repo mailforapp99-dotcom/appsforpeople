@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T17:53:23Z",
+  "Updated": "2026-11-17T17:53:28Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -91,13 +91,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.2",
+      "Version": "1.2.3",
       "Date": "2026-11-17",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.2/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.3/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "327a4df1b4d2d8437989b07b430914ffbf88de261850c62d4fd1982fa6fd6509",
-      "Size": 327386,
+      "Sha256": "f9e2b62c4c2d625d24fa27791283d396fb9c55361e47036bcf35413b90e4003f",
+      "Size": 341505,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -125,10 +125,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Nowość: zakładka „Kontakt” – napiszesz do twórcy programu bezpośrednio z programu.",
-        "en": "New: a “Contact” tab – write to the developer straight from the program.",
-        "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
-        "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
+        "pl": "Czat z twórcą w zakładce Kontakt; zakup licencji online na appsforpeople.pl i automatyczne pobieranie kupionej licencji.",
+        "en": "Chat with the developer in the Contact tab; buy a licence online at appsforpeople.pl and the app downloads it automatically.",
+        "ro": "Chat cu dezvoltatorul în fila Contact; cumpărare licență online pe appsforpeople.pl și descărcare automată.",
+        "de": "Chat mit dem Entwickler im Reiter Kontakt; Lizenz online auf appsforpeople.pl kaufen, das Programm lädt sie automatisch."
       }
     },
     {
