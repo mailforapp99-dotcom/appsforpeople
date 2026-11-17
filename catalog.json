@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T12:36:44Z",
+  "Updated": "2026-11-17T12:36:49Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -47,26 +47,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.3",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.3/Porzadek.zip",
-      "FileName": "Porzadek.zip",
-      "Sha256": "178c3dbb9c7277e3bcc2191246c23a09e0bc2d9dd4ac9c1fcc4420ec02fb7262",
-      "Size": 149252,
-      "Args": "",
-      "Launch": "Porzadek.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#F2B544",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Porzadek.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
       "Tagline": {
         "pl": "Sam układa bałagan w folderze Pobrane – dokumenty, zdjęcia i instalatory trafiają na swoje miejsce.",
         "en": "Tidies your messy Downloads folder – documents, photos and installers go where they belong.",
@@ -84,7 +70,21 @@
         "en": "New: a “Contact” tab – write to the developer straight from the program.",
         "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
         "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.3/Porzadek.zip",
+      "FileName": "Porzadek.zip",
+      "Sha256": "178c3dbb9c7277e3bcc2191246c23a09e0bc2d9dd4ac9c1fcc4420ec02fb7262",
+      "Size": 149252,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "opiekun",
@@ -92,26 +92,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.2",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.2/Opiekun.zip",
-      "FileName": "Opiekun.zip",
-      "Sha256": "327a4df1b4d2d8437989b07b430914ffbf88de261850c62d4fd1982fa6fd6509",
-      "Size": 327386,
-      "Args": "",
-      "Launch": "Opiekun.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#A78BFA",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Opiekun.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
       "Tagline": {
         "pl": "Uczciwa kontrola rodzicielska: limity czasu przy komputerze, dozwolone godziny i prośby o więcej czasu.",
         "en": "Fair parental control: computer time limits, allowed hours and requests for extra time.",
@@ -129,7 +115,21 @@
         "en": "New: a “Contact” tab – write to the developer straight from the program.",
         "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
         "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.2/Opiekun.zip",
+      "FileName": "Opiekun.zip",
+      "Sha256": "327a4df1b4d2d8437989b07b430914ffbf88de261850c62d4fd1982fa6fd6509",
+      "Size": 327386,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "straznik",
@@ -137,26 +137,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.3",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.3/Straznik.zip",
-      "FileName": "Straznik.zip",
-      "Sha256": "3d0467b83fc1da594efc36f4130fae48c40ee5f9a1eb926fe45e45255a1fd568",
-      "Size": 171065,
-      "Args": "",
-      "Launch": "Straznik.exe",
-      "UninstallName": "Strażnik",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#4FD1C5",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Straznik.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
         "en": "Watches your disks\u0027 health and warns you before you lose your photos and files.",
@@ -174,7 +160,21 @@
         "en": "New: a “Contact” tab – write to the developer straight from the program.",
         "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
         "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.3/Straznik.zip",
+      "FileName": "Straznik.zip",
+      "Sha256": "3d0467b83fc1da594efc36f4130fae48c40ee5f9a1eb926fe45e45255a1fd568",
+      "Size": 171065,
+      "Args": "",
+      "UninstallName": "Strażnik",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "lacze",
@@ -182,26 +182,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Internet",
       "Version": "1.0.3",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.3/Lacze.zip",
-      "FileName": "Lacze.zip",
-      "Sha256": "d121a0ef7f48e8bcf1db188f1291a1966e611cd028af5372e84b09a61627c6f3",
-      "Size": 172219,
-      "Args": "",
-      "Launch": "Lacze.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#5AA9FF",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Lacze.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
       "Tagline": {
         "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
         "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
@@ -219,7 +205,21 @@
         "en": "New: a “Contact” tab – write to the developer straight from the program.",
         "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
         "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.3/Lacze.zip",
+      "FileName": "Lacze.zip",
+      "Sha256": "d121a0ef7f48e8bcf1db188f1291a1966e611cd028af5372e84b09a61627c6f3",
+      "Size": 172219,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "teczka",
@@ -227,26 +227,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.2",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.2/Teczka.zip",
-      "FileName": "Teczka.zip",
-      "Sha256": "239ccd2c3c0cbad42812b05fa4ed387b5b0f9e689f6b9e94104a00cca1f386e1",
-      "Size": 4345119,
-      "Args": "",
-      "Launch": "Teczka.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#FF7A6B",
       "Featured": true,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Teczka.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
       "Tagline": {
         "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
         "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
@@ -264,7 +250,21 @@
         "en": "New: a “Contact” tab – write to the developer straight from the program.",
         "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
         "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.2/Teczka.zip",
+      "FileName": "Teczka.zip",
+      "Sha256": "239ccd2c3c0cbad42812b05fa4ed387b5b0f9e689f6b9e94104a00cca1f386e1",
+      "Size": 4345119,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "opiekun-dziecko",
@@ -272,26 +272,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.2",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.2/OpiekunDlaDziecka.zip",
-      "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "5ababf2d751db676f2de88c98aa387822ef919bd11bb21234fcb54182a25692a",
-      "Size": 327032,
-      "Args": null,
-      "Launch": "Opiekun.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#C4B5FD",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Opiekun.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
       "Tagline": {
         "pl": "Instalator Opiekuna na komputer dziecka – limity czasu, prośby i sterowanie z komputera rodzica.",
         "en": "Opiekun installer for your child\u0027s computer – time limits, requests and control from the parent\u0027s computer.",
@@ -309,34 +295,34 @@
         "en": "New: a “Contact” tab – write to the developer straight from the program.",
         "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
         "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.2/OpiekunDlaDziecka.zip",
+      "FileName": "OpiekunDlaDziecka.zip",
+      "Sha256": "5ababf2d751db676f2de88c98aa387822ef919bd11bb21234fcb54182a25692a",
+      "Size": 327032,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "teczka-podglad",
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.1",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.1/TeczkaPodglad.zip",
-      "FileName": "TeczkaPodglad.zip",
-      "Sha256": "286f6e641a7751f3789568f12c28f3f50ab68f45aeb94e4fae4197a698c4959a",
-      "Size": 4337731,
-      "Args": null,
-      "Launch": "TeczkaPodglad.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
-      "Shots": [
-        
-      ],
+      "Version": "1.1.2",
       "Price": "Za darmo",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#FF7A6B",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "TeczkaPodglad.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Tagline": {
         "pl": "Darmowy, szybki czytnik PDF: czytaj, szukaj, drukuj – bez reklam i bez wysyłania plików.",
         "en": "A free, fast PDF reader: read, search, print – no ads, no uploads.",
@@ -350,11 +336,25 @@
         "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
       },
       "Changelog": {
-        "pl": "Okno samo dopasowuje się do ekranu – na małych laptopach i przy powiększeniu 125–150% nic nie jest ucięte.",
-        "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
-        "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
-        "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+        "pl": "Nowość: zakładka „Kontakt” – napiszesz do twórcy programu bezpośrednio z programu.",
+        "en": "New: a “Contact” tab – write to the developer straight from the program.",
+        "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
+        "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.2/TeczkaPodglad.zip",
+      "FileName": "TeczkaPodglad.zip",
+      "Sha256": "5a8a3c9b4dccd90d2983863bd6488f92fada01e94c2e45039bc66e017cb02e0b",
+      "Size": 4344359,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     }
   ],
   "Launcher": {
