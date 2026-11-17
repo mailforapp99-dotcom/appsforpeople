@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T10:31:35Z",
+  "Updated": "2026-11-17T10:31:43Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -309,6 +309,51 @@
         "en": "First release of the separate installer for the child\u0027s computer.",
         "ro": "Prima versiune a instalatorului separat pentru calculatorul copilului.",
         "de": "Erste Version des separaten Installers für den Kindercomputer."
+      }
+    },
+    {
+      "Id": "teczka-podglad",
+      "Name": "Teczka – przeglądarka PDF",
+      "Publisher": "AppsForPeople",
+      "Category": "Biuro",
+      "Version": "1.1.0",
+      "Date": "2026-11-17",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.0/TeczkaPodglad.zip",
+      "FileName": "TeczkaPodglad.zip",
+      "Sha256": "7b9f17210a7e0caa7f007d16f1cb5ce754fc9727e06d7cc9951aa0d4dfbf7283",
+      "Size": 4336919,
+      "Args": null,
+      "Launch": "TeczkaPodglad.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
+      "Shots": [
+        
+      ],
+      "Price": "Za darmo",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#FF7A6B",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Darmowy, szybki czytnik PDF: czytaj, szukaj, drukuj – bez reklam i bez wysyłania plików.",
+        "en": "A free, fast PDF reader: read, search, print – no ads, no uploads.",
+        "ro": "Cititor PDF gratuit și rapid: citește, caută, tipărește – fără reclame și fără încărcări.",
+        "de": "Kostenloser, schneller PDF-Leser: lesen, suchen, drucken – ohne Werbung, ohne Upload."
+      },
+      "Description": {
+        "pl": "Teczka – przeglądarka PDF otwiera dokumenty PDF dwuklikiem, tak jak Adobe Reader, ale bez reklam, kont i zbędnych dodatków. Wszystkie strony przewijasz jedna pod drugą, powiększasz kółkiem myszy z Ctrl, szukasz słów w całym dokumencie (Ctrl+F), drukujesz (Ctrl+P) i kopiujesz tekst. Otwiera także PDF-y z hasłem.\n\nProgram jest całkowicie darmowy i działa tylko na Twoim komputerze. Potrzebujesz poprawić tekst, podpisać się albo połączyć pliki? Kliknij „Edytuj PDF” – edycja jest w programie Teczka (z licencją).",
+        "en": "Teczka – PDF viewer opens PDF documents with a double-click, like Adobe Reader, but with no ads, accounts or clutter. Scroll all pages one after another, zoom with Ctrl+mouse wheel, search the whole document (Ctrl+F), print (Ctrl+P) and copy text. It also opens password-protected PDFs.\n\nThe program is completely free and works only on your computer. Need to fix text, sign or merge files? Click “Edit PDF” – editing is in the Teczka program (with a licence).",
+        "ro": "Teczka – vizualizator PDF deschide documente PDF cu dublu clic, ca Adobe Reader, dar fără reclame, conturi sau lucruri inutile. Derulezi toate paginile, mărești cu Ctrl+rotiță, cauți în tot documentul (Ctrl+F), tipărești (Ctrl+P) și copiezi text. Deschide și PDF-uri cu parolă.\n\nProgramul este complet gratuit și funcționează doar pe calculatorul tău. Vrei să corectezi text, să semnezi sau să unești fișiere? Apasă „Editează PDF” – editarea este în programul Teczka (cu licență).",
+        "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja darmowej przeglądarki PDF.",
+        "en": "First release of the free PDF viewer.",
+        "ro": "Prima versiune a vizualizatorului PDF gratuit.",
+        "de": "Erste Version des kostenlosen PDF-Betrachters."
       }
     }
   ],
