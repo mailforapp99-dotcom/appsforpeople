@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T17:53:33Z",
+  "Updated": "2026-11-17T17:53:37Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -8,26 +8,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.1.0",
-      "Date": "2026-11-15",
-      "Type": "installer",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
-      "FileName": "Rdzen-Setup.exe",
-      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
-      "Size": 478208,
-      "Args": "",
-      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
-      "UninstallName": "Rdzeń",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/icon.png?v=639304091181387870",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#8FD3FF",
       "Featured": false,
-      "Hidden": false,
+      "Type": "installer",
+      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/icon.png?v=639304091181387870",
       "Tagline": {
         "pl": "Zobacz, co zjada Twój dysk – skanowanie, duplikaty, śmieci i ochrona w jednym miejscu.",
         "en": "See what\u0027s eating your disk – scanning, duplicates, junk and protection in one place.",
@@ -39,14 +25,28 @@
       },
       "Changelog": {
         "pl": "• Ostry obraz na ekranach 4K\n• Nowa sekcja Ochrona: wirusy, programy bez ikon, autostart, ukryte pliki\n• Pełna lista z podziałem na formaty przed usunięciem\n• Płatność przez PayPal"
-      }
+      },
+      "Date": "2026-11-15",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
+      "FileName": "Rdzen-Setup.exe",
+      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
+      "Size": 478208,
+      "Args": "",
+      "UninstallName": "Rdzeń",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "porzadek",
       "Name": "Porządek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.3",
+      "Version": "1.0.4",
       "Price": "5 zł / miesiąc",
       "Color": "#F2B544",
       "Featured": false,
@@ -66,16 +66,16 @@
         "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nMit PRO arbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
       },
       "Changelog": {
-        "pl": "Nowość: zakładka „Kontakt” – napiszesz do twórcy programu bezpośrednio z programu.",
-        "en": "New: a “Contact” tab – write to the developer straight from the program.",
-        "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
-        "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
+        "pl": "Czat z twórcą w zakładce Kontakt; zakup licencji online na appsforpeople.pl i automatyczne pobieranie kupionej licencji.",
+        "en": "Chat with the developer in the Contact tab; buy a licence online at appsforpeople.pl and the app downloads it automatically.",
+        "ro": "Chat cu dezvoltatorul în fila Contact; cumpărare licență online pe appsforpeople.pl și descărcare automată.",
+        "de": "Chat mit dem Entwickler im Reiter Kontakt; Lizenz online auf appsforpeople.pl kaufen, das Programm lädt sie automatisch."
       },
       "Date": "2026-11-17",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.3/Porzadek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.4/Porzadek.zip",
       "FileName": "Porzadek.zip",
-      "Sha256": "178c3dbb9c7277e3bcc2191246c23a09e0bc2d9dd4ac9c1fcc4420ec02fb7262",
-      "Size": 149252,
+      "Sha256": "e766e022b6716ac0d1abce769a968498b5d1d1bb3521def0b488f450cf11c7f9",
+      "Size": 156467,
       "Args": "",
       "UninstallName": "",
       "Shots": [
