@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T06:42:53Z",
+  "Updated": "2026-11-17T10:31:35Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -226,13 +226,13 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.2",
-      "Date": "2026-11-16",
+      "Version": "1.1.0",
+      "Date": "2026-11-17",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.0.2/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.0/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "57c620045861d1f0b568b10d9f262f535c6d1ad99cc1aa9a47b39e3950ad5bfd",
-      "Size": 4325511,
+      "Sha256": "28f075a823598d473deacf64e7309710ab1902771bce5b83ffef91bd4222a7d9",
+      "Size": 4337969,
       "Args": "",
       "Launch": "Teczka.exe",
       "UninstallName": "",
@@ -254,16 +254,16 @@
         "de": "Alles für PDF an einem Ort: Text korrigieren, unterschreiben, zusammenfügen, verkleinern – ohne Dateien hochzuladen."
       },
       "Description": {
-        "pl": "Umowy, faktury i skany z PESEL-em czy numerem konta nie powinny trafiać na przypadkowe strony „PDF online”. Teczka robi wszystko na Twoim komputerze. Klikasz tekst w dokumencie i go poprawiasz, dopisujesz brakujące dane, zakrywasz to, czego inni nie powinni widzieć, zakreślasz ważne fragmenty i podpisujesz się myszką lub palcem. Zamienisz zdjęcia i skany na jeden PDF, połączysz kilka plików, wytniesz, obrócisz lub usuniesz strony, a z tekstu zrobisz porządny dokument A4. Oryginał nigdy nie jest nadpisywany: wynik zapisuje się jako nowy plik.\n\nWersja PRO odblokowuje zapis zmian z edytora, łączenie dowolnej liczby plików, zmniejszanie PDF do wysłania mailem, hasło, znak wodny, numery stron oraz hurtową zamianę dokumentów Word, Excel i PowerPoint na PDF.",
-        "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nPRO unlocks saving edits from the editor, merging any number of files, compressing PDFs for e-mail, passwords, watermarks, page numbers and batch conversion of Word, Excel and PowerPoint files to PDF.",
-        "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nPRO deblochează salvarea modificărilor din editor, unirea oricâtor fișiere, comprimarea PDF pentru e-mail, parola, filigranul, numerele de pagină și conversia în serie a fișierelor Word, Excel și PowerPoint în PDF.",
-        "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nPRO schaltet das Speichern von Bearbeitungen, das Zusammenfügen beliebig vieler Dateien, das Verkleinern für E-Mails, Passwort, Wasserzeichen, Seitenzahlen und die Stapelumwandlung von Word-, Excel- und PowerPoint-Dateien in PDF frei."
+        "pl": "Umowy, faktury i skany z PESEL-em czy numerem konta nie powinny trafiać na przypadkowe strony „PDF online”. Teczka robi wszystko na Twoim komputerze. Klikasz tekst w dokumencie i go poprawiasz, dopisujesz brakujące dane, zakrywasz to, czego inni nie powinni widzieć, zakreślasz ważne fragmenty i podpisujesz się myszką lub palcem. Zamienisz zdjęcia i skany na jeden PDF, połączysz kilka plików, wytniesz, obrócisz lub usuniesz strony, a z tekstu zrobisz porządny dokument A4. Oryginał nigdy nie jest nadpisywany: wynik zapisuje się jako nowy plik.\n\nCzytanie i drukowanie PDF jest za darmo – Teczka może być Twoim programem do otwierania PDF. Licencja odblokowuje wszystko, co zmienia lub tworzy pliki: zapis z edytora, tekst i zdjęcia → PDF, łączenie, strony, zmniejszanie, hasło, znak wodny, numery stron oraz zamianę Word, Excel i PowerPoint na PDF.",
+        "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nReading and printing PDFs is free – Teczka can be your PDF program. A licence unlocks everything that changes or creates files: saving from the editor, text and photos → PDF, merging, pages, compression, password, watermark, page numbers and converting Word, Excel and PowerPoint to PDF.",
+        "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nCitirea și tipărirea PDF sunt gratuite – Teczka poate fi programul tău pentru PDF. Licența deblochează tot ce modifică sau creează fișiere: salvarea din editor, text și poze → PDF, unire, pagini, micșorare, parolă, filigran, numere de pagină și conversia Word, Excel și PowerPoint în PDF.",
+        "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
-        "pl": "Nowość: skróty klawiszowe (Ctrl+C, Ctrl+Z, F5, F1…), menu pod prawym przyciskiem myszy i samouczek „Pokaż mi” (F1). Edytor PDF: poprawiony tekst zachowuje wielkość oryginału, Ctrl+Z / Ctrl+Y, Ctrl+kółko = powiększenie, menu pod prawym przyciskiem na kartce.",
-        "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1). PDF editor: corrected text keeps the original size, Ctrl+Z / Ctrl+Y, Ctrl+wheel zoom, right-click menu on the page.",
-        "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1). Editor PDF: textul corectat păstrează mărimea originală, Ctrl+Z / Ctrl+Y, Ctrl+rotiță = zoom, meniu la clic dreapta pe pagină.",
-        "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1). PDF-Editor: korrigierter Text behält die Originalgröße, Strg+Z / Strg+Y, Strg+Mausrad = Zoom, Rechtsklick-Menü auf der Seite."
+        "pl": "Nowość: czytnik PDF – otwieraj PDF-y dwuklikiem, przewijaj wszystkie strony, szukaj (Ctrl+F), drukuj (Ctrl+P), kopiuj tekst. Czytanie i drukowanie za darmo, tworzenie i zmiany plików z licencją.",
+        "en": "New: a PDF reader – open PDFs with a double-click, scroll all pages, search (Ctrl+F), print (Ctrl+P), copy text. Reading and printing are free; creating and changing files needs a licence.",
+        "ro": "Nou: cititor PDF – deschide PDF-uri cu dublu clic, derulează toate paginile, caută (Ctrl+F), tipărește (Ctrl+P), copiază text. Citirea și tipărirea gratuite; crearea și modificarea fișierelor cu licență.",
+        "de": "Neu: PDF-Leser – PDFs per Doppelklick öffnen, alle Seiten scrollen, suchen (Strg+F), drucken (Strg+P), Text kopieren. Lesen und Drucken kostenlos; Erstellen und Ändern von Dateien mit Lizenz."
       }
     },
     {
