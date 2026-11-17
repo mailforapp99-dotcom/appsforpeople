@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T12:24:18Z",
+  "Updated": "2026-11-17T12:24:23Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -136,7 +136,7 @@
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Price": "5 zł / miesiąc",
       "Color": "#4FD1C5",
       "Featured": false,
@@ -156,16 +156,16 @@
         "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nMit PRO läuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
       },
       "Changelog": {
-        "pl": "Nowość: skróty klawiszowe (Ctrl+C, Ctrl+Z, F5, F1…), menu pod prawym przyciskiem myszy i samouczek „Pokaż mi” (F1).",
-        "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1).",
-        "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1).",
-        "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1)."
+        "pl": "Okno samo dopasowuje się do ekranu – na małych laptopach i przy powiększeniu 125–150% nic nie jest ucięte.",
+        "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
+        "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
+        "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
       },
-      "Date": "2026-11-16",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.1/Straznik.zip",
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.2/Straznik.zip",
       "FileName": "Straznik.zip",
-      "Sha256": "b6983ecd17a88445c97a6d21f0dc5cb570cadd8164473f8426da96e0a76e867c",
-      "Size": 164362,
+      "Sha256": "fafca2ed1b7012ec41bd753acf8cff2f68e56c6aa8640d131ee2602e38017b1f",
+      "Size": 164944,
       "Args": "",
       "UninstallName": "Strażnik",
       "Shots": [
