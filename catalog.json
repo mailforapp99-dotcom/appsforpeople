@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T12:36:21Z",
+  "Updated": "2026-11-17T12:36:28Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -271,13 +271,13 @@
       "Name": "Opiekun – komputer dziecka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.1",
+      "Version": "1.2.2",
       "Date": "2026-11-17",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.1/OpiekunDlaDziecka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.2/OpiekunDlaDziecka.zip",
       "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "872dab32f973b2ac19e180a318a15a0eebf9e4704b3123cc89933296905e413c",
-      "Size": 313258,
+      "Sha256": "5ababf2d751db676f2de88c98aa387822ef919bd11bb21234fcb54182a25692a",
+      "Size": 327032,
       "Args": null,
       "Launch": "Opiekun.exe",
       "UninstallName": null,
@@ -305,10 +305,10 @@
         "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Mit PRO steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
       },
       "Changelog": {
-        "pl": "Okno samo dopasowuje się do ekranu – na małych laptopach i przy powiększeniu 125–150% nic nie jest ucięte.",
-        "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
-        "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
-        "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
+        "pl": "Nowość: zakładka „Kontakt” – napiszesz do twórcy programu bezpośrednio z programu.",
+        "en": "New: a “Contact” tab – write to the developer straight from the program.",
+        "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
+        "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
       }
     },
     {
