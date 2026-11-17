@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T17:53:37Z",
+  "Updated": "2026-11-17T17:53:42Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -8,12 +8,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.1.0",
+      "Date": "2026-11-15",
+      "Type": "installer",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
+      "FileName": "Rdzen-Setup.exe",
+      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
+      "Size": 478208,
+      "Args": "",
+      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
+      "UninstallName": "Rdzeń",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/icon.png?v=639304091181387870",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#8FD3FF",
       "Featured": false,
-      "Type": "installer",
-      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/icon.png?v=639304091181387870",
+      "Hidden": false,
       "Tagline": {
         "pl": "Zobacz, co zjada Twój dysk – skanowanie, duplikaty, śmieci i ochrona w jednym miejscu.",
         "en": "See what\u0027s eating your disk – scanning, duplicates, junk and protection in one place.",
@@ -25,21 +39,7 @@
       },
       "Changelog": {
         "pl": "• Ostry obraz na ekranach 4K\n• Nowa sekcja Ochrona: wirusy, programy bez ikon, autostart, ukryte pliki\n• Pełna lista z podziałem na formaty przed usunięciem\n• Płatność przez PayPal"
-      },
-      "Date": "2026-11-15",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
-      "FileName": "Rdzen-Setup.exe",
-      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
-      "Size": 478208,
-      "Args": "",
-      "UninstallName": "Rdzeń",
-      "Shots": [
-        
-      ],
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Hidden": false
+      }
     },
     {
       "Id": "porzadek",
@@ -136,7 +136,7 @@
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.3",
+      "Version": "1.0.4",
       "Price": "5 zł / miesiąc",
       "Color": "#4FD1C5",
       "Featured": false,
@@ -156,16 +156,16 @@
         "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nMit PRO läuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
       },
       "Changelog": {
-        "pl": "Nowość: zakładka „Kontakt” – napiszesz do twórcy programu bezpośrednio z programu.",
-        "en": "New: a “Contact” tab – write to the developer straight from the program.",
-        "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
-        "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
+        "pl": "Czat z twórcą w zakładce Kontakt; zakup licencji online na appsforpeople.pl i automatyczne pobieranie kupionej licencji.",
+        "en": "Chat with the developer in the Contact tab; buy a licence online at appsforpeople.pl and the app downloads it automatically.",
+        "ro": "Chat cu dezvoltatorul în fila Contact; cumpărare licență online pe appsforpeople.pl și descărcare automată.",
+        "de": "Chat mit dem Entwickler im Reiter Kontakt; Lizenz online auf appsforpeople.pl kaufen, das Programm lädt sie automatisch."
       },
       "Date": "2026-11-17",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.3/Straznik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.4/Straznik.zip",
       "FileName": "Straznik.zip",
-      "Sha256": "3d0467b83fc1da594efc36f4130fae48c40ee5f9a1eb926fe45e45255a1fd568",
-      "Size": 171065,
+      "Sha256": "4574b3b7c99df6a2dbe1adee1e1be905180c518d2794010ddfcae7473ca67643",
+      "Size": 178938,
       "Args": "",
       "UninstallName": "Strażnik",
       "Shots": [
