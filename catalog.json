@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T12:24:28Z",
+  "Updated": "2026-11-17T12:24:33Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -8,12 +8,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.1.0",
+      "Date": "2026-11-15",
+      "Type": "installer",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
+      "FileName": "Rdzen-Setup.exe",
+      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
+      "Size": 478208,
+      "Args": "",
+      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
+      "UninstallName": "Rdzeń",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/icon.png?v=639304091181387870",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#8FD3FF",
       "Featured": false,
-      "Type": "installer",
-      "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rdzen/icon.png?v=639304091181387870",
+      "Hidden": false,
       "Tagline": {
         "pl": "Zobacz, co zjada Twój dysk – skanowanie, duplikaty, śmieci i ochrona w jednym miejscu.",
         "en": "See what\u0027s eating your disk – scanning, duplicates, junk and protection in one place.",
@@ -25,21 +39,7 @@
       },
       "Changelog": {
         "pl": "• Ostry obraz na ekranach 4K\n• Nowa sekcja Ochrona: wirusy, programy bez ikon, autostart, ukryte pliki\n• Pełna lista z podziałem na formaty przed usunięciem\n• Płatność przez PayPal"
-      },
-      "Date": "2026-11-15",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
-      "FileName": "Rdzen-Setup.exe",
-      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
-      "Size": 478208,
-      "Args": "",
-      "UninstallName": "Rdzeń",
-      "Shots": [
-        
-      ],
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Hidden": false
+      }
     },
     {
       "Id": "porzadek",
@@ -316,7 +316,7 @@
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.0",
+      "Version": "1.1.1",
       "Price": "Za darmo",
       "Color": "#FF7A6B",
       "Featured": false,
@@ -336,16 +336,16 @@
         "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja darmowej przeglądarki PDF.",
-        "en": "First release of the free PDF viewer.",
-        "ro": "Prima versiune a vizualizatorului PDF gratuit.",
-        "de": "Erste Version des kostenlosen PDF-Betrachters."
+        "pl": "Okno samo dopasowuje się do ekranu – na małych laptopach i przy powiększeniu 125–150% nic nie jest ucięte.",
+        "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
+        "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
+        "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
       },
       "Date": "2026-11-17",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.0/TeczkaPodglad.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.1/TeczkaPodglad.zip",
       "FileName": "TeczkaPodglad.zip",
-      "Sha256": "7b9f17210a7e0caa7f007d16f1cb5ce754fc9727e06d7cc9951aa0d4dfbf7283",
-      "Size": 4336919,
+      "Sha256": "286f6e641a7751f3789568f12c28f3f50ab68f45aeb94e4fae4197a698c4959a",
+      "Size": 4337731,
       "Args": null,
       "UninstallName": null,
       "Shots": [
