@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T12:36:39Z",
+  "Updated": "2026-11-17T12:36:44Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -226,13 +226,13 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.1",
+      "Version": "1.1.2",
       "Date": "2026-11-17",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.1/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.2/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "5b3b88f52ee93d5a2ba63a2a6f813f70231940fa13b21983880f53bc3a9929c8",
-      "Size": 4338498,
+      "Sha256": "239ccd2c3c0cbad42812b05fa4ed387b5b0f9e689f6b9e94104a00cca1f386e1",
+      "Size": 4345119,
       "Args": "",
       "Launch": "Teczka.exe",
       "UninstallName": "",
@@ -260,10 +260,10 @@
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
-        "pl": "Okno samo dopasowuje się do ekranu – na małych laptopach i przy powiększeniu 125–150% nic nie jest ucięte.",
-        "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
-        "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
-        "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
+        "pl": "Nowość: zakładka „Kontakt” – napiszesz do twórcy programu bezpośrednio z programu.",
+        "en": "New: a “Contact” tab – write to the developer straight from the program.",
+        "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
+        "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
       }
     },
     {
