@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-16T10:40:11Z",
+  "Updated": "2026-11-17T06:42:47Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -91,13 +91,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.1.0",
-      "Date": "2026-11-16",
+      "Version": "1.2.0",
+      "Date": "2026-11-17",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.1.0/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.0/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "c39f5eb3965d66b7f47a7b8953bd007ca0b6675e4d6d4acaf9d46cd65c4adcca",
-      "Size": 306180,
+      "Sha256": "31974be6f394f191c263627bacf63f37a1d36b589c4c51844eac7670eb21055f",
+      "Size": 312883,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -125,10 +125,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Nowość: skróty klawiszowe (Ctrl+C, Ctrl+Z, F5, F1…), menu pod prawym przyciskiem myszy i samouczek „Pokaż mi” (F1). Sterowanie komputerem dziecka z Twojego komputera w sieci domowej (PRO), przycisk „Zakończ czas teraz”, PIN przechowywany w pliku niedostępnym dla dziecka.",
-        "en": "New: keyboard shortcuts (Ctrl+C, Ctrl+Z, F5, F1…), right-click menus and a “Show me” tutorial (F1). Control your child\u0027s computer from your own computer on the home network (PRO), an “End time now” button, the PIN is stored in a file your child cannot read.",
-        "ro": "Nou: scurtături de tastatură (Ctrl+C, Ctrl+Z, F5, F1…), meniuri la clic dreapta și tutorial „Arată-mi” (F1). Controlul calculatorului copilului de pe calculatorul tău în rețeaua de acasă (PRO), butonul „Încheie timpul acum”, PIN-ul păstrat într-un fișier inaccesibil copilului.",
-        "de": "Neu: Tastenkürzel (Strg+C, Strg+Z, F5, F1…), Rechtsklick-Menüs und ein „Zeig es mir“-Tutorial (F1). Kindercomputer vom eigenen Computer im Heimnetz steuern (PRO), Button „Zeit jetzt beenden“, die PIN liegt in einer für das Kind unlesbaren Datei."
+        "pl": "Nowość: osobny instalator dla komputera dziecka (przycisk „Zapisz do folderu Pobrane” w zakładce Komputery dzieci), odinstalowanie tylko z PIN-em rodzica – także z „Aplikacji i funkcji”, alarm w panelu rodzica, gdy ktoś wyłączy ochronę, ostrzeżenie o koncie dziecka z prawami administratora.",
+        "en": "New: a separate installer for the child\u0027s computer (“Save to Downloads” in Children\u0027s computers), uninstalling only with the parent PIN – also from “Apps \u0026 features”, an alert in the parent panel when someone switches protection off, a warning about child accounts with administrator rights.",
+        "ro": "Nou: instalator separat pentru calculatorul copilului („Salvează în Descărcări” la Calculatoarele copiilor), dezinstalare doar cu PIN-ul de părinte – și din „Aplicații și caracteristici”, alertă în panoul părintelui când cineva oprește protecția, avertizare pentru conturile copiilor cu drepturi de administrator.",
+        "de": "Neu: separater Installer für den Kindercomputer („In Downloads speichern“ unter Computer der Kinder), Deinstallation nur mit Eltern-PIN – auch über „Apps \u0026 Features“, Warnung im Elternpanel, wenn jemand den Schutz abschaltet, Hinweis auf Kinderkonten mit Administratorrechten."
       }
     },
     {
