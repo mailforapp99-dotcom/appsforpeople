@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T12:32:30Z",
+  "Updated": "2026-11-17T12:36:16Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -47,26 +47,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.2",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.2/Porzadek.zip",
-      "FileName": "Porzadek.zip",
-      "Sha256": "53f7e1c0dfe21c30d1a9ed6ad85bea6382fb594c5c5b21fafd3d4bf1efbfec33",
-      "Size": 142807,
-      "Args": "",
-      "Launch": "Porzadek.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#F2B544",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Porzadek.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
       "Tagline": {
         "pl": "Sam układa bałagan w folderze Pobrane – dokumenty, zdjęcia i instalatory trafiają na swoje miejsce.",
         "en": "Tidies your messy Downloads folder – documents, photos and installers go where they belong.",
@@ -84,7 +70,21 @@
         "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
         "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
         "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.2/Porzadek.zip",
+      "FileName": "Porzadek.zip",
+      "Sha256": "53f7e1c0dfe21c30d1a9ed6ad85bea6382fb594c5c5b21fafd3d4bf1efbfec33",
+      "Size": 142807,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "opiekun",
@@ -92,26 +92,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.1",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.1/Opiekun.zip",
-      "FileName": "Opiekun.zip",
-      "Sha256": "2b334166c177d71448ffaadd6d505841d516514312a24463e6b3e9822043824d",
-      "Size": 313607,
-      "Args": "",
-      "Launch": "Opiekun.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#A78BFA",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Opiekun.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
       "Tagline": {
         "pl": "Uczciwa kontrola rodzicielska: limity czasu przy komputerze, dozwolone godziny i prośby o więcej czasu.",
         "en": "Fair parental control: computer time limits, allowed hours and requests for extra time.",
@@ -129,7 +115,21 @@
         "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
         "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
         "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.1/Opiekun.zip",
+      "FileName": "Opiekun.zip",
+      "Sha256": "2b334166c177d71448ffaadd6d505841d516514312a24463e6b3e9822043824d",
+      "Size": 313607,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "straznik",
@@ -137,26 +137,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.2",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.2/Straznik.zip",
-      "FileName": "Straznik.zip",
-      "Sha256": "fafca2ed1b7012ec41bd753acf8cff2f68e56c6aa8640d131ee2602e38017b1f",
-      "Size": 164944,
-      "Args": "",
-      "Launch": "Straznik.exe",
-      "UninstallName": "Strażnik",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#4FD1C5",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Straznik.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
         "en": "Watches your disks\u0027 health and warns you before you lose your photos and files.",
@@ -174,34 +160,34 @@
         "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
         "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
         "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.2/Straznik.zip",
+      "FileName": "Straznik.zip",
+      "Sha256": "fafca2ed1b7012ec41bd753acf8cff2f68e56c6aa8640d131ee2602e38017b1f",
+      "Size": 164944,
+      "Args": "",
+      "UninstallName": "Strażnik",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "lacze",
       "Name": "Łącze",
       "Publisher": "AppsForPeople",
       "Category": "Internet",
-      "Version": "1.0.2",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.2/Lacze.zip",
-      "FileName": "Lacze.zip",
-      "Sha256": "ab36100d90efbd79cecf3f73289efc947ce136656e7493d0ec21119ec5b80a87",
-      "Size": 166151,
-      "Args": "",
-      "Launch": "Lacze.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
-      "Shots": [
-        
-      ],
+      "Version": "1.0.3",
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#5AA9FF",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Lacze.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
       "Tagline": {
         "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
         "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
@@ -215,11 +201,25 @@
         "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
       },
       "Changelog": {
-        "pl": "Okno samo dopasowuje się do ekranu – na małych laptopach i przy powiększeniu 125–150% nic nie jest ucięte.",
-        "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
-        "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
-        "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+        "pl": "Nowość: zakładka „Kontakt” – napiszesz do twórcy programu bezpośrednio z programu.",
+        "en": "New: a “Contact” tab – write to the developer straight from the program.",
+        "ro": "Nou: fila „Contact” – scrii dezvoltatorului direct din program.",
+        "de": "Neu: Reiter „Kontakt“ – direkt aus dem Programm an den Entwickler schreiben."
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.3/Lacze.zip",
+      "FileName": "Lacze.zip",
+      "Sha256": "d121a0ef7f48e8bcf1db188f1291a1966e611cd028af5372e84b09a61627c6f3",
+      "Size": 172219,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "teczka",
@@ -227,26 +227,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.1",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.1/Teczka.zip",
-      "FileName": "Teczka.zip",
-      "Sha256": "5b3b88f52ee93d5a2ba63a2a6f813f70231940fa13b21983880f53bc3a9929c8",
-      "Size": 4338498,
-      "Args": "",
-      "Launch": "Teczka.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#FF7A6B",
       "Featured": true,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Teczka.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
       "Tagline": {
         "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
         "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
@@ -264,7 +250,21 @@
         "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
         "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
         "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.1/Teczka.zip",
+      "FileName": "Teczka.zip",
+      "Sha256": "5b3b88f52ee93d5a2ba63a2a6f813f70231940fa13b21983880f53bc3a9929c8",
+      "Size": 4338498,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "opiekun-dziecko",
@@ -272,26 +272,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.1",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.1/OpiekunDlaDziecka.zip",
-      "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "872dab32f973b2ac19e180a318a15a0eebf9e4704b3123cc89933296905e413c",
-      "Size": 313258,
-      "Args": null,
-      "Launch": "Opiekun.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#C4B5FD",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Opiekun.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
       "Tagline": {
         "pl": "Instalator Opiekuna na komputer dziecka – limity czasu, prośby i sterowanie z komputera rodzica.",
         "en": "Opiekun installer for your child\u0027s computer – time limits, requests and control from the parent\u0027s computer.",
@@ -309,7 +295,21 @@
         "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
         "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
         "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.1/OpiekunDlaDziecka.zip",
+      "FileName": "OpiekunDlaDziecka.zip",
+      "Sha256": "872dab32f973b2ac19e180a318a15a0eebf9e4704b3123cc89933296905e413c",
+      "Size": 313258,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "teczka-podglad",
@@ -317,26 +317,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.1",
-      "Date": "2026-11-17",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.1/TeczkaPodglad.zip",
-      "FileName": "TeczkaPodglad.zip",
-      "Sha256": "286f6e641a7751f3789568f12c28f3f50ab68f45aeb94e4fae4197a698c4959a",
-      "Size": 4337731,
-      "Args": null,
-      "Launch": "TeczkaPodglad.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
-      "Shots": [
-        
-      ],
       "Price": "Za darmo",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#FF7A6B",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "TeczkaPodglad.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Tagline": {
         "pl": "Darmowy, szybki czytnik PDF: czytaj, szukaj, drukuj – bez reklam i bez wysyłania plików.",
         "en": "A free, fast PDF reader: read, search, print – no ads, no uploads.",
@@ -354,7 +340,21 @@
         "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
         "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
         "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
-      }
+      },
+      "Date": "2026-11-17",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.1/TeczkaPodglad.zip",
+      "FileName": "TeczkaPodglad.zip",
+      "Sha256": "286f6e641a7751f3789568f12c28f3f50ab68f45aeb94e4fae4197a698c4959a",
+      "Size": 4337731,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     }
   ],
   "Launcher": {
