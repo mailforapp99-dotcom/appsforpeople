@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-17T12:24:03Z",
+  "Updated": "2026-11-17T12:24:08Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -91,13 +91,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.0",
+      "Version": "1.2.1",
       "Date": "2026-11-17",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.0/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.1/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "31974be6f394f191c263627bacf63f37a1d36b589c4c51844eac7670eb21055f",
-      "Size": 312883,
+      "Sha256": "2b334166c177d71448ffaadd6d505841d516514312a24463e6b3e9822043824d",
+      "Size": 313607,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -125,10 +125,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Nowość: osobny instalator dla komputera dziecka (przycisk „Zapisz do folderu Pobrane” w zakładce Komputery dzieci), odinstalowanie tylko z PIN-em rodzica – także z „Aplikacji i funkcji”, alarm w panelu rodzica, gdy ktoś wyłączy ochronę, ostrzeżenie o koncie dziecka z prawami administratora.",
-        "en": "New: a separate installer for the child\u0027s computer (“Save to Downloads” in Children\u0027s computers), uninstalling only with the parent PIN – also from “Apps \u0026 features”, an alert in the parent panel when someone switches protection off, a warning about child accounts with administrator rights.",
-        "ro": "Nou: instalator separat pentru calculatorul copilului („Salvează în Descărcări” la Calculatoarele copiilor), dezinstalare doar cu PIN-ul de părinte – și din „Aplicații și caracteristici”, alertă în panoul părintelui când cineva oprește protecția, avertizare pentru conturile copiilor cu drepturi de administrator.",
-        "de": "Neu: separater Installer für den Kindercomputer („In Downloads speichern“ unter Computer der Kinder), Deinstallation nur mit Eltern-PIN – auch über „Apps \u0026 Features“, Warnung im Elternpanel, wenn jemand den Schutz abschaltet, Hinweis auf Kinderkonten mit Administratorrechten."
+        "pl": "Okno samo dopasowuje się do ekranu – na małych laptopach i przy powiększeniu 125–150% nic nie jest ucięte.",
+        "en": "The window now fits your screen automatically – nothing is cut off on small laptops or at 125–150% scaling.",
+        "ro": "Fereastra se potrivește automat ecranului – nimic nu mai este tăiat pe laptopuri mici sau la scalare 125–150%.",
+        "de": "Das Fenster passt sich automatisch dem Bildschirm an – auf kleinen Laptops und bei 125–150 % Skalierung wird nichts abgeschnitten."
       }
     },
     {
