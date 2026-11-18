@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:04:28Z",
+  "Updated": "2026-11-18T22:05:34Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -70,6 +70,9 @@
       "Color": "#F2B544",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Sam układa bałagan w folderze Pobrane – dokumenty, zdjęcia i instalatory trafiają na swoje miejsce.",
         "en": "Tidies your messy Downloads folder – documents, photos and installers go where they belong.",
@@ -87,9 +90,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -118,6 +118,9 @@
       "Color": "#A78BFA",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Uczciwa kontrola rodzicielska: limity czasu przy komputerze, dozwolone godziny i prośby o więcej czasu.",
         "en": "Fair parental control: computer time limits, allowed hours and requests for extra time.",
@@ -135,9 +138,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -166,6 +166,9 @@
       "Color": "#4FD1C5",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
         "en": "Watches your disks\u0027 health and warns you before you lose your photos and files.",
@@ -183,9 +186,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -214,6 +214,9 @@
       "Color": "#5AA9FF",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
         "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
@@ -231,9 +234,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -262,6 +262,9 @@
       "Color": "#FF7A6B",
       "Featured": true,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
         "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
@@ -279,9 +282,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -310,6 +310,9 @@
       "Color": "#C4B5FD",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Instalator Opiekuna na komputer dziecka – limity czasu, prośby i sterowanie z komputera rodzica.",
         "en": "Opiekun installer for your child\u0027s computer – time limits, requests and control from the parent\u0027s computer.",
@@ -327,9 +330,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -358,6 +358,9 @@
       "Color": "#FF7A6B",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Darmowy, szybki czytnik PDF: czytaj, szukaj, drukuj – bez reklam i bez wysyłania plików.",
         "en": "A free, fast PDF reader: read, search, print – no ads, no uploads.",
@@ -375,9 +378,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -406,6 +406,9 @@
       "Color": "#A78BFA",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Dochody, opłaty i ile naprawdę zostaje w miesiącu – z podziałem rachunków i listą, kto ma Ci oddać.",
         "en": "Income, bills and what\u0027s really left each month – with shared bills and a list of who owes you.",
@@ -423,9 +426,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -454,6 +454,9 @@
       "Color": "#F59E6B",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Przegląd auta, OC, dowód, paszport, wizyty – przypomni Ci na czas, zanim zapłacisz karę.",
         "en": "Car inspection, insurance, ID, passport, appointments – reminds you in time, before you pay a penalty.",
@@ -471,9 +474,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -481,13 +481,13 @@
       "Name": "Auto",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.1/Auto.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.2/Auto.zip",
       "FileName": "Auto.zip",
-      "Sha256": "27f9d6f86615bf2db5a3986b41d419c8efc7bf97d8a86dd5d11c65a5aab8dd3d",
-      "Size": 164542,
+      "Sha256": "5f308b00c708a187a5b841017108bec1ab256c5260cf158eb730b5fec2ae03bf",
+      "Size": 164867,
       "Args": null,
       "Launch": "Auto.exe",
       "UninstallName": null,
@@ -502,6 +502,12 @@
       "Color": "#FB923C",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        "pl": "Auto",
+        "en": "Car",
+        "ro": "Mașina",
+        "de": "Auto"
+      },
       "Tagline": {
         "pl": "Tankowania, spalanie i koszt kilometra – a w PRO serwisy, OC, przegląd i historia PDF.",
         "en": "Refuels, consumption and cost per km – with PRO: service, insurance, inspection and PDF history.",
@@ -515,13 +521,10 @@
         "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nMit PRO: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
@@ -550,6 +553,9 @@
       "Color": "#38BDF8",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Kalkulator automatyka: 4–20 mA, wartości PLC, PT100, prąd silnika, przekrój przewodu.",
         "en": "Automation calculator: 4–20 mA, PLC raw values, PT100, motor current, cable sizing.",
@@ -567,9 +573,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -598,6 +601,9 @@
       "Color": "#4FD1C5",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Ewidencja czasu pracy: start/stop, projekty i zestawienie PDF dla klienta.",
         "en": "Time tracking: start/stop, projects and a PDF summary for the client.",
@@ -615,9 +621,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -646,6 +649,9 @@
       "Color": "#34D399",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Prąd, gaz, woda: odczyty, zużycie i koszt – alarm, gdy zużycie nagle skoczy.",
         "en": "Power, gas, water: readings, usage and cost – an alarm when usage suddenly jumps.",
@@ -663,9 +669,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -694,6 +697,9 @@
       "Color": "#7AA2FF",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Generator pism: reklamacja, odstąpienie, wypowiedzenie, wezwanie do zapłaty – z logo, do PDF.",
         "en": "Letter generator: complaints, withdrawals, terminations, payment demands – with your logo, to PDF.",
@@ -711,9 +717,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -742,6 +745,9 @@
       "Color": "#A3E635",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Dla programistów: który program zajmuje port, zamknięcie procesu i edytor PATH.",
         "en": "For developers: which program holds a port, end the process, PATH editor.",
@@ -759,9 +765,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -790,6 +793,9 @@
       "Color": "#F472B6",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Układy współrzędnych robotów: KUKA ABC ↔ ABB kwaternion ↔ Fanuc WPR, base i TCP.",
         "en": "Robot frames: KUKA ABC ↔ ABB quaternion ↔ Fanuc WPR, base and TCP.",
@@ -807,9 +813,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -838,6 +841,9 @@
       "Color": "#C084FC",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Historia schowka: wszystko, co kopiujesz, z szukaniem od 2 liter.",
         "en": "Clipboard history: everything you copy, searchable from 2 letters.",
@@ -855,9 +861,6 @@
         "en": "History encryption is now on by default and free. Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Criptarea istoricului este acum activă implicit și gratuită. Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Die Verlaufsverschlüsselung ist jetzt standardmäßig aktiv und kostenlos. Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -886,6 +889,9 @@
       "Color": "#FACC15",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Nauka przez zabawę dla dzieci: tabliczka mnożenia, dodawanie, odejmowanie, ortografia.",
         "en": "Learning through play: times tables, addition, subtraction and Polish spelling.",
@@ -903,9 +909,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -934,6 +937,9 @@
       "Color": "#FB7185",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Zrzut ekranu ze strzałkami i tekstem, zamazywanie danych i instrukcje krok po kroku w PDF.",
         "en": "Screenshots with arrows and text, data blurring and step-by-step PDF guides.",
@@ -951,9 +957,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -982,6 +985,9 @@
       "Color": "#60A5FA",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Ewidencja przebiegu pojazdu: trasy, cele, kierowca – wydruk miesięczny dla księgowej.",
         "en": "Vehicle mileage log: trips, purposes, driver – monthly printout for your accountant.",
@@ -999,9 +1005,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -1030,6 +1033,9 @@
       "Color": "#F87171",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Dla wynajmujących: czynsze, wpłaty, zaległości i kaucje – zestawienie roczne dla księgowej.",
         "en": "For landlords: rent, payments, arrears and deposits – yearly summary for your accountant.",
@@ -1047,9 +1053,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -1078,6 +1081,9 @@
       "Color": "#FBBF24",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Protokoły pomiarów elektrycznych: pętla zwarcia, izolacja, RCD – z automatyczną oceną i PDF.",
         "en": "Electrical test reports: loop impedance, insulation, RCD – automatic verdict and PDF.",
@@ -1095,9 +1101,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     },
     {
@@ -1126,6 +1129,9 @@
       "Color": "#2DD4BF",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Protokół serwisowy z podpisem klienta na ekranie: prace, części, czas – gotowy PDF po wizycie.",
         "en": "Service report with the client\u0027s on-screen signature: work, parts, time – PDF right after the visit.",
@@ -1143,9 +1149,6 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      },
-      "Names": {
-        
       }
     }
   ],
