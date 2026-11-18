@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:21:54Z",
+  "Updated": "2026-11-18T09:21:59Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -316,13 +316,13 @@
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.4",
+      "Version": "1.1.5",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.4/TeczkaPodglad.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.5/TeczkaPodglad.zip",
       "FileName": "TeczkaPodglad.zip",
-      "Sha256": "0c94845b3ea52c911555e87d321c6d808eb628dd4fbffdd18937d82be637aaf1",
-      "Size": 4352162,
+      "Sha256": "e897ad25ce051470752cb62e16b7446c6f6e2c56807a436e7f550e7996a5d88c",
+      "Size": 4356060,
       "Args": null,
       "Launch": "TeczkaPodglad.exe",
       "UninstallName": null,
@@ -350,10 +350,10 @@
         "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
       },
       "Changelog": {
-        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
-        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
-        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
-        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
+        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
+        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
+        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
+        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
       }
     }
   ],
