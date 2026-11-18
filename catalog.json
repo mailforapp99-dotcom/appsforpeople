@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T18:28:09Z",
+  "Updated": "2026-11-18T18:54:54Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -393,6 +393,51 @@
         "en": "Rachunki is a simple home budget. Add your income (employment, mandate contract, B2B or other) and bills one by one: rent, electricity, loans, subscriptions. The program instantly shows what\u0027s left after bills, what is still unpaid and what is overdue. Two letters of a name are enough – Rachunki suggests earlier entries with their amounts. The list can be searched from 2 letters, and the “Whole year” page shows every month in one table.\n\nWith PRO you can share bills with others (e.g. a flatmate pays 50% of the rent) and see who owes you how much and whether they have paid back. Recurring bills move to a new month with one click, and you can export your data to Excel. Everything stays on your computer – the program never connects to your bank or any service.",
         "ro": "Rachunki este un buget casnic simplu. Adaugi pe rând veniturile (contract de muncă, contract de mandat, B2B sau altele) și facturile: chirie, curent, rate, abonamente. Programul arată imediat cât rămâne după plăți, ce mai e de plătit și ce e restant. Două litere din nume sunt suficiente – Rachunki sugerează intrările anterioare cu sumele lor. Lista se caută de la 2 litere, iar pagina „Tot anul” arată toate lunile într-un singur tabel.\n\nCu PRO împarți facturile cu alții (ex. colegul plătește 50% din chirie) și vezi cine cât îți datorează și dacă a returnat. Facturile fixe se copiază în luna nouă cu un clic, iar datele se exportă în Excel. Totul rămâne pe calculatorul tău – programul nu se conectează la bancă sau la vreun serviciu.",
         "de": "Rachunki ist ein einfaches Haushaltsbuch. Du trägst nacheinander Einnahmen (Arbeitsvertrag, Auftrag, B2B oder Sonstiges) und Rechnungen ein: Miete, Strom, Raten, Abos. Das Programm zeigt sofort, was nach den Rechnungen übrig bleibt, was noch offen und was überfällig ist. Zwei Buchstaben reichen – Rachunki schlägt frühere Einträge mit Betrag vor. Die Liste ist ab 2 Buchstaben durchsuchbar, die Seite „Ganzes Jahr“ zeigt alle Monate in einer Tabelle.\n\nMit PRO teilst du Rechnungen mit anderen (z. B. zahlt der Mitbewohner 50 % der Miete) und siehst, wer dir wie viel schuldet und ob schon zurückgezahlt wurde. Feste Rechnungen übernimmst du mit einem Klick in den neuen Monat, und die Daten lassen sich nach Excel exportieren. Alles bleibt auf deinem Computer – das Programm verbindet sich weder mit der Bank noch mit einem Dienst."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "terminy",
+      "Name": "Terminy",
+      "Publisher": "AppsForPeople",
+      "Category": "Dom",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.0/Terminy.zip",
+      "FileName": "Terminy.zip",
+      "Sha256": "d1e40ca3c857cf86773933e1c220b5efa9f6ad73dcd8d54357904ed86896f204",
+      "Size": 130919,
+      "Args": null,
+      "Launch": "Terminy.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/icon.png?v=639306248913972063",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#F59E6B",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Przegląd auta, OC, dowód, paszport, wizyty – przypomni Ci na czas, zanim zapłacisz karę.",
+        "en": "Car inspection, insurance, ID, passport, appointments – reminds you in time, before you pay a penalty.",
+        "ro": "Inspecția mașinii, asigurare, buletin, pașaport, programări – îți amintește la timp, înainte de amendă.",
+        "de": "TÜV, Versicherung, Ausweis, Reisepass, Arzttermine – erinnert dich rechtzeitig, bevor Strafe fällig wird."
+      },
+      "Description": {
+        "pl": "Terminy zbierają w jednym miejscu wszystkie ważne daty całej rodziny: przegląd i OC samochodu, ważność dowodu i paszportu, wizyty u lekarza, opłaty roczne i szkolne sprawy. Lista od razu pokazuje, co jest po terminie (na czerwono), co się zbliża (na żółto) i ile dni zostało. Przy otwarciu programu dostaniesz przypomnienie o tym, co pilne. Szukanie działa od 2 liter.\n\nW wersji PRO Terminy przypominają w tle – dymkiem przy zegarze, nawet gdy program jest zamknięty. Terminy powtarzalne (co miesiąc, co rok) po oznaczeniu jako zrobione same przechodzą na następny raz. Bez limitu terminów, a inne programy AppsForPeople (Auto, Pisma, Liczniki) mogą same dopisywać tu daty. Jedna przegapiona kara za brak OC kosztuje więcej niż kilka lat licencji.",
+        "en": "Terminy keeps all your family\u0027s important dates in one place: car inspection and insurance, ID and passport expiry, doctor\u0027s appointments, yearly fees and school matters. The list instantly shows what is overdue (red), what is coming up (yellow) and how many days are left. When you open the program you get a reminder of anything urgent. Search works from 2 letters.\n\nWith PRO, Terminy reminds you in the background – with a notification near the clock, even when the program is closed. Repeating dates (monthly, yearly) move to the next time automatically once marked as done. No limit on dates, and other AppsForPeople programs (Auto, Pisma, Liczniki) can add dates here themselves.",
+        "ro": "Terminy adună într-un singur loc toate datele importante ale familiei: inspecția și asigurarea mașinii, valabilitatea buletinului și pașaportului, programările la medic, taxele anuale și treburile școlare. Lista arată imediat ce e restant (roșu), ce se apropie (galben) și câte zile au rămas. La deschiderea programului primești un memento pentru ce e urgent. Căutarea merge de la 2 litere.\n\nCu PRO, Terminy îți amintește în fundal – cu o notificare lângă ceas, chiar și cu programul închis. Termenele repetate (lunar, anual) trec automat la următoarea dată după ce le marchezi ca rezolvate. Fără limită de termene, iar alte programe AppsForPeople pot adăuga singure date aici.",
+        "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
