@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:06:51Z",
+  "Updated": "2026-11-18T22:06:56Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -853,13 +853,13 @@
       "Name": "Schowek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.1/Schowek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.2/Schowek.zip",
       "FileName": "Schowek.zip",
-      "Sha256": "8f75a1d59341033d6c23f1e9e8c9b68dc62e704072f06f4700aefd2b512058aa",
-      "Size": 148815,
+      "Sha256": "1cb947b9923ef11a8c96b7356204c77dd4f3b2417afa9dca9a1094e2b6a9004f",
+      "Size": 149017,
       "Args": null,
       "Launch": "Schowek.exe",
       "UninstallName": null,
@@ -875,7 +875,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Schowek",
+        "en": "Clipboard",
+        "ro": "Clipboard",
+        "de": "Zwischenablage"
       },
       "Tagline": {
         "pl": "Historia schowka: wszystko, co kopiujesz, z szukaniem od 2 liter.",
@@ -890,10 +893,10 @@
         "de": "Schowek merkt sich kopierte Texte; der Verlauf wird verschlüsselt; kostenlos die letzten 25.\n\nMit PRO: bis 1000 Einträge, angeheftete Texte, Bilder und Strg+Umschalt+V."
       },
       "Changelog": {
-        "pl": "Szyfrowanie historii jest teraz włączone domyślnie i darmowe. Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "History encryption is now on by default and free. Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Criptarea istoricului este acum activă implicit și gratuită. Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Die Verlaufsverschlüsselung ist jetzt standardmäßig aktiv und kostenlos. Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
