@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:28:57Z",
+  "Updated": "2026-11-18T21:36:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -451,13 +451,13 @@
       "Name": "Auto",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.0/Auto.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.1/Auto.zip",
       "FileName": "Auto.zip",
-      "Sha256": "8d7ce1e69ece344831477834dd5b6d2ab98e227f189e8a4e5b8704b3c6d0d46b",
-      "Size": 162646,
+      "Sha256": "27f9d6f86615bf2db5a3986b41d419c8efc7bf97d8a86dd5d11c65a5aab8dd3d",
+      "Size": 164542,
       "Args": null,
       "Launch": "Auto.exe",
       "UninstallName": null,
@@ -485,10 +485,10 @@
         "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nMit PRO: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
