@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:28:45Z",
+  "Updated": "2026-11-18T19:28:51Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -226,13 +226,13 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.5",
+      "Version": "1.1.6",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.5/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.6/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "f59ffa0a32206dd1dc251282a0a0437a8449e7baee00e11c1ef72858a3d0cf57",
-      "Size": 4356828,
+      "Sha256": "f268a4b9a8f2352b036ac373b79923ec6b27e07e4b4b75f8bc27d62b136de166",
+      "Size": 4356839,
       "Args": "",
       "Launch": "Teczka.exe",
       "UninstallName": "",
@@ -240,7 +240,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "9 zł / miesiąc",
       "Website": "",
       "Page": null,
       "BuyUrl": "",
@@ -260,10 +260,10 @@
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
-        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
-        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
-        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
-        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
+        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
+        "en": "New PRO price matching the appsforpeople.pl shop.",
+        "ro": "Preț PRO nou, conform magazinului.",
+        "de": "Neuer PRO-Preis wie im Shop."
       }
     },
     {
