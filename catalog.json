@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:38:35Z",
+  "Updated": "2026-11-18T21:38:41Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -406,13 +406,13 @@
       "Name": "Terminy",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.0/Terminy.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.1/Terminy.zip",
       "FileName": "Terminy.zip",
-      "Sha256": "d1e40ca3c857cf86773933e1c220b5efa9f6ad73dcd8d54357904ed86896f204",
-      "Size": 130919,
+      "Sha256": "43809ba02b0445093adaf9d691b4db936acd8a96edb5d1fd0723269238601756",
+      "Size": 132928,
       "Args": null,
       "Launch": "Terminy.exe",
       "UninstallName": null,
@@ -440,10 +440,10 @@
         "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
