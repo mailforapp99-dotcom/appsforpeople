@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:21:59Z",
+  "Updated": "2026-11-18T18:05:45Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -354,6 +354,51 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
+      }
+    },
+    {
+      "Id": "rachunki",
+      "Name": "Rachunki",
+      "Publisher": "AppsForPeople",
+      "Category": "Finanse",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rachunki-v1.0.0/Rachunki.zip",
+      "FileName": "Rachunki.zip",
+      "Sha256": "63cef15c347ee338b6898a238310dbdbb3f6e38c947ac981bffb92f4f7d82fbd",
+      "Size": 155898,
+      "Args": null,
+      "Launch": "Rachunki.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/icon.png?v=639306219420944148",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#A78BFA",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Dochody, opłaty i ile naprawdę zostaje w miesiącu – z podziałem rachunków i listą, kto ma Ci oddać.",
+        "en": "Income, bills and what\u0027s really left each month – with shared bills and a list of who owes you.",
+        "ro": "Venituri, facturi și cât rămâne de fapt în fiecare lună – cu facturi împărțite și lista celor care îți datorează.",
+        "de": "Einnahmen, Rechnungen und was jeden Monat wirklich übrig bleibt – mit geteilten Rechnungen und Liste, wer dir schuldet."
+      },
+      "Description": {
+        "pl": "Rachunki to prosty domowy budżet. Dodajesz po kolei dochody (umowa o pracę, zlecenie, B2B albo inne) i opłaty: czynsz, prąd, raty, subskrypcje. Program od razu pokazuje, ile zostaje po opłatach, co jeszcze trzeba zapłacić i co jest po terminie. Przy wpisywaniu nazwy wystarczą 2 litery – Rachunki podpowiedzą wcześniejsze wpisy razem z kwotą. Lista ma wyszukiwanie od 2 liter, a strona „Cały rok” pokazuje wszystkie miesiące w jednej tabeli.\n\nW wersji PRO dzielisz rachunki z innymi (np. 50% czynszu płaci współlokator) i od razu widzisz, kto ile ma Ci oddać i czy już oddał. Stałe opłaty przenosisz na nowy miesiąc jednym kliknięciem, a dane eksportujesz do Excela. Wszystko zostaje na Twoim komputerze – program nie łączy się z bankiem ani z żadnym serwisem.",
+        "en": "Rachunki is a simple home budget. Add your income (employment, mandate contract, B2B or other) and bills one by one: rent, electricity, loans, subscriptions. The program instantly shows what\u0027s left after bills, what is still unpaid and what is overdue. Two letters of a name are enough – Rachunki suggests earlier entries with their amounts. The list can be searched from 2 letters, and the “Whole year” page shows every month in one table.\n\nWith PRO you can share bills with others (e.g. a flatmate pays 50% of the rent) and see who owes you how much and whether they have paid back. Recurring bills move to a new month with one click, and you can export your data to Excel. Everything stays on your computer – the program never connects to your bank or any service.",
+        "ro": "Rachunki este un buget casnic simplu. Adaugi pe rând veniturile (contract de muncă, contract de mandat, B2B sau altele) și facturile: chirie, curent, rate, abonamente. Programul arată imediat cât rămâne după plăți, ce mai e de plătit și ce e restant. Două litere din nume sunt suficiente – Rachunki sugerează intrările anterioare cu sumele lor. Lista se caută de la 2 litere, iar pagina „Tot anul” arată toate lunile într-un singur tabel.\n\nCu PRO împarți facturile cu alții (ex. colegul plătește 50% din chirie) și vezi cine cât îți datorează și dacă a returnat. Facturile fixe se copiază în luna nouă cu un clic, iar datele se exportă în Excel. Totul rămâne pe calculatorul tău – programul nu se conectează la bancă sau la vreun serviciu.",
+        "de": "Rachunki ist ein einfaches Haushaltsbuch. Du trägst nacheinander Einnahmen (Arbeitsvertrag, Auftrag, B2B oder Sonstiges) und Rechnungen ein: Miete, Strom, Raten, Abos. Das Programm zeigt sofort, was nach den Rechnungen übrig bleibt, was noch offen und was überfällig ist. Zwei Buchstaben reichen – Rachunki schlägt frühere Einträge mit Betrag vor. Die Liste ist ab 2 Buchstaben durchsuchbar, die Seite „Ganzes Jahr“ zeigt alle Monate in einer Tabelle.\n\nMit PRO teilst du Rechnungen mit anderen (z. B. zahlt der Mitbewohner 50 % der Miete) und siehst, wer dir wie viel schuldet und ob schon zurückgezahlt wurde. Feste Rechnungen übernimmst du mit einem Klick in den neuen Monat, und die Daten lassen sich nach Excel exportieren. Alles bleibt auf deinem Computer – das Programm verbindet sich weder mit der Bank noch mit einem Dienst."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
       }
     }
   ],
