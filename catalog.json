@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:37:46Z",
+  "Updated": "2026-11-18T21:37:52Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -46,13 +46,13 @@
       "Name": "Porządek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.6/Porzadek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.7/Porzadek.zip",
       "FileName": "Porzadek.zip",
-      "Sha256": "a38684e0ff392aae687108e009e61414391386fa07a3e07f30f477c950fe6882",
-      "Size": 161616,
+      "Sha256": "e43ed5e2f92916cb04f0e52103c6bb9110f76141ae860b99f7a703e75930e524",
+      "Size": 163412,
       "Args": "",
       "Launch": "Porzadek.exe",
       "UninstallName": "",
@@ -80,10 +80,10 @@
         "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nMit PRO arbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
       },
       "Changelog": {
-        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
-        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
-        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
-        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
