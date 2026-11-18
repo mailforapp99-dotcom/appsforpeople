@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:06:56Z",
+  "Updated": "2026-11-18T22:07:01Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1153,13 +1153,13 @@
       "Name": "Serwis",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.0.1/Serwis.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.0.2/Serwis.zip",
       "FileName": "Serwis.zip",
-      "Sha256": "12d3266445dd4d7d0da33a46ff2903449a45e694f7b69a5d92f88a46c5540e45",
-      "Size": 156677,
+      "Sha256": "0865e3208f36f390aae267a65c3af5c49f5cc584caad72edcba9764c4752a29a",
+      "Size": 157002,
       "Args": null,
       "Launch": "Serwis.exe",
       "UninstallName": null,
@@ -1175,7 +1175,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Serwis",
+        "en": "Service",
+        "ro": "Service",
+        "de": "Kundendienst"
       },
       "Tagline": {
         "pl": "Protokół serwisowy z podpisem klienta na ekranie: prace, części, czas – gotowy PDF po wizycie.",
@@ -1190,10 +1193,10 @@
         "de": "Serwis ersetzt Papierberichte, inklusive Unterschrift des Kunden.\n\nMit PRO: PDF mit Logo, Fotos und unbegrenzte Berichte."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
