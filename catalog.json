@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:38:41Z",
+  "Updated": "2026-11-18T21:38:46Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -901,13 +901,13 @@
       "Name": "Zrzut",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.1/Zrzut.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.2/Zrzut.zip",
       "FileName": "Zrzut.zip",
-      "Sha256": "512029748f1c31453a45f0f939c657a26c9fa0ac54e80cc683314fc2982698fa",
-      "Size": 154844,
+      "Sha256": "b321ae584e72d49d73c14f888549441a94d9b7812b0421d11f302ac5c61fc698",
+      "Size": 156546,
       "Args": null,
       "Launch": "Zrzut.exe",
       "UninstallName": null,
@@ -935,10 +935,10 @@
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
       },
       "Changelog": {
-        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
-        "en": "New PRO price matching the appsforpeople.pl shop.",
-        "ro": "Preț PRO nou, conform magazinului.",
-        "de": "Neuer PRO-Preis wie im Shop."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
