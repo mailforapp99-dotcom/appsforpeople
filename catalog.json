@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T18:57:55Z",
+  "Updated": "2026-11-18T18:58:02Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -618,6 +618,51 @@
         "en": "Godziny tracks work time with one click: Start when you begin, Stop when you finish – the timer keeps running even after closing the program. Forgot? Add time manually. See hours for today, the week and the month.\n\nWith PRO: many clients and projects, hourly rates and monthly earnings, and a monthly PDF summary – ready to attach to an invoice.",
         "ro": "Godziny măsoară timpul de lucru cu un clic: Start când începi, Stop când termini. Ai uitat? Adaugi timpul manual.\n\nCu PRO: mai mulți clienți și proiecte, tarife orare, câștig lunar și raport PDF lunar pentru factură.",
         "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "liczniki",
+      "Name": "Liczniki",
+      "Publisher": "AppsForPeople",
+      "Category": "Dom",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.0/Liczniki.zip",
+      "FileName": "Liczniki.zip",
+      "Sha256": "4ca13e27524dd10418a2c0444c02ede703731db487fc6e074926d158f1412379",
+      "Size": 156746,
+      "Args": null,
+      "Launch": "Liczniki.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/icon.png?v=639306250788952423",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#34D399",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Prąd, gaz, woda: odczyty, zużycie i koszt – alarm, gdy zużycie nagle skoczy.",
+        "en": "Power, gas, water: readings, usage and cost – an alarm when usage suddenly jumps.",
+        "ro": "Curent, gaz, apă: citiri, consum și cost – alarmă la creșteri bruște.",
+        "de": "Strom, Gas, Wasser: Ablesungen, Verbrauch, Kosten – Alarm bei plötzlichem Anstieg."
+      },
+      "Description": {
+        "pl": "Liczniki zapamiętują stany licznika i liczą zużycie dzienne i miesięczne. Od razu widać, czy zużywasz więcej niż zwykle.\n\nW PRO: wiele liczników i mieszkań, koszt według Twojej taryfy i opłat stałych, porównanie rok do roku, alarm nagłego wzrostu (np. cieknąca spłuczka czy zapomniany grzejnik) i comiesięczne przypomnienie o odczycie w programie Terminy.",
+        "en": "Liczniki stores meter readings and calculates daily and monthly usage, so you see at once whether you use more than usual.\n\nWith PRO: many meters and homes, cost by your tariff and fixed fees, year-to-year comparison, a sudden-usage alarm (e.g. a leaking toilet) and a monthly reading reminder in Terminy.",
+        "ro": "Liczniki reține indexurile și calculează consumul zilnic și lunar.\n\nCu PRO: mai multe contoare, cost după tarif, comparație an la an, alarmă și memento lunar în Terminy.",
+        "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
