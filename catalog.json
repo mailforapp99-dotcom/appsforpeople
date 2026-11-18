@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:47:48Z",
+  "Updated": "2026-11-18T22:04:28Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -28,6 +28,9 @@
       "Color": "#8FD3FF",
       "Featured": false,
       "Hidden": false,
+      "Names": {
+        
+      },
       "Tagline": {
         "pl": "Zobacz, co zjada Twój dysk – skanowanie, duplikaty, śmieci i ochrona w jednym miejscu.",
         "en": "See what\u0027s eating your disk – scanning, duplicates, junk and protection in one place.",
@@ -84,6 +87,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -129,6 +135,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -174,6 +183,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -219,6 +231,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -264,6 +279,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -309,6 +327,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -354,6 +375,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -399,6 +423,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -444,6 +471,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -489,6 +519,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -534,6 +567,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -579,6 +615,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -624,6 +663,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -669,6 +711,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -714,6 +759,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -759,6 +807,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -804,6 +855,9 @@
         "en": "History encryption is now on by default and free. Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Criptarea istoricului este acum activă implicit și gratuită. Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Die Verlaufsverschlüsselung ist jetzt standardmäßig aktiv und kostenlos. Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -849,6 +903,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -894,6 +951,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -939,6 +999,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -984,6 +1047,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -1029,6 +1095,9 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     },
     {
@@ -1074,13 +1143,16 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Names": {
+        
       }
     }
   ],
   "Launcher": {
-    "Version": "1.4.2",
-    "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/launcher-v1.4.2/AppsForPeople.exe",
-    "Sha256": "b0615922d0f1a590c3734e65aa974c580f4e9754d6d38c6ed3b306b5a8748598",
-    "Size": 1213952
+    "Version": "1.4.3",
+    "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/launcher-v1.4.3/AppsForPeople.exe",
+    "Sha256": "4ac6784b9fcb14d485ada20e2d3086aa1a346edcf76f7865238ce04dc03c9fcd",
+    "Size": 1214464
   }
 }
