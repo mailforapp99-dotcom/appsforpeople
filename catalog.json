@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:06:15Z",
+  "Updated": "2026-11-18T22:06:21Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -295,13 +295,13 @@
       "Name": "Opiekun – komputer dziecka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.6",
+      "Version": "1.2.7",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.6/OpiekunDlaDziecka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.7/OpiekunDlaDziecka.zip",
       "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "29c1fbe7af32616c7d8ab5ab6a24805eee851fe1ac10e2db3750a943397cc52b",
-      "Size": 352320,
+      "Sha256": "272c0b8a6b116a9fa944e0a952612dd0be42cdec9c1d21b1b5ba96d4d4bfeacd",
+      "Size": 353027,
       "Args": null,
       "Launch": "Opiekun.exe",
       "UninstallName": null,
@@ -317,7 +317,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Opiekun – komputer dziecka",
+        "en": "Guardian – child\u0027s computer",
+        "ro": "Ocrotitor – calculatorul copilului",
+        "de": "Aufpasser – Kinder-PC"
       },
       "Tagline": {
         "pl": "Instalator Opiekuna na komputer dziecka – limity czasu, prośby i sterowanie z komputera rodzica.",
@@ -332,10 +335,10 @@
         "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Mit PRO steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
