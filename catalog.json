@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:04:32Z",
+  "Updated": "2026-11-18T09:04:37Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -46,13 +46,13 @@
       "Name": "Porządek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.4",
-      "Date": "2026-11-17",
+      "Version": "1.0.5",
+      "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.4/Porzadek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.5/Porzadek.zip",
       "FileName": "Porzadek.zip",
-      "Sha256": "e766e022b6716ac0d1abce769a968498b5d1d1bb3521def0b488f450cf11c7f9",
-      "Size": 156467,
+      "Sha256": "ec01085723576525d2246e2de6b6ed8cd165d58814b1d818a79de5a773831576",
+      "Size": 157563,
       "Args": "",
       "Launch": "Porzadek.exe",
       "UninstallName": "",
@@ -80,10 +80,10 @@
         "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nMit PRO arbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
       },
       "Changelog": {
-        "pl": "Czat z twórcą w zakładce Kontakt; zakup licencji online na appsforpeople.pl i automatyczne pobieranie kupionej licencji.",
-        "en": "Chat with the developer in the Contact tab; buy a licence online at appsforpeople.pl and the app downloads it automatically.",
-        "ro": "Chat cu dezvoltatorul în fila Contact; cumpărare licență online pe appsforpeople.pl și descărcare automată.",
-        "de": "Chat mit dem Entwickler im Reiter Kontakt; Lizenz online auf appsforpeople.pl kaufen, das Programm lädt sie automatisch."
+        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
+        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
+        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
+        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
       }
     },
     {
