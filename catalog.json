@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:23:37Z",
+  "Updated": "2026-11-18T19:23:44Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1068,6 +1068,51 @@
         "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nWith PRO: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
         "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nCu PRO: PDF cu logo, măsurători nelimitate și șabloane.",
         "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "serwis",
+      "Name": "Serwis",
+      "Publisher": "AppsForPeople",
+      "Category": "Biuro",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.0.0/Serwis.zip",
+      "FileName": "Serwis.zip",
+      "Sha256": "6ca1f883ec5e770750e3963c14a2732019a68d2045d95c8bfd8f08c2b44d452f",
+      "Size": 154738,
+      "Args": null,
+      "Launch": "Serwis.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/icon.png?v=639306266210937532",
+      "Shots": [
+        
+      ],
+      "Price": "19 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#2DD4BF",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Protokół serwisowy z podpisem klienta na ekranie: prace, części, czas – gotowy PDF po wizycie.",
+        "en": "Service report with the client\u0027s on-screen signature: work, parts, time – PDF right after the visit.",
+        "ro": "Raport de service cu semnătura clientului pe ecran.",
+        "de": "Servicebericht mit Unterschrift des Kunden am Bildschirm."
+      },
+      "Description": {
+        "pl": "Serwis zastępuje papierowe protokoły: opis zgłoszenia, wykonane prace, części z cenami, czas pracy i stawka, a na końcu podpis klienta myszką albo rysikiem. Program pamięta klientów i sam podpowiada ich adresy.\n\nW PRO: PDF z logo firmy do wysłania klientowi od razu po wizycie, zdjęcia przed i po naprawie oraz brak limitu protokołów.",
+        "en": "Serwis replaces paper reports: issue, work done, parts with prices, labour time and rate, and finally the client\u0027s signature with mouse or pen. It remembers clients and fills in their addresses.\n\nWith PRO: a PDF with your logo to send right after the visit, before/after photos and unlimited reports.",
+        "ro": "Serwis înlocuiește rapoartele pe hârtie, cu semnătura clientului.\n\nCu PRO: PDF cu logo, fotografii și rapoarte nelimitate.",
+        "de": "Serwis ersetzt Papierberichte, inklusive Unterschrift des Kunden.\n\nMit PRO: PDF mit Logo, Fotos und unbegrenzte Berichte."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
