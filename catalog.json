@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:06:46Z",
+  "Updated": "2026-11-18T22:06:51Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -802,13 +802,13 @@
       "Name": "Ramki",
       "Publisher": "AppsForPeople",
       "Category": "Robotyka",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.2/Ramki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.3/Ramki.zip",
       "FileName": "Ramki.zip",
-      "Sha256": "53a21ba1e152c3a4261429fef5608a6f63a4ea71b86c4cde611d4e5c4523a0f8",
-      "Size": 157811,
+      "Sha256": "de51fb363e7955c57e293dd7cafa59be1d9cdbb0e4cad461834f5131b36d8395",
+      "Size": 158119,
       "Args": null,
       "Launch": "Ramki.exe",
       "UninstallName": null,
@@ -824,7 +824,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Ramki",
+        "en": "Frames",
+        "ro": "Sisteme de coordonate",
+        "de": "Koordinaten"
       },
       "Tagline": {
         "pl": "Układy współrzędnych robotów: KUKA ABC ↔ ABB kwaternion ↔ Fanuc WPR, base i TCP.",
@@ -839,10 +842,10 @@
         "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nMit PRO: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
