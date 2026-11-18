@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:36:49Z",
+  "Updated": "2026-11-18T21:36:55Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -586,13 +586,13 @@
       "Name": "Godziny",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.1/Godziny.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.2/Godziny.zip",
       "FileName": "Godziny.zip",
-      "Sha256": "db7a9c9f806ad8ed8f06b130aa37c34c47e289146762d8554b327bf782b7be3d",
-      "Size": 167646,
+      "Sha256": "4330f483cd2fb542048d6f9f894de1631e1b74b713bdebfdbc3c63a626da0608",
+      "Size": 169299,
       "Args": null,
       "Launch": "Godziny.exe",
       "UninstallName": null,
@@ -620,10 +620,10 @@
         "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
       },
       "Changelog": {
-        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
-        "en": "New PRO price matching the appsforpeople.pl shop.",
-        "ro": "Preț PRO nou, conform magazinului.",
-        "de": "Neuer PRO-Preis wie im Shop."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
