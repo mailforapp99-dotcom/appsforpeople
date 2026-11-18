@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:28:36Z",
+  "Updated": "2026-11-18T19:28:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -42,9 +42,6 @@
       }
     },
     {
-      "Id": "porzadek",
-      "Name": "Porządek",
-      "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.6",
       "Date": "2026-11-18",
@@ -84,12 +81,12 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Id": "porzadek",
+      "Name": "Porządek",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "opiekun",
-      "Name": "Opiekun",
-      "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.5",
       "Date": "2026-11-18",
@@ -129,12 +126,12 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Id": "opiekun",
+      "Name": "Opiekun",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "straznik",
-      "Name": "Strażnik",
-      "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.6",
       "Date": "2026-11-18",
@@ -174,12 +171,12 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Id": "straznik",
+      "Name": "Strażnik",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "lacze",
-      "Name": "Łącze",
-      "Publisher": "AppsForPeople",
       "Category": "Internet",
       "Version": "1.0.6",
       "Date": "2026-11-18",
@@ -219,12 +216,12 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Id": "lacze",
+      "Name": "Łącze",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "teczka",
-      "Name": "Teczka",
-      "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.5",
       "Date": "2026-11-18",
@@ -264,12 +261,12 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Id": "teczka",
+      "Name": "Teczka",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "opiekun-dziecko",
-      "Name": "Opiekun – komputer dziecka",
-      "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.5",
       "Date": "2026-11-18",
@@ -309,12 +306,12 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Id": "opiekun-dziecko",
+      "Name": "Opiekun – komputer dziecka",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "teczka-podglad",
-      "Name": "Teczka – przeglądarka PDF",
-      "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.5",
       "Date": "2026-11-18",
@@ -354,12 +351,12 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Id": "teczka-podglad",
+      "Name": "Teczka – przeglądarka PDF",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "rachunki",
-      "Name": "Rachunki",
-      "Publisher": "AppsForPeople",
       "Category": "Finanse",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -399,12 +396,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "rachunki",
+      "Name": "Rachunki",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "terminy",
-      "Name": "Terminy",
-      "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -444,12 +441,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "terminy",
+      "Name": "Terminy",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "auto",
-      "Name": "Auto",
-      "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -489,12 +486,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "auto",
+      "Name": "Auto",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "automatyk",
-      "Name": "Automatyk",
-      "Publisher": "AppsForPeople",
       "Category": "Automatyka",
       "Version": "1.0.1",
       "Date": "2026-11-18",
@@ -534,12 +531,12 @@
         "en": "New PRO price matching the appsforpeople.pl shop.",
         "ro": "Preț PRO nou, conform magazinului.",
         "de": "Neuer PRO-Preis wie im Shop."
-      }
+      },
+      "Id": "automatyk",
+      "Name": "Automatyk",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "ekran",
-      "Name": "Ekran",
-      "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -579,12 +576,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "ekran",
+      "Name": "Ekran",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "godziny",
-      "Name": "Godziny",
-      "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.1",
       "Date": "2026-11-18",
@@ -624,12 +621,12 @@
         "en": "New PRO price matching the appsforpeople.pl shop.",
         "ro": "Preț PRO nou, conform magazinului.",
         "de": "Neuer PRO-Preis wie im Shop."
-      }
+      },
+      "Id": "godziny",
+      "Name": "Godziny",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "liczniki",
-      "Name": "Liczniki",
-      "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -669,20 +666,20 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "liczniki",
+      "Name": "Liczniki",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "pisma",
-      "Name": "Pisma",
-      "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.0/Pisma.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.1/Pisma.zip",
       "FileName": "Pisma.zip",
-      "Sha256": "b8c5af70887626de4daf0db0292a80549de69ad1528b538570f16fc4ab7d7341",
-      "Size": 137354,
+      "Sha256": "f709cc4d6a71ff215282851c90902da8a257dadfda0d2198b7c6ab4ad908f000",
+      "Size": 137636,
       "Args": null,
       "Launch": "Pisma.exe",
       "UninstallName": null,
@@ -690,7 +687,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "9 zł / miesiąc",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -710,16 +707,16 @@
         "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
-      }
+        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
+        "en": "New PRO price matching the appsforpeople.pl shop.",
+        "ro": "Preț PRO nou, conform magazinului.",
+        "de": "Neuer PRO-Preis wie im Shop."
+      },
+      "Id": "pisma",
+      "Name": "Pisma",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "porty",
-      "Name": "Porty",
-      "Publisher": "AppsForPeople",
       "Category": "Programiści",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -759,12 +756,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "porty",
+      "Name": "Porty",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "ramki",
-      "Name": "Ramki",
-      "Publisher": "AppsForPeople",
       "Category": "Robotyka",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -804,12 +801,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "ramki",
+      "Name": "Ramki",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "schowek",
-      "Name": "Schowek",
-      "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -849,12 +846,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "schowek",
+      "Name": "Schowek",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "tabliczka",
-      "Name": "Tabliczka",
-      "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -894,12 +891,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "tabliczka",
+      "Name": "Tabliczka",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "zrzut",
-      "Name": "Zrzut",
-      "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -939,12 +936,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "zrzut",
+      "Name": "Zrzut",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "kilometrowka",
-      "Name": "Kilometrówka",
-      "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -984,12 +981,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "kilometrowka",
+      "Name": "Kilometrówka",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "najem",
-      "Name": "Najem",
-      "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -1029,12 +1026,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "najem",
+      "Name": "Najem",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "pomiary",
-      "Name": "Pomiary",
-      "Publisher": "AppsForPeople",
       "Category": "Automatyka",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -1074,12 +1071,12 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "pomiary",
+      "Name": "Pomiary",
+      "Publisher": "AppsForPeople"
     },
     {
-      "Id": "serwis",
-      "Name": "Serwis",
-      "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.0",
       "Date": "2026-11-18",
@@ -1119,7 +1116,10 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Id": "serwis",
+      "Name": "Serwis",
+      "Publisher": "AppsForPeople"
     }
   ],
   "Launcher": {
