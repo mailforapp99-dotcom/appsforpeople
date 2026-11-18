@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:23:29Z",
+  "Updated": "2026-11-18T19:23:37Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1023,6 +1023,51 @@
         "en": "Najem shows who has paid the rent, who is behind and by how much – monthly and in total. Mark a payment with one click; deposits, due dates and lease periods are remembered.\n\nWith PRO: several flats, a yearly income summary as PDF and CSV for your accountant and rent reminders in Terminy.",
         "ro": "Najem arată cine a plătit chiria și cine e restant.\n\nCu PRO: mai multe apartamente, rezumat anual PDF/CSV și mementouri.",
         "de": "Najem zeigt, wer die Miete gezahlt hat und wer im Rückstand ist.\n\nMit PRO: mehrere Wohnungen, Jahresübersicht als PDF/CSV und Erinnerungen."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "pomiary",
+      "Name": "Pomiary",
+      "Publisher": "AppsForPeople",
+      "Category": "Automatyka",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.0/Pomiary.zip",
+      "FileName": "Pomiary.zip",
+      "Sha256": "05958fd63dda2bdc9e69e84149183de20977080635cc38e7b7f87969604465db",
+      "Size": 160971,
+      "Args": null,
+      "Launch": "Pomiary.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/icon.png?v=639306266137339986",
+      "Shots": [
+        
+      ],
+      "Price": "19 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#FBBF24",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Protokoły pomiarów elektrycznych: pętla zwarcia, izolacja, RCD – z automatyczną oceną i PDF.",
+        "en": "Electrical test reports: loop impedance, insulation, RCD – automatic verdict and PDF.",
+        "ro": "Procese-verbale de măsurători electrice cu evaluare automată și PDF.",
+        "de": "Elektrische Messprotokolle: Schleife, Isolation, RCD – mit automatischer Bewertung und PDF."
+      },
+      "Description": {
+        "pl": "Pomiary to program dla elektryków z uprawnieniami: wpisujesz zmierzone wartości impedancji pętli zwarcia, rezystancji izolacji i parametrów wyłączników różnicowoprądowych, a program sam liczy wartości wymagane (B/C/D, In, U0) i ocenia „spełnia / nie spełnia”. Ostatnie wartości podpowiada przy kolejnym punkcie.\n\nW PRO: protokół w PDF z logo firmy i Twoimi danymi (numer świadectwa), bez limitu pomiarów i kopiowanie protokołu jako szablonu dla podobnego obiektu.",
+        "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nWith PRO: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
+        "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nCu PRO: PDF cu logo, măsurători nelimitate și șabloane.",
+        "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
