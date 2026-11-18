@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:21:45Z",
+  "Updated": "2026-11-18T09:21:50Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -136,13 +136,13 @@
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.5/Straznik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.6/Straznik.zip",
       "FileName": "Straznik.zip",
-      "Sha256": "3c6c353d8a92b8b82861eaa3a3aca072e23c6b0f73cf2fe0ed1dfdc5e56eeb2c",
-      "Size": 180203,
+      "Sha256": "9df1cf1556edee8c104846bb492e4d3d7213f23feecbd7a04a26d3eecd57f6c3",
+      "Size": 184051,
       "Args": "",
       "Launch": "Straznik.exe",
       "UninstallName": "Strażnik",
@@ -170,10 +170,10 @@
         "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nMit PRO läuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
       },
       "Changelog": {
-        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
-        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
-        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
-        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
+        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
+        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
+        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
+        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
       }
     },
     {
