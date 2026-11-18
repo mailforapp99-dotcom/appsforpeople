@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T18:57:36Z",
+  "Updated": "2026-11-18T18:57:42Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -483,6 +483,51 @@
         "en": "Auto calculates real fuel consumption (full to full), fuel cost per km and yearly spending. After refuelling just enter odometer, litres and amount.\n\nWith PRO: several cars, service log with kilometre reminders, insurance and inspection sent to Terminy, and a PDF service history – documented cars sell for more.",
         "ro": "Auto calculează consumul real, costul pe km și cheltuielile anuale.\n\nCu PRO: mai multe mașini, service cu memento, asigurare și ITP în Terminy și istoric service PDF.",
         "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nMit PRO: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "automatyk",
+      "Name": "Automatyk",
+      "Publisher": "AppsForPeople",
+      "Category": "Automatyka",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.0/Automatyk.zip",
+      "FileName": "Automatyk.zip",
+      "Sha256": "a96f5656e31733922140f9012d99f5e2be3eb66f6ef8fd6390ffc8fc48c7a4cd",
+      "Size": 154246,
+      "Args": null,
+      "Launch": "Automatyk.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/icon.png?v=639306250594013735",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#38BDF8",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Kalkulator automatyka: 4–20 mA, wartości PLC, PT100, prąd silnika, przekrój przewodu.",
+        "en": "Automation calculator: 4–20 mA, PLC raw values, PT100, motor current, cable sizing.",
+        "ro": "Calculator pentru automatizări: 4–20 mA, PLC, PT100, curent motor, cabluri.",
+        "de": "Rechner für Automatisierer: 4–20 mA, SPS-Rohwerte, PT100, Motorstrom, Leitungen."
+      },
+      "Description": {
+        "pl": "Automatyk to szybkie przeliczenia do szafy i na budowę: sygnał 4–20 mA / 0–10 V ↔ wartość fizyczna ↔ wartość surowa w sterowniku S7 (0–27648), PT100/PT500/PT1000 ↔ temperatura według IEC 60751 i prawo Ohma z mocą. Działa bez internetu.\n\nW PRO: prąd znamionowy silnika z mocy, spadek napięcia na przewodzie z doborem najmniejszego przekroju, historia obliczeń z opisem urządzenia i raport PDF do dokumentacji projektu.",
+        "en": "Automatyk does quick conversions for panel building and commissioning: 4–20 mA / 0–10 V ↔ physical value ↔ S7 raw value (0–27648), PT100/PT500/PT1000 ↔ temperature per IEC 60751 and Ohm\u0027s law with power. Works offline.\n\nWith PRO: motor rated current from power, cable voltage drop with smallest cross-section, calculation history with device tags and a PDF report for project documentation.",
+        "ro": "Automatyk face conversii rapide: 4–20 mA ↔ valoare fizică ↔ valoare brută S7, PT100 ↔ temperatură, legea lui Ohm. Funcționează offline.\n\nCu PRO: curent motor, cădere de tensiune și secțiune minimă, istoric și raport PDF.",
+        "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
