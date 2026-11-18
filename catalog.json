@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:38:18Z",
+  "Updated": "2026-11-18T21:38:24Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -856,13 +856,13 @@
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.0/Tabliczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.1/Tabliczka.zip",
       "FileName": "Tabliczka.zip",
-      "Sha256": "3236df307a66ff7e52951b91e5894b2567f7afc39e3da1b1c9786a23016bde08",
-      "Size": 161703,
+      "Sha256": "8aa037f64585b9d3bf5b18c6bb2b90139f62fb732e71f9c1900e76b52b86e023",
+      "Size": 163742,
       "Args": null,
       "Launch": "Tabliczka.exe",
       "UninstallName": null,
@@ -890,10 +890,10 @@
         "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
