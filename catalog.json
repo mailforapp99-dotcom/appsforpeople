@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T18:58:02Z",
+  "Updated": "2026-11-18T18:58:08Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -663,6 +663,51 @@
         "en": "Liczniki stores meter readings and calculates daily and monthly usage, so you see at once whether you use more than usual.\n\nWith PRO: many meters and homes, cost by your tariff and fixed fees, year-to-year comparison, a sudden-usage alarm (e.g. a leaking toilet) and a monthly reading reminder in Terminy.",
         "ro": "Liczniki reține indexurile și calculează consumul zilnic și lunar.\n\nCu PRO: mai multe contoare, cost după tarif, comparație an la an, alarmă și memento lunar în Terminy.",
         "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "pisma",
+      "Name": "Pisma",
+      "Publisher": "AppsForPeople",
+      "Category": "Biuro",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.0/Pisma.zip",
+      "FileName": "Pisma.zip",
+      "Sha256": "b8c5af70887626de4daf0db0292a80549de69ad1528b538570f16fc4ab7d7341",
+      "Size": 137354,
+      "Args": null,
+      "Launch": "Pisma.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/icon.png?v=639306250854358924",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#7AA2FF",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Generator pism: reklamacja, odstąpienie, wypowiedzenie, wezwanie do zapłaty – z logo, do PDF.",
+        "en": "Letter generator: complaints, withdrawals, terminations, payment demands – with your logo, to PDF.",
+        "ro": "Generator de scrisori: reclamații, rezilieri, somații – cu logo, în PDF.",
+        "de": "Briefgenerator: Reklamation, Widerruf, Kündigung, Mahnung – mit Logo, als PDF."
+      },
+      "Description": {
+        "pl": "Pisma podpowiadają gotowe wzory polskich pism: reklamację towaru, odstąpienie od umowy zawartej przez internet i wypowiedzenie umowy. Uzupełniasz pola w nawiasach, a program składa pismo z Twoimi danymi, miejscowością i datą i zapisuje je jako PDF albo drukuje.\n\nW PRO: Twoje logo w nagłówku i podpis z obrazka, pełna biblioteka wzorów (wezwanie do zapłaty, wniosek RODO, wypowiedzenie najmu, pełnomocnictwo, reklamacja usługi i inne), własne wzory, historia pism i termin odpowiedzi dodawany do programu Terminy.",
+        "en": "Pisma offers ready templates of Polish letters: product complaint, withdrawal from an online purchase and contract termination. Fill in the fields in brackets and the program builds the letter with your details and date and saves it as PDF or prints it.\n\nWith PRO: your logo and signature image, the full template library (payment demand, GDPR request, lease termination, power of attorney and more), your own templates, letter history and reply deadlines in Terminy.",
+        "ro": "Pisma oferă modele de scrisori poloneze gata făcute. Completezi câmpurile, iar programul salvează scrisoarea ca PDF.\n\nCu PRO: logo și semnătură, bibliotecă completă de modele, modele proprii, istoric și termene de răspuns în Terminy.",
+        "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
