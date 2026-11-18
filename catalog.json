@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:04:42Z",
+  "Updated": "2026-11-18T09:04:50Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -226,13 +226,13 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.3",
-      "Date": "2026-11-17",
+      "Version": "1.1.4",
+      "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.3/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.4/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "f7d10e02eee590a7a7881ff3a4163b7d1f19aacfb864574f36dfa1bf1909361f",
-      "Size": 4351989,
+      "Sha256": "3974f178d3cef82916cab580dae83587595fa2084cbe1166a3e0094e71c5ecf0",
+      "Size": 4352904,
       "Args": "",
       "Launch": "Teczka.exe",
       "UninstallName": "",
@@ -260,10 +260,10 @@
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
-        "pl": "Czat z twórcą w zakładce Kontakt; zakup licencji online na appsforpeople.pl i automatyczne pobieranie kupionej licencji.",
-        "en": "Chat with the developer in the Contact tab; buy a licence online at appsforpeople.pl and the app downloads it automatically.",
-        "ro": "Chat cu dezvoltatorul în fila Contact; cumpărare licență online pe appsforpeople.pl și descărcare automată.",
-        "de": "Chat mit dem Entwickler im Reiter Kontakt; Lizenz online auf appsforpeople.pl kaufen, das Programm lädt sie automatisch."
+        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
+        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
+        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
+        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
       }
     },
     {
