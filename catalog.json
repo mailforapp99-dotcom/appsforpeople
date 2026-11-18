@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:37:52Z",
+  "Updated": "2026-11-18T21:37:57Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -361,13 +361,13 @@
       "Name": "Rachunki",
       "Publisher": "AppsForPeople",
       "Category": "Finanse",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rachunki-v1.0.0/Rachunki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rachunki-v1.0.1/Rachunki.zip",
       "FileName": "Rachunki.zip",
-      "Sha256": "63cef15c347ee338b6898a238310dbdbb3f6e38c947ac981bffb92f4f7d82fbd",
-      "Size": 155898,
+      "Sha256": "d69878585d56c2c2d9e91295544bc9627667d18df23703bf4dd27426e6fc0082",
+      "Size": 157565,
       "Args": null,
       "Launch": "Rachunki.exe",
       "UninstallName": null,
@@ -395,10 +395,10 @@
         "de": "Rachunki ist ein einfaches Haushaltsbuch. Du trägst nacheinander Einnahmen (Arbeitsvertrag, Auftrag, B2B oder Sonstiges) und Rechnungen ein: Miete, Strom, Raten, Abos. Das Programm zeigt sofort, was nach den Rechnungen übrig bleibt, was noch offen und was überfällig ist. Zwei Buchstaben reichen – Rachunki schlägt frühere Einträge mit Betrag vor. Die Liste ist ab 2 Buchstaben durchsuchbar, die Seite „Ganzes Jahr“ zeigt alle Monate in einer Tabelle.\n\nMit PRO teilst du Rechnungen mit anderen (z. B. zahlt der Mitbewohner 50 % der Miete) und siehst, wer dir wie viel schuldet und ob schon zurückgezahlt wurde. Feste Rechnungen übernimmst du mit einem Klick in den neuen Monat, und die Daten lassen sich nach Excel exportieren. Alles bleibt auf deinem Computer – das Programm verbindet sich weder mit der Bank noch mit einem Dienst."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
