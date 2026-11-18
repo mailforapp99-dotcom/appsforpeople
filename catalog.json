@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:37:57Z",
+  "Updated": "2026-11-18T21:38:03Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -766,13 +766,13 @@
       "Name": "Ramki",
       "Publisher": "AppsForPeople",
       "Category": "Robotyka",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.1/Ramki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.2/Ramki.zip",
       "FileName": "Ramki.zip",
-      "Sha256": "28f4e18271fc1ae77453a0ddc9ea0ef3bf45e85530a6a021febed1fd2ac69246",
-      "Size": 156087,
+      "Sha256": "53a21ba1e152c3a4261429fef5608a6f63a4ea71b86c4cde611d4e5c4523a0f8",
+      "Size": 157811,
       "Args": null,
       "Launch": "Ramki.exe",
       "UninstallName": null,
@@ -800,10 +800,10 @@
         "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nMit PRO: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
       },
       "Changelog": {
-        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
-        "en": "New PRO price matching the appsforpeople.pl shop.",
-        "ro": "Preț PRO nou, conform magazinului.",
-        "de": "Neuer PRO-Preis wie im Shop."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
