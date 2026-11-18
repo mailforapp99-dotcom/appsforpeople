@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:23:44Z",
+  "Updated": "2026-11-18T19:28:30Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -496,13 +496,13 @@
       "Name": "Automatyk",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.0/Automatyk.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.1/Automatyk.zip",
       "FileName": "Automatyk.zip",
-      "Sha256": "a96f5656e31733922140f9012d99f5e2be3eb66f6ef8fd6390ffc8fc48c7a4cd",
-      "Size": 154246,
+      "Sha256": "ae49e477f07da533b41cdb66cd2c9aa6407fd34b98a3c3ae4cf042dc1612f596",
+      "Size": 154491,
       "Args": null,
       "Launch": "Automatyk.exe",
       "UninstallName": null,
@@ -510,7 +510,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "19 zł / miesiąc",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -530,10 +530,10 @@
         "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
+        "en": "New PRO price matching the appsforpeople.pl shop.",
+        "ro": "Preț PRO nou, conform magazinului.",
+        "de": "Neuer PRO-Preis wie im Shop."
       }
     },
     {
