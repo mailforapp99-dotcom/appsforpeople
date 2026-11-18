@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:21:35Z",
+  "Updated": "2026-11-18T09:21:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -47,12 +47,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.5",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.5/Porzadek.zip",
+      "FileName": "Porzadek.zip",
+      "Sha256": "ec01085723576525d2246e2de6b6ed8cd165d58814b1d818a79de5a773831576",
+      "Size": 157563,
+      "Args": "",
+      "Launch": "Porzadek.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#F2B544",
       "Featured": false,
-      "Type": "zip",
-      "Launch": "Porzadek.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
+      "Hidden": false,
       "Tagline": {
         "pl": "Sam układa bałagan w folderze Pobrane – dokumenty, zdjęcia i instalatory trafiają na swoje miejsce.",
         "en": "Tidies your messy Downloads folder – documents, photos and installers go where they belong.",
@@ -70,21 +84,7 @@
         "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
         "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
         "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
-      },
-      "Date": "2026-11-18",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.5/Porzadek.zip",
-      "FileName": "Porzadek.zip",
-      "Sha256": "ec01085723576525d2246e2de6b6ed8cd165d58814b1d818a79de5a773831576",
-      "Size": 157563,
-      "Args": "",
-      "UninstallName": "",
-      "Shots": [
-        
-      ],
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Hidden": false
+      }
     },
     {
       "Id": "opiekun",
@@ -92,12 +92,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.5",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.5/Opiekun.zip",
+      "FileName": "Opiekun.zip",
+      "Sha256": "aa8ad7b0615076a39dba4a504f491c49f22c346b0581969c0b657295ecacdb1b",
+      "Size": 349984,
+      "Args": "",
+      "Launch": "Opiekun.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#A78BFA",
       "Featured": false,
-      "Type": "zip",
-      "Launch": "Opiekun.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
+      "Hidden": false,
       "Tagline": {
         "pl": "Uczciwa kontrola rodzicielska: limity czasu przy komputerze, dozwolone godziny i prośby o więcej czasu.",
         "en": "Fair parental control: computer time limits, allowed hours and requests for extra time.",
@@ -115,21 +129,7 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      },
-      "Date": "2026-11-18",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.5/Opiekun.zip",
-      "FileName": "Opiekun.zip",
-      "Sha256": "aa8ad7b0615076a39dba4a504f491c49f22c346b0581969c0b657295ecacdb1b",
-      "Size": 349984,
-      "Args": "",
-      "UninstallName": "",
-      "Shots": [
-        
-      ],
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Hidden": false
+      }
     },
     {
       "Id": "straznik",
@@ -137,12 +137,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.5",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.5/Straznik.zip",
+      "FileName": "Straznik.zip",
+      "Sha256": "3c6c353d8a92b8b82861eaa3a3aca072e23c6b0f73cf2fe0ed1dfdc5e56eeb2c",
+      "Size": 180203,
+      "Args": "",
+      "Launch": "Straznik.exe",
+      "UninstallName": "Strażnik",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#4FD1C5",
       "Featured": false,
-      "Type": "zip",
-      "Launch": "Straznik.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
+      "Hidden": false,
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
         "en": "Watches your disks\u0027 health and warns you before you lose your photos and files.",
@@ -160,21 +174,7 @@
         "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
         "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
         "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
-      },
-      "Date": "2026-11-18",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.5/Straznik.zip",
-      "FileName": "Straznik.zip",
-      "Sha256": "3c6c353d8a92b8b82861eaa3a3aca072e23c6b0f73cf2fe0ed1dfdc5e56eeb2c",
-      "Size": 180203,
-      "Args": "",
-      "UninstallName": "Strażnik",
-      "Shots": [
-        
-      ],
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Hidden": false
+      }
     },
     {
       "Id": "lacze",
@@ -182,12 +182,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Internet",
       "Version": "1.0.6",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.6/Lacze.zip",
+      "FileName": "Lacze.zip",
+      "Sha256": "e65d37d551438d9d3068bd545d805a7605140b293383e4002b2743c56008802b",
+      "Size": 185185,
+      "Args": "",
+      "Launch": "Lacze.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#5AA9FF",
       "Featured": false,
-      "Type": "zip",
-      "Launch": "Lacze.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
+      "Hidden": false,
       "Tagline": {
         "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
         "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
@@ -205,21 +219,7 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      },
-      "Date": "2026-11-18",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.6/Lacze.zip",
-      "FileName": "Lacze.zip",
-      "Sha256": "e65d37d551438d9d3068bd545d805a7605140b293383e4002b2743c56008802b",
-      "Size": 185185,
-      "Args": "",
-      "UninstallName": "",
-      "Shots": [
-        
-      ],
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Hidden": false
+      }
     },
     {
       "Id": "teczka",
@@ -227,12 +227,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.4",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.4/Teczka.zip",
+      "FileName": "Teczka.zip",
+      "Sha256": "3974f178d3cef82916cab580dae83587595fa2084cbe1166a3e0094e71c5ecf0",
+      "Size": 4352904,
+      "Args": "",
+      "Launch": "Teczka.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
       "Color": "#FF7A6B",
       "Featured": true,
-      "Type": "zip",
-      "Launch": "Teczka.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
+      "Hidden": false,
       "Tagline": {
         "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
         "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
@@ -250,34 +264,34 @@
         "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
         "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
         "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
-      },
-      "Date": "2026-11-18",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.4/Teczka.zip",
-      "FileName": "Teczka.zip",
-      "Sha256": "3974f178d3cef82916cab580dae83587595fa2084cbe1166a3e0094e71c5ecf0",
-      "Size": 4352904,
-      "Args": "",
-      "UninstallName": "",
-      "Shots": [
-        
-      ],
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Hidden": false
+      }
     },
     {
       "Id": "opiekun-dziecko",
       "Name": "Opiekun – komputer dziecka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.4",
+      "Version": "1.2.5",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.5/OpiekunDlaDziecka.zip",
+      "FileName": "OpiekunDlaDziecka.zip",
+      "Sha256": "7454483a717cf931fb67c3d28222a1da04273ae2a27729f4beffd764a471dd1a",
+      "Size": 349624,
+      "Args": null,
+      "Launch": "Opiekun.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
+      "Shots": [
+        
+      ],
       "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
       "Color": "#C4B5FD",
       "Featured": false,
-      "Type": "zip",
-      "Launch": "Opiekun.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
+      "Hidden": false,
       "Tagline": {
         "pl": "Instalator Opiekuna na komputer dziecka – limity czasu, prośby i sterowanie z komputera rodzica.",
         "en": "Opiekun installer for your child\u0027s computer – time limits, requests and control from the parent\u0027s computer.",
@@ -291,25 +305,11 @@
         "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Mit PRO steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
       },
       "Changelog": {
-        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
-        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
-        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
-        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
-      },
-      "Date": "2026-11-18",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.4/OpiekunDlaDziecka.zip",
-      "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "37e1c4a71ad1de1fb6045f9bcc2b44a8e249bf1649754fb04a101101a81eb4e1",
-      "Size": 342987,
-      "Args": null,
-      "UninstallName": null,
-      "Shots": [
-        
-      ],
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Hidden": false
+        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
+        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
+        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
+        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
+      }
     },
     {
       "Id": "teczka-podglad",
@@ -317,12 +317,26 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.4",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.4/TeczkaPodglad.zip",
+      "FileName": "TeczkaPodglad.zip",
+      "Sha256": "0c94845b3ea52c911555e87d321c6d808eb628dd4fbffdd18937d82be637aaf1",
+      "Size": 4352162,
+      "Args": null,
+      "Launch": "TeczkaPodglad.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
+      "Shots": [
+        
+      ],
       "Price": "Za darmo",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
       "Color": "#FF7A6B",
       "Featured": false,
-      "Type": "zip",
-      "Launch": "TeczkaPodglad.exe",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
+      "Hidden": false,
       "Tagline": {
         "pl": "Darmowy, szybki czytnik PDF: czytaj, szukaj, drukuj – bez reklam i bez wysyłania plików.",
         "en": "A free, fast PDF reader: read, search, print – no ads, no uploads.",
@@ -340,21 +354,7 @@
         "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
         "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
         "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
-      },
-      "Date": "2026-11-18",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.4/TeczkaPodglad.zip",
-      "FileName": "TeczkaPodglad.zip",
-      "Sha256": "0c94845b3ea52c911555e87d321c6d808eb628dd4fbffdd18937d82be637aaf1",
-      "Size": 4352162,
-      "Args": null,
-      "UninstallName": null,
-      "Shots": [
-        
-      ],
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Hidden": false
+      }
     }
   ],
   "Launcher": {
