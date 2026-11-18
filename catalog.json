@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T18:58:28Z",
+  "Updated": "2026-11-18T18:58:35Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -841,6 +841,51 @@
       "FileName": "Schowek.zip",
       "Sha256": "f270d6e4e19581604ac825c81917d70f10617eb1a341f120c807d1a45419c5b3",
       "Size": 146575,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
+    },
+    {
+      "Id": "tabliczka",
+      "Name": "Tabliczka",
+      "Publisher": "AppsForPeople",
+      "Category": "Rodzina",
+      "Version": "1.0.0",
+      "Price": "5 zł / miesiąc",
+      "Color": "#FACC15",
+      "Featured": false,
+      "Type": "zip",
+      "Launch": "Tabliczka.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/icon.png?v=639306251120096897",
+      "Tagline": {
+        "pl": "Nauka przez zabawę dla dzieci: tabliczka mnożenia, dodawanie, odejmowanie, ortografia.",
+        "en": "Learning through play: times tables, addition, subtraction and Polish spelling.",
+        "ro": "Învățare prin joacă: tabla înmulțirii, adunare, scădere, ortografie.",
+        "de": "Spielend lernen: Einmaleins, Addition, Subtraktion, Rechtschreibung."
+      },
+      "Description": {
+        "pl": "Tabliczka to prosta gra dla dzieci z klas 1–3: duże przyciski, gwiazdki za dobre odpowiedzi i serie. Bez reklam, czatów i zakupów w grze.\n\nW PRO: ortografia (ó/u, rz/ż, ch/h, ą/ę), poziomy do 20 i do 100 oraz raport dla rodzica – co dziecku idzie dobrze, a co trzeba jeszcze poćwiczyć.",
+        "en": "Tabliczka is a simple game for grades 1–3: big buttons, stars for right answers and streaks. No ads, chats or in-game purchases.\n\nWith PRO: Polish spelling (ó/u, rz/ż, ch/h, ą/ę), levels up to 20 and 100 and a parent report showing what goes well and what needs practice.",
+        "ro": "Tabliczka este un joc simplu pentru clasele 1–3, fără reclame.\n\nCu PRO: ortografie poloneză, niveluri până la 20 și 100 și raport pentru părinți.",
+        "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.0/Tabliczka.zip",
+      "FileName": "Tabliczka.zip",
+      "Sha256": "3236df307a66ff7e52951b91e5894b2567f7afc39e3da1b1c9786a23016bde08",
+      "Size": 161703,
       "Args": null,
       "UninstallName": null,
       "Shots": [
