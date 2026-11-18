@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:05:50Z",
+  "Updated": "2026-11-18T22:05:55Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -970,13 +970,13 @@
       "Name": "Kilometrówka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.1/Kilometrowka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.2/Kilometrowka.zip",
       "FileName": "Kilometrowka.zip",
-      "Sha256": "c1f6c7a3bf323380869e59f9ef0f11e35f7d27be808282f8ffb53bb4c81cdabf",
-      "Size": 154941,
+      "Sha256": "fc361f27c17b88d25020503189684455eb545403f2b8347310211da0d664d2f6",
+      "Size": 155282,
       "Args": null,
       "Launch": "Kilometrowka.exe",
       "UninstallName": null,
@@ -992,7 +992,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Kilometrówka",
+        "en": "Mileage Log",
+        "ro": "Foaie de parcurs",
+        "de": "Fahrtenbuch"
       },
       "Tagline": {
         "pl": "Ewidencja przebiegu pojazdu: trasy, cele, kierowca – wydruk miesięczny dla księgowej.",
@@ -1007,10 +1010,10 @@
         "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
