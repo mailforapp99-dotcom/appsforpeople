@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:38:46Z",
+  "Updated": "2026-11-18T21:47:48Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -528,51 +528,6 @@
         "en": "Automatyk does quick conversions for panel building and commissioning: 4–20 mA / 0–10 V ↔ physical value ↔ S7 raw value (0–27648), PT100/PT500/PT1000 ↔ temperature per IEC 60751 and Ohm\u0027s law with power. Works offline.\n\nWith PRO: motor rated current from power, cable voltage drop with smallest cross-section, calculation history with device tags and a PDF report for project documentation.",
         "ro": "Automatyk face conversii rapide: 4–20 mA ↔ valoare fizică ↔ valoare brută S7, PT100 ↔ temperatură, legea lui Ohm. Funcționează offline.\n\nCu PRO: curent motor, cădere de tensiune și secțiune minimă, istoric și raport PDF.",
         "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
-      },
-      "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      }
-    },
-    {
-      "Id": "ekran",
-      "Name": "Ekran",
-      "Publisher": "AppsForPeople",
-      "Category": "Narzędzia",
-      "Version": "1.0.1",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.1/Ekran.zip",
-      "FileName": "Ekran.zip",
-      "Sha256": "c2860e0feba9ab3b7466032fc4dd6b7f824d6aa40214d51e8b4a21a7b1e238b0",
-      "Size": 140137,
-      "Args": null,
-      "Launch": "Ekran.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/icon.png?v=639306250655743138",
-      "Shots": [
-        
-      ],
-      "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#F59E0B",
-      "Featured": false,
-      "Hidden": false,
-      "Tagline": {
-        "pl": "Ochrona oczu: ciepłe barwy i przyciemnianie wieczorem, przerwy 20-20-20.",
-        "en": "Eye care: warm colours and dimming in the evening, 20-20-20 breaks.",
-        "ro": "Protecția ochilor: culori calde seara și pauze 20-20-20.",
-        "de": "Augenschutz: warme Farben und Dimmen am Abend, 20-20-20-Pausen."
-      },
-      "Description": {
-        "pl": "Ekran ociepla barwy monitora i zmniejsza jasność, żeby oczy mniej się męczyły, a wieczorem łatwiej było zasnąć. Przypomina też o przerwie dla oczu według zasady 20-20-20. Po zamknięciu barwy wracają do normy.\n\nW PRO: automatyczne, płynne ocieplanie wieczorem według godzin, profile (dzień, praca wieczorem, noc, film) i licznik czasu przy ekranie każdego dnia.",
-        "en": "Ekran warms the monitor colours and lowers brightness so your eyes tire less and falling asleep is easier. It also reminds you to rest your eyes (20-20-20 rule). Colours return to normal on exit.\n\nWith PRO: automatic, smooth evening warming by schedule, profiles (day, evening work, night, movie) and a daily screen-time counter.",
-        "ro": "Ekran încălzește culorile și reduce luminozitatea, plus pauze pentru ochi.\n\nCu PRO: încălzire automată seara, profiluri și contor de timp la ecran.",
-        "de": "Ekran macht die Farben wärmer und dimmt, dazu Augenpausen.\n\nMit PRO: automatische Abendwärme, Profile und täglicher Bildschirmzeit-Zähler."
       },
       "Changelog": {
         "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
