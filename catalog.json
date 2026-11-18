@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T18:59:32Z",
+  "Updated": "2026-11-18T19:23:23Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -933,6 +933,51 @@
         "en": "Zrzut selects part of the screen (Ctrl+Shift+S from any program); add arrows, boxes and text, then copy the image into an e-mail or save it as PNG.\n\nWith PRO: blurring personal data, numbered steps and a step-by-step PDF guide from many screenshots – for a client, colleague or parent.",
         "ro": "Zrzut selectează o zonă a ecranului; adaugi săgeți și text, apoi copiezi sau salvezi PNG.\n\nCu PRO: estompare, pași numerotați și ghid PDF pas cu pas.",
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "kilometrowka",
+      "Name": "Kilometrówka",
+      "Publisher": "AppsForPeople",
+      "Category": "Biuro",
+      "Version": "1.0.0",
+      "Date": "2026-11-18",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.0/Kilometrowka.zip",
+      "FileName": "Kilometrowka.zip",
+      "Sha256": "a953f2877e48a8720ea9f07009f8b99f4716def7a9acb70824d0264ffd5bc67b",
+      "Size": 152967,
+      "Args": null,
+      "Launch": "Kilometrowka.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/icon.png?v=639306265993052363",
+      "Shots": [
+        
+      ],
+      "Price": "9 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#60A5FA",
+      "Featured": false,
+      "Hidden": false,
+      "Tagline": {
+        "pl": "Ewidencja przebiegu pojazdu: trasy, cele, kierowca – wydruk miesięczny dla księgowej.",
+        "en": "Vehicle mileage log: trips, purposes, driver – monthly printout for your accountant.",
+        "ro": "Evidența parcursului: trasee, scop, șofer – raport lunar.",
+        "de": "Fahrtenbuch: Strecken, Zweck, Fahrer – Monatsausdruck für den Steuerberater."
+      },
+      "Description": {
+        "pl": "Kilometrówka zapisuje każdy wyjazd służbowy: datę, trasę skąd–dokąd, cel wyjazdu, liczbę kilometrów i kierowcę. Podpowiada miejsca z poprzednich wpisów, a „Dodaj powrót” wpisuje drogę z powrotem jednym kliknięciem.\n\nW PRO: ewidencja przebiegu w PDF gotowa dla księgowej, kilka pojazdów, powtarzanie stałych tras i eksport CSV.",
+        "en": "Kilometrówka logs every business trip: date, route from–to, purpose, kilometres and driver. It suggests places from earlier entries, and “Add return” logs the way back with one click.\n\nWith PRO: mileage log PDF ready for your accountant, several vehicles, repeating regular trips and CSV export.",
+        "ro": "Kilometrówka notează fiecare deplasare: data, traseul, scopul, km și șoferul.\n\nCu PRO: evidență PDF, mai multe vehicule, repetarea traseelor și export CSV.",
+        "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
