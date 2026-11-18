@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:36:55Z",
+  "Updated": "2026-11-18T21:37:00Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -946,13 +946,13 @@
       "Name": "Kilometrówka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.0/Kilometrowka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.1/Kilometrowka.zip",
       "FileName": "Kilometrowka.zip",
-      "Sha256": "a953f2877e48a8720ea9f07009f8b99f4716def7a9acb70824d0264ffd5bc67b",
-      "Size": 152967,
+      "Sha256": "c1f6c7a3bf323380869e59f9ef0f11e35f7d27be808282f8ffb53bb4c81cdabf",
+      "Size": 154941,
       "Args": null,
       "Launch": "Kilometrowka.exe",
       "UninstallName": null,
@@ -980,10 +980,10 @@
         "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
