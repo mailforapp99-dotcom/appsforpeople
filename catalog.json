@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:28:30Z",
+  "Updated": "2026-11-18T19:28:36Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -586,13 +586,13 @@
       "Name": "Godziny",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.0/Godziny.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.1/Godziny.zip",
       "FileName": "Godziny.zip",
-      "Sha256": "fb4b11c787afc609504742ea3fc4d1003fb03e98cd2d89501920f987c9586a57",
-      "Size": 167378,
+      "Sha256": "db7a9c9f806ad8ed8f06b130aa37c34c47e289146762d8554b327bf782b7be3d",
+      "Size": 167646,
       "Args": null,
       "Launch": "Godziny.exe",
       "UninstallName": null,
@@ -600,7 +600,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "9 zł / miesiąc",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -620,10 +620,10 @@
         "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
+        "en": "New PRO price matching the appsforpeople.pl shop.",
+        "ro": "Preț PRO nou, conform magazinului.",
+        "de": "Neuer PRO-Preis wie im Shop."
       }
     },
     {
