@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:21:50Z",
+  "Updated": "2026-11-18T09:21:54Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -226,13 +226,13 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.4",
+      "Version": "1.1.5",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.4/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.5/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "3974f178d3cef82916cab580dae83587595fa2084cbe1166a3e0094e71c5ecf0",
-      "Size": 4352904,
+      "Sha256": "f59ffa0a32206dd1dc251282a0a0437a8449e7baee00e11c1ef72858a3d0cf57",
+      "Size": 4356828,
       "Args": "",
       "Launch": "Teczka.exe",
       "UninstallName": "",
@@ -260,10 +260,10 @@
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
-        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
-        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
-        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
-        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
+        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
+        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
+        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
+        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
       }
     },
     {
