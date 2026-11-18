@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:07:06Z",
+  "Updated": "2026-11-18T22:07:11Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -907,13 +907,13 @@
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.1/Tabliczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.2/Tabliczka.zip",
       "FileName": "Tabliczka.zip",
-      "Sha256": "8aa037f64585b9d3bf5b18c6bb2b90139f62fb732e71f9c1900e76b52b86e023",
-      "Size": 163742,
+      "Sha256": "e915b3b5029bc84d47f2629d3d52f71620badb0bf90957ad6a7dd5601038778e",
+      "Size": 164113,
       "Args": null,
       "Launch": "Tabliczka.exe",
       "UninstallName": null,
@@ -929,7 +929,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Tabliczka",
+        "en": "Times Tables",
+        "ro": "Tabla înmulțirii",
+        "de": "Einmaleins"
       },
       "Tagline": {
         "pl": "Nauka przez zabawę dla dzieci: tabliczka mnożenia, dodawanie, odejmowanie, ortografia.",
@@ -944,10 +947,10 @@
         "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
