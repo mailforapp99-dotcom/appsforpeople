@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:38:24Z",
+  "Updated": "2026-11-18T21:38:29Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -226,13 +226,13 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.6",
+      "Version": "1.1.7",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.6/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.7/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "f268a4b9a8f2352b036ac373b79923ec6b27e07e4b4b75f8bc27d62b136de166",
-      "Size": 4356839,
+      "Sha256": "42b4cbf1ff55924d8cd836cdcab9a33de6661548f49a923be969e52b92a9e479",
+      "Size": 4358357,
       "Args": "",
       "Launch": "Teczka.exe",
       "UninstallName": "",
@@ -260,10 +260,10 @@
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
-        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
-        "en": "New PRO price matching the appsforpeople.pl shop.",
-        "ro": "Preț PRO nou, conform magazinului.",
-        "de": "Neuer PRO-Preis wie im Shop."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
