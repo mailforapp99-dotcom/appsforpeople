@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T19:28:51Z",
+  "Updated": "2026-11-18T19:28:57Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -901,13 +901,13 @@
       "Name": "Zrzut",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.0/Zrzut.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.1/Zrzut.zip",
       "FileName": "Zrzut.zip",
-      "Sha256": "554826f36a5606ac65c50bcd48736b0c9d566f15df348fa36f1d805a9c342d7b",
-      "Size": 154595,
+      "Sha256": "512029748f1c31453a45f0f939c657a26c9fa0ac54e80cc683314fc2982698fa",
+      "Size": 154844,
       "Args": null,
       "Launch": "Zrzut.exe",
       "UninstallName": null,
@@ -915,7 +915,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "9 zł / miesiąc",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -935,10 +935,10 @@
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
+        "en": "New PRO price matching the appsforpeople.pl shop.",
+        "ro": "Preț PRO nou, conform magazinului.",
+        "de": "Neuer PRO-Preis wie im Shop."
       }
     },
     {
