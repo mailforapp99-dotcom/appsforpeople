@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:21:40Z",
+  "Updated": "2026-11-18T09:21:45Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -46,13 +46,13 @@
       "Name": "Porządek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.5/Porzadek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.6/Porzadek.zip",
       "FileName": "Porzadek.zip",
-      "Sha256": "ec01085723576525d2246e2de6b6ed8cd165d58814b1d818a79de5a773831576",
-      "Size": 157563,
+      "Sha256": "a38684e0ff392aae687108e009e61414391386fa07a3e07f30f477c950fe6882",
+      "Size": 161616,
       "Args": "",
       "Launch": "Porzadek.exe",
       "UninstallName": "",
@@ -80,10 +80,10 @@
         "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nMit PRO arbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
       },
       "Changelog": {
-        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
-        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
-        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
-        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
+        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
+        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
+        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
+        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
       }
     },
     {
