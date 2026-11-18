@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:37:34Z",
+  "Updated": "2026-11-18T21:37:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1036,13 +1036,13 @@
       "Name": "Pomiary",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.0/Pomiary.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.1/Pomiary.zip",
       "FileName": "Pomiary.zip",
-      "Sha256": "05958fd63dda2bdc9e69e84149183de20977080635cc38e7b7f87969604465db",
-      "Size": 160971,
+      "Sha256": "2a32a22fc620555fc196ca8200de91e84ea7769718db1e1127dd6ae11dbb18fa",
+      "Size": 162845,
       "Args": null,
       "Launch": "Pomiary.exe",
       "UninstallName": null,
@@ -1070,10 +1070,10 @@
         "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
