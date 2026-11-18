@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T09:04:58Z",
+  "Updated": "2026-11-18T09:21:31Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -181,13 +181,13 @@
       "Name": "Łącze",
       "Publisher": "AppsForPeople",
       "Category": "Internet",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.5/Lacze.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.6/Lacze.zip",
       "FileName": "Lacze.zip",
-      "Sha256": "5c28b3e85aa2fcd4649c10f011cfb7dc2b73fd425edea87b890d4d1ff991cc6d",
-      "Size": 181389,
+      "Sha256": "e65d37d551438d9d3068bd545d805a7605140b293383e4002b2743c56008802b",
+      "Size": 185185,
       "Args": "",
       "Launch": "Lacze.exe",
       "UninstallName": "",
@@ -215,10 +215,10 @@
         "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
       },
       "Changelog": {
-        "pl": "Połączenie z appsforpeople.pl: czat z twórcą w zakładce Kontakt, zakup licencji online i automatyczne pobieranie kupionej licencji.",
-        "en": "Connected to appsforpeople.pl: chat with the developer in the Contact tab, online licence purchase and automatic licence download.",
-        "ro": "Conectat la appsforpeople.pl: chat cu dezvoltatorul în fila Contact, cumpărare online și descărcare automată a licenței.",
-        "de": "Verbunden mit appsforpeople.pl: Chat mit dem Entwickler im Reiter Kontakt, Online-Lizenzkauf und automatischer Lizenzabruf."
+        "pl": "Nowa strona startowa z kafelkami. Teczka: otwarty PDF od razu na cały ekran (F11 / „Pełny ekran”, Esc przywraca menu).",
+        "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
+        "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
+        "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
       }
     },
     {
