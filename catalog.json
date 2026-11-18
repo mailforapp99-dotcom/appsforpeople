@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:06:21Z",
+  "Updated": "2026-11-18T22:06:26Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -694,13 +694,13 @@
       "Name": "Pisma",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.2/Pisma.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.3/Pisma.zip",
       "FileName": "Pisma.zip",
-      "Sha256": "854b3f7d9fa593000537fc44d4046c2983597824ab1726cb5997d1fd8c751cd4",
-      "Size": 139407,
+      "Sha256": "6cc939469d008d6523392a66039c73ec4416cc75c0c2db1ca28b78f49633033e",
+      "Size": 139722,
       "Args": null,
       "Launch": "Pisma.exe",
       "UninstallName": null,
@@ -716,7 +716,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Pisma",
+        "en": "Letters",
+        "ro": "Scrisori",
+        "de": "Schreiben"
       },
       "Tagline": {
         "pl": "Generator pism: reklamacja, odstąpienie, wypowiedzenie, wezwanie do zapłaty – z logo, do PDF.",
@@ -731,10 +734,10 @@
         "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
