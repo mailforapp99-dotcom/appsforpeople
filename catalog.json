@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:37:06Z",
+  "Updated": "2026-11-18T21:37:11Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -631,13 +631,13 @@
       "Name": "Liczniki",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.0/Liczniki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.1/Liczniki.zip",
       "FileName": "Liczniki.zip",
-      "Sha256": "4ca13e27524dd10418a2c0444c02ede703731db487fc6e074926d158f1412379",
-      "Size": 156746,
+      "Sha256": "13a24b062f39422f38d61268983ca0bb6c5440ed8dc629d4607373e74022e4f3",
+      "Size": 158697,
       "Args": null,
       "Launch": "Liczniki.exe",
       "UninstallName": null,
@@ -665,10 +665,10 @@
         "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
