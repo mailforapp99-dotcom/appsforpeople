@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:37:11Z",
+  "Updated": "2026-11-18T21:37:17Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -991,13 +991,13 @@
       "Name": "Najem",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.0/Najem.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.1/Najem.zip",
       "FileName": "Najem.zip",
-      "Sha256": "ea4ada82fa0f34e6e1346aed0edcc24a6d6af490633c01f8ca4b4e005575a706",
-      "Size": 135315,
+      "Sha256": "696c0e80b42d64d7065f8aab745d77d466d791775e31513321fae304d4401cac",
+      "Size": 137248,
       "Args": null,
       "Launch": "Najem.exe",
       "UninstallName": null,
@@ -1025,10 +1025,10 @@
         "de": "Najem zeigt, wer die Miete gezahlt hat und wer im Rückstand ist.\n\nMit PRO: mehrere Wohnungen, Jahresübersicht als PDF/CSV und Erinnerungen."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
       }
     },
     {
