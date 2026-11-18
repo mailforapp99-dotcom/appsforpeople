@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T21:36:40Z",
+  "Updated": "2026-11-18T21:36:44Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -47,26 +47,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.6",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.6/Porzadek.zip",
-      "FileName": "Porzadek.zip",
-      "Sha256": "a38684e0ff392aae687108e009e61414391386fa07a3e07f30f477c950fe6882",
-      "Size": 161616,
-      "Args": "",
-      "Launch": "Porzadek.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#F2B544",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Porzadek.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
       "Tagline": {
         "pl": "Sam układa bałagan w folderze Pobrane – dokumenty, zdjęcia i instalatory trafiają na swoje miejsce.",
         "en": "Tidies your messy Downloads folder – documents, photos and installers go where they belong.",
@@ -84,7 +70,21 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.6/Porzadek.zip",
+      "FileName": "Porzadek.zip",
+      "Sha256": "a38684e0ff392aae687108e009e61414391386fa07a3e07f30f477c950fe6882",
+      "Size": 161616,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "opiekun",
@@ -92,26 +92,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.5",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.5/Opiekun.zip",
-      "FileName": "Opiekun.zip",
-      "Sha256": "aa8ad7b0615076a39dba4a504f491c49f22c346b0581969c0b657295ecacdb1b",
-      "Size": 349984,
-      "Args": "",
-      "Launch": "Opiekun.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#A78BFA",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Opiekun.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
       "Tagline": {
         "pl": "Uczciwa kontrola rodzicielska: limity czasu przy komputerze, dozwolone godziny i prośby o więcej czasu.",
         "en": "Fair parental control: computer time limits, allowed hours and requests for extra time.",
@@ -129,7 +115,21 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.5/Opiekun.zip",
+      "FileName": "Opiekun.zip",
+      "Sha256": "aa8ad7b0615076a39dba4a504f491c49f22c346b0581969c0b657295ecacdb1b",
+      "Size": 349984,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "straznik",
@@ -137,26 +137,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.6",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.6/Straznik.zip",
-      "FileName": "Straznik.zip",
-      "Sha256": "9df1cf1556edee8c104846bb492e4d3d7213f23feecbd7a04a26d3eecd57f6c3",
-      "Size": 184051,
-      "Args": "",
-      "Launch": "Straznik.exe",
-      "UninstallName": "Strażnik",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#4FD1C5",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Straznik.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
         "en": "Watches your disks\u0027 health and warns you before you lose your photos and files.",
@@ -174,7 +160,21 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.6/Straznik.zip",
+      "FileName": "Straznik.zip",
+      "Sha256": "9df1cf1556edee8c104846bb492e4d3d7213f23feecbd7a04a26d3eecd57f6c3",
+      "Size": 184051,
+      "Args": "",
+      "UninstallName": "Strażnik",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "lacze",
@@ -182,26 +182,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Internet",
       "Version": "1.0.6",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.6/Lacze.zip",
-      "FileName": "Lacze.zip",
-      "Sha256": "e65d37d551438d9d3068bd545d805a7605140b293383e4002b2743c56008802b",
-      "Size": 185185,
-      "Args": "",
-      "Launch": "Lacze.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#5AA9FF",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Lacze.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
       "Tagline": {
         "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
         "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
@@ -219,7 +205,21 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.6/Lacze.zip",
+      "FileName": "Lacze.zip",
+      "Sha256": "e65d37d551438d9d3068bd545d805a7605140b293383e4002b2743c56008802b",
+      "Size": 185185,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "teczka",
@@ -227,26 +227,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.6",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.6/Teczka.zip",
-      "FileName": "Teczka.zip",
-      "Sha256": "f268a4b9a8f2352b036ac373b79923ec6b27e07e4b4b75f8bc27d62b136de166",
-      "Size": 4356839,
-      "Args": "",
-      "Launch": "Teczka.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
-      "Shots": [
-        
-      ],
       "Price": "9 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
       "Color": "#FF7A6B",
       "Featured": true,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Teczka.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
       "Tagline": {
         "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
         "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
@@ -264,7 +250,21 @@
         "en": "New PRO price matching the appsforpeople.pl shop.",
         "ro": "Preț PRO nou, conform magazinului.",
         "de": "Neuer PRO-Preis wie im Shop."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.6/Teczka.zip",
+      "FileName": "Teczka.zip",
+      "Sha256": "f268a4b9a8f2352b036ac373b79923ec6b27e07e4b4b75f8bc27d62b136de166",
+      "Size": 4356839,
+      "Args": "",
+      "UninstallName": "",
+      "Shots": [
+        
+      ],
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Hidden": false
     },
     {
       "Id": "opiekun-dziecko",
@@ -272,26 +272,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.2.5",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.5/OpiekunDlaDziecka.zip",
-      "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "7454483a717cf931fb67c3d28222a1da04273ae2a27729f4beffd764a471dd1a",
-      "Size": 349624,
-      "Args": null,
-      "Launch": "Opiekun.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#C4B5FD",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Opiekun.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
       "Tagline": {
         "pl": "Instalator Opiekuna na komputer dziecka – limity czasu, prośby i sterowanie z komputera rodzica.",
         "en": "Opiekun installer for your child\u0027s computer – time limits, requests and control from the parent\u0027s computer.",
@@ -309,7 +295,21 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.5/OpiekunDlaDziecka.zip",
+      "FileName": "OpiekunDlaDziecka.zip",
+      "Sha256": "7454483a717cf931fb67c3d28222a1da04273ae2a27729f4beffd764a471dd1a",
+      "Size": 349624,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "teczka-podglad",
@@ -317,26 +317,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.1.5",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.5/TeczkaPodglad.zip",
-      "FileName": "TeczkaPodglad.zip",
-      "Sha256": "e897ad25ce051470752cb62e16b7446c6f6e2c56807a436e7f550e7996a5d88c",
-      "Size": 4356060,
-      "Args": null,
-      "Launch": "TeczkaPodglad.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
-      "Shots": [
-        
-      ],
       "Price": "Za darmo",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#FF7A6B",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "TeczkaPodglad.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Tagline": {
         "pl": "Darmowy, szybki czytnik PDF: czytaj, szukaj, drukuj – bez reklam i bez wysyłania plików.",
         "en": "A free, fast PDF reader: read, search, print – no ads, no uploads.",
@@ -354,7 +340,21 @@
         "en": "New home page with tiles. Teczka: an opened PDF fills the whole screen (F11 / “Full screen”, Esc restores the menu).",
         "ro": "Pagină de start nouă cu plăci. Teczka: PDF-ul deschis ocupă tot ecranul (F11 / „Ecran complet”, Esc readuce meniul).",
         "de": "Neue Startseite mit Kacheln. Teczka: geöffnete PDF im Vollbild (F11 / „Vollbild“, Esc zeigt das Menü)."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.5/TeczkaPodglad.zip",
+      "FileName": "TeczkaPodglad.zip",
+      "Sha256": "e897ad25ce051470752cb62e16b7446c6f6e2c56807a436e7f550e7996a5d88c",
+      "Size": 4356060,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "rachunki",
@@ -362,26 +362,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Finanse",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rachunki-v1.0.0/Rachunki.zip",
-      "FileName": "Rachunki.zip",
-      "Sha256": "63cef15c347ee338b6898a238310dbdbb3f6e38c947ac981bffb92f4f7d82fbd",
-      "Size": 155898,
-      "Args": null,
-      "Launch": "Rachunki.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/icon.png?v=639306219420944148",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#A78BFA",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Rachunki.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/icon.png?v=639306219420944148",
       "Tagline": {
         "pl": "Dochody, opłaty i ile naprawdę zostaje w miesiącu – z podziałem rachunków i listą, kto ma Ci oddać.",
         "en": "Income, bills and what\u0027s really left each month – with shared bills and a list of who owes you.",
@@ -399,7 +385,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rachunki-v1.0.0/Rachunki.zip",
+      "FileName": "Rachunki.zip",
+      "Sha256": "63cef15c347ee338b6898a238310dbdbb3f6e38c947ac981bffb92f4f7d82fbd",
+      "Size": 155898,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "terminy",
@@ -407,26 +407,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.0/Terminy.zip",
-      "FileName": "Terminy.zip",
-      "Sha256": "d1e40ca3c857cf86773933e1c220b5efa9f6ad73dcd8d54357904ed86896f204",
-      "Size": 130919,
-      "Args": null,
-      "Launch": "Terminy.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/icon.png?v=639306248913972063",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#F59E6B",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Terminy.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/icon.png?v=639306248913972063",
       "Tagline": {
         "pl": "Przegląd auta, OC, dowód, paszport, wizyty – przypomni Ci na czas, zanim zapłacisz karę.",
         "en": "Car inspection, insurance, ID, passport, appointments – reminds you in time, before you pay a penalty.",
@@ -444,7 +430,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.0/Terminy.zip",
+      "FileName": "Terminy.zip",
+      "Sha256": "d1e40ca3c857cf86773933e1c220b5efa9f6ad73dcd8d54357904ed86896f204",
+      "Size": 130919,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "auto",
@@ -452,26 +452,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.1",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.1/Auto.zip",
-      "FileName": "Auto.zip",
-      "Sha256": "27f9d6f86615bf2db5a3986b41d419c8efc7bf97d8a86dd5d11c65a5aab8dd3d",
-      "Size": 164542,
-      "Args": null,
-      "Launch": "Auto.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/icon.png?v=639306250522543695",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#FB923C",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Auto.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/icon.png?v=639306250522543695",
       "Tagline": {
         "pl": "Tankowania, spalanie i koszt kilometra – a w PRO serwisy, OC, przegląd i historia PDF.",
         "en": "Refuels, consumption and cost per km – with PRO: service, insurance, inspection and PDF history.",
@@ -489,34 +475,34 @@
         "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
         "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
         "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.1/Auto.zip",
+      "FileName": "Auto.zip",
+      "Sha256": "27f9d6f86615bf2db5a3986b41d419c8efc7bf97d8a86dd5d11c65a5aab8dd3d",
+      "Size": 164542,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "automatyk",
       "Name": "Automatyk",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.1",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.1/Automatyk.zip",
-      "FileName": "Automatyk.zip",
-      "Sha256": "ae49e477f07da533b41cdb66cd2c9aa6407fd34b98a3c3ae4cf042dc1612f596",
-      "Size": 154491,
-      "Args": null,
-      "Launch": "Automatyk.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/icon.png?v=639306250594013735",
-      "Shots": [
-        
-      ],
+      "Version": "1.0.2",
       "Price": "19 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#38BDF8",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Automatyk.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/icon.png?v=639306250594013735",
       "Tagline": {
         "pl": "Kalkulator automatyka: 4–20 mA, wartości PLC, PT100, prąd silnika, przekrój przewodu.",
         "en": "Automation calculator: 4–20 mA, PLC raw values, PT100, motor current, cable sizing.",
@@ -530,11 +516,25 @@
         "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
       },
       "Changelog": {
-        "pl": "Nowa cena PRO zgodna ze sklepem na appsforpeople.pl.",
-        "en": "New PRO price matching the appsforpeople.pl shop.",
-        "ro": "Preț PRO nou, conform magazinului.",
-        "de": "Neuer PRO-Preis wie im Shop."
-      }
+        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
+        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
+        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
+        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.2/Automatyk.zip",
+      "FileName": "Automatyk.zip",
+      "Sha256": "a2c1f48ac7125519ea6f3e47f8f07e889b80ed09197b968b1ee4d238224678cb",
+      "Size": 156170,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "ekran",
@@ -542,26 +542,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.0/Ekran.zip",
-      "FileName": "Ekran.zip",
-      "Sha256": "03c2da5e95bd39d1d00be55652867c99eb53e01fb276c64726e80047e0a69406",
-      "Size": 138095,
-      "Args": null,
-      "Launch": "Ekran.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/icon.png?v=639306250655743138",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#F59E0B",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Ekran.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/icon.png?v=639306250655743138",
       "Tagline": {
         "pl": "Ochrona oczu: ciepłe barwy i przyciemnianie wieczorem, przerwy 20-20-20.",
         "en": "Eye care: warm colours and dimming in the evening, 20-20-20 breaks.",
@@ -579,7 +565,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.0/Ekran.zip",
+      "FileName": "Ekran.zip",
+      "Sha256": "03c2da5e95bd39d1d00be55652867c99eb53e01fb276c64726e80047e0a69406",
+      "Size": 138095,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "godziny",
@@ -587,26 +587,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.1",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.1/Godziny.zip",
-      "FileName": "Godziny.zip",
-      "Sha256": "db7a9c9f806ad8ed8f06b130aa37c34c47e289146762d8554b327bf782b7be3d",
-      "Size": 167646,
-      "Args": null,
-      "Launch": "Godziny.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/icon.png?v=639306250721535025",
-      "Shots": [
-        
-      ],
       "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#4FD1C5",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Godziny.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/icon.png?v=639306250721535025",
       "Tagline": {
         "pl": "Ewidencja czasu pracy: start/stop, projekty i zestawienie PDF dla klienta.",
         "en": "Time tracking: start/stop, projects and a PDF summary for the client.",
@@ -624,7 +610,21 @@
         "en": "New PRO price matching the appsforpeople.pl shop.",
         "ro": "Preț PRO nou, conform magazinului.",
         "de": "Neuer PRO-Preis wie im Shop."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.1/Godziny.zip",
+      "FileName": "Godziny.zip",
+      "Sha256": "db7a9c9f806ad8ed8f06b130aa37c34c47e289146762d8554b327bf782b7be3d",
+      "Size": 167646,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "liczniki",
@@ -632,26 +632,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.0/Liczniki.zip",
-      "FileName": "Liczniki.zip",
-      "Sha256": "4ca13e27524dd10418a2c0444c02ede703731db487fc6e074926d158f1412379",
-      "Size": 156746,
-      "Args": null,
-      "Launch": "Liczniki.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/icon.png?v=639306250788952423",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#34D399",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Liczniki.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/icon.png?v=639306250788952423",
       "Tagline": {
         "pl": "Prąd, gaz, woda: odczyty, zużycie i koszt – alarm, gdy zużycie nagle skoczy.",
         "en": "Power, gas, water: readings, usage and cost – an alarm when usage suddenly jumps.",
@@ -669,7 +655,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.0/Liczniki.zip",
+      "FileName": "Liczniki.zip",
+      "Sha256": "4ca13e27524dd10418a2c0444c02ede703731db487fc6e074926d158f1412379",
+      "Size": 156746,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "pisma",
@@ -677,26 +677,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.1",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.1/Pisma.zip",
-      "FileName": "Pisma.zip",
-      "Sha256": "f709cc4d6a71ff215282851c90902da8a257dadfda0d2198b7c6ab4ad908f000",
-      "Size": 137636,
-      "Args": null,
-      "Launch": "Pisma.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/icon.png?v=639306250854358924",
-      "Shots": [
-        
-      ],
       "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#7AA2FF",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Pisma.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/icon.png?v=639306250854358924",
       "Tagline": {
         "pl": "Generator pism: reklamacja, odstąpienie, wypowiedzenie, wezwanie do zapłaty – z logo, do PDF.",
         "en": "Letter generator: complaints, withdrawals, terminations, payment demands – with your logo, to PDF.",
@@ -714,7 +700,21 @@
         "en": "New PRO price matching the appsforpeople.pl shop.",
         "ro": "Preț PRO nou, conform magazinului.",
         "de": "Neuer PRO-Preis wie im Shop."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.1/Pisma.zip",
+      "FileName": "Pisma.zip",
+      "Sha256": "f709cc4d6a71ff215282851c90902da8a257dadfda0d2198b7c6ab4ad908f000",
+      "Size": 137636,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "porty",
@@ -722,26 +722,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Programiści",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.0/Porty.zip",
-      "FileName": "Porty.zip",
-      "Sha256": "63f68192c31dec66273d33565d0078d16f565bd44454698173ac0d1dbab9573b",
-      "Size": 161508,
-      "Args": null,
-      "Launch": "Porty.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porty/icon.png?v=639306250919000869",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#A3E635",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Porty.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porty/icon.png?v=639306250919000869",
       "Tagline": {
         "pl": "Dla programistów: który program zajmuje port, zamknięcie procesu i edytor PATH.",
         "en": "For developers: which program holds a port, end the process, PATH editor.",
@@ -759,7 +745,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.0/Porty.zip",
+      "FileName": "Porty.zip",
+      "Sha256": "63f68192c31dec66273d33565d0078d16f565bd44454698173ac0d1dbab9573b",
+      "Size": 161508,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "ramki",
@@ -767,26 +767,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Robotyka",
       "Version": "1.0.1",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.1/Ramki.zip",
-      "FileName": "Ramki.zip",
-      "Sha256": "28f4e18271fc1ae77453a0ddc9ea0ef3bf45e85530a6a021febed1fd2ac69246",
-      "Size": 156087,
-      "Args": null,
-      "Launch": "Ramki.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/icon.png?v=639306250991029975",
-      "Shots": [
-        
-      ],
       "Price": "19 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#F472B6",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Ramki.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/icon.png?v=639306250991029975",
       "Tagline": {
         "pl": "Układy współrzędnych robotów: KUKA ABC ↔ ABB kwaternion ↔ Fanuc WPR, base i TCP.",
         "en": "Robot frames: KUKA ABC ↔ ABB quaternion ↔ Fanuc WPR, base and TCP.",
@@ -804,7 +790,21 @@
         "en": "New PRO price matching the appsforpeople.pl shop.",
         "ro": "Preț PRO nou, conform magazinului.",
         "de": "Neuer PRO-Preis wie im Shop."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.1/Ramki.zip",
+      "FileName": "Ramki.zip",
+      "Sha256": "28f4e18271fc1ae77453a0ddc9ea0ef3bf45e85530a6a021febed1fd2ac69246",
+      "Size": 156087,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "schowek",
@@ -812,26 +812,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.0/Schowek.zip",
-      "FileName": "Schowek.zip",
-      "Sha256": "f270d6e4e19581604ac825c81917d70f10617eb1a341f120c807d1a45419c5b3",
-      "Size": 146575,
-      "Args": null,
-      "Launch": "Schowek.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/schowek/icon.png?v=639306251054250333",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#C084FC",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Schowek.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/schowek/icon.png?v=639306251054250333",
       "Tagline": {
         "pl": "Historia schowka: wszystko, co kopiujesz, z szukaniem od 2 liter.",
         "en": "Clipboard history: everything you copy, searchable from 2 letters.",
@@ -849,7 +835,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.0/Schowek.zip",
+      "FileName": "Schowek.zip",
+      "Sha256": "f270d6e4e19581604ac825c81917d70f10617eb1a341f120c807d1a45419c5b3",
+      "Size": 146575,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "tabliczka",
@@ -857,26 +857,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.0/Tabliczka.zip",
-      "FileName": "Tabliczka.zip",
-      "Sha256": "3236df307a66ff7e52951b91e5894b2567f7afc39e3da1b1c9786a23016bde08",
-      "Size": 161703,
-      "Args": null,
-      "Launch": "Tabliczka.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/icon.png?v=639306251120096897",
-      "Shots": [
-        
-      ],
       "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#FACC15",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Tabliczka.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/icon.png?v=639306251120096897",
       "Tagline": {
         "pl": "Nauka przez zabawę dla dzieci: tabliczka mnożenia, dodawanie, odejmowanie, ortografia.",
         "en": "Learning through play: times tables, addition, subtraction and Polish spelling.",
@@ -894,7 +880,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.0/Tabliczka.zip",
+      "FileName": "Tabliczka.zip",
+      "Sha256": "3236df307a66ff7e52951b91e5894b2567f7afc39e3da1b1c9786a23016bde08",
+      "Size": 161703,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "zrzut",
@@ -902,26 +902,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.1",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.1/Zrzut.zip",
-      "FileName": "Zrzut.zip",
-      "Sha256": "512029748f1c31453a45f0f939c657a26c9fa0ac54e80cc683314fc2982698fa",
-      "Size": 154844,
-      "Args": null,
-      "Launch": "Zrzut.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/icon.png?v=639306251183973058",
-      "Shots": [
-        
-      ],
       "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#FB7185",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Zrzut.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/icon.png?v=639306251183973058",
       "Tagline": {
         "pl": "Zrzut ekranu ze strzałkami i tekstem, zamazywanie danych i instrukcje krok po kroku w PDF.",
         "en": "Screenshots with arrows and text, data blurring and step-by-step PDF guides.",
@@ -939,7 +925,21 @@
         "en": "New PRO price matching the appsforpeople.pl shop.",
         "ro": "Preț PRO nou, conform magazinului.",
         "de": "Neuer PRO-Preis wie im Shop."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.1/Zrzut.zip",
+      "FileName": "Zrzut.zip",
+      "Sha256": "512029748f1c31453a45f0f939c657a26c9fa0ac54e80cc683314fc2982698fa",
+      "Size": 154844,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "kilometrowka",
@@ -947,26 +947,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.0/Kilometrowka.zip",
-      "FileName": "Kilometrowka.zip",
-      "Sha256": "a953f2877e48a8720ea9f07009f8b99f4716def7a9acb70824d0264ffd5bc67b",
-      "Size": 152967,
-      "Args": null,
-      "Launch": "Kilometrowka.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/icon.png?v=639306265993052363",
-      "Shots": [
-        
-      ],
       "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#60A5FA",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Kilometrowka.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/icon.png?v=639306265993052363",
       "Tagline": {
         "pl": "Ewidencja przebiegu pojazdu: trasy, cele, kierowca – wydruk miesięczny dla księgowej.",
         "en": "Vehicle mileage log: trips, purposes, driver – monthly printout for your accountant.",
@@ -984,7 +970,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.0/Kilometrowka.zip",
+      "FileName": "Kilometrowka.zip",
+      "Sha256": "a953f2877e48a8720ea9f07009f8b99f4716def7a9acb70824d0264ffd5bc67b",
+      "Size": 152967,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "najem",
@@ -992,26 +992,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Dom",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.0/Najem.zip",
-      "FileName": "Najem.zip",
-      "Sha256": "ea4ada82fa0f34e6e1346aed0edcc24a6d6af490633c01f8ca4b4e005575a706",
-      "Size": 135315,
-      "Args": null,
-      "Launch": "Najem.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/icon.png?v=639306266068059414",
-      "Shots": [
-        
-      ],
       "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#F87171",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Najem.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/icon.png?v=639306266068059414",
       "Tagline": {
         "pl": "Dla wynajmujących: czynsze, wpłaty, zaległości i kaucje – zestawienie roczne dla księgowej.",
         "en": "For landlords: rent, payments, arrears and deposits – yearly summary for your accountant.",
@@ -1029,7 +1015,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.0/Najem.zip",
+      "FileName": "Najem.zip",
+      "Sha256": "ea4ada82fa0f34e6e1346aed0edcc24a6d6af490633c01f8ca4b4e005575a706",
+      "Size": 135315,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "pomiary",
@@ -1037,26 +1037,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.0/Pomiary.zip",
-      "FileName": "Pomiary.zip",
-      "Sha256": "05958fd63dda2bdc9e69e84149183de20977080635cc38e7b7f87969604465db",
-      "Size": 160971,
-      "Args": null,
-      "Launch": "Pomiary.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/icon.png?v=639306266137339986",
-      "Shots": [
-        
-      ],
       "Price": "19 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#FBBF24",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Pomiary.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/icon.png?v=639306266137339986",
       "Tagline": {
         "pl": "Protokoły pomiarów elektrycznych: pętla zwarcia, izolacja, RCD – z automatyczną oceną i PDF.",
         "en": "Electrical test reports: loop impedance, insulation, RCD – automatic verdict and PDF.",
@@ -1074,7 +1060,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.0/Pomiary.zip",
+      "FileName": "Pomiary.zip",
+      "Sha256": "05958fd63dda2bdc9e69e84149183de20977080635cc38e7b7f87969604465db",
+      "Size": 160971,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     },
     {
       "Id": "serwis",
@@ -1082,26 +1082,12 @@
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
       "Version": "1.0.0",
-      "Date": "2026-11-18",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.0.0/Serwis.zip",
-      "FileName": "Serwis.zip",
-      "Sha256": "6ca1f883ec5e770750e3963c14a2732019a68d2045d95c8bfd8f08c2b44d452f",
-      "Size": 154738,
-      "Args": null,
-      "Launch": "Serwis.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/icon.png?v=639306266210937532",
-      "Shots": [
-        
-      ],
       "Price": "19 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
       "Color": "#2DD4BF",
       "Featured": false,
-      "Hidden": false,
+      "Type": "zip",
+      "Launch": "Serwis.exe",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/icon.png?v=639306266210937532",
       "Tagline": {
         "pl": "Protokół serwisowy z podpisem klienta na ekranie: prace, części, czas – gotowy PDF po wizycie.",
         "en": "Service report with the client\u0027s on-screen signature: work, parts, time – PDF right after the visit.",
@@ -1119,7 +1105,21 @@
         "en": "First version.",
         "ro": "Prima versiune.",
         "de": "Erste Version."
-      }
+      },
+      "Date": "2026-11-18",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.0.0/Serwis.zip",
+      "FileName": "Serwis.zip",
+      "Sha256": "6ca1f883ec5e770750e3963c14a2732019a68d2045d95c8bfd8f08c2b44d452f",
+      "Size": 154738,
+      "Args": null,
+      "UninstallName": null,
+      "Shots": [
+        
+      ],
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Hidden": false
     }
   ],
   "Launcher": {
