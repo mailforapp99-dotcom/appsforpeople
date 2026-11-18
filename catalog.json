@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:07:22Z",
+  "Updated": "2026-11-18T22:07:27Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -457,13 +457,13 @@
       "Name": "Terminy",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.1/Terminy.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.2/Terminy.zip",
       "FileName": "Terminy.zip",
-      "Sha256": "43809ba02b0445093adaf9d691b4db936acd8a96edb5d1fd0723269238601756",
-      "Size": 132928,
+      "Sha256": "8660fd139fde682f651e3ed5262c9efbb7aa4a3207fb78257d8888e2f16d2e2a",
+      "Size": 133290,
       "Args": null,
       "Launch": "Terminy.exe",
       "UninstallName": null,
@@ -479,7 +479,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Terminy",
+        "en": "Deadlines",
+        "ro": "Termene",
+        "de": "Fristen"
       },
       "Tagline": {
         "pl": "Przegląd auta, OC, dowód, paszport, wizyty – przypomni Ci na czas, zanim zapłacisz karę.",
@@ -494,10 +497,10 @@
         "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
