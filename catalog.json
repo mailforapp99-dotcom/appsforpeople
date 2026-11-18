@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-18T22:07:01Z",
+  "Updated": "2026-11-18T22:07:06Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -151,13 +151,13 @@
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-18",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.7/Straznik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.8/Straznik.zip",
       "FileName": "Straznik.zip",
-      "Sha256": "fc180b9a1ce87127a3ffd51d7dcf510a493e4cecf533c6f23b2c7a51b89cd6c7",
-      "Size": 185745,
+      "Sha256": "bea1ef084148a861794fe4b8eae7ab40e4e627a9cdee5cd49a6767282f501c42",
+      "Size": 186060,
       "Args": "",
       "Launch": "Straznik.exe",
       "UninstallName": "Strażnik",
@@ -173,7 +173,10 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        
+        "pl": "Strażnik",
+        "en": "Disk Guard",
+        "ro": "Paznicul discului",
+        "de": "Festplattenwächter"
       },
       "Tagline": {
         "pl": "Pilnuje zdrowia dysków i ostrzega, zanim stracisz zdjęcia i dokumenty.",
@@ -188,10 +191,10 @@
         "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nMit PRO läuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
       },
       "Changelog": {
-        "pl": "Okna dopasowują się do ekranu, kółko myszy przewija formularze, polskie litery działają z prawym Altem i z lewym Alt+litera.",
-        "en": "Windows fit the screen, the mouse wheel scrolls forms, and Polish letters work with AltGr.",
-        "ro": "Ferestrele se potrivesc ecranului, rotița mouse-ului derulează formularele, literele poloneze funcționează cu AltGr.",
-        "de": "Fenster passen sich dem Bildschirm an, das Mausrad scrollt Formulare, polnische Buchstaben funktionieren mit AltGr."
+        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
+        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
+        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
+        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
       }
     },
     {
