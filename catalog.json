@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:08:11Z",
+  "Updated": "2026-11-20T22:08:21Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -624,21 +624,21 @@
       "Name": "Godziny",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.7/Godziny.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.8/Godziny.zip",
       "FileName": "Godziny.zip",
-      "Sha256": "ba8ab2c05e675daa07aacba5f55d49ff98bbcd92ab9f138a00ab89ee3ae7ea2f",
-      "Size": 922416,
+      "Sha256": "2ba0652e463951b2ec70e5894607bfc90984592fdef0dabb4742c234e0596613",
+      "Size": 924469,
       "Args": null,
       "Launch": "Godziny.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/icon.png?v=639306250721535025",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120214112-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120214114-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120214116-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120220812-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120220814-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120220816-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -666,10 +666,10 @@
         "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
