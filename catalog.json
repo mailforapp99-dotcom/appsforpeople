@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:44:15Z",
+  "Updated": "2026-11-20T21:44:24Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -463,20 +463,20 @@
       "Name": "Terminy",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.4",
+      "Version": "1.0.6",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.4/Terminy.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.6/Terminy.zip",
       "FileName": "Terminy.zip",
-      "Sha256": "d5efc75c0e7e6b684658a49ec5aa3038644aa102b5a6db6805c79b42d3cb3548",
-      "Size": 547109,
+      "Sha256": "70c37b13b8901f5e8a99aeb095e7ee6838eda2e0c253a27ed3efdfc2411c6559",
+      "Size": 551014,
       "Args": null,
       "Launch": "Terminy.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/icon.png?v=639306248913972063",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120200226-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120200228-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120214417-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120214419-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -504,10 +504,10 @@
         "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
