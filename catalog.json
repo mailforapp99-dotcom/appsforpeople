@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:42:00Z",
+  "Updated": "2026-11-20T21:42:10Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1091,21 +1091,21 @@
       "Name": "Najem",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.4",
+      "Version": "1.0.6",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.4/Najem.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.6/Najem.zip",
       "FileName": "Najem.zip",
-      "Sha256": "e114d66a3543f0d03ae550690580e68286dd1c52953997ff4a6e5f2eb0785140",
-      "Size": 855931,
+      "Sha256": "7337e1429dd6e369aaa08f7b2fc9f1e3a0886a45128b59c478ed0ed6f829ecf8",
+      "Size": 859723,
       "Args": null,
       "Launch": "Najem.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/icon.png?v=639306266068059414",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120200019-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120200021-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120200023-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120214201-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120214203-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120214205-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1133,10 +1133,10 @@
         "de": "Najem zeigt, wer die Miete gezahlt hat und wer im Rückstand ist.\n\nMit PRO: mehrere Wohnungen, Jahresübersicht als PDF/CSV und Erinnerungen."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
