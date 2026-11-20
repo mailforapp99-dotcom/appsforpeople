@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:40:10Z",
+  "Updated": "2026-11-20T21:40:20Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1504,6 +1504,58 @@
         "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
         "ro": "Încearcă PRO gratuit 7 zile.",
         "de": "PRO 7 Tage kostenlos testen."
+      }
+    },
+    {
+      "Id": "budowa",
+      "Name": "Kalkulatory budowlane",
+      "Publisher": "AppsForPeople",
+      "Category": "Dom",
+      "Version": "1.0.1",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.1/Budowa.zip",
+      "FileName": "Budowa.zip",
+      "Sha256": "2ba05fa65fc08aad0edf2b074818aee1f07cb030267da7e0727f114d76ce6d18",
+      "Size": 626602,
+      "Args": null,
+      "Launch": "Budowa.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/icon.png?v=639308076135658234",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261120214013-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261120214015-2.jpg"
+      ],
+      "Price": "9 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#F59E0B",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Kalkulatory budowlane",
+        "en": "Building calculators",
+        "ro": "Calculatoare construcții",
+        "de": "Baurechner"
+      },
+      "Tagline": {
+        "pl": "Ile materiału kupić: beton, bloczki, farba, płytki z klejem i fugą, tynk, panele, wylewka, płyty G-K, ocieplenie – z zapasem i listą zakupów.",
+        "en": "How much material to buy: concrete, blocks, paint, tiles, plaster, flooring, screed, drywall, insulation – with a shopping list.",
+        "ro": "Calculatoare materiale construcții.",
+        "de": "Materialrechner für den Bau."
+      },
+      "Description": {
+        "pl": "Dziewięć kalkulatorów na jednym ekranie: wpisujesz wymiary, a ilości liczą się od razu – worki, paczki, sztuki i m², z zapasem. Przyciskiem „Do listy” zbierasz wszystko w jedną listę zakupów, którą skopiujesz do SMS-a albo maila do hurtowni.\n\nWszystkie kalkulatory są darmowe. W PRO: lista zakupów do PDF i zapamiętywanie listy.\n\nWyniki są orientacyjne – zawsze sprawdź zużycie podane przez producenta.",
+        "en": "Nine calculators on one screen with instant results and reserves. Collect everything into a shopping list.\n\nAll calculators are free. With PRO: shopping list PDF and saved list.",
+        "ro": "Nouă calculatoare.\n\nCu PRO: PDF.",
+        "de": "Neun Rechner.\n\nMit PRO: PDF."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     }
   ],
