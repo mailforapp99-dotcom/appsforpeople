@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:20:56Z",
+  "Updated": "2026-11-20T22:21:07Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -571,21 +571,21 @@
       "Name": "Automatyk",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.8",
+      "Version": "1.0.9",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.8/Automatyk.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.9/Automatyk.zip",
       "FileName": "Automatyk.zip",
-      "Sha256": "db590c441c7b235066306ec3b9353dd3aa97f97e340bc3cea3a0ab9e0ad0872a",
-      "Size": 1002558,
+      "Sha256": "c0fa366dc62b2da5ef8e0fb091bd73bcfd13caff81be4cd682eeb35a0b55d79d",
+      "Size": 1007167,
       "Args": null,
       "Launch": "Automatyk.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/icon.png?v=639306250594013735",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261120220709-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261120220711-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261120220713-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261120222059-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261120222101-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261120222102-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -613,10 +613,10 @@
         "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
