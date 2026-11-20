@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:43:24Z",
+  "Updated": "2026-11-20T21:43:34Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1759,6 +1759,58 @@
         "en": "Enter power or current, length and installation method – get breaker and cable size, voltage drop and fault loop check. Add the result as a board circuit with phase balance.\n\nWith PRO: board list PDF, circuit labels, unlimited circuits (free: 12).\n\nResults are a calculation aid – final design belongs to a qualified electrician.",
         "ro": "Dimensionare cablu și listă circuite.\n\nCu PRO: PDF, etichete, nelimitat.",
         "de": "Kabelauswahl und Stromkreisliste.\n\nMit PRO: PDF, Etiketten, unbegrenzt."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
+      "Id": "skaner",
+      "Name": "Skaner Androida",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.1",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skaner-v1.0.1/Skaner.zip",
+      "FileName": "Skaner.zip",
+      "Sha256": "c68160f3de89281bc0bab300b513f3806951cb536675a701e78f4f76ba8cf273",
+      "Size": 617022,
+      "Args": null,
+      "Launch": "Skaner.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/icon.png?v=639308078075416838",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120214327-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120214329-2.jpg"
+      ],
+      "Price": "19 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#22C55E",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Skaner Androida",
+        "en": "Android Scanner",
+        "ro": "Scanner Android",
+        "de": "Android-Scanner"
+      },
+      "Tagline": {
+        "pl": "Dla serwisów: podłączasz telefon z Androidem kablem USB i program znajduje aplikacje odpowiedzialne za wyskakujące reklamy i inne zagrożenia.",
+        "en": "For repair shops: connect an Android phone over USB and find apps behind pop-up ads and other threats.",
+        "ro": "Scanare telefoane Android prin USB.",
+        "de": "Android-Telefone per USB prüfen."
+      },
+      "Description": {
+        "pl": "Skaner przez adb sprawdza wszystkie aplikacje zainstalowane przez użytkownika: które mogą wyświetlać okna na innych aplikacjach (typowe dla reklam), są administratorem urządzenia, mają ułatwienia dostępu, ukryły ikonę albo pochodzą spoza sklepu. Każdy wynik ma wypisane powody. Jako PEWNE oznaczane są tylko aplikacje z Twojej listy znanych zagrożeń (suma SHA-256 pliku lub nazwa pakietu – listę wczytasz z pliku, np. z MalwareBazaar). Potrzebne są bezpłatne Android Platform-Tools od Google.\n\nW PRO: odinstalowanie lub wyłączenie aplikacji jednym kliknięciem, porównywanie sum SHA-256, raport PDF dla klienta.\n\nAplikacje usuwaj tylko za zgodą właściciela telefonu.",
+        "en": "Checks all user-installed apps over adb: overlay permission, device admin, accessibility, hidden icon, sideloaded. Every result lists its reasons. Only apps on your threat list (SHA-256 or package) are marked CERTAIN. Requires the free Android Platform-Tools.\n\nWith PRO: one-click uninstall/disable, SHA-256 check, client PDF report.",
+        "ro": "Scanare prin adb.\n\nCu PRO: dezinstalare, SHA-256, PDF.",
+        "de": "Scan per adb.\n\nMit PRO: Deinstallation, SHA-256, PDF."
       },
       "Changelog": {
         "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
