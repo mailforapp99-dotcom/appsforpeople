@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:09:10Z",
+  "Updated": "2026-11-20T22:09:17Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -103,13 +103,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.11",
+      "Version": "1.2.12",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.11/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.12/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "b6ae65a3975329a0e04c20041f6dede890f7135c4f1bef5e9d3adcbe18684f8b",
-      "Size": 374820,
+      "Sha256": "eec6482bc33131728299dc9f0ea41c875139142178199e404dd0fc934c13188d",
+      "Size": 379102,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -143,10 +143,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
