@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:23:34Z",
+  "Updated": "2026-11-20T22:23:41Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -783,13 +783,13 @@
       "Name": "Porty",
       "Publisher": "AppsForPeople",
       "Category": "Programiści",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.7/Porty.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.8/Porty.zip",
       "FileName": "Porty.zip",
-      "Sha256": "55f40808f1c035c66d0940d2481c656ed32558e174336ef32d6ce3d0d37e4be1",
-      "Size": 175284,
+      "Sha256": "82dda7b861615a1ec7e3af2d90d8173c49c336090bbd7758fa01cf8bbc3e4ea0",
+      "Size": 180026,
       "Args": null,
       "Launch": "Porty.exe",
       "UninstallName": null,
@@ -823,10 +823,10 @@
         "de": "Porty zeigt alle TCP- und UDP-Ports mit Programm und PID und beendet Prozesse mit einem Klick.\n\nMit PRO: PATH-Editor mit Sicherung, automatische Aktualisierung und Prüfung freier Ports."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
