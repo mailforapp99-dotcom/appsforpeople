@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:11:54Z",
+  "Updated": "2026-11-20T22:20:56Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -518,21 +518,21 @@
       "Name": "Auto",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.7/Auto.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.8/Auto.zip",
       "FileName": "Auto.zip",
-      "Sha256": "542e7d5d3cc08aefafaf42b7ac1f437823c40a4c791ba9f31759f540b4aa1d68",
-      "Size": 879584,
+      "Sha256": "ce46f4437aad18a0a13456a066b2350457fcbf68c4445f9621772b43e00387ea",
+      "Size": 884178,
       "Args": null,
       "Launch": "Auto.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/icon.png?v=639306250522543695",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261120220658-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261120220700-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261120220702-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261120222047-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261120222049-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261120222051-3.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -560,10 +560,10 @@
         "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nMit PRO: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
