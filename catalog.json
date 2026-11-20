@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:40:29Z",
+  "Updated": "2026-11-20T21:40:41Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1602,6 +1602,59 @@
         "en": "Enter the sheet size, kerf and parts with quantities and grain direction. The planner packs them, draws each sheet, and reports sheets, usage, waste, cost and edge banding. A separate tab cuts boards and profiles from bars.\n\nWith PRO: unlimited parts (free: 15), PDF with layouts and cutting list, saved projects.",
         "ro": "Optimizare tăiere.\n\nCu PRO: nelimitat, PDF, proiecte.",
         "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
+      "Id": "druk3d",
+      "Name": "Druk 3D",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.1",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/druk3d-v1.0.1/Druk3D.zip",
+      "FileName": "Druk3D.zip",
+      "Sha256": "8b45a1903ea5ff7c20dfbbfef448821261ee2dee2a6b3449de00cd664b430631",
+      "Size": 1168073,
+      "Args": null,
+      "Launch": "Druk3D.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/icon.png?v=639308076331679939",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120214033-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120214035-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120214036-3.jpg"
+      ],
+      "Price": "9 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#38BDF8",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Druk 3D",
+        "en": "3D Print",
+        "ro": "Imprimare 3D",
+        "de": "3D-Druck"
+      },
+      "Tagline": {
+        "pl": "Biblioteka modeli STL/3MF/G-code z miniaturami, odczyt gramów i czasu z G-code oraz kalkulator kosztu i ceny wydruku dla klienta.",
+        "en": "STL/3MF/G-code library with thumbnails, grams and time from G-code, print cost and price calculator.",
+        "ro": "Bibliotecă modele 3D și cost imprimare.",
+        "de": "3D-Modellbibliothek und Druckkosten."
+      },
+      "Description": {
+        "pl": "Przeciągasz pliki albo cały folder – Druk 3D robi miniatury modeli STL, odczytuje wymiary i objętość, a z G-code (PrusaSlicer, Orca, Bambu, Cura) gramy filamentu i czas druku. Kalkulator liczy koszt: filament, prąd, zużycie drukarki, Twoją pracę i zapas na nieudane wydruki, a potem cenę dla klienta z marżą. Każdy wydruk możesz zapisać w historii z podsumowaniem zarobku.\n\nW PRO: biblioteka bez limitu (darmowo 20 modeli), wycena PDF dla klienta, eksport historii do CSV.",
+        "en": "Drop files or folders – thumbnails, size and volume from STL; grams and time from G-code. Cost calculator with filament, power, wear, work, failure reserve and margin. Print history with profit.\n\nWith PRO: unlimited library (free: 20), client quote PDF, CSV export.",
+        "ro": "Bibliotecă și cost.\n\nCu PRO: nelimitat, PDF, CSV.",
+        "de": "Bibliothek und Kosten.\n\nMit PRO: unbegrenzt, PDF, CSV."
       },
       "Changelog": {
         "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
