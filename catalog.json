@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:47:20Z",
+  "Updated": "2026-11-20T19:47:32Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1336,6 +1336,59 @@
         "en": "Build the rota in a grid; Grafik instantly shows rest-period breaches, too many or too few hours and missing free Sundays. Holidays and monthly norms are automatic.\n\nWith PRO: unlimited employees (free: 3), rota and time records as PDF.",
         "ro": "Program de lucru cu verificarea odihnei și a normelor.\n\nCu PRO: angajați nelimitați, PDF.",
         "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "skladki",
+      "Name": "Składki",
+      "Publisher": "AppsForPeople",
+      "Category": "Firma",
+      "Version": "1.0.0",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skladki-v1.0.0/Skladki.zip",
+      "FileName": "Skladki.zip",
+      "Sha256": "4c255e402bbc644007e0e8dd55f5d403d52d5b60e0762cc2e8bf0e770ee8070c",
+      "Size": 1001153,
+      "Args": null,
+      "Launch": "Skladki.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/icon.png?v=639308008439852693",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120194723-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120194725-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120194727-3.jpg"
+      ],
+      "Price": "9 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#FF6B2C",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Składki",
+        "en": "Contributions",
+        "ro": "Contribuții",
+        "de": "Beiträge"
+      },
+      "Tagline": {
+        "pl": "ZUS, składka zdrowotna i podatek dla JDG – ile naprawdę zostaje na rękę i która forma opodatkowania się opłaca.",
+        "en": "ZUS, health contribution and tax for sole traders – what you really keep and which tax form pays off.",
+        "ro": "ZUS, sănătate și impozit pentru PFA.",
+        "de": "ZUS, Krankenversicherung und Steuer für Einzelunternehmer."
+      },
+      "Description": {
+        "pl": "Wpisujesz średni przychód i koszty w miesiącu, a Składki pokazują: ZUS społeczny (ulga na start, mały ZUS, mały ZUS plus, pełny), składkę zdrowotną, podatek i ile zostaje Ci na rękę. Stawki na 2026 r. są wpisane, a gdy się zmienią – poprawisz je sam.\n\nW PRO: porównanie skali, podatku liniowego i ryczałtu dla Twoich liczb, raport PDF dla księgowej i terminy ZUS, PIT i VAT dodane jednym kliknięciem do programu Terminy.\n\nTo szacunek – nie zastępuje księgowej ani doradcy podatkowego.",
+        "en": "Enter your average monthly revenue and costs and see social ZUS, health contribution, tax and what you keep. 2026 rates are built in and editable.\n\nWith PRO: compare tax scale, flat tax and lump-sum, PDF report and deadlines added to Terminy.\n\nAn estimate – not a substitute for an accountant.",
+        "ro": "Calculator ZUS și impozit pentru firme unipersonale.\n\nCu PRO: comparație, raport PDF, termene.",
+        "de": "ZUS- und Steuerrechner für Einzelunternehmer.\n\nMit PRO: Vergleich, PDF-Bericht, Termine."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
