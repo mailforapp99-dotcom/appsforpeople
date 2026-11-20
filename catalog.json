@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:24:30Z",
+  "Updated": "2026-11-20T22:24:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1357,21 +1357,21 @@
       "Name": "Składki",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skladki-v1.0.4/Skladki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skladki-v1.0.5/Skladki.zip",
       "FileName": "Skladki.zip",
-      "Sha256": "5014e86dfd941e6cbd246c423a24f2d85a24d8912d40dc6f653feacb20737501",
-      "Size": 1005884,
+      "Sha256": "3c961686d9463f3cb58afd80087a094d3046e8dfbf34003470d741de6d483ac7",
+      "Size": 1010400,
       "Args": null,
       "Launch": "Skladki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/icon.png?v=639308008439852693",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120221039-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120221040-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120221042-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120222432-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120222433-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120222435-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1399,10 +1399,10 @@
         "de": "ZUS- und Steuerrechner für Einzelunternehmer.\n\nMit PRO: Vergleich, PDF-Bericht, Termine."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
