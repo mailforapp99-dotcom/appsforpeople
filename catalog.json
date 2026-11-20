@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:07:34Z",
+  "Updated": "2026-11-20T22:07:45Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1618,21 +1618,21 @@
       "Name": "Druk 3D",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/druk3d-v1.0.1/Druk3D.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/druk3d-v1.0.2/Druk3D.zip",
       "FileName": "Druk3D.zip",
-      "Sha256": "8b45a1903ea5ff7c20dfbbfef448821261ee2dee2a6b3449de00cd664b430631",
-      "Size": 1168073,
+      "Sha256": "baf8fdf577b101922eec61f4592d59dc51723638c1ce931153db840b5d1df4bf",
+      "Size": 1170132,
       "Args": null,
       "Launch": "Druk3D.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/icon.png?v=639308076331679939",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120214033-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120214035-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120214036-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120220736-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120220738-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261120220740-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1660,10 +1660,10 @@
         "de": "Bibliothek und Kosten.\n\nMit PRO: unbegrenzt, PDF, CSV."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
