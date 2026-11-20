@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T20:02:33Z",
+  "Updated": "2026-11-20T20:02:43Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1407,21 +1407,21 @@
       "Name": "Wycena",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.0/Wycena.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.1/Wycena.zip",
       "FileName": "Wycena.zip",
-      "Sha256": "e02ee294eb5e069dc024a8b378e86501db79b56d2868271607d6c0059fae6358",
-      "Size": 851161,
+      "Sha256": "d766b1a6729472056266ae2184ef2a940343017d61e3723bb6be35290de2897c",
+      "Size": 844855,
       "Args": null,
       "Launch": "Wycena.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/icon.png?v=639308008940611290",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120194814-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120194815-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120194817-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120200235-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120200237-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120200238-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1449,10 +1449,10 @@
         "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
+        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
+        "ro": "Încearcă PRO gratuit 7 zile.",
+        "de": "PRO 7 Tage kostenlos testen."
       }
     },
     {
