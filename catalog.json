@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T20:01:03Z",
+  "Updated": "2026-11-20T20:01:09Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -55,7 +55,7 @@
       },
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.9",
+      "Version": "1.0.10",
       "Price": "5 zł / miesiąc",
       "Color": "#F2B544",
       "Featured": false,
@@ -75,16 +75,16 @@
         "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nMit PRO arbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
       },
       "Changelog": {
-        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
-        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
-        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
-        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
+        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
+        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
+        "ro": "Încearcă PRO gratuit 7 zile.",
+        "de": "PRO 7 Tage kostenlos testen."
       },
       "Date": "2026-11-20",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.9/Porzadek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.10/Porzadek.zip",
       "FileName": "Porzadek.zip",
-      "Sha256": "eda758e229032a05ec61238627aadca541589cb43a6267b4f75101a58fffa2b3",
-      "Size": 168358,
+      "Sha256": "d76c4dc3a010e66cbc8990532b0ffb39d33f497aa342a05e43c30b92cecee9d4",
+      "Size": 169609,
       "Args": "",
       "UninstallName": "",
       "Shots": [
