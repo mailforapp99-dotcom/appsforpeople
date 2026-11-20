@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T20:00:32Z",
+  "Updated": "2026-11-20T20:00:37Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -314,7 +314,7 @@
       },
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.8",
+      "Version": "1.2.9",
       "Price": "5 zł / miesiąc",
       "Color": "#C4B5FD",
       "Featured": false,
@@ -334,16 +334,16 @@
         "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Mit PRO steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
       },
       "Changelog": {
-        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
-        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
-        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
-        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
+        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
+        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
+        "ro": "Încearcă PRO gratuit 7 zile.",
+        "de": "PRO 7 Tage kostenlos testen."
       },
       "Date": "2026-11-20",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.8/OpiekunDlaDziecka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.9/OpiekunDlaDziecka.zip",
       "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "5cd50e17bfadf045ff76a5d331068092a5e02b25cbf1017a8c3729d3985eab25",
-      "Size": 362630,
+      "Sha256": "1edaa1dc499ed8b152c577aff2592f1fcf726e4a6b79d794e26c23beab7f7729",
+      "Size": 366065,
       "Args": null,
       "UninstallName": null,
       "Shots": [
