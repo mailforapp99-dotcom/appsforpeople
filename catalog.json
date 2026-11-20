@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:48:02Z",
+  "Updated": "2026-11-20T19:48:10Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -463,19 +463,20 @@
       "Name": "Terminy",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.2",
-      "Date": "2026-11-18",
+      "Version": "1.0.3",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.2/Terminy.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.3/Terminy.zip",
       "FileName": "Terminy.zip",
-      "Sha256": "8660fd139fde682f651e3ed5262c9efbb7aa4a3207fb78257d8888e2f16d2e2a",
-      "Size": 133290,
+      "Sha256": "5725a10748a3eb4d467205b98aa5ff7a665546d9b83d3ae632e39206a247d10a",
+      "Size": 724130,
       "Args": null,
       "Launch": "Terminy.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/icon.png?v=639306248913972063",
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120194804-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120194806-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -503,10 +504,10 @@
         "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
