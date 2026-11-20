@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:23:03Z",
+  "Updated": "2026-11-20T22:23:08Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -103,13 +103,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.12",
+      "Version": "1.2.13",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.12/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.13/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "eec6482bc33131728299dc9f0ea41c875139142178199e404dd0fc934c13188d",
-      "Size": 379102,
+      "Sha256": "f0a91efb14b79510f58a47f0553f68b3203c6f53b79bcfa121baed7d87876790",
+      "Size": 388329,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -143,10 +143,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
