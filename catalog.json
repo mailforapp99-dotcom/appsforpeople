@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:21:54Z",
+  "Updated": "2026-11-20T22:22:03Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1723,20 +1723,20 @@
       "Name": "Elektryk",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.2/Elektryk.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.3/Elektryk.zip",
       "FileName": "Elektryk.zip",
-      "Sha256": "1edf8cbf1d96224fb64bdb5958cf9e844422a754a0d8b847ecbd694eb1cf2cd7",
-      "Size": 667988,
+      "Sha256": "083ed17679cce2be079540221791c05358a8dbb2bfbb13087ca5f472f05173c6",
+      "Size": 672407,
       "Args": null,
       "Launch": "Elektryk.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/icon.png?v=639308076630237048",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120220804-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120220806-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120222156-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120222158-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1764,10 +1764,10 @@
         "de": "Kabelauswahl und Stromkreisliste.\n\nMit PRO: PDF, Etiketten, unbegrenzt."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
