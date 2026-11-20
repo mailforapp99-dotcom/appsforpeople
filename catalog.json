@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:25:29Z",
+  "Updated": "2026-11-20T22:25:35Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1463,19 +1463,19 @@
       "Name": "Zdjęcia",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.4/Zdjecia.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.5/Zdjecia.zip",
       "FileName": "Zdjecia.zip",
-      "Sha256": "a7109d4ca59e2a8498727cbf5448fddd1d5d18940ec48c9fb33a5bd857c58e29",
-      "Size": 595221,
+      "Sha256": "1295cfe289b403af50af4688d41f5145df5a1dea0eafa15260059c9292b57ce5",
+      "Size": 599898,
       "Args": null,
       "Launch": "Zdjecia.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261120221141-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261120222531-1.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1503,10 +1503,10 @@
         "de": "Schnelle Fotokonvertierung, lokal.\n\nMit PRO: unbegrenzt, Wasserzeichen, eigene Namen."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
