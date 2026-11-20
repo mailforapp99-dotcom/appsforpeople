@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:07:53Z",
+  "Updated": "2026-11-20T22:08:02Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1671,20 +1671,20 @@
       "Name": "Elektronik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektronik-v1.0.1/Elektronik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektronik-v1.0.2/Elektronik.zip",
       "FileName": "Elektronik.zip",
-      "Sha256": "2f1299f0da8ff5f42c3353d4a77e014fe7b5954a74ef11de1a2abfc8c34b27e3",
-      "Size": 561970,
+      "Sha256": "d79afd237fda681c48c7e8f7c3c8e801840803998ccc245defaf319659e63a1d",
+      "Size": 564279,
       "Args": null,
       "Launch": "Elektronik.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/icon.png?v=639308076532774525",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120214053-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120214054-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120220755-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120220757-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1712,10 +1712,10 @@
         "de": "Rechner und Teilelager.\n\nMit PRO: unbegrenzt, PDF, Etiketten."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
