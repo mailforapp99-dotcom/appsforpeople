@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:43:10Z",
+  "Updated": "2026-11-20T21:43:15Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -884,13 +884,13 @@
       "Name": "Schowek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.4",
+      "Version": "1.0.6",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.4/Schowek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.6/Schowek.zip",
       "FileName": "Schowek.zip",
-      "Sha256": "dbb7deadd39eeb866df23f647d445ed17728d137c5e17201dd0244a6c43303e5",
-      "Size": 154673,
+      "Sha256": "22179f872dc2ba382e359bd3068d29730eea35fdda124e374b49dde69ed204c9",
+      "Size": 158630,
       "Args": null,
       "Launch": "Schowek.exe",
       "UninstallName": null,
@@ -924,10 +924,10 @@
         "de": "Schowek merkt sich kopierte Texte; der Verlauf wird verschlüsselt; kostenlos die letzten 25.\n\nMit PRO: bis 1000 Einträge, angeheftete Texte, Bilder und Strg+Umschalt+V."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
