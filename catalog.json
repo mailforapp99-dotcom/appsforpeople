@@ -1,19 +1,19 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:44:50Z",
+  "Updated": "2026-11-20T21:45:03Z",
   "Apps": [
     {
       "Id": "rdzen",
       "Name": "Rdzeń",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.1.0",
-      "Date": "2026-11-15",
+      "Version": "1.2.0",
+      "Date": "2026-11-20",
       "Type": "installer",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.1.0/Rdzen-Setup.exe",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.2.0/Rdzen-Setup.exe",
       "FileName": "Rdzen-Setup.exe",
-      "Sha256": "c310f9cec1a8be7ee3c24bb3f7e70825d6acd4ebaa8380f54246fc288f92fbbd",
-      "Size": 478208,
+      "Sha256": "91c07a87e1abf599cf8613b367ee4b68d876f2022d43ccb317dc623a2361477b",
+      "Size": 1470976,
       "Args": "",
       "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
       "UninstallName": "Rdzeń",
@@ -41,7 +41,10 @@
         "pl": "Rdzeń skanuje dysk w kilka minut i pokazuje na animowanym pierścieniu, które foldery zajmują najwięcej miejsca.\n\n• Czyszczenie śmieci systemowych jednym kliknięciem (pliki tymczasowe, Kosz, stare aktualizacje, cache)\n• Duplikaty i duże pliki nieruszane od roku – z podziałem na formaty\n• Pełna lista przed usunięciem, ważne pliki oznaczone na czerwono, wszystko trafia do Kosza\n• Ochrona: skanowanie wirusów przez Windows Defender, niechciane programy „bez ikon”, autostart, ukryte pliki\n\nWersja próbna: skanowanie, podgląd i sprawdzanie wirusów. Czyszczenie i usuwanie – licencja 5 zł / miesiąc."
       },
       "Changelog": {
-        "pl": "• Ostry obraz na ekranach 4K\n• Nowa sekcja Ochrona: wirusy, programy bez ikon, autostart, ukryte pliki\n• Pełna lista z podziałem na formaty przed usunięciem\n• Płatność przez PayPal"
+        "pl": "• Rdzeń otwiera się we własnym oknie programu (już nie w przeglądarce)\n• Ten sam wygląd i wszystkie funkcje",
+        "en": "• Rdzeń now opens in its own app window (no longer in the browser)\n• Same look and all features",
+        "ro": "• Rdzeń se deschide în propria fereastră (nu în browser)\n• Același aspect și toate funcțiile",
+        "de": "• Rdzeń öffnet sich im eigenen Programmfenster (nicht mehr im Browser)\n• Gleiches Aussehen, alle Funktionen"
       }
     },
     {
