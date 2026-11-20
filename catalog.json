@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T20:02:43Z",
+  "Updated": "2026-11-20T20:02:50Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1460,19 +1460,19 @@
       "Name": "Zdjęcia",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.0/Zdjecia.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.1/Zdjecia.zip",
       "FileName": "Zdjecia.zip",
-      "Sha256": "04b78fd82e9c02630014676ffd7e3eaa463b4e87999b331ac1490d9175c9981d",
-      "Size": 594912,
+      "Sha256": "8045d112640a47eaa56a97975657760e351e19cb01ec76b64cc739c5f27a6652",
+      "Size": 588741,
       "Args": null,
       "Launch": "Zdjecia.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261120194826-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261120200245-1.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1500,10 +1500,10 @@
         "de": "Schnelle Fotokonvertierung, lokal.\n\nMit PRO: unbegrenzt, Wasserzeichen, eigene Namen."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
+        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
+        "ro": "Încearcă PRO gratuit 7 zile.",
+        "de": "PRO 7 Tage kostenlos testen."
       }
     }
   ],
