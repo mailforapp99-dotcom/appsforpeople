@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:10:27Z",
+  "Updated": "2026-11-20T22:10:37Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1775,20 +1775,20 @@
       "Name": "Skaner Androida",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skaner-v1.0.1/Skaner.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skaner-v1.0.2/Skaner.zip",
       "FileName": "Skaner.zip",
-      "Sha256": "c68160f3de89281bc0bab300b513f3806951cb536675a701e78f4f76ba8cf273",
-      "Size": 617022,
+      "Sha256": "7144d4d3a0d250cdfcd759ddbde0c466f7f44fbc86c40e9ec73c8cd50108d33e",
+      "Size": 618989,
       "Args": null,
       "Launch": "Skaner.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/icon.png?v=639308078075416838",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120214327-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120214329-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120221029-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120221031-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1816,10 +1816,10 @@
         "de": "Scan per adb.\n\nMit PRO: Deinstallation, SHA-256, PDF."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     }
   ],
