@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:45:35Z",
+  "Updated": "2026-11-20T19:45:45Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -202,19 +202,21 @@
       "Name": "Łącze",
       "Publisher": "AppsForPeople",
       "Category": "Internet",
-      "Version": "1.0.8",
-      "Date": "2026-11-18",
+      "Version": "1.0.9",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.8/Lacze.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/lacze-v1.0.9/Lacze.zip",
       "FileName": "Lacze.zip",
-      "Sha256": "8cc9ed1c6d7c8e4d4e6938087f8848c26859c32449f0b71a6e126536f566a5ca",
-      "Size": 187065,
+      "Sha256": "4ea1e9a0d441f76771d0329910195538d424df8545a9724efb2fdd8fbe1d1593",
+      "Size": 774422,
       "Args": "",
       "Launch": "Lacze.exe",
       "UninstallName": "",
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/icon.png?v=639304153399859852",
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/shot-20261120194537-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/shot-20261120194539-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/lacze/shot-20261120194541-3.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": "",
@@ -242,10 +244,10 @@
         "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
