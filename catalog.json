@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:46:06Z",
+  "Updated": "2026-11-20T19:46:11Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -100,13 +100,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.7",
-      "Date": "2026-11-18",
+      "Version": "1.2.8",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.7/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.8/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "71a161b3e3be1cb6797f60153b5378495a511f0a3440d6e41e513853d4816874",
-      "Size": 353368,
+      "Sha256": "fec6fce1d78f42cc8428bbe989a6c9de53ada79a4a2f54ed5ac8e3393dc18c7e",
+      "Size": 362963,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -140,10 +140,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
