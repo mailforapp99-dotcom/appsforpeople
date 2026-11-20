@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:47:55Z",
+  "Updated": "2026-11-20T19:48:02Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -359,19 +359,19 @@
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.8",
-      "Date": "2026-11-18",
+      "Version": "1.1.9",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.8/TeczkaPodglad.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.9/TeczkaPodglad.zip",
       "FileName": "TeczkaPodglad.zip",
-      "Sha256": "72b52bab9793a8e32d2b8674380fad53b1be4b443dda435467564ea7d039e7ba",
-      "Size": 4357850,
+      "Sha256": "3c0b39196a1bcba9f16ae528f9954986fe7c102ae28348ad2dd9ff97b0e47737",
+      "Size": 4712128,
       "Args": null,
       "Launch": "TeczkaPodglad.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261120194757-1.jpg"
       ],
       "Price": "Za darmo",
       "Website": null,
@@ -399,10 +399,10 @@
         "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
