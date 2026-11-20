@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:42:15Z",
+  "Updated": "2026-11-20T21:42:20Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -308,13 +308,13 @@
       "Name": "Opiekun – komputer dziecka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.9",
+      "Version": "1.2.11",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.9/OpiekunDlaDziecka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.11/OpiekunDlaDziecka.zip",
       "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "1edaa1dc499ed8b152c577aff2592f1fcf726e4a6b79d794e26c23beab7f7729",
-      "Size": 366065,
+      "Sha256": "91ed982aba33b381ec016c2531faac0f8361bdfd03cf6e98b85605c91f302f78",
+      "Size": 374515,
       "Args": null,
       "Launch": "Opiekun.exe",
       "UninstallName": null,
@@ -348,10 +348,10 @@
         "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Mit PRO steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
