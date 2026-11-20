@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:46:36Z",
+  "Updated": "2026-11-20T19:46:41Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -775,13 +775,13 @@
       "Name": "Porty",
       "Publisher": "AppsForPeople",
       "Category": "Programiści",
-      "Version": "1.0.2",
-      "Date": "2026-11-18",
+      "Version": "1.0.3",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.2/Porty.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.3/Porty.zip",
       "FileName": "Porty.zip",
-      "Sha256": "dc6dd47a552d1b70417fdc18159b142aebbcf2c84a685d69786e9242ad6db88c",
-      "Size": 163870,
+      "Sha256": "25ada274e11f35506dcccb0113ee45c75adc6a76da782a65411eddd333387953",
+      "Size": 168388,
       "Args": null,
       "Launch": "Porty.exe",
       "UninstallName": null,
@@ -815,10 +815,10 @@
         "de": "Porty zeigt alle TCP- und UDP-Ports mit Programm und PID und beendet Prozesse mit einem Klick.\n\nMit PRO: PATH-Editor mit Sicherung, automatische Aktualisierung und Prüfung freier Ports."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
