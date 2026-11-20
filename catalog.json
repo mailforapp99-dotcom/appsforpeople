@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T20:01:18Z",
+  "Updated": "2026-11-20T20:01:29Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -831,21 +831,21 @@
       "Name": "Ramki",
       "Publisher": "AppsForPeople",
       "Category": "Robotyka",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.4/Ramki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.5/Ramki.zip",
       "FileName": "Ramki.zip",
-      "Sha256": "953051497da38975777a5502dc1cd970db4d4a239783990e1789d0a1e0ae5180",
-      "Size": 975881,
+      "Sha256": "d507db2e158a1c7975bb6a5fcd8cdacea0a8558b08a40b2b1e9245272a759671",
+      "Size": 767533,
       "Args": null,
       "Launch": "Ramki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/icon.png?v=639306250991029975",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261120194658-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261120194700-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261120194702-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261120200121-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261120200122-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261120200124-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -873,10 +873,10 @@
         "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nMit PRO: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
       },
       "Changelog": {
-        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
-        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
-        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
-        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
+        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
+        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
+        "ro": "Încearcă PRO gratuit 7 zile.",
+        "de": "PRO 7 Tage kostenlos testen."
       }
     },
     {
