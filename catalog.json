@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:48:22Z",
+  "Updated": "2026-11-20T19:48:31Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1446,6 +1446,57 @@
         "en": "Enter your price list once; then a quote is just picking lines and quantities. Net, VAT and gross are calculated, discount applied and a PDF made.\n\nWith PRO: unlimited quotes, logo on PDF, CSV export.",
         "ro": "Oferte rapide din lista ta de prețuri.\n\nCu PRO: nelimitat, logo, CSV.",
         "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "zdjecia",
+      "Name": "Zdjęcia",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.0",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.0/Zdjecia.zip",
+      "FileName": "Zdjecia.zip",
+      "Sha256": "04b78fd82e9c02630014676ffd7e3eaa463b4e87999b331ac1490d9175c9981d",
+      "Size": 594912,
+      "Args": null,
+      "Launch": "Zdjecia.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261120194826-1.jpg"
+      ],
+      "Price": "9 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#38BDF8",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Zdjęcia",
+        "en": "Photos",
+        "ro": "Fotografii",
+        "de": "Fotos"
+      },
+      "Tagline": {
+        "pl": "HEIC z iPhone\u0027a na JPG, zmniejszanie pod Allegro, OLX i maile, kwadraty, kompresja i nazwy – setki zdjęć naraz.",
+        "en": "iPhone HEIC to JPG, resizing for marketplaces and e-mail, squares, compression and renaming – hundreds at once.",
+        "ro": "HEIC în JPG, redimensionare, pătrat, compresie.",
+        "de": "HEIC zu JPG, verkleinern, quadratisch, komprimieren."
+      },
+      "Description": {
+        "pl": "Przeciągasz zdjęcia albo cały folder, wybierasz format, rozmiar i jakość – i gotowe. Zdjęcia obracają się same według zapisu z aparatu, a oryginały zostają nietknięte. Wszystko na Twoim komputerze, bez wysyłania gdziekolwiek.\n\nW PRO: bez limitu zdjęć naraz, znak wodny z nazwą sklepu i własne nazwy plików (np. kody produktów).",
+        "en": "Drag photos or a whole folder, choose format, size and quality – done. Photos are rotated automatically, originals stay untouched, nothing is uploaded.\n\nWith PRO: unlimited photos, watermark and custom file names.",
+        "ro": "Conversie rapidă a fotografiilor, local.\n\nCu PRO: fără limită, filigran, nume proprii.",
+        "de": "Schnelle Fotokonvertierung, lokal.\n\nMit PRO: unbegrenzt, Wasserzeichen, eigene Namen."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
