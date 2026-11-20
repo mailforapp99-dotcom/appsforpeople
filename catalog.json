@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:42:20Z",
+  "Updated": "2026-11-20T21:42:29Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -727,21 +727,21 @@
       "Name": "Pisma",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.5",
+      "Version": "1.0.7",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.5/Pisma.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.7/Pisma.zip",
       "FileName": "Pisma.zip",
-      "Sha256": "69b23a8493cc21d8ad83be5786c0f0d30c5443f0886e583c4f83dd34c6f85f56",
-      "Size": 884431,
+      "Sha256": "1ba09745f84a4349d5479dff6971f83346b858b071674c9b5d0cac96023b05c0",
+      "Size": 888284,
       "Args": null,
       "Launch": "Pisma.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/icon.png?v=639306250854358924",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261120200039-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261120200041-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261120200043-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261120214222-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261120214223-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261120214225-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -769,10 +769,10 @@
         "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
