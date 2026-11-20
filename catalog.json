@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:42:29Z",
+  "Updated": "2026-11-20T21:42:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1144,21 +1144,21 @@
       "Name": "Pomiary",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.4",
+      "Version": "1.0.6",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.4/Pomiary.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.6/Pomiary.zip",
       "FileName": "Pomiary.zip",
-      "Sha256": "c13cebc5960e1d24d306f62c7a49476a01f85c3a350ebf0ec0b57a4e3ce3b878",
-      "Size": 868045,
+      "Sha256": "f8631e6de664c9e55a8219fdb122681d10d4ae205932551c2869c27e39cd1543",
+      "Size": 872147,
       "Args": null,
       "Launch": "Pomiary.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/icon.png?v=639306266137339986",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120200049-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120200051-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120200053-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120214231-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120214233-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120214235-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1186,10 +1186,10 @@
         "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
