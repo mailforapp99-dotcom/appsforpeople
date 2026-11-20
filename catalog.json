@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:08:02Z",
+  "Updated": "2026-11-20T22:08:11Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1723,20 +1723,20 @@
       "Name": "Elektryk",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.1",
+      "Version": "1.0.2",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.1/Elektryk.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.2/Elektryk.zip",
       "FileName": "Elektryk.zip",
-      "Sha256": "1702c410aa305d8675d63188e342ab28bce61266a774be2e20322d2479f0c53b",
-      "Size": 665718,
+      "Sha256": "1edf8cbf1d96224fb64bdb5958cf9e844422a754a0d8b847ecbd694eb1cf2cd7",
+      "Size": 667988,
       "Args": null,
       "Launch": "Elektryk.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/icon.png?v=639308076630237048",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120214103-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120214104-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120220804-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120220806-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1764,10 +1764,10 @@
         "de": "Kabelauswahl und Stromkreisliste.\n\nMit PRO: PDF, Etiketten, unbegrenzt."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
