@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:24:45Z",
+  "Updated": "2026-11-20T22:24:53Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -938,20 +938,20 @@
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.7/Tabliczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.8/Tabliczka.zip",
       "FileName": "Tabliczka.zip",
-      "Sha256": "88971d88ae7ab7e770060e6c6bc2cfb61942f77f900f2b9454da473aedd94739",
-      "Size": 790608,
+      "Sha256": "d2d30583c31cd714ee824535302baa86615dfeb422a00b4aa76e09ca8625485a",
+      "Size": 795377,
       "Args": null,
       "Launch": "Tabliczka.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/icon.png?v=639306251120096897",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120221054-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120221056-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120222446-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120222448-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -979,10 +979,10 @@
         "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
