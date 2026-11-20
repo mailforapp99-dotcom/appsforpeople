@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:45:45Z",
+  "Updated": "2026-11-20T19:45:55Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -669,19 +669,21 @@
       "Name": "Liczniki",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.2",
-      "Date": "2026-11-18",
+      "Version": "1.0.3",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.2/Liczniki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.3/Liczniki.zip",
       "FileName": "Liczniki.zip",
-      "Sha256": "de1e201e9fb15757ab2dc3da2a0453675fef0da867006e7cfb728234c962b4e4",
-      "Size": 159018,
+      "Sha256": "fd7d6c8c76c74c72fea9acfdb83d23c203ad396d5c6850eaa38156c995f79d66",
+      "Size": 885443,
       "Args": null,
       "Launch": "Liczniki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/icon.png?v=639306250788952423",
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120194547-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120194549-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120194550-3.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -709,10 +711,10 @@
         "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
