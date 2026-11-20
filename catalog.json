@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:08:31Z",
+  "Updated": "2026-11-20T22:08:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1042,20 +1042,20 @@
       "Name": "Kilometrówka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.6/Kilometrowka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.7/Kilometrowka.zip",
       "FileName": "Kilometrowka.zip",
-      "Sha256": "5d517a0ac179aa946116b1f823f69b7fd4cbf75c8903da65a07a053680a75d53",
-      "Size": 757515,
+      "Sha256": "7e7cffffed4533675b55ef33e7f2bf4a6e1deb124c966a2140efd947b9a6cf1c",
+      "Size": 759250,
       "Args": null,
       "Launch": "Kilometrowka.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/icon.png?v=639306265993052363",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120214133-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120214135-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120220833-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120220835-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1083,10 +1083,10 @@
         "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
