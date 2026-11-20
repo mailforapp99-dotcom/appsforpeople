@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:09:32Z",
+  "Updated": "2026-11-20T22:09:42Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1147,21 +1147,21 @@
       "Name": "Pomiary",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.6/Pomiary.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.7/Pomiary.zip",
       "FileName": "Pomiary.zip",
-      "Sha256": "f8631e6de664c9e55a8219fdb122681d10d4ae205932551c2869c27e39cd1543",
-      "Size": 872147,
+      "Sha256": "0d006563205a31863846b24b5c12ed0b4a994354c7a81b3e1d6115ab4e34b96a",
+      "Size": 874230,
       "Args": null,
       "Launch": "Pomiary.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/icon.png?v=639306266137339986",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120214231-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120214233-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120214235-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120220934-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120220936-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261120220938-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1189,10 +1189,10 @@
         "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
