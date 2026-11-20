@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:48:31Z",
+  "Updated": "2026-11-20T19:48:39Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -987,19 +987,20 @@
       "Name": "Zrzut",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.3",
-      "Date": "2026-11-18",
+      "Version": "1.0.4",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.3/Zrzut.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.4/Zrzut.zip",
       "FileName": "Zrzut.zip",
-      "Sha256": "2668b9b7e4c4f07be78b40e000b01faa60ca6e6e90217ffe52a7d5db523d8638",
-      "Size": 156858,
+      "Sha256": "9f3dc8cfb5869831db6a8443d33f73421c18a80038d9d0528fd6ba129e305d33",
+      "Size": 802394,
       "Args": null,
       "Launch": "Zrzut.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/icon.png?v=639306251183973058",
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120194832-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120194834-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1027,10 +1028,10 @@
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
