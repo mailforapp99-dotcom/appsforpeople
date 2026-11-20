@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:10:13Z",
+  "Updated": "2026-11-20T22:10:18Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -48,6 +48,30 @@
       }
     },
     {
+      "Id": "porzadek",
+      "Name": "Porządek",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.13",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.13/Porzadek.zip",
+      "FileName": "Porzadek.zip",
+      "Sha256": "d93ae49a316b847dda600a89836eaa431514c92f355d23acf85db48bd78fcb21",
+      "Size": 175152,
+      "Args": "",
+      "Launch": "Porzadek.exe",
+      "UninstallName": "",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": "",
+      "Page": null,
+      "BuyUrl": "",
+      "Color": "#F2B544",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Porządek",
@@ -72,22 +96,24 @@
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
-      "Id": "porzadek",
-      "Name": "Porządek",
+      }
+    },
+    {
+      "Id": "opiekun",
+      "Name": "Opiekun",
       "Publisher": "AppsForPeople",
-      "Category": "Narzędzia",
-      "Version": "1.0.13",
+      "Category": "Rodzina",
+      "Version": "1.2.12",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porzadek-v1.0.13/Porzadek.zip",
-      "FileName": "Porzadek.zip",
-      "Sha256": "d93ae49a316b847dda600a89836eaa431514c92f355d23acf85db48bd78fcb21",
-      "Size": 175152,
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.12/Opiekun.zip",
+      "FileName": "Opiekun.zip",
+      "Sha256": "eec6482bc33131728299dc9f0ea41c875139142178199e404dd0fc934c13188d",
+      "Size": 379102,
       "Args": "",
-      "Launch": "Porzadek.exe",
+      "Launch": "Opiekun.exe",
       "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porzadek/icon.png?v=639304146844466417",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
       "Shots": [
         
       ],
@@ -95,10 +121,8 @@
       "Website": "",
       "Page": null,
       "BuyUrl": "",
-      "Color": "#F2B544",
-      "Featured": false
-    },
-    {
+      "Color": "#A78BFA",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Opiekun",
@@ -123,22 +147,24 @@
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
-      "Id": "opiekun",
-      "Name": "Opiekun",
+      }
+    },
+    {
+      "Id": "straznik",
+      "Name": "Strażnik",
       "Publisher": "AppsForPeople",
-      "Category": "Rodzina",
-      "Version": "1.2.12",
+      "Category": "Narzędzia",
+      "Version": "1.0.12",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.12/Opiekun.zip",
-      "FileName": "Opiekun.zip",
-      "Sha256": "eec6482bc33131728299dc9f0ea41c875139142178199e404dd0fc934c13188d",
-      "Size": 379102,
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.12/Straznik.zip",
+      "FileName": "Straznik.zip",
+      "Sha256": "93cb6a51d0f3381bc75a0246b37023f48ef8b6e7f5d0b9a43a59e03eb723f570",
+      "Size": 195210,
       "Args": "",
-      "Launch": "Opiekun.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun/icon.png?v=639304147038738028",
+      "Launch": "Straznik.exe",
+      "UninstallName": "Strażnik",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
       "Shots": [
         
       ],
@@ -146,10 +172,8 @@
       "Website": "",
       "Page": null,
       "BuyUrl": "",
-      "Color": "#A78BFA",
-      "Featured": false
-    },
-    {
+      "Color": "#4FD1C5",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Strażnik",
@@ -174,58 +198,9 @@
         "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
         "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
         "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
-      "Id": "straznik",
-      "Name": "Strażnik",
-      "Publisher": "AppsForPeople",
-      "Category": "Narzędzia",
-      "Version": "1.0.12",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.12/Straznik.zip",
-      "FileName": "Straznik.zip",
-      "Sha256": "93cb6a51d0f3381bc75a0246b37023f48ef8b6e7f5d0b9a43a59e03eb723f570",
-      "Size": 195210,
-      "Args": "",
-      "Launch": "Straznik.exe",
-      "UninstallName": "Strażnik",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/straznik/icon.png?v=639304148540252141",
-      "Shots": [
-        
-      ],
-      "Price": "5 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Color": "#4FD1C5",
-      "Featured": false
+      }
     },
     {
-      "Hidden": false,
-      "Names": {
-        "pl": "Łącze",
-        "en": "Connection",
-        "ro": "Conexiune",
-        "de": "Verbindung"
-      },
-      "Tagline": {
-        "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
-        "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
-        "ro": "Înregistrează fiecare întrerupere a internetului și măsoară viteza – dovezi pentru reclamații la furnizor.",
-        "de": "Protokolliert jeden Internetausfall und misst die Geschwindigkeit – Belege für Beschwerden beim Anbieter."
-      },
-      "Description": {
-        "pl": "„U nas wszystko działa” – tak często odpowiada infolinia. Łącze co 15 sekund sprawdza, czy internet działa, i zapisuje każdą przerwę z dokładną godziną i czasem trwania. Rozpoznaje też, gdzie leży problem: po stronie operatora czy w Twoim Wi-Fi i routerze. Test prędkości pokazuje pobieranie, wysyłanie i ping, a porównanie z prędkością z umowy mówi, czy dostajesz to, za co płacisz. Na ekranie widzisz na żywo ping z ostatniej godziny i liczbę przerw z dzisiaj.\n\nW wersji PRO Łącze pilnuje internetu 24/7 w tle, samo robi testy prędkości o wybranych porach i powiadamia, gdy internet wróci po przerwie. Jednym kliknięciem tworzysz raport dla operatora z listą przerw i wynikami testów z 30 dni – gotowy do wydruku i dołączenia do reklamacji.",
-        "en": "“Everything is fine on our side” – that\u0027s what the helpline usually says. Łącze checks every 15 seconds whether your internet works and logs every outage with its exact time and duration. It also tells you where the problem is: with your provider, or in your own Wi-Fi and router. The speed test shows download, upload and ping, and a comparison with your contract speed tells you whether you get what you pay for. The screen shows live ping for the last hour and today\u0027s number of outages.\n\nWith PRO, Łącze watches your internet 24/7 in the background, runs speed tests automatically and notifies you when the connection comes back after an outage. One click creates a report for your provider with the outages and test results from the last 30 days – ready to print and attach to your complaint.",
-        "ro": "„La noi totul funcționează” – așa răspunde de obicei serviciul clienți. Łącze verifică la fiecare 15 secunde dacă internetul funcționează și înregistrează fiecare întrerupere cu ora exactă și durata. Arată și unde este problema: la furnizor sau în Wi-Fi-ul și routerul tău. Testul de viteză arată descărcarea, încărcarea și ping-ul, iar comparația cu viteza din contract îți spune dacă primești ce plătești. Pe ecran vezi în direct ping-ul din ultima oră și numărul de întreruperi de azi.\n\nCu PRO, Łącze supraveghează internetul 24/7 în fundal, face automat teste de viteză și te anunță când conexiunea revine după o întrerupere. Cu un clic creezi un raport pentru furnizor cu întreruperile și testele din ultimele 30 de zile – gata de tipărit și de atașat la reclamație.",
-        "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
-      },
-      "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
       "Id": "lacze",
       "Name": "Łącze",
       "Publisher": "AppsForPeople",
@@ -251,34 +226,34 @@
       "Page": null,
       "BuyUrl": "",
       "Color": "#5AA9FF",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Teczka",
-        "en": "Folder",
-        "ro": "Dosar",
-        "de": "Mappe"
+        "pl": "Łącze",
+        "en": "Connection",
+        "ro": "Conexiune",
+        "de": "Verbindung"
       },
       "Tagline": {
-        "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
-        "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
-        "ro": "Totul pentru PDF într-un singur loc: corectează text, semnează, unește, comprimă – fără să încarci fișierele pe internet.",
-        "de": "Alles für PDF an einem Ort: Text korrigieren, unterschreiben, zusammenfügen, verkleinern – ohne Dateien hochzuladen."
+        "pl": "Zapisuje każdą przerwę w internecie i mierzy prędkość – masz dowody do reklamacji u operatora.",
+        "en": "Logs every internet outage and measures your speed – proof for complaints to your provider.",
+        "ro": "Înregistrează fiecare întrerupere a internetului și măsoară viteza – dovezi pentru reclamații la furnizor.",
+        "de": "Protokolliert jeden Internetausfall und misst die Geschwindigkeit – Belege für Beschwerden beim Anbieter."
       },
       "Description": {
-        "pl": "Umowy, faktury i skany z PESEL-em czy numerem konta nie powinny trafiać na przypadkowe strony „PDF online”. Teczka robi wszystko na Twoim komputerze. Klikasz tekst w dokumencie i go poprawiasz, dopisujesz brakujące dane, zakrywasz to, czego inni nie powinni widzieć, zakreślasz ważne fragmenty i podpisujesz się myszką lub palcem. Zamienisz zdjęcia i skany na jeden PDF, połączysz kilka plików, wytniesz, obrócisz lub usuniesz strony, a z tekstu zrobisz porządny dokument A4. Oryginał nigdy nie jest nadpisywany: wynik zapisuje się jako nowy plik.\n\nCzytanie i drukowanie PDF jest za darmo – Teczka może być Twoim programem do otwierania PDF. Licencja odblokowuje wszystko, co zmienia lub tworzy pliki: zapis z edytora, tekst i zdjęcia → PDF, łączenie, strony, zmniejszanie, hasło, znak wodny, numery stron oraz zamianę Word, Excel i PowerPoint na PDF.",
-        "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nReading and printing PDFs is free – Teczka can be your PDF program. A licence unlocks everything that changes or creates files: saving from the editor, text and photos → PDF, merging, pages, compression, password, watermark, page numbers and converting Word, Excel and PowerPoint to PDF.",
-        "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nCitirea și tipărirea PDF sunt gratuite – Teczka poate fi programul tău pentru PDF. Licența deblochează tot ce modifică sau creează fișiere: salvarea din editor, text și poze → PDF, unire, pagini, micșorare, parolă, filigran, numere de pagină și conversia Word, Excel și PowerPoint în PDF.",
-        "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
+        "pl": "„U nas wszystko działa” – tak często odpowiada infolinia. Łącze co 15 sekund sprawdza, czy internet działa, i zapisuje każdą przerwę z dokładną godziną i czasem trwania. Rozpoznaje też, gdzie leży problem: po stronie operatora czy w Twoim Wi-Fi i routerze. Test prędkości pokazuje pobieranie, wysyłanie i ping, a porównanie z prędkością z umowy mówi, czy dostajesz to, za co płacisz. Na ekranie widzisz na żywo ping z ostatniej godziny i liczbę przerw z dzisiaj.\n\nW wersji PRO Łącze pilnuje internetu 24/7 w tle, samo robi testy prędkości o wybranych porach i powiadamia, gdy internet wróci po przerwie. Jednym kliknięciem tworzysz raport dla operatora z listą przerw i wynikami testów z 30 dni – gotowy do wydruku i dołączenia do reklamacji.",
+        "en": "“Everything is fine on our side” – that\u0027s what the helpline usually says. Łącze checks every 15 seconds whether your internet works and logs every outage with its exact time and duration. It also tells you where the problem is: with your provider, or in your own Wi-Fi and router. The speed test shows download, upload and ping, and a comparison with your contract speed tells you whether you get what you pay for. The screen shows live ping for the last hour and today\u0027s number of outages.\n\nWith PRO, Łącze watches your internet 24/7 in the background, runs speed tests automatically and notifies you when the connection comes back after an outage. One click creates a report for your provider with the outages and test results from the last 30 days – ready to print and attach to your complaint.",
+        "ro": "„La noi totul funcționează” – așa răspunde de obicei serviciul clienți. Łącze verifică la fiecare 15 secunde dacă internetul funcționează și înregistrează fiecare întrerupere cu ora exactă și durata. Arată și unde este problema: la furnizor sau în Wi-Fi-ul și routerul tău. Testul de viteză arată descărcarea, încărcarea și ping-ul, iar comparația cu viteza din contract îți spune dacă primești ce plătești. Pe ecran vezi în direct ping-ul din ultima oră și numărul de întreruperi de azi.\n\nCu PRO, Łącze supraveghează internetul 24/7 în fundal, face automat teste de viteză și te anunță când conexiunea revine după o întrerupere. Cu un clic creezi un raport pentru furnizor cu întreruperile și testele din ultimele 30 de zile – gata de tipărit și de atașat la reclamație.",
+        "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
+    },
+    {
       "Id": "teczka",
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
@@ -304,9 +279,58 @@
       "Page": null,
       "BuyUrl": "",
       "Color": "#FF7A6B",
-      "Featured": true
+      "Featured": true,
+      "Hidden": false,
+      "Names": {
+        "pl": "Teczka",
+        "en": "Folder",
+        "ro": "Dosar",
+        "de": "Mappe"
+      },
+      "Tagline": {
+        "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
+        "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
+        "ro": "Totul pentru PDF într-un singur loc: corectează text, semnează, unește, comprimă – fără să încarci fișierele pe internet.",
+        "de": "Alles für PDF an einem Ort: Text korrigieren, unterschreiben, zusammenfügen, verkleinern – ohne Dateien hochzuladen."
+      },
+      "Description": {
+        "pl": "Umowy, faktury i skany z PESEL-em czy numerem konta nie powinny trafiać na przypadkowe strony „PDF online”. Teczka robi wszystko na Twoim komputerze. Klikasz tekst w dokumencie i go poprawiasz, dopisujesz brakujące dane, zakrywasz to, czego inni nie powinni widzieć, zakreślasz ważne fragmenty i podpisujesz się myszką lub palcem. Zamienisz zdjęcia i skany na jeden PDF, połączysz kilka plików, wytniesz, obrócisz lub usuniesz strony, a z tekstu zrobisz porządny dokument A4. Oryginał nigdy nie jest nadpisywany: wynik zapisuje się jako nowy plik.\n\nCzytanie i drukowanie PDF jest za darmo – Teczka może być Twoim programem do otwierania PDF. Licencja odblokowuje wszystko, co zmienia lub tworzy pliki: zapis z edytora, tekst i zdjęcia → PDF, łączenie, strony, zmniejszanie, hasło, znak wodny, numery stron oraz zamianę Word, Excel i PowerPoint na PDF.",
+        "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nReading and printing PDFs is free – Teczka can be your PDF program. A licence unlocks everything that changes or creates files: saving from the editor, text and photos → PDF, merging, pages, compression, password, watermark, page numbers and converting Word, Excel and PowerPoint to PDF.",
+        "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nCitirea și tipărirea PDF sunt gratuite – Teczka poate fi programul tău pentru PDF. Licența deblochează tot ce modifică sau creează fișiere: salvarea din editor, text și poze → PDF, unire, pagini, micșorare, parolă, filigran, numere de pagină și conversia Word, Excel și PowerPoint în PDF.",
+        "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
     },
     {
+      "Id": "opiekun-dziecko",
+      "Name": "Opiekun – komputer dziecka",
+      "Publisher": "AppsForPeople",
+      "Category": "Rodzina",
+      "Version": "1.2.12",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.12/OpiekunDlaDziecka.zip",
+      "FileName": "OpiekunDlaDziecka.zip",
+      "Sha256": "eba7d3b29b7d8110c669e08170909523cc80e92e281b58639137137971970fcc",
+      "Size": 378775,
+      "Args": null,
+      "Launch": "Opiekun.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#C4B5FD",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Opiekun – komputer dziecka",
@@ -331,33 +355,33 @@
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
-      "Id": "opiekun-dziecko",
-      "Name": "Opiekun – komputer dziecka",
+      }
+    },
+    {
+      "Id": "teczka-podglad",
+      "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
-      "Category": "Rodzina",
-      "Version": "1.2.12",
+      "Category": "Biuro",
+      "Version": "1.1.12",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.12/OpiekunDlaDziecka.zip",
-      "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "eba7d3b29b7d8110c669e08170909523cc80e92e281b58639137137971970fcc",
-      "Size": 378775,
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.12/TeczkaPodglad.zip",
+      "FileName": "TeczkaPodglad.zip",
+      "Sha256": "4a9d3b460402befb42f05e8683814b2222d7b2e37894528dd1c5ec5781ede839",
+      "Size": 4508668,
       "Args": null,
-      "Launch": "Opiekun.exe",
+      "Launch": "TeczkaPodglad.exe",
       "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/opiekun-dziecko/icon.png?v=639304945705005434",
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261120214410-1.jpg"
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "Za darmo",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
-      "Color": "#C4B5FD",
-      "Featured": false
-    },
-    {
+      "Color": "#FF7A6B",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Teczka – przeglądarka PDF",
@@ -382,58 +406,9 @@
         "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
         "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
         "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
-      "Id": "teczka-podglad",
-      "Name": "Teczka – przeglądarka PDF",
-      "Publisher": "AppsForPeople",
-      "Category": "Biuro",
-      "Version": "1.1.12",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.12/TeczkaPodglad.zip",
-      "FileName": "TeczkaPodglad.zip",
-      "Sha256": "4a9d3b460402befb42f05e8683814b2222d7b2e37894528dd1c5ec5781ede839",
-      "Size": 4508668,
-      "Args": null,
-      "Launch": "TeczkaPodglad.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261120214410-1.jpg"
-      ],
-      "Price": "Za darmo",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#FF7A6B",
-      "Featured": false
+      }
     },
     {
-      "Hidden": false,
-      "Names": {
-        "pl": "Rachunki",
-        "en": "Bills",
-        "ro": "Facturi",
-        "de": "Rechnungen"
-      },
-      "Tagline": {
-        "pl": "Dochody, opłaty i ile naprawdę zostaje w miesiącu – z podziałem rachunków i listą, kto ma Ci oddać.",
-        "en": "Income, bills and what\u0027s really left each month – with shared bills and a list of who owes you.",
-        "ro": "Venituri, facturi și cât rămâne de fapt în fiecare lună – cu facturi împărțite și lista celor care îți datorează.",
-        "de": "Einnahmen, Rechnungen und was jeden Monat wirklich übrig bleibt – mit geteilten Rechnungen und Liste, wer dir schuldet."
-      },
-      "Description": {
-        "pl": "Rachunki to prosty domowy budżet. Dodajesz po kolei dochody (umowa o pracę, zlecenie, B2B albo inne) i opłaty: czynsz, prąd, raty, subskrypcje. Program od razu pokazuje, ile zostaje po opłatach, co jeszcze trzeba zapłacić i co jest po terminie. Przy wpisywaniu nazwy wystarczą 2 litery – Rachunki podpowiedzą wcześniejsze wpisy razem z kwotą. Lista ma wyszukiwanie od 2 liter, a strona „Cały rok” pokazuje wszystkie miesiące w jednej tabeli.\n\nW wersji PRO dzielisz rachunki z innymi (np. 50% czynszu płaci współlokator) i od razu widzisz, kto ile ma Ci oddać i czy już oddał. Stałe opłaty przenosisz na nowy miesiąc jednym kliknięciem, a dane eksportujesz do Excela. Wszystko zostaje na Twoim komputerze – program nie łączy się z bankiem ani z żadnym serwisem.",
-        "en": "Rachunki is a simple home budget. Add your income (employment, mandate contract, B2B or other) and bills one by one: rent, electricity, loans, subscriptions. The program instantly shows what\u0027s left after bills, what is still unpaid and what is overdue. Two letters of a name are enough – Rachunki suggests earlier entries with their amounts. The list can be searched from 2 letters, and the “Whole year” page shows every month in one table.\n\nWith PRO you can share bills with others (e.g. a flatmate pays 50% of the rent) and see who owes you how much and whether they have paid back. Recurring bills move to a new month with one click, and you can export your data to Excel. Everything stays on your computer – the program never connects to your bank or any service.",
-        "ro": "Rachunki este un buget casnic simplu. Adaugi pe rând veniturile (contract de muncă, contract de mandat, B2B sau altele) și facturile: chirie, curent, rate, abonamente. Programul arată imediat cât rămâne după plăți, ce mai e de plătit și ce e restant. Două litere din nume sunt suficiente – Rachunki sugerează intrările anterioare cu sumele lor. Lista se caută de la 2 litere, iar pagina „Tot anul” arată toate lunile într-un singur tabel.\n\nCu PRO împarți facturile cu alții (ex. colegul plătește 50% din chirie) și vezi cine cât îți datorează și dacă a returnat. Facturile fixe se copiază în luna nouă cu un clic, iar datele se exportă în Excel. Totul rămâne pe calculatorul tău – programul nu se conectează la bancă sau la vreun serviciu.",
-        "de": "Rachunki ist ein einfaches Haushaltsbuch. Du trägst nacheinander Einnahmen (Arbeitsvertrag, Auftrag, B2B oder Sonstiges) und Rechnungen ein: Miete, Strom, Raten, Abos. Das Programm zeigt sofort, was nach den Rechnungen übrig bleibt, was noch offen und was überfällig ist. Zwei Buchstaben reichen – Rachunki schlägt frühere Einträge mit Betrag vor. Die Liste ist ab 2 Buchstaben durchsuchbar, die Seite „Ganzes Jahr“ zeigt alle Monate in einer Tabelle.\n\nMit PRO teilst du Rechnungen mit anderen (z. B. zahlt der Mitbewohner 50 % der Miete) und siehst, wer dir wie viel schuldet und ob schon zurückgezahlt wurde. Feste Rechnungen übernimmst du mit einem Klick in den neuen Monat, und die Daten lassen sich nach Excel exportieren. Alles bleibt auf deinem Computer – das Programm verbindet sich weder mit der Bank noch mit einem Dienst."
-      },
-      "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
       "Id": "rachunki",
       "Name": "Rachunki",
       "Publisher": "AppsForPeople",
@@ -459,34 +434,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#A78BFA",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Terminy",
-        "en": "Deadlines",
-        "ro": "Termene",
-        "de": "Fristen"
+        "pl": "Rachunki",
+        "en": "Bills",
+        "ro": "Facturi",
+        "de": "Rechnungen"
       },
       "Tagline": {
-        "pl": "Przegląd auta, OC, dowód, paszport, wizyty – przypomni Ci na czas, zanim zapłacisz karę.",
-        "en": "Car inspection, insurance, ID, passport, appointments – reminds you in time, before you pay a penalty.",
-        "ro": "Inspecția mașinii, asigurare, buletin, pașaport, programări – îți amintește la timp, înainte de amendă.",
-        "de": "TÜV, Versicherung, Ausweis, Reisepass, Arzttermine – erinnert dich rechtzeitig, bevor Strafe fällig wird."
+        "pl": "Dochody, opłaty i ile naprawdę zostaje w miesiącu – z podziałem rachunków i listą, kto ma Ci oddać.",
+        "en": "Income, bills and what\u0027s really left each month – with shared bills and a list of who owes you.",
+        "ro": "Venituri, facturi și cât rămâne de fapt în fiecare lună – cu facturi împărțite și lista celor care îți datorează.",
+        "de": "Einnahmen, Rechnungen und was jeden Monat wirklich übrig bleibt – mit geteilten Rechnungen und Liste, wer dir schuldet."
       },
       "Description": {
-        "pl": "Terminy zbierają w jednym miejscu wszystkie ważne daty całej rodziny: przegląd i OC samochodu, ważność dowodu i paszportu, wizyty u lekarza, opłaty roczne i szkolne sprawy. Lista od razu pokazuje, co jest po terminie (na czerwono), co się zbliża (na żółto) i ile dni zostało. Przy otwarciu programu dostaniesz przypomnienie o tym, co pilne. Szukanie działa od 2 liter.\n\nW wersji PRO Terminy przypominają w tle – dymkiem przy zegarze, nawet gdy program jest zamknięty. Terminy powtarzalne (co miesiąc, co rok) po oznaczeniu jako zrobione same przechodzą na następny raz. Bez limitu terminów, a inne programy AppsForPeople (Auto, Pisma, Liczniki) mogą same dopisywać tu daty. Jedna przegapiona kara za brak OC kosztuje więcej niż kilka lat licencji.",
-        "en": "Terminy keeps all your family\u0027s important dates in one place: car inspection and insurance, ID and passport expiry, doctor\u0027s appointments, yearly fees and school matters. The list instantly shows what is overdue (red), what is coming up (yellow) and how many days are left. When you open the program you get a reminder of anything urgent. Search works from 2 letters.\n\nWith PRO, Terminy reminds you in the background – with a notification near the clock, even when the program is closed. Repeating dates (monthly, yearly) move to the next time automatically once marked as done. No limit on dates, and other AppsForPeople programs (Auto, Pisma, Liczniki) can add dates here themselves.",
-        "ro": "Terminy adună într-un singur loc toate datele importante ale familiei: inspecția și asigurarea mașinii, valabilitatea buletinului și pașaportului, programările la medic, taxele anuale și treburile școlare. Lista arată imediat ce e restant (roșu), ce se apropie (galben) și câte zile au rămas. La deschiderea programului primești un memento pentru ce e urgent. Căutarea merge de la 2 litere.\n\nCu PRO, Terminy îți amintește în fundal – cu o notificare lângă ceas, chiar și cu programul închis. Termenele repetate (lunar, anual) trec automat la următoarea dată după ce le marchezi ca rezolvate. Fără limită de termene, iar alte programe AppsForPeople pot adăuga singure date aici.",
-        "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
+        "pl": "Rachunki to prosty domowy budżet. Dodajesz po kolei dochody (umowa o pracę, zlecenie, B2B albo inne) i opłaty: czynsz, prąd, raty, subskrypcje. Program od razu pokazuje, ile zostaje po opłatach, co jeszcze trzeba zapłacić i co jest po terminie. Przy wpisywaniu nazwy wystarczą 2 litery – Rachunki podpowiedzą wcześniejsze wpisy razem z kwotą. Lista ma wyszukiwanie od 2 liter, a strona „Cały rok” pokazuje wszystkie miesiące w jednej tabeli.\n\nW wersji PRO dzielisz rachunki z innymi (np. 50% czynszu płaci współlokator) i od razu widzisz, kto ile ma Ci oddać i czy już oddał. Stałe opłaty przenosisz na nowy miesiąc jednym kliknięciem, a dane eksportujesz do Excela. Wszystko zostaje na Twoim komputerze – program nie łączy się z bankiem ani z żadnym serwisem.",
+        "en": "Rachunki is a simple home budget. Add your income (employment, mandate contract, B2B or other) and bills one by one: rent, electricity, loans, subscriptions. The program instantly shows what\u0027s left after bills, what is still unpaid and what is overdue. Two letters of a name are enough – Rachunki suggests earlier entries with their amounts. The list can be searched from 2 letters, and the “Whole year” page shows every month in one table.\n\nWith PRO you can share bills with others (e.g. a flatmate pays 50% of the rent) and see who owes you how much and whether they have paid back. Recurring bills move to a new month with one click, and you can export your data to Excel. Everything stays on your computer – the program never connects to your bank or any service.",
+        "ro": "Rachunki este un buget casnic simplu. Adaugi pe rând veniturile (contract de muncă, contract de mandat, B2B sau altele) și facturile: chirie, curent, rate, abonamente. Programul arată imediat cât rămâne după plăți, ce mai e de plătit și ce e restant. Două litere din nume sunt suficiente – Rachunki sugerează intrările anterioare cu sumele lor. Lista se caută de la 2 litere, iar pagina „Tot anul” arată toate lunile într-un singur tabel.\n\nCu PRO împarți facturile cu alții (ex. colegul plătește 50% din chirie) și vezi cine cât îți datorează și dacă a returnat. Facturile fixe se copiază în luna nouă cu un clic, iar datele se exportă în Excel. Totul rămâne pe calculatorul tău – programul nu se conectează la bancă sau la vreun serviciu.",
+        "de": "Rachunki ist ein einfaches Haushaltsbuch. Du trägst nacheinander Einnahmen (Arbeitsvertrag, Auftrag, B2B oder Sonstiges) und Rechnungen ein: Miete, Strom, Raten, Abos. Das Programm zeigt sofort, was nach den Rechnungen übrig bleibt, was noch offen und was überfällig ist. Zwei Buchstaben reichen – Rachunki schlägt frühere Einträge mit Betrag vor. Die Liste ist ab 2 Buchstaben durchsuchbar, die Seite „Ganzes Jahr“ zeigt alle Monate in einer Tabelle.\n\nMit PRO teilst du Rechnungen mit anderen (z. B. zahlt der Mitbewohner 50 % der Miete) und siehst, wer dir wie viel schuldet und ob schon zurückgezahlt wurde. Feste Rechnungen übernimmst du mit einem Klick in den neuen Monat, und die Daten lassen sich nach Excel exportieren. Alles bleibt auf deinem Computer – das Programm verbindet sich weder mit der Bank noch mit einem Dienst."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
+    },
+    {
       "Id": "terminy",
       "Name": "Terminy",
       "Publisher": "AppsForPeople",
@@ -511,34 +486,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#F59E6B",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Auto",
-        "en": "Car",
-        "ro": "Mașina",
-        "de": "Auto"
+        "pl": "Terminy",
+        "en": "Deadlines",
+        "ro": "Termene",
+        "de": "Fristen"
       },
       "Tagline": {
-        "pl": "Tankowania, spalanie i koszt kilometra – a w PRO serwisy, OC, przegląd i historia PDF.",
-        "en": "Refuels, consumption and cost per km – with PRO: service, insurance, inspection and PDF history.",
-        "ro": "Alimentări, consum și cost pe km – cu PRO service, asigurare și istoric PDF.",
-        "de": "Tanken, Verbrauch und Kosten pro km – mit PRO Service, Versicherung, TÜV und PDF-Historie."
+        "pl": "Przegląd auta, OC, dowód, paszport, wizyty – przypomni Ci na czas, zanim zapłacisz karę.",
+        "en": "Car inspection, insurance, ID, passport, appointments – reminds you in time, before you pay a penalty.",
+        "ro": "Inspecția mașinii, asigurare, buletin, pașaport, programări – îți amintește la timp, înainte de amendă.",
+        "de": "TÜV, Versicherung, Ausweis, Reisepass, Arzttermine – erinnert dich rechtzeitig, bevor Strafe fällig wird."
       },
       "Description": {
-        "pl": "Auto liczy prawdziwe spalanie metodą „od pełnego do pełnego”, koszt paliwa na kilometr i wydatki w roku. Wystarczy po tankowaniu wpisać przebieg, litry i kwotę.\n\nW PRO: kilka samochodów, serwisy z przypomnieniem po kilometrach, OC i przegląd przekazywane do programu Terminy oraz historia serwisowa w PDF – auto z udokumentowaną historią sprzedasz drożej.",
-        "en": "Auto calculates real fuel consumption (full to full), fuel cost per km and yearly spending. After refuelling just enter odometer, litres and amount.\n\nWith PRO: several cars, service log with kilometre reminders, insurance and inspection sent to Terminy, and a PDF service history – documented cars sell for more.",
-        "ro": "Auto calculează consumul real, costul pe km și cheltuielile anuale.\n\nCu PRO: mai multe mașini, service cu memento, asigurare și ITP în Terminy și istoric service PDF.",
-        "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nMit PRO: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
+        "pl": "Terminy zbierają w jednym miejscu wszystkie ważne daty całej rodziny: przegląd i OC samochodu, ważność dowodu i paszportu, wizyty u lekarza, opłaty roczne i szkolne sprawy. Lista od razu pokazuje, co jest po terminie (na czerwono), co się zbliża (na żółto) i ile dni zostało. Przy otwarciu programu dostaniesz przypomnienie o tym, co pilne. Szukanie działa od 2 liter.\n\nW wersji PRO Terminy przypominają w tle – dymkiem przy zegarze, nawet gdy program jest zamknięty. Terminy powtarzalne (co miesiąc, co rok) po oznaczeniu jako zrobione same przechodzą na następny raz. Bez limitu terminów, a inne programy AppsForPeople (Auto, Pisma, Liczniki) mogą same dopisywać tu daty. Jedna przegapiona kara za brak OC kosztuje więcej niż kilka lat licencji.",
+        "en": "Terminy keeps all your family\u0027s important dates in one place: car inspection and insurance, ID and passport expiry, doctor\u0027s appointments, yearly fees and school matters. The list instantly shows what is overdue (red), what is coming up (yellow) and how many days are left. When you open the program you get a reminder of anything urgent. Search works from 2 letters.\n\nWith PRO, Terminy reminds you in the background – with a notification near the clock, even when the program is closed. Repeating dates (monthly, yearly) move to the next time automatically once marked as done. No limit on dates, and other AppsForPeople programs (Auto, Pisma, Liczniki) can add dates here themselves.",
+        "ro": "Terminy adună într-un singur loc toate datele importante ale familiei: inspecția și asigurarea mașinii, valabilitatea buletinului și pașaportului, programările la medic, taxele anuale și treburile școlare. Lista arată imediat ce e restant (roșu), ce se apropie (galben) și câte zile au rămas. La deschiderea programului primești un memento pentru ce e urgent. Căutarea merge de la 2 litere.\n\nCu PRO, Terminy îți amintește în fundal – cu o notificare lângă ceas, chiar și cu programul închis. Termenele repetate (lunar, anual) trec automat la următoarea dată după ce le marchezi ca rezolvate. Fără limită de termene, iar alte programe AppsForPeople pot adăuga singure date aici.",
+        "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
       "Id": "auto",
       "Name": "Auto",
       "Publisher": "AppsForPeople",
@@ -564,34 +539,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#FB923C",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Automatyk",
-        "en": "Automation",
-        "ro": "Automatizări",
-        "de": "Automatik"
+        "pl": "Auto",
+        "en": "Car",
+        "ro": "Mașina",
+        "de": "Auto"
       },
       "Tagline": {
-        "pl": "Kalkulator automatyka: 4–20 mA, wartości PLC, PT100, prąd silnika, przekrój przewodu.",
-        "en": "Automation calculator: 4–20 mA, PLC raw values, PT100, motor current, cable sizing.",
-        "ro": "Calculator pentru automatizări: 4–20 mA, PLC, PT100, curent motor, cabluri.",
-        "de": "Rechner für Automatisierer: 4–20 mA, SPS-Rohwerte, PT100, Motorstrom, Leitungen."
+        "pl": "Tankowania, spalanie i koszt kilometra – a w PRO serwisy, OC, przegląd i historia PDF.",
+        "en": "Refuels, consumption and cost per km – with PRO: service, insurance, inspection and PDF history.",
+        "ro": "Alimentări, consum și cost pe km – cu PRO service, asigurare și istoric PDF.",
+        "de": "Tanken, Verbrauch und Kosten pro km – mit PRO Service, Versicherung, TÜV und PDF-Historie."
       },
       "Description": {
-        "pl": "Automatyk to szybkie przeliczenia do szafy i na budowę: sygnał 4–20 mA / 0–10 V ↔ wartość fizyczna ↔ wartość surowa w sterowniku S7 (0–27648), PT100/PT500/PT1000 ↔ temperatura według IEC 60751 i prawo Ohma z mocą. Działa bez internetu.\n\nW PRO: prąd znamionowy silnika z mocy, spadek napięcia na przewodzie z doborem najmniejszego przekroju, historia obliczeń z opisem urządzenia i raport PDF do dokumentacji projektu.",
-        "en": "Automatyk does quick conversions for panel building and commissioning: 4–20 mA / 0–10 V ↔ physical value ↔ S7 raw value (0–27648), PT100/PT500/PT1000 ↔ temperature per IEC 60751 and Ohm\u0027s law with power. Works offline.\n\nWith PRO: motor rated current from power, cable voltage drop with smallest cross-section, calculation history with device tags and a PDF report for project documentation.",
-        "ro": "Automatyk face conversii rapide: 4–20 mA ↔ valoare fizică ↔ valoare brută S7, PT100 ↔ temperatură, legea lui Ohm. Funcționează offline.\n\nCu PRO: curent motor, cădere de tensiune și secțiune minimă, istoric și raport PDF.",
-        "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
+        "pl": "Auto liczy prawdziwe spalanie metodą „od pełnego do pełnego”, koszt paliwa na kilometr i wydatki w roku. Wystarczy po tankowaniu wpisać przebieg, litry i kwotę.\n\nW PRO: kilka samochodów, serwisy z przypomnieniem po kilometrach, OC i przegląd przekazywane do programu Terminy oraz historia serwisowa w PDF – auto z udokumentowaną historią sprzedasz drożej.",
+        "en": "Auto calculates real fuel consumption (full to full), fuel cost per km and yearly spending. After refuelling just enter odometer, litres and amount.\n\nWith PRO: several cars, service log with kilometre reminders, insurance and inspection sent to Terminy, and a PDF service history – documented cars sell for more.",
+        "ro": "Auto calculează consumul real, costul pe km și cheltuielile anuale.\n\nCu PRO: mai multe mașini, service cu memento, asigurare și ITP în Terminy și istoric service PDF.",
+        "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nMit PRO: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "automatyk",
       "Name": "Automatyk",
       "Publisher": "AppsForPeople",
@@ -617,34 +592,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#38BDF8",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Godziny",
-        "en": "Hours",
-        "ro": "Ore",
-        "de": "Stunden"
+        "pl": "Automatyk",
+        "en": "Automation",
+        "ro": "Automatizări",
+        "de": "Automatik"
       },
       "Tagline": {
-        "pl": "Ewidencja czasu pracy: start/stop, projekty i zestawienie PDF dla klienta.",
-        "en": "Time tracking: start/stop, projects and a PDF summary for the client.",
-        "ro": "Evidența timpului: start/stop, proiecte și raport PDF pentru client.",
-        "de": "Zeiterfassung: Start/Stopp, Projekte und PDF-Übersicht für den Kunden."
+        "pl": "Kalkulator automatyka: 4–20 mA, wartości PLC, PT100, prąd silnika, przekrój przewodu.",
+        "en": "Automation calculator: 4–20 mA, PLC raw values, PT100, motor current, cable sizing.",
+        "ro": "Calculator pentru automatizări: 4–20 mA, PLC, PT100, curent motor, cabluri.",
+        "de": "Rechner für Automatisierer: 4–20 mA, SPS-Rohwerte, PT100, Motorstrom, Leitungen."
       },
       "Description": {
-        "pl": "Godziny liczą czas pracy jednym kliknięciem: Start, gdy zaczynasz, Stop, gdy kończysz – licznik działa nawet po zamknięciu programu. Zapomniałeś? Dodasz czas ręcznie. Widzisz godziny z dziś, tygodnia i miesiąca.\n\nW PRO: wielu klientów i projektów, stawki godzinowe i zarobek w miesiącu oraz miesięczne zestawienie PDF – gotowy załącznik do faktury dla osób na zleceniu i B2B.",
-        "en": "Godziny tracks work time with one click: Start when you begin, Stop when you finish – the timer keeps running even after closing the program. Forgot? Add time manually. See hours for today, the week and the month.\n\nWith PRO: many clients and projects, hourly rates and monthly earnings, and a monthly PDF summary – ready to attach to an invoice.",
-        "ro": "Godziny măsoară timpul de lucru cu un clic: Start când începi, Stop când termini. Ai uitat? Adaugi timpul manual.\n\nCu PRO: mai mulți clienți și proiecte, tarife orare, câștig lunar și raport PDF lunar pentru factură.",
-        "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
+        "pl": "Automatyk to szybkie przeliczenia do szafy i na budowę: sygnał 4–20 mA / 0–10 V ↔ wartość fizyczna ↔ wartość surowa w sterowniku S7 (0–27648), PT100/PT500/PT1000 ↔ temperatura według IEC 60751 i prawo Ohma z mocą. Działa bez internetu.\n\nW PRO: prąd znamionowy silnika z mocy, spadek napięcia na przewodzie z doborem najmniejszego przekroju, historia obliczeń z opisem urządzenia i raport PDF do dokumentacji projektu.",
+        "en": "Automatyk does quick conversions for panel building and commissioning: 4–20 mA / 0–10 V ↔ physical value ↔ S7 raw value (0–27648), PT100/PT500/PT1000 ↔ temperature per IEC 60751 and Ohm\u0027s law with power. Works offline.\n\nWith PRO: motor rated current from power, cable voltage drop with smallest cross-section, calculation history with device tags and a PDF report for project documentation.",
+        "ro": "Automatyk face conversii rapide: 4–20 mA ↔ valoare fizică ↔ valoare brută S7, PT100 ↔ temperatură, legea lui Ohm. Funcționează offline.\n\nCu PRO: curent motor, cădere de tensiune și secțiune minimă, istoric și raport PDF.",
+        "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "godziny",
       "Name": "Godziny",
       "Publisher": "AppsForPeople",
@@ -670,34 +645,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#4FD1C5",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Liczniki",
-        "en": "Meters",
-        "ro": "Contoare",
-        "de": "Zähler"
+        "pl": "Godziny",
+        "en": "Hours",
+        "ro": "Ore",
+        "de": "Stunden"
       },
       "Tagline": {
-        "pl": "Prąd, gaz, woda: odczyty, zużycie i koszt – alarm, gdy zużycie nagle skoczy.",
-        "en": "Power, gas, water: readings, usage and cost – an alarm when usage suddenly jumps.",
-        "ro": "Curent, gaz, apă: citiri, consum și cost – alarmă la creșteri bruște.",
-        "de": "Strom, Gas, Wasser: Ablesungen, Verbrauch, Kosten – Alarm bei plötzlichem Anstieg."
+        "pl": "Ewidencja czasu pracy: start/stop, projekty i zestawienie PDF dla klienta.",
+        "en": "Time tracking: start/stop, projects and a PDF summary for the client.",
+        "ro": "Evidența timpului: start/stop, proiecte și raport PDF pentru client.",
+        "de": "Zeiterfassung: Start/Stopp, Projekte und PDF-Übersicht für den Kunden."
       },
       "Description": {
-        "pl": "Liczniki zapamiętują stany licznika i liczą zużycie dzienne i miesięczne. Od razu widać, czy zużywasz więcej niż zwykle.\n\nW PRO: wiele liczników i mieszkań, koszt według Twojej taryfy i opłat stałych, porównanie rok do roku, alarm nagłego wzrostu (np. cieknąca spłuczka czy zapomniany grzejnik) i comiesięczne przypomnienie o odczycie w programie Terminy.",
-        "en": "Liczniki stores meter readings and calculates daily and monthly usage, so you see at once whether you use more than usual.\n\nWith PRO: many meters and homes, cost by your tariff and fixed fees, year-to-year comparison, a sudden-usage alarm (e.g. a leaking toilet) and a monthly reading reminder in Terminy.",
-        "ro": "Liczniki reține indexurile și calculează consumul zilnic și lunar.\n\nCu PRO: mai multe contoare, cost după tarif, comparație an la an, alarmă și memento lunar în Terminy.",
-        "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
+        "pl": "Godziny liczą czas pracy jednym kliknięciem: Start, gdy zaczynasz, Stop, gdy kończysz – licznik działa nawet po zamknięciu programu. Zapomniałeś? Dodasz czas ręcznie. Widzisz godziny z dziś, tygodnia i miesiąca.\n\nW PRO: wielu klientów i projektów, stawki godzinowe i zarobek w miesiącu oraz miesięczne zestawienie PDF – gotowy załącznik do faktury dla osób na zleceniu i B2B.",
+        "en": "Godziny tracks work time with one click: Start when you begin, Stop when you finish – the timer keeps running even after closing the program. Forgot? Add time manually. See hours for today, the week and the month.\n\nWith PRO: many clients and projects, hourly rates and monthly earnings, and a monthly PDF summary – ready to attach to an invoice.",
+        "ro": "Godziny măsoară timpul de lucru cu un clic: Start când începi, Stop când termini. Ai uitat? Adaugi timpul manual.\n\nCu PRO: mai mulți clienți și proiecte, tarife orare, câștig lunar și raport PDF lunar pentru factură.",
+        "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "liczniki",
       "Name": "Liczniki",
       "Publisher": "AppsForPeople",
@@ -723,34 +698,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#34D399",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Pisma",
-        "en": "Letters",
-        "ro": "Scrisori",
-        "de": "Schreiben"
+        "pl": "Liczniki",
+        "en": "Meters",
+        "ro": "Contoare",
+        "de": "Zähler"
       },
       "Tagline": {
-        "pl": "Generator pism: reklamacja, odstąpienie, wypowiedzenie, wezwanie do zapłaty – z logo, do PDF.",
-        "en": "Letter generator: complaints, withdrawals, terminations, payment demands – with your logo, to PDF.",
-        "ro": "Generator de scrisori: reclamații, rezilieri, somații – cu logo, în PDF.",
-        "de": "Briefgenerator: Reklamation, Widerruf, Kündigung, Mahnung – mit Logo, als PDF."
+        "pl": "Prąd, gaz, woda: odczyty, zużycie i koszt – alarm, gdy zużycie nagle skoczy.",
+        "en": "Power, gas, water: readings, usage and cost – an alarm when usage suddenly jumps.",
+        "ro": "Curent, gaz, apă: citiri, consum și cost – alarmă la creșteri bruște.",
+        "de": "Strom, Gas, Wasser: Ablesungen, Verbrauch, Kosten – Alarm bei plötzlichem Anstieg."
       },
       "Description": {
-        "pl": "Pisma podpowiadają gotowe wzory polskich pism: reklamację towaru, odstąpienie od umowy zawartej przez internet i wypowiedzenie umowy. Uzupełniasz pola w nawiasach, a program składa pismo z Twoimi danymi, miejscowością i datą i zapisuje je jako PDF albo drukuje.\n\nW PRO: Twoje logo w nagłówku i podpis z obrazka, pełna biblioteka wzorów (wezwanie do zapłaty, wniosek RODO, wypowiedzenie najmu, pełnomocnictwo, reklamacja usługi i inne), własne wzory, historia pism i termin odpowiedzi dodawany do programu Terminy.",
-        "en": "Pisma offers ready templates of Polish letters: product complaint, withdrawal from an online purchase and contract termination. Fill in the fields in brackets and the program builds the letter with your details and date and saves it as PDF or prints it.\n\nWith PRO: your logo and signature image, the full template library (payment demand, GDPR request, lease termination, power of attorney and more), your own templates, letter history and reply deadlines in Terminy.",
-        "ro": "Pisma oferă modele de scrisori poloneze gata făcute. Completezi câmpurile, iar programul salvează scrisoarea ca PDF.\n\nCu PRO: logo și semnătură, bibliotecă completă de modele, modele proprii, istoric și termene de răspuns în Terminy.",
-        "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
+        "pl": "Liczniki zapamiętują stany licznika i liczą zużycie dzienne i miesięczne. Od razu widać, czy zużywasz więcej niż zwykle.\n\nW PRO: wiele liczników i mieszkań, koszt według Twojej taryfy i opłat stałych, porównanie rok do roku, alarm nagłego wzrostu (np. cieknąca spłuczka czy zapomniany grzejnik) i comiesięczne przypomnienie o odczycie w programie Terminy.",
+        "en": "Liczniki stores meter readings and calculates daily and monthly usage, so you see at once whether you use more than usual.\n\nWith PRO: many meters and homes, cost by your tariff and fixed fees, year-to-year comparison, a sudden-usage alarm (e.g. a leaking toilet) and a monthly reading reminder in Terminy.",
+        "ro": "Liczniki reține indexurile și calculează consumul zilnic și lunar.\n\nCu PRO: mai multe contoare, cost după tarif, comparație an la an, alarmă și memento lunar în Terminy.",
+        "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "pisma",
       "Name": "Pisma",
       "Publisher": "AppsForPeople",
@@ -776,9 +751,58 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#7AA2FF",
-      "Featured": false
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Pisma",
+        "en": "Letters",
+        "ro": "Scrisori",
+        "de": "Schreiben"
+      },
+      "Tagline": {
+        "pl": "Generator pism: reklamacja, odstąpienie, wypowiedzenie, wezwanie do zapłaty – z logo, do PDF.",
+        "en": "Letter generator: complaints, withdrawals, terminations, payment demands – with your logo, to PDF.",
+        "ro": "Generator de scrisori: reclamații, rezilieri, somații – cu logo, în PDF.",
+        "de": "Briefgenerator: Reklamation, Widerruf, Kündigung, Mahnung – mit Logo, als PDF."
+      },
+      "Description": {
+        "pl": "Pisma podpowiadają gotowe wzory polskich pism: reklamację towaru, odstąpienie od umowy zawartej przez internet i wypowiedzenie umowy. Uzupełniasz pola w nawiasach, a program składa pismo z Twoimi danymi, miejscowością i datą i zapisuje je jako PDF albo drukuje.\n\nW PRO: Twoje logo w nagłówku i podpis z obrazka, pełna biblioteka wzorów (wezwanie do zapłaty, wniosek RODO, wypowiedzenie najmu, pełnomocnictwo, reklamacja usługi i inne), własne wzory, historia pism i termin odpowiedzi dodawany do programu Terminy.",
+        "en": "Pisma offers ready templates of Polish letters: product complaint, withdrawal from an online purchase and contract termination. Fill in the fields in brackets and the program builds the letter with your details and date and saves it as PDF or prints it.\n\nWith PRO: your logo and signature image, the full template library (payment demand, GDPR request, lease termination, power of attorney and more), your own templates, letter history and reply deadlines in Terminy.",
+        "ro": "Pisma oferă modele de scrisori poloneze gata făcute. Completezi câmpurile, iar programul salvează scrisoarea ca PDF.\n\nCu PRO: logo și semnătură, bibliotecă completă de modele, modele proprii, istoric și termene de răspuns în Terminy.",
+        "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
+      },
+      "Changelog": {
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
     },
     {
+      "Id": "porty",
+      "Name": "Porty",
+      "Publisher": "AppsForPeople",
+      "Category": "Programiści",
+      "Version": "1.0.7",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.7/Porty.zip",
+      "FileName": "Porty.zip",
+      "Sha256": "55f40808f1c035c66d0940d2481c656ed32558e174336ef32d6ce3d0d37e4be1",
+      "Size": 175284,
+      "Args": null,
+      "Launch": "Porty.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porty/icon.png?v=639306250919000869",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#A3E635",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Porty",
@@ -803,58 +827,9 @@
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
-      "Id": "porty",
-      "Name": "Porty",
-      "Publisher": "AppsForPeople",
-      "Category": "Programiści",
-      "Version": "1.0.7",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.7/Porty.zip",
-      "FileName": "Porty.zip",
-      "Sha256": "55f40808f1c035c66d0940d2481c656ed32558e174336ef32d6ce3d0d37e4be1",
-      "Size": 175284,
-      "Args": null,
-      "Launch": "Porty.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/porty/icon.png?v=639306250919000869",
-      "Shots": [
-        
-      ],
-      "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#A3E635",
-      "Featured": false
+      }
     },
     {
-      "Hidden": false,
-      "Names": {
-        "pl": "Ramki",
-        "en": "Frames",
-        "ro": "Sisteme de coordonate",
-        "de": "Koordinaten"
-      },
-      "Tagline": {
-        "pl": "Układy współrzędnych robotów: KUKA ABC ↔ ABB kwaternion ↔ Fanuc WPR, base i TCP.",
-        "en": "Robot frames: KUKA ABC ↔ ABB quaternion ↔ Fanuc WPR, base and TCP.",
-        "ro": "Cadre de robot: KUKA ABC ↔ cuaternion ABB ↔ Fanuc WPR, bază și TCP.",
-        "de": "Roboterkoordinaten: KUKA ABC ↔ ABB-Quaternion ↔ Fanuc WPR, Basis und TCP."
-      },
-      "Description": {
-        "pl": "Ramki przeliczają orientację między robotami różnych firm: KUKA A, B, C, Fanuc/Yaskawa W, P, R, kwaternion ABB i macierz obrotu. Wklejasz liczby z teach pendanta – dostajesz wszystkie formaty naraz.\n\nW PRO: przeliczanie punktów między BASE i WORLD, base z 3 zmierzonych punktów, TCP narzędzia metodą 4 punktów z oceną dokładności oraz gotowe linie dla KRL, RAPID i Fanuc do skopiowania.",
-        "en": "Ramki converts orientations between robot brands: KUKA A, B, C, Fanuc/Yaskawa W, P, R, ABB quaternion and rotation matrix. Paste numbers from the teach pendant and get every format at once.\n\nWith PRO: point transformation between BASE and WORLD, base from 3 measured points, tool TCP with the 4-point method and accuracy check, and ready lines for KRL, RAPID and Fanuc.",
-        "ro": "Ramki convertește orientarea între roboți: KUKA ABC, Fanuc WPR, cuaternion ABB și matrice.\n\nCu PRO: transformare puncte BASE ↔ WORLD, bază din 3 puncte, TCP prin metoda 4 puncte și linii pentru KRL, RAPID, Fanuc.",
-        "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nMit PRO: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
-      },
-      "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
       "Id": "ramki",
       "Name": "Ramki",
       "Publisher": "AppsForPeople",
@@ -880,9 +855,58 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#F472B6",
-      "Featured": false
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Ramki",
+        "en": "Frames",
+        "ro": "Sisteme de coordonate",
+        "de": "Koordinaten"
+      },
+      "Tagline": {
+        "pl": "Układy współrzędnych robotów: KUKA ABC ↔ ABB kwaternion ↔ Fanuc WPR, base i TCP.",
+        "en": "Robot frames: KUKA ABC ↔ ABB quaternion ↔ Fanuc WPR, base and TCP.",
+        "ro": "Cadre de robot: KUKA ABC ↔ cuaternion ABB ↔ Fanuc WPR, bază și TCP.",
+        "de": "Roboterkoordinaten: KUKA ABC ↔ ABB-Quaternion ↔ Fanuc WPR, Basis und TCP."
+      },
+      "Description": {
+        "pl": "Ramki przeliczają orientację między robotami różnych firm: KUKA A, B, C, Fanuc/Yaskawa W, P, R, kwaternion ABB i macierz obrotu. Wklejasz liczby z teach pendanta – dostajesz wszystkie formaty naraz.\n\nW PRO: przeliczanie punktów między BASE i WORLD, base z 3 zmierzonych punktów, TCP narzędzia metodą 4 punktów z oceną dokładności oraz gotowe linie dla KRL, RAPID i Fanuc do skopiowania.",
+        "en": "Ramki converts orientations between robot brands: KUKA A, B, C, Fanuc/Yaskawa W, P, R, ABB quaternion and rotation matrix. Paste numbers from the teach pendant and get every format at once.\n\nWith PRO: point transformation between BASE and WORLD, base from 3 measured points, tool TCP with the 4-point method and accuracy check, and ready lines for KRL, RAPID and Fanuc.",
+        "ro": "Ramki convertește orientarea între roboți: KUKA ABC, Fanuc WPR, cuaternion ABB și matrice.\n\nCu PRO: transformare puncte BASE ↔ WORLD, bază din 3 puncte, TCP prin metoda 4 puncte și linii pentru KRL, RAPID, Fanuc.",
+        "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nMit PRO: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
+      },
+      "Changelog": {
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
     },
     {
+      "Id": "schowek",
+      "Name": "Schowek",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.7",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.7/Schowek.zip",
+      "FileName": "Schowek.zip",
+      "Sha256": "f6acabfdde457ee2dfe35a2c9b813b0342c0e511debf40c1b41496971cbaee18",
+      "Size": 160423,
+      "Args": null,
+      "Launch": "Schowek.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/schowek/icon.png?v=639306251054250333",
+      "Shots": [
+        
+      ],
+      "Price": "5 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#C084FC",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Schowek",
@@ -903,62 +927,13 @@
         "de": "Schowek merkt sich kopierte Texte; der Verlauf wird verschlüsselt; kostenlos die letzten 25.\n\nMit PRO: bis 1000 Einträge, angeheftete Texte, Bilder und Strg+Umschalt+V."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
-      "Id": "schowek",
-      "Name": "Schowek",
-      "Publisher": "AppsForPeople",
-      "Category": "Narzędzia",
-      "Version": "1.0.6",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.6/Schowek.zip",
-      "FileName": "Schowek.zip",
-      "Sha256": "22179f872dc2ba382e359bd3068d29730eea35fdda124e374b49dde69ed204c9",
-      "Size": 158630,
-      "Args": null,
-      "Launch": "Schowek.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/schowek/icon.png?v=639306251054250333",
-      "Shots": [
-        
-      ],
-      "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#C084FC",
-      "Featured": false
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
     },
     {
-      "Hidden": false,
-      "Names": {
-        "pl": "Tabliczka",
-        "en": "Times Tables",
-        "ro": "Tabla înmulțirii",
-        "de": "Einmaleins"
-      },
-      "Tagline": {
-        "pl": "Nauka przez zabawę dla dzieci: tabliczka mnożenia, dodawanie, odejmowanie, ortografia.",
-        "en": "Learning through play: times tables, addition, subtraction and Polish spelling.",
-        "ro": "Învățare prin joacă: tabla înmulțirii, adunare, scădere, ortografie.",
-        "de": "Spielend lernen: Einmaleins, Addition, Subtraktion, Rechtschreibung."
-      },
-      "Description": {
-        "pl": "Tabliczka to prosta gra dla dzieci z klas 1–3: duże przyciski, gwiazdki za dobre odpowiedzi i serie. Bez reklam, czatów i zakupów w grze.\n\nW PRO: ortografia (ó/u, rz/ż, ch/h, ą/ę), poziomy do 20 i do 100 oraz raport dla rodzica – co dziecku idzie dobrze, a co trzeba jeszcze poćwiczyć.",
-        "en": "Tabliczka is a simple game for grades 1–3: big buttons, stars for right answers and streaks. No ads, chats or in-game purchases.\n\nWith PRO: Polish spelling (ó/u, rz/ż, ch/h, ą/ę), levels up to 20 and 100 and a parent report showing what goes well and what needs practice.",
-        "ro": "Tabliczka este un joc simplu pentru clasele 1–3, fără reclame.\n\nCu PRO: ortografie poloneză, niveluri până la 20 și 100 și raport pentru părinți.",
-        "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
-      },
-      "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
       "Id": "tabliczka",
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
@@ -983,34 +958,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#FACC15",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Zrzut",
-        "en": "Screenshot",
-        "ro": "Captură",
-        "de": "Bildschirmfoto"
+        "pl": "Tabliczka",
+        "en": "Times Tables",
+        "ro": "Tabla înmulțirii",
+        "de": "Einmaleins"
       },
       "Tagline": {
-        "pl": "Zrzut ekranu ze strzałkami i tekstem, zamazywanie danych i instrukcje krok po kroku w PDF.",
-        "en": "Screenshots with arrows and text, data blurring and step-by-step PDF guides.",
-        "ro": "Capturi cu săgeți și text, estompare și ghiduri PDF pas cu pas.",
-        "de": "Screenshots mit Pfeilen und Text, Verpixeln und Schritt-für-Schritt-PDFs."
+        "pl": "Nauka przez zabawę dla dzieci: tabliczka mnożenia, dodawanie, odejmowanie, ortografia.",
+        "en": "Learning through play: times tables, addition, subtraction and Polish spelling.",
+        "ro": "Învățare prin joacă: tabla înmulțirii, adunare, scădere, ortografie.",
+        "de": "Spielend lernen: Einmaleins, Addition, Subtraktion, Rechtschreibung."
       },
       "Description": {
-        "pl": "Zrzut zaznacza fragment ekranu (Ctrl+Shift+S z każdego programu), a Ty dodajesz strzałki, ramki i tekst, kopiujesz obraz do e-maila albo zapisujesz go jako PNG.\n\nW PRO: zamazywanie danych osobowych (PESEL, adres, numer konta), numerowane kroki i instrukcja krok po kroku w PDF z wielu zrzutów – dla klienta, pracownika albo rodzica.",
-        "en": "Zrzut selects part of the screen (Ctrl+Shift+S from any program); add arrows, boxes and text, then copy the image into an e-mail or save it as PNG.\n\nWith PRO: blurring personal data, numbered steps and a step-by-step PDF guide from many screenshots – for a client, colleague or parent.",
-        "ro": "Zrzut selectează o zonă a ecranului; adaugi săgeți și text, apoi copiezi sau salvezi PNG.\n\nCu PRO: estompare, pași numerotați și ghid PDF pas cu pas.",
-        "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
+        "pl": "Tabliczka to prosta gra dla dzieci z klas 1–3: duże przyciski, gwiazdki za dobre odpowiedzi i serie. Bez reklam, czatów i zakupów w grze.\n\nW PRO: ortografia (ó/u, rz/ż, ch/h, ą/ę), poziomy do 20 i do 100 oraz raport dla rodzica – co dziecku idzie dobrze, a co trzeba jeszcze poćwiczyć.",
+        "en": "Tabliczka is a simple game for grades 1–3: big buttons, stars for right answers and streaks. No ads, chats or in-game purchases.\n\nWith PRO: Polish spelling (ó/u, rz/ż, ch/h, ą/ę), levels up to 20 and 100 and a parent report showing what goes well and what needs practice.",
+        "ro": "Tabliczka este un joc simplu pentru clasele 1–3, fără reclame.\n\nCu PRO: ortografie poloneză, niveluri până la 20 și 100 și raport pentru părinți.",
+        "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
       },
       "Changelog": {
         "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
         "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
         "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
         "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
+      }
+    },
+    {
       "Id": "zrzut",
       "Name": "Zrzut",
       "Publisher": "AppsForPeople",
@@ -1035,34 +1010,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#FB7185",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Kilometrówka",
-        "en": "Mileage Log",
-        "ro": "Foaie de parcurs",
-        "de": "Fahrtenbuch"
+        "pl": "Zrzut",
+        "en": "Screenshot",
+        "ro": "Captură",
+        "de": "Bildschirmfoto"
       },
       "Tagline": {
-        "pl": "Ewidencja przebiegu pojazdu: trasy, cele, kierowca – wydruk miesięczny dla księgowej.",
-        "en": "Vehicle mileage log: trips, purposes, driver – monthly printout for your accountant.",
-        "ro": "Evidența parcursului: trasee, scop, șofer – raport lunar.",
-        "de": "Fahrtenbuch: Strecken, Zweck, Fahrer – Monatsausdruck für den Steuerberater."
+        "pl": "Zrzut ekranu ze strzałkami i tekstem, zamazywanie danych i instrukcje krok po kroku w PDF.",
+        "en": "Screenshots with arrows and text, data blurring and step-by-step PDF guides.",
+        "ro": "Capturi cu săgeți și text, estompare și ghiduri PDF pas cu pas.",
+        "de": "Screenshots mit Pfeilen und Text, Verpixeln und Schritt-für-Schritt-PDFs."
       },
       "Description": {
-        "pl": "Kilometrówka zapisuje każdy wyjazd służbowy: datę, trasę skąd–dokąd, cel wyjazdu, liczbę kilometrów i kierowcę. Podpowiada miejsca z poprzednich wpisów, a „Dodaj powrót” wpisuje drogę z powrotem jednym kliknięciem.\n\nW PRO: ewidencja przebiegu w PDF gotowa dla księgowej, kilka pojazdów, powtarzanie stałych tras i eksport CSV.",
-        "en": "Kilometrówka logs every business trip: date, route from–to, purpose, kilometres and driver. It suggests places from earlier entries, and “Add return” logs the way back with one click.\n\nWith PRO: mileage log PDF ready for your accountant, several vehicles, repeating regular trips and CSV export.",
-        "ro": "Kilometrówka notează fiecare deplasare: data, traseul, scopul, km și șoferul.\n\nCu PRO: evidență PDF, mai multe vehicule, repetarea traseelor și export CSV.",
-        "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
+        "pl": "Zrzut zaznacza fragment ekranu (Ctrl+Shift+S z każdego programu), a Ty dodajesz strzałki, ramki i tekst, kopiujesz obraz do e-maila albo zapisujesz go jako PNG.\n\nW PRO: zamazywanie danych osobowych (PESEL, adres, numer konta), numerowane kroki i instrukcja krok po kroku w PDF z wielu zrzutów – dla klienta, pracownika albo rodzica.",
+        "en": "Zrzut selects part of the screen (Ctrl+Shift+S from any program); add arrows, boxes and text, then copy the image into an e-mail or save it as PNG.\n\nWith PRO: blurring personal data, numbered steps and a step-by-step PDF guide from many screenshots – for a client, colleague or parent.",
+        "ro": "Zrzut selectează o zonă a ecranului; adaugi săgeți și text, apoi copiezi sau salvezi PNG.\n\nCu PRO: estompare, pași numerotați și ghid PDF pas cu pas.",
+        "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
       "Id": "kilometrowka",
       "Name": "Kilometrówka",
       "Publisher": "AppsForPeople",
@@ -1087,34 +1062,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#60A5FA",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Najem",
-        "en": "Rentals",
-        "ro": "Închirieri",
-        "de": "Vermietung"
+        "pl": "Kilometrówka",
+        "en": "Mileage Log",
+        "ro": "Foaie de parcurs",
+        "de": "Fahrtenbuch"
       },
       "Tagline": {
-        "pl": "Dla wynajmujących: czynsze, wpłaty, zaległości i kaucje – zestawienie roczne dla księgowej.",
-        "en": "For landlords: rent, payments, arrears and deposits – yearly summary for your accountant.",
-        "ro": "Pentru proprietari: chirii, plăți, restanțe și garanții.",
-        "de": "Für Vermieter: Mieten, Zahlungen, Rückstände und Kautionen."
+        "pl": "Ewidencja przebiegu pojazdu: trasy, cele, kierowca – wydruk miesięczny dla księgowej.",
+        "en": "Vehicle mileage log: trips, purposes, driver – monthly printout for your accountant.",
+        "ro": "Evidența parcursului: trasee, scop, șofer – raport lunar.",
+        "de": "Fahrtenbuch: Strecken, Zweck, Fahrer – Monatsausdruck für den Steuerberater."
       },
       "Description": {
-        "pl": "Najem pokazuje, kto już zapłacił czynsz, kto zalega i ile – w każdym miesiącu i łącznie. Wpłatę zaznaczasz jednym kliknięciem, a program pamięta kaucje, terminy płatności i okresy najmu.\n\nW PRO: kilka mieszkań, zestawienie roczne przychodów w PDF i CSV dla księgowej oraz przypomnienia o terminie czynszu w programie Terminy.",
-        "en": "Najem shows who has paid the rent, who is behind and by how much – monthly and in total. Mark a payment with one click; deposits, due dates and lease periods are remembered.\n\nWith PRO: several flats, a yearly income summary as PDF and CSV for your accountant and rent reminders in Terminy.",
-        "ro": "Najem arată cine a plătit chiria și cine e restant.\n\nCu PRO: mai multe apartamente, rezumat anual PDF/CSV și mementouri.",
-        "de": "Najem zeigt, wer die Miete gezahlt hat und wer im Rückstand ist.\n\nMit PRO: mehrere Wohnungen, Jahresübersicht als PDF/CSV und Erinnerungen."
+        "pl": "Kilometrówka zapisuje każdy wyjazd służbowy: datę, trasę skąd–dokąd, cel wyjazdu, liczbę kilometrów i kierowcę. Podpowiada miejsca z poprzednich wpisów, a „Dodaj powrót” wpisuje drogę z powrotem jednym kliknięciem.\n\nW PRO: ewidencja przebiegu w PDF gotowa dla księgowej, kilka pojazdów, powtarzanie stałych tras i eksport CSV.",
+        "en": "Kilometrówka logs every business trip: date, route from–to, purpose, kilometres and driver. It suggests places from earlier entries, and “Add return” logs the way back with one click.\n\nWith PRO: mileage log PDF ready for your accountant, several vehicles, repeating regular trips and CSV export.",
+        "ro": "Kilometrówka notează fiecare deplasare: data, traseul, scopul, km și șoferul.\n\nCu PRO: evidență PDF, mai multe vehicule, repetarea traseelor și export CSV.",
+        "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "najem",
       "Name": "Najem",
       "Publisher": "AppsForPeople",
@@ -1140,34 +1115,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#F87171",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Pomiary",
-        "en": "Measurements",
-        "ro": "Măsurători",
-        "de": "Messungen"
+        "pl": "Najem",
+        "en": "Rentals",
+        "ro": "Închirieri",
+        "de": "Vermietung"
       },
       "Tagline": {
-        "pl": "Protokoły pomiarów elektrycznych: pętla zwarcia, izolacja, RCD – z automatyczną oceną i PDF.",
-        "en": "Electrical test reports: loop impedance, insulation, RCD – automatic verdict and PDF.",
-        "ro": "Procese-verbale de măsurători electrice cu evaluare automată și PDF.",
-        "de": "Elektrische Messprotokolle: Schleife, Isolation, RCD – mit automatischer Bewertung und PDF."
+        "pl": "Dla wynajmujących: czynsze, wpłaty, zaległości i kaucje – zestawienie roczne dla księgowej.",
+        "en": "For landlords: rent, payments, arrears and deposits – yearly summary for your accountant.",
+        "ro": "Pentru proprietari: chirii, plăți, restanțe și garanții.",
+        "de": "Für Vermieter: Mieten, Zahlungen, Rückstände und Kautionen."
       },
       "Description": {
-        "pl": "Pomiary to program dla elektryków z uprawnieniami: wpisujesz zmierzone wartości impedancji pętli zwarcia, rezystancji izolacji i parametrów wyłączników różnicowoprądowych, a program sam liczy wartości wymagane (B/C/D, In, U0) i ocenia „spełnia / nie spełnia”. Ostatnie wartości podpowiada przy kolejnym punkcie.\n\nW PRO: protokół w PDF z logo firmy i Twoimi danymi (numer świadectwa), bez limitu pomiarów i kopiowanie protokołu jako szablonu dla podobnego obiektu.",
-        "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nWith PRO: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
-        "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nCu PRO: PDF cu logo, măsurători nelimitate și șabloane.",
-        "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
+        "pl": "Najem pokazuje, kto już zapłacił czynsz, kto zalega i ile – w każdym miesiącu i łącznie. Wpłatę zaznaczasz jednym kliknięciem, a program pamięta kaucje, terminy płatności i okresy najmu.\n\nW PRO: kilka mieszkań, zestawienie roczne przychodów w PDF i CSV dla księgowej oraz przypomnienia o terminie czynszu w programie Terminy.",
+        "en": "Najem shows who has paid the rent, who is behind and by how much – monthly and in total. Mark a payment with one click; deposits, due dates and lease periods are remembered.\n\nWith PRO: several flats, a yearly income summary as PDF and CSV for your accountant and rent reminders in Terminy.",
+        "ro": "Najem arată cine a plătit chiria și cine e restant.\n\nCu PRO: mai multe apartamente, rezumat anual PDF/CSV și mementouri.",
+        "de": "Najem zeigt, wer die Miete gezahlt hat und wer im Rückstand ist.\n\nMit PRO: mehrere Wohnungen, Jahresübersicht als PDF/CSV und Erinnerungen."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "pomiary",
       "Name": "Pomiary",
       "Publisher": "AppsForPeople",
@@ -1193,34 +1168,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#FBBF24",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Serwis",
-        "en": "Service",
-        "ro": "Service",
-        "de": "Kundendienst"
+        "pl": "Pomiary",
+        "en": "Measurements",
+        "ro": "Măsurători",
+        "de": "Messungen"
       },
       "Tagline": {
-        "pl": "Protokół serwisowy z podpisem klienta na ekranie: prace, części, czas – gotowy PDF po wizycie.",
-        "en": "Service report with the client\u0027s on-screen signature: work, parts, time – PDF right after the visit.",
-        "ro": "Raport de service cu semnătura clientului pe ecran.",
-        "de": "Servicebericht mit Unterschrift des Kunden am Bildschirm."
+        "pl": "Protokoły pomiarów elektrycznych: pętla zwarcia, izolacja, RCD – z automatyczną oceną i PDF.",
+        "en": "Electrical test reports: loop impedance, insulation, RCD – automatic verdict and PDF.",
+        "ro": "Procese-verbale de măsurători electrice cu evaluare automată și PDF.",
+        "de": "Elektrische Messprotokolle: Schleife, Isolation, RCD – mit automatischer Bewertung und PDF."
       },
       "Description": {
-        "pl": "Serwis zastępuje papierowe protokoły: opis zgłoszenia, wykonane prace, części z cenami, czas pracy i stawka, a na końcu podpis klienta myszką albo rysikiem. Program pamięta klientów i sam podpowiada ich adresy.\n\nW PRO: PDF z logo firmy do wysłania klientowi od razu po wizycie, zdjęcia przed i po naprawie oraz brak limitu protokołów.",
-        "en": "Serwis replaces paper reports: issue, work done, parts with prices, labour time and rate, and finally the client\u0027s signature with mouse or pen. It remembers clients and fills in their addresses.\n\nWith PRO: a PDF with your logo to send right after the visit, before/after photos and unlimited reports.",
-        "ro": "Serwis înlocuiește rapoartele pe hârtie, cu semnătura clientului.\n\nCu PRO: PDF cu logo, fotografii și rapoarte nelimitate.",
-        "de": "Serwis ersetzt Papierberichte, inklusive Unterschrift des Kunden.\n\nMit PRO: PDF mit Logo, Fotos und unbegrenzte Berichte."
+        "pl": "Pomiary to program dla elektryków z uprawnieniami: wpisujesz zmierzone wartości impedancji pętli zwarcia, rezystancji izolacji i parametrów wyłączników różnicowoprądowych, a program sam liczy wartości wymagane (B/C/D, In, U0) i ocenia „spełnia / nie spełnia”. Ostatnie wartości podpowiada przy kolejnym punkcie.\n\nW PRO: protokół w PDF z logo firmy i Twoimi danymi (numer świadectwa), bez limitu pomiarów i kopiowanie protokołu jako szablonu dla podobnego obiektu.",
+        "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nWith PRO: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
+        "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nCu PRO: PDF cu logo, măsurători nelimitate și șabloane.",
+        "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
+    },
+    {
       "Id": "serwis",
       "Name": "Serwis",
       "Publisher": "AppsForPeople",
@@ -1245,34 +1220,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#2DD4BF",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Ekran",
-        "en": "Screen",
-        "ro": "Ecran",
-        "de": "Bildschirm"
+        "pl": "Serwis",
+        "en": "Service",
+        "ro": "Service",
+        "de": "Kundendienst"
       },
       "Tagline": {
-        "pl": "Ochrona oczu: ciepłe barwy i przyciemnianie wieczorem, przerwy 20-20-20.",
-        "en": "Eye care: warm colours and dimming in the evening, 20-20-20 breaks.",
-        "ro": "Protecția ochilor: culori calde seara și pauze 20-20-20.",
-        "de": "Augenschutz: warme Farben und Dimmen am Abend, 20-20-20-Pausen."
+        "pl": "Protokół serwisowy z podpisem klienta na ekranie: prace, części, czas – gotowy PDF po wizycie.",
+        "en": "Service report with the client\u0027s on-screen signature: work, parts, time – PDF right after the visit.",
+        "ro": "Raport de service cu semnătura clientului pe ecran.",
+        "de": "Servicebericht mit Unterschrift des Kunden am Bildschirm."
       },
       "Description": {
-        "pl": "Ekran ociepla barwy monitora i zmniejsza jasność, żeby oczy mniej się męczyły, a wieczorem łatwiej było zasnąć. Przypomina też o przerwie dla oczu według zasady 20-20-20. Po zamknięciu barwy wracają do normy.\n\nW PRO: automatyczne, płynne ocieplanie wieczorem według godzin, profile (dzień, praca wieczorem, noc, film) i licznik czasu przy ekranie każdego dnia.",
-        "en": "Ekran warms the monitor colours and lowers brightness so your eyes tire less and falling asleep is easier. It also reminds you to rest your eyes (20-20-20 rule). Colours return to normal on exit.\n\nWith PRO: automatic, smooth evening warming by schedule, profiles (day, evening work, night, movie) and a daily screen-time counter.",
-        "ro": "Ekran încălzește culorile și reduce luminozitatea, plus pauze pentru ochi.\n\nCu PRO: încălzire automată seara, profiluri și contor de timp la ecran.",
-        "de": "Ekran macht die Farben wärmer und dimmt, dazu Augenpausen.\n\nMit PRO: automatische Abendwärme, Profile und täglicher Bildschirmzeit-Zähler."
+        "pl": "Serwis zastępuje papierowe protokoły: opis zgłoszenia, wykonane prace, części z cenami, czas pracy i stawka, a na końcu podpis klienta myszką albo rysikiem. Program pamięta klientów i sam podpowiada ich adresy.\n\nW PRO: PDF z logo firmy do wysłania klientowi od razu po wizycie, zdjęcia przed i po naprawie oraz brak limitu protokołów.",
+        "en": "Serwis replaces paper reports: issue, work done, parts with prices, labour time and rate, and finally the client\u0027s signature with mouse or pen. It remembers clients and fills in their addresses.\n\nWith PRO: a PDF with your logo to send right after the visit, before/after photos and unlimited reports.",
+        "ro": "Serwis înlocuiește rapoartele pe hârtie, cu semnătura clientului.\n\nCu PRO: PDF cu logo, fotografii și rapoarte nelimitate.",
+        "de": "Serwis ersetzt Papierberichte, inklusive Unterschrift des Kunden.\n\nMit PRO: PDF mit Logo, Fotos und unbegrenzte Berichte."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
       "Id": "ekran",
       "Name": "Ekran",
       "Publisher": "AppsForPeople",
@@ -1297,34 +1272,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#F59E0B",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Grafik",
-        "en": "Rota",
-        "ro": "Program de lucru",
-        "de": "Dienstplan"
+        "pl": "Ekran",
+        "en": "Screen",
+        "ro": "Ecran",
+        "de": "Bildschirm"
       },
       "Tagline": {
-        "pl": "Grafik pracy i ewidencja czasu pracy, która pilnuje Kodeksu pracy: odpoczynki, wymiar godzin, niedziele, nadgodziny.",
-        "en": "Staff rota and time records that watch the Polish Labour Code: rest periods, monthly hours, Sundays, overtime.",
-        "ro": "Program de lucru și evidența timpului, conform Codului muncii.",
-        "de": "Dienstplan und Zeiterfassung nach polnischem Arbeitsrecht."
+        "pl": "Ochrona oczu: ciepłe barwy i przyciemnianie wieczorem, przerwy 20-20-20.",
+        "en": "Eye care: warm colours and dimming in the evening, 20-20-20 breaks.",
+        "ro": "Protecția ochilor: culori calde seara și pauze 20-20-20.",
+        "de": "Augenschutz: warme Farben und Dimmen am Abend, 20-20-20-Pausen."
       },
       "Description": {
-        "pl": "Układasz grafik w kratkach jak w Excelu, a Grafik od razu pokazuje, co jest nie tak: za krótki odpoczynek (11 h na dobę, 35 h w tygodniu), za dużo lub za mało godzin w miesiącu, brak wolnej niedzieli. Święta i wymiar czasu pracy liczą się same. Ewidencja pokazuje godziny, nadgodziny, nocne, niedziele, urlopy i L4.\n\nW PRO: bez limitu pracowników (darmowo 3), grafik i ewidencja w PDF do podpisu i na kontrolę PIP.\n\nTo podpowiedzi dla pracodawcy – przy nietypowych systemach czasu pracy zapytaj kadrową.",
-        "en": "Build the rota in a grid; Grafik instantly shows rest-period breaches, too many or too few hours and missing free Sundays. Holidays and monthly norms are automatic.\n\nWith PRO: unlimited employees (free: 3), rota and time records as PDF.",
-        "ro": "Program de lucru cu verificarea odihnei și a normelor.\n\nCu PRO: angajați nelimitați, PDF.",
-        "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
+        "pl": "Ekran ociepla barwy monitora i zmniejsza jasność, żeby oczy mniej się męczyły, a wieczorem łatwiej było zasnąć. Przypomina też o przerwie dla oczu według zasady 20-20-20. Po zamknięciu barwy wracają do normy.\n\nW PRO: automatyczne, płynne ocieplanie wieczorem według godzin, profile (dzień, praca wieczorem, noc, film) i licznik czasu przy ekranie każdego dnia.",
+        "en": "Ekran warms the monitor colours and lowers brightness so your eyes tire less and falling asleep is easier. It also reminds you to rest your eyes (20-20-20 rule). Colours return to normal on exit.\n\nWith PRO: automatic, smooth evening warming by schedule, profiles (day, evening work, night, movie) and a daily screen-time counter.",
+        "ro": "Ekran încălzește culorile și reduce luminozitatea, plus pauze pentru ochi.\n\nCu PRO: încălzire automată seara, profiluri și contor de timp la ecran.",
+        "de": "Ekran macht die Farben wärmer und dimmt, dazu Augenpausen.\n\nMit PRO: automatische Abendwärme, Profile und täglicher Bildschirmzeit-Zähler."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "grafik",
       "Name": "Grafik",
       "Publisher": "AppsForPeople",
@@ -1350,34 +1325,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#A78BFA",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Składki",
-        "en": "Contributions",
-        "ro": "Contribuții",
-        "de": "Beiträge"
+        "pl": "Grafik",
+        "en": "Rota",
+        "ro": "Program de lucru",
+        "de": "Dienstplan"
       },
       "Tagline": {
-        "pl": "ZUS, składka zdrowotna i podatek dla JDG – ile naprawdę zostaje na rękę i która forma opodatkowania się opłaca.",
-        "en": "ZUS, health contribution and tax for sole traders – what you really keep and which tax form pays off.",
-        "ro": "ZUS, sănătate și impozit pentru PFA.",
-        "de": "ZUS, Krankenversicherung und Steuer für Einzelunternehmer."
+        "pl": "Grafik pracy i ewidencja czasu pracy, która pilnuje Kodeksu pracy: odpoczynki, wymiar godzin, niedziele, nadgodziny.",
+        "en": "Staff rota and time records that watch the Polish Labour Code: rest periods, monthly hours, Sundays, overtime.",
+        "ro": "Program de lucru și evidența timpului, conform Codului muncii.",
+        "de": "Dienstplan und Zeiterfassung nach polnischem Arbeitsrecht."
       },
       "Description": {
-        "pl": "Wpisujesz średni przychód i koszty w miesiącu, a Składki pokazują: ZUS społeczny (ulga na start, mały ZUS, mały ZUS plus, pełny), składkę zdrowotną, podatek i ile zostaje Ci na rękę. Stawki na 2026 r. są wpisane, a gdy się zmienią – poprawisz je sam.\n\nW PRO: porównanie skali, podatku liniowego i ryczałtu dla Twoich liczb, raport PDF dla księgowej i terminy ZUS, PIT i VAT dodane jednym kliknięciem do programu Terminy.\n\nTo szacunek – nie zastępuje księgowej ani doradcy podatkowego.",
-        "en": "Enter your average monthly revenue and costs and see social ZUS, health contribution, tax and what you keep. 2026 rates are built in and editable.\n\nWith PRO: compare tax scale, flat tax and lump-sum, PDF report and deadlines added to Terminy.\n\nAn estimate – not a substitute for an accountant.",
-        "ro": "Calculator ZUS și impozit pentru firme unipersonale.\n\nCu PRO: comparație, raport PDF, termene.",
-        "de": "ZUS- und Steuerrechner für Einzelunternehmer.\n\nMit PRO: Vergleich, PDF-Bericht, Termine."
+        "pl": "Układasz grafik w kratkach jak w Excelu, a Grafik od razu pokazuje, co jest nie tak: za krótki odpoczynek (11 h na dobę, 35 h w tygodniu), za dużo lub za mało godzin w miesiącu, brak wolnej niedzieli. Święta i wymiar czasu pracy liczą się same. Ewidencja pokazuje godziny, nadgodziny, nocne, niedziele, urlopy i L4.\n\nW PRO: bez limitu pracowników (darmowo 3), grafik i ewidencja w PDF do podpisu i na kontrolę PIP.\n\nTo podpowiedzi dla pracodawcy – przy nietypowych systemach czasu pracy zapytaj kadrową.",
+        "en": "Build the rota in a grid; Grafik instantly shows rest-period breaches, too many or too few hours and missing free Sundays. Holidays and monthly norms are automatic.\n\nWith PRO: unlimited employees (free: 3), rota and time records as PDF.",
+        "ro": "Program de lucru cu verificarea odihnei și a normelor.\n\nCu PRO: angajați nelimitați, PDF.",
+        "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
+    },
+    {
       "Id": "skladki",
       "Name": "Składki",
       "Publisher": "AppsForPeople",
@@ -1403,34 +1378,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#FF6B2C",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Wycena",
-        "en": "Quotes",
-        "ro": "Oferte",
-        "de": "Angebote"
+        "pl": "Składki",
+        "en": "Contributions",
+        "ro": "Contribuții",
+        "de": "Beiträge"
       },
       "Tagline": {
-        "pl": "Oferty i kosztorysy dla fachowców: własny cennik, pozycje z listy, rabat, VAT 8/23% i PDF z logo w kilka minut.",
-        "en": "Quotes for tradespeople: your price list, lines from the list, discount, VAT and a PDF with your logo in minutes.",
-        "ro": "Oferte pentru meseriași, PDF cu logo.",
-        "de": "Angebote für Handwerker, PDF mit Logo."
+        "pl": "ZUS, składka zdrowotna i podatek dla JDG – ile naprawdę zostaje na rękę i która forma opodatkowania się opłaca.",
+        "en": "ZUS, health contribution and tax for sole traders – what you really keep and which tax form pays off.",
+        "ro": "ZUS, sănătate și impozit pentru PFA.",
+        "de": "ZUS, Krankenversicherung und Steuer für Einzelunternehmer."
       },
       "Description": {
-        "pl": "Raz wpisujesz swój cennik prac i materiałów. Potem oferta to tylko: wybierz pozycję (wystarczą 2 litery), wpisz ilość, popraw cenę, jeśli trzeba – Wycena liczy netto, VAT (8% lub 23%) i brutto, dolicza rabat i robi PDF dla klienta. Widzisz też, które oferty klient przyjął.\n\nW PRO: bez limitu ofert (darmowo 5 w miesiącu), logo firmy na PDF, eksport do CSV/Excela.",
-        "en": "Enter your price list once; then a quote is just picking lines and quantities. Net, VAT and gross are calculated, discount applied and a PDF made.\n\nWith PRO: unlimited quotes, logo on PDF, CSV export.",
-        "ro": "Oferte rapide din lista ta de prețuri.\n\nCu PRO: nelimitat, logo, CSV.",
-        "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
+        "pl": "Wpisujesz średni przychód i koszty w miesiącu, a Składki pokazują: ZUS społeczny (ulga na start, mały ZUS, mały ZUS plus, pełny), składkę zdrowotną, podatek i ile zostaje Ci na rękę. Stawki na 2026 r. są wpisane, a gdy się zmienią – poprawisz je sam.\n\nW PRO: porównanie skali, podatku liniowego i ryczałtu dla Twoich liczb, raport PDF dla księgowej i terminy ZUS, PIT i VAT dodane jednym kliknięciem do programu Terminy.\n\nTo szacunek – nie zastępuje księgowej ani doradcy podatkowego.",
+        "en": "Enter your average monthly revenue and costs and see social ZUS, health contribution, tax and what you keep. 2026 rates are built in and editable.\n\nWith PRO: compare tax scale, flat tax and lump-sum, PDF report and deadlines added to Terminy.\n\nAn estimate – not a substitute for an accountant.",
+        "ro": "Calculator ZUS și impozit pentru firme unipersonale.\n\nCu PRO: comparație, raport PDF, termene.",
+        "de": "ZUS- und Steuerrechner für Einzelunternehmer.\n\nMit PRO: Vergleich, PDF-Bericht, Termine."
       },
       "Changelog": {
         "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
         "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
         "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
         "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
+      }
+    },
+    {
       "Id": "wycena",
       "Name": "Wycena",
       "Publisher": "AppsForPeople",
@@ -1456,9 +1431,58 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#FB923C",
-      "Featured": false
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Wycena",
+        "en": "Quotes",
+        "ro": "Oferte",
+        "de": "Angebote"
+      },
+      "Tagline": {
+        "pl": "Oferty i kosztorysy dla fachowców: własny cennik, pozycje z listy, rabat, VAT 8/23% i PDF z logo w kilka minut.",
+        "en": "Quotes for tradespeople: your price list, lines from the list, discount, VAT and a PDF with your logo in minutes.",
+        "ro": "Oferte pentru meseriași, PDF cu logo.",
+        "de": "Angebote für Handwerker, PDF mit Logo."
+      },
+      "Description": {
+        "pl": "Raz wpisujesz swój cennik prac i materiałów. Potem oferta to tylko: wybierz pozycję (wystarczą 2 litery), wpisz ilość, popraw cenę, jeśli trzeba – Wycena liczy netto, VAT (8% lub 23%) i brutto, dolicza rabat i robi PDF dla klienta. Widzisz też, które oferty klient przyjął.\n\nW PRO: bez limitu ofert (darmowo 5 w miesiącu), logo firmy na PDF, eksport do CSV/Excela.",
+        "en": "Enter your price list once; then a quote is just picking lines and quantities. Net, VAT and gross are calculated, discount applied and a PDF made.\n\nWith PRO: unlimited quotes, logo on PDF, CSV export.",
+        "ro": "Oferte rapide din lista ta de prețuri.\n\nCu PRO: nelimitat, logo, CSV.",
+        "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
     },
     {
+      "Id": "zdjecia",
+      "Name": "Zdjęcia",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.3",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.3/Zdjecia.zip",
+      "FileName": "Zdjecia.zip",
+      "Sha256": "9f1f701baa7ff76fa48fe0c49f758c32845b0e359fc5417f6532f05856f57113",
+      "Size": 593246,
+      "Args": null,
+      "Launch": "Zdjecia.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261120214437-1.jpg"
+      ],
+      "Price": "9 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#38BDF8",
+      "Featured": false,
       "Hidden": false,
       "Names": {
         "pl": "Zdjęcia",
@@ -1483,58 +1507,9 @@
         "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
         "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
         "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
-      "Id": "zdjecia",
-      "Name": "Zdjęcia",
-      "Publisher": "AppsForPeople",
-      "Category": "Narzędzia",
-      "Version": "1.0.3",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.3/Zdjecia.zip",
-      "FileName": "Zdjecia.zip",
-      "Sha256": "9f1f701baa7ff76fa48fe0c49f758c32845b0e359fc5417f6532f05856f57113",
-      "Size": 593246,
-      "Args": null,
-      "Launch": "Zdjecia.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261120214437-1.jpg"
-      ],
-      "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#38BDF8",
-      "Featured": false
+      }
     },
     {
-      "Hidden": false,
-      "Names": {
-        "pl": "Kalkulatory budowlane",
-        "en": "Building calculators",
-        "ro": "Calculatoare construcții",
-        "de": "Baurechner"
-      },
-      "Tagline": {
-        "pl": "Ile materiału kupić: beton, bloczki, farba, płytki z klejem i fugą, tynk, panele, wylewka, płyty G-K, ocieplenie – z zapasem i listą zakupów.",
-        "en": "How much material to buy: concrete, blocks, paint, tiles, plaster, flooring, screed, drywall, insulation – with a shopping list.",
-        "ro": "Calculatoare materiale construcții.",
-        "de": "Materialrechner für den Bau."
-      },
-      "Description": {
-        "pl": "Dziewięć kalkulatorów na jednym ekranie: wpisujesz wymiary, a ilości liczą się od razu – worki, paczki, sztuki i m², z zapasem. Przyciskiem „Do listy” zbierasz wszystko w jedną listę zakupów, którą skopiujesz do SMS-a albo maila do hurtowni.\n\nWszystkie kalkulatory są darmowe. W PRO: lista zakupów do PDF i zapamiętywanie listy.\n\nWyniki są orientacyjne – zawsze sprawdź zużycie podane przez producenta.",
-        "en": "Nine calculators on one screen with instant results and reserves. Collect everything into a shopping list.\n\nAll calculators are free. With PRO: shopping list PDF and saved list.",
-        "ro": "Nouă calculatoare.\n\nCu PRO: PDF.",
-        "de": "Neun Rechner.\n\nMit PRO: PDF."
-      },
-      "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
       "Id": "budowa",
       "Name": "Kalkulatory budowlane",
       "Publisher": "AppsForPeople",
@@ -1559,34 +1534,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#F59E0B",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Planer cięcia",
-        "en": "Cut planner",
-        "ro": "Planificator tăiere",
-        "de": "Zuschnittplaner"
+        "pl": "Kalkulatory budowlane",
+        "en": "Building calculators",
+        "ro": "Calculatoare construcții",
+        "de": "Baurechner"
       },
       "Tagline": {
-        "pl": "Rozkrój płyt meblowych i desek: program układa elementy tak, żeby zużyć jak najmniej płyt, rysuje rozkrój, liczy odpad, koszt i okleinę.",
-        "en": "Sheet and board cutting optimizer: fewest sheets, layout drawing, waste, cost and edge banding.",
-        "ro": "Optimizare tăiere plăci și scânduri.",
-        "de": "Zuschnittoptimierung für Platten und Bretter."
+        "pl": "Ile materiału kupić: beton, bloczki, farba, płytki z klejem i fugą, tynk, panele, wylewka, płyty G-K, ocieplenie – z zapasem i listą zakupów.",
+        "en": "How much material to buy: concrete, blocks, paint, tiles, plaster, flooring, screed, drywall, insulation – with a shopping list.",
+        "ro": "Calculatoare materiale construcții.",
+        "de": "Materialrechner für den Bau."
       },
       "Description": {
-        "pl": "Wpisujesz wymiary płyty (np. 2800×2070), rzaz piły i elementy: szafki, półki, fronty – z ilością i informacją, czy można je obracać (słoje). Planer cięcia układa je na płytach, rysuje rozkrój każdej płyty, podaje liczbę płyt, wykorzystanie, odpad w m², koszt płyt i metry okleiny. Osobna zakładka liczy cięcie desek, listew i profili na sztangi.\n\nW PRO: bez limitu elementów (darmowo 15), PDF z rysunkami rozkroju i listą cięć dla stolarni albo klienta, zapisywanie projektów.",
-        "en": "Enter the sheet size, kerf and parts with quantities and grain direction. The planner packs them, draws each sheet, and reports sheets, usage, waste, cost and edge banding. A separate tab cuts boards and profiles from bars.\n\nWith PRO: unlimited parts (free: 15), PDF with layouts and cutting list, saved projects.",
-        "ro": "Optimizare tăiere.\n\nCu PRO: nelimitat, PDF, proiecte.",
-        "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
+        "pl": "Dziewięć kalkulatorów na jednym ekranie: wpisujesz wymiary, a ilości liczą się od razu – worki, paczki, sztuki i m², z zapasem. Przyciskiem „Do listy” zbierasz wszystko w jedną listę zakupów, którą skopiujesz do SMS-a albo maila do hurtowni.\n\nWszystkie kalkulatory są darmowe. W PRO: lista zakupów do PDF i zapamiętywanie listy.\n\nWyniki są orientacyjne – zawsze sprawdź zużycie podane przez producenta.",
+        "en": "Nine calculators on one screen with instant results and reserves. Collect everything into a shopping list.\n\nAll calculators are free. With PRO: shopping list PDF and saved list.",
+        "ro": "Nouă calculatoare.\n\nCu PRO: PDF.",
+        "de": "Neun Rechner.\n\nMit PRO: PDF."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "ciecie",
       "Name": "Planer cięcia",
       "Publisher": "AppsForPeople",
@@ -1611,34 +1586,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#A78BFA",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Druk 3D",
-        "en": "3D Print",
-        "ro": "Imprimare 3D",
-        "de": "3D-Druck"
+        "pl": "Planer cięcia",
+        "en": "Cut planner",
+        "ro": "Planificator tăiere",
+        "de": "Zuschnittplaner"
       },
       "Tagline": {
-        "pl": "Biblioteka modeli STL/3MF/G-code z miniaturami, odczyt gramów i czasu z G-code oraz kalkulator kosztu i ceny wydruku dla klienta.",
-        "en": "STL/3MF/G-code library with thumbnails, grams and time from G-code, print cost and price calculator.",
-        "ro": "Bibliotecă modele 3D și cost imprimare.",
-        "de": "3D-Modellbibliothek und Druckkosten."
+        "pl": "Rozkrój płyt meblowych i desek: program układa elementy tak, żeby zużyć jak najmniej płyt, rysuje rozkrój, liczy odpad, koszt i okleinę.",
+        "en": "Sheet and board cutting optimizer: fewest sheets, layout drawing, waste, cost and edge banding.",
+        "ro": "Optimizare tăiere plăci și scânduri.",
+        "de": "Zuschnittoptimierung für Platten und Bretter."
       },
       "Description": {
-        "pl": "Przeciągasz pliki albo cały folder – Druk 3D robi miniatury modeli STL, odczytuje wymiary i objętość, a z G-code (PrusaSlicer, Orca, Bambu, Cura) gramy filamentu i czas druku. Kalkulator liczy koszt: filament, prąd, zużycie drukarki, Twoją pracę i zapas na nieudane wydruki, a potem cenę dla klienta z marżą. Każdy wydruk możesz zapisać w historii z podsumowaniem zarobku.\n\nW PRO: biblioteka bez limitu (darmowo 20 modeli), wycena PDF dla klienta, eksport historii do CSV.",
-        "en": "Drop files or folders – thumbnails, size and volume from STL; grams and time from G-code. Cost calculator with filament, power, wear, work, failure reserve and margin. Print history with profit.\n\nWith PRO: unlimited library (free: 20), client quote PDF, CSV export.",
-        "ro": "Bibliotecă și cost.\n\nCu PRO: nelimitat, PDF, CSV.",
-        "de": "Bibliothek und Kosten.\n\nMit PRO: unbegrenzt, PDF, CSV."
+        "pl": "Wpisujesz wymiary płyty (np. 2800×2070), rzaz piły i elementy: szafki, półki, fronty – z ilością i informacją, czy można je obracać (słoje). Planer cięcia układa je na płytach, rysuje rozkrój każdej płyty, podaje liczbę płyt, wykorzystanie, odpad w m², koszt płyt i metry okleiny. Osobna zakładka liczy cięcie desek, listew i profili na sztangi.\n\nW PRO: bez limitu elementów (darmowo 15), PDF z rysunkami rozkroju i listą cięć dla stolarni albo klienta, zapisywanie projektów.",
+        "en": "Enter the sheet size, kerf and parts with quantities and grain direction. The planner packs them, draws each sheet, and reports sheets, usage, waste, cost and edge banding. A separate tab cuts boards and profiles from bars.\n\nWith PRO: unlimited parts (free: 15), PDF with layouts and cutting list, saved projects.",
+        "ro": "Optimizare tăiere.\n\nCu PRO: nelimitat, PDF, proiecte.",
+        "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "druk3d",
       "Name": "Druk 3D",
       "Publisher": "AppsForPeople",
@@ -1664,34 +1639,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#38BDF8",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Elektronik",
-        "en": "Electronics",
-        "ro": "Electronică",
-        "de": "Elektronik"
+        "pl": "Druk 3D",
+        "en": "3D Print",
+        "ro": "Imprimare 3D",
+        "de": "3D-Druck"
       },
       "Tagline": {
-        "pl": "Kalkulatory elektronika (paski rezystora, LED, dzielnik, Ohm, NE555, filtr RC) i magazyn części w szufladach z listą zakupów.",
-        "en": "Electronics calculators (resistor colours, LED, divider, Ohm, NE555, RC) and a parts drawer inventory with a shopping list.",
-        "ro": "Calculatoare electronice și inventar piese.",
-        "de": "Elektronik-Rechner und Teilelager."
+        "pl": "Biblioteka modeli STL/3MF/G-code z miniaturami, odczyt gramów i czasu z G-code oraz kalkulator kosztu i ceny wydruku dla klienta.",
+        "en": "STL/3MF/G-code library with thumbnails, grams and time from G-code, print cost and price calculator.",
+        "ro": "Bibliotecă modele 3D și cost imprimare.",
+        "de": "3D-Modellbibliothek und Druckkosten."
       },
       "Description": {
-        "pl": "Wartości wpisujesz jak na schemacie (4k7, 100n, 2M2), a wynik pojawia się od razu: paski rezystora z podglądem, rezystor do LED z najbliższą wartością z szeregu E12 i mocą, dzielnik napięcia, prawo Ohma z dowolnych dwóch wartości, NE555 i filtr RC. W zakładce „Moje części” prowadzisz magazyn w szufladach – szukanie od 2 liter, +1/−1 jednym kliknięciem, ostrzeżenie, gdy coś się kończy.\n\nW PRO: magazyn bez limitu (darmowo 30 części), lista zakupów do PDF, etykiety na szuflady.",
-        "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nWith PRO: unlimited parts (free: 30), shopping list PDF, drawer labels.",
-        "ro": "Calculatoare și inventar piese.\n\nCu PRO: nelimitat, PDF, etichete.",
-        "de": "Rechner und Teilelager.\n\nMit PRO: unbegrenzt, PDF, Etiketten."
+        "pl": "Przeciągasz pliki albo cały folder – Druk 3D robi miniatury modeli STL, odczytuje wymiary i objętość, a z G-code (PrusaSlicer, Orca, Bambu, Cura) gramy filamentu i czas druku. Kalkulator liczy koszt: filament, prąd, zużycie drukarki, Twoją pracę i zapas na nieudane wydruki, a potem cenę dla klienta z marżą. Każdy wydruk możesz zapisać w historii z podsumowaniem zarobku.\n\nW PRO: biblioteka bez limitu (darmowo 20 modeli), wycena PDF dla klienta, eksport historii do CSV.",
+        "en": "Drop files or folders – thumbnails, size and volume from STL; grams and time from G-code. Cost calculator with filament, power, wear, work, failure reserve and margin. Print history with profit.\n\nWith PRO: unlimited library (free: 20), client quote PDF, CSV export.",
+        "ro": "Bibliotecă și cost.\n\nCu PRO: nelimitat, PDF, CSV.",
+        "de": "Bibliothek und Kosten.\n\nMit PRO: unbegrenzt, PDF, CSV."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "elektronik",
       "Name": "Elektronik",
       "Publisher": "AppsForPeople",
@@ -1716,34 +1691,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#34D399",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Elektryk",
-        "en": "Electrician",
-        "ro": "Electrician",
-        "de": "Elektriker"
+        "pl": "Elektronik",
+        "en": "Electronics",
+        "ro": "Electronică",
+        "de": "Elektronik"
       },
       "Tagline": {
-        "pl": "Dobór przewodu i zabezpieczenia (prąd, spadek napięcia, pętla zwarcia) oraz zestawienie obwodów rozdzielnicy z rozkładem faz i PDF.",
-        "en": "Cable and breaker sizing (current, voltage drop, fault loop) plus a distribution board circuit list with phase balance and PDF.",
-        "ro": "Dimensionare cablu și protecție, listă circuite tablou, PDF.",
-        "de": "Kabel- und Sicherungsauswahl, Stromkreisliste, PDF."
+        "pl": "Kalkulatory elektronika (paski rezystora, LED, dzielnik, Ohm, NE555, filtr RC) i magazyn części w szufladach z listą zakupów.",
+        "en": "Electronics calculators (resistor colours, LED, divider, Ohm, NE555, RC) and a parts drawer inventory with a shopping list.",
+        "ro": "Calculatoare electronice și inventar piese.",
+        "de": "Elektronik-Rechner und Teilelager."
       },
       "Description": {
-        "pl": "Wpisujesz moc albo prąd, długość i sposób ułożenia – Elektryk dobiera zabezpieczenie i przekrój przewodu (PN-HD 60364-5-52, temperatura, grupowanie), liczy spadek napięcia i sprawdza warunek samoczynnego wyłączenia. Jednym kliknięciem dodajesz wynik jako obwód rozdzielnicy: numer, nazwa, zabezpieczenie, RCD, przewód, faza – a program pilnuje równego obciążenia faz.\n\nW PRO: zestawienie rozdzielnicy do PDF dla klienta i odbioru, naklejki z opisem obwodów do drukowania, bez limitu obwodów (darmowo 12).\n\nWyniki są pomocą obliczeniową – ostateczny dobór i pomiary należą do uprawnionego elektryka.",
-        "en": "Enter power or current, length and installation method – get breaker and cable size, voltage drop and fault loop check. Add the result as a board circuit with phase balance.\n\nWith PRO: board list PDF, circuit labels, unlimited circuits (free: 12).\n\nResults are a calculation aid – final design belongs to a qualified electrician.",
-        "ro": "Dimensionare cablu și listă circuite.\n\nCu PRO: PDF, etichete, nelimitat.",
-        "de": "Kabelauswahl und Stromkreisliste.\n\nMit PRO: PDF, Etiketten, unbegrenzt."
+        "pl": "Wartości wpisujesz jak na schemacie (4k7, 100n, 2M2), a wynik pojawia się od razu: paski rezystora z podglądem, rezystor do LED z najbliższą wartością z szeregu E12 i mocą, dzielnik napięcia, prawo Ohma z dowolnych dwóch wartości, NE555 i filtr RC. W zakładce „Moje części” prowadzisz magazyn w szufladach – szukanie od 2 liter, +1/−1 jednym kliknięciem, ostrzeżenie, gdy coś się kończy.\n\nW PRO: magazyn bez limitu (darmowo 30 części), lista zakupów do PDF, etykiety na szuflady.",
+        "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nWith PRO: unlimited parts (free: 30), shopping list PDF, drawer labels.",
+        "ro": "Calculatoare și inventar piese.\n\nCu PRO: nelimitat, PDF, etichete.",
+        "de": "Rechner und Teilelager.\n\nMit PRO: unbegrenzt, PDF, Etiketten."
       },
       "Changelog": {
         "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
         "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
         "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
         "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
-      },
+      }
+    },
+    {
       "Id": "elektryk",
       "Name": "Elektryk",
       "Publisher": "AppsForPeople",
@@ -1768,34 +1743,34 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#FACC15",
-      "Featured": false
-    },
-    {
+      "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Skaner Androida",
-        "en": "Android Scanner",
-        "ro": "Scanner Android",
-        "de": "Android-Scanner"
+        "pl": "Elektryk",
+        "en": "Electrician",
+        "ro": "Electrician",
+        "de": "Elektriker"
       },
       "Tagline": {
-        "pl": "Dla serwisów: podłączasz telefon z Androidem kablem USB i program znajduje aplikacje odpowiedzialne za wyskakujące reklamy i inne zagrożenia.",
-        "en": "For repair shops: connect an Android phone over USB and find apps behind pop-up ads and other threats.",
-        "ro": "Scanare telefoane Android prin USB.",
-        "de": "Android-Telefone per USB prüfen."
+        "pl": "Dobór przewodu i zabezpieczenia (prąd, spadek napięcia, pętla zwarcia) oraz zestawienie obwodów rozdzielnicy z rozkładem faz i PDF.",
+        "en": "Cable and breaker sizing (current, voltage drop, fault loop) plus a distribution board circuit list with phase balance and PDF.",
+        "ro": "Dimensionare cablu și protecție, listă circuite tablou, PDF.",
+        "de": "Kabel- und Sicherungsauswahl, Stromkreisliste, PDF."
       },
       "Description": {
-        "pl": "Skaner przez adb sprawdza wszystkie aplikacje zainstalowane przez użytkownika: które mogą wyświetlać okna na innych aplikacjach (typowe dla reklam), są administratorem urządzenia, mają ułatwienia dostępu, ukryły ikonę albo pochodzą spoza sklepu. Każdy wynik ma wypisane powody. Jako PEWNE oznaczane są tylko aplikacje z Twojej listy znanych zagrożeń (suma SHA-256 pliku lub nazwa pakietu – listę wczytasz z pliku, np. z MalwareBazaar). Potrzebne są bezpłatne Android Platform-Tools od Google.\n\nW PRO: odinstalowanie lub wyłączenie aplikacji jednym kliknięciem, porównywanie sum SHA-256, raport PDF dla klienta.\n\nAplikacje usuwaj tylko za zgodą właściciela telefonu.",
-        "en": "Checks all user-installed apps over adb: overlay permission, device admin, accessibility, hidden icon, sideloaded. Every result lists its reasons. Only apps on your threat list (SHA-256 or package) are marked CERTAIN. Requires the free Android Platform-Tools.\n\nWith PRO: one-click uninstall/disable, SHA-256 check, client PDF report.",
-        "ro": "Scanare prin adb.\n\nCu PRO: dezinstalare, SHA-256, PDF.",
-        "de": "Scan per adb.\n\nMit PRO: Deinstallation, SHA-256, PDF."
+        "pl": "Wpisujesz moc albo prąd, długość i sposób ułożenia – Elektryk dobiera zabezpieczenie i przekrój przewodu (PN-HD 60364-5-52, temperatura, grupowanie), liczy spadek napięcia i sprawdza warunek samoczynnego wyłączenia. Jednym kliknięciem dodajesz wynik jako obwód rozdzielnicy: numer, nazwa, zabezpieczenie, RCD, przewód, faza – a program pilnuje równego obciążenia faz.\n\nW PRO: zestawienie rozdzielnicy do PDF dla klienta i odbioru, naklejki z opisem obwodów do drukowania, bez limitu obwodów (darmowo 12).\n\nWyniki są pomocą obliczeniową – ostateczny dobór i pomiary należą do uprawnionego elektryka.",
+        "en": "Enter power or current, length and installation method – get breaker and cable size, voltage drop and fault loop check. Add the result as a board circuit with phase balance.\n\nWith PRO: board list PDF, circuit labels, unlimited circuits (free: 12).\n\nResults are a calculation aid – final design belongs to a qualified electrician.",
+        "ro": "Dimensionare cablu și listă circuite.\n\nCu PRO: PDF, etichete, nelimitat.",
+        "de": "Kabelauswahl und Stromkreisliste.\n\nMit PRO: PDF, Etiketten, unbegrenzt."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
-      },
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+      }
+    },
+    {
       "Id": "skaner",
       "Name": "Skaner Androida",
       "Publisher": "AppsForPeople",
@@ -1820,7 +1795,32 @@
       "Page": null,
       "BuyUrl": null,
       "Color": "#22C55E",
-      "Featured": false
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Skaner Androida",
+        "en": "Android Scanner",
+        "ro": "Scanner Android",
+        "de": "Android-Scanner"
+      },
+      "Tagline": {
+        "pl": "Dla serwisów: podłączasz telefon z Androidem kablem USB i program znajduje aplikacje odpowiedzialne za wyskakujące reklamy i inne zagrożenia.",
+        "en": "For repair shops: connect an Android phone over USB and find apps behind pop-up ads and other threats.",
+        "ro": "Scanare telefoane Android prin USB.",
+        "de": "Android-Telefone per USB prüfen."
+      },
+      "Description": {
+        "pl": "Skaner przez adb sprawdza wszystkie aplikacje zainstalowane przez użytkownika: które mogą wyświetlać okna na innych aplikacjach (typowe dla reklam), są administratorem urządzenia, mają ułatwienia dostępu, ukryły ikonę albo pochodzą spoza sklepu. Każdy wynik ma wypisane powody. Jako PEWNE oznaczane są tylko aplikacje z Twojej listy znanych zagrożeń (suma SHA-256 pliku lub nazwa pakietu – listę wczytasz z pliku, np. z MalwareBazaar). Potrzebne są bezpłatne Android Platform-Tools od Google.\n\nW PRO: odinstalowanie lub wyłączenie aplikacji jednym kliknięciem, porównywanie sum SHA-256, raport PDF dla klienta.\n\nAplikacje usuwaj tylko za zgodą właściciela telefonu.",
+        "en": "Checks all user-installed apps over adb: overlay permission, device admin, accessibility, hidden icon, sideloaded. Every result lists its reasons. Only apps on your threat list (SHA-256 or package) are marked CERTAIN. Requires the free Android Platform-Tools.\n\nWith PRO: one-click uninstall/disable, SHA-256 check, client PDF report.",
+        "ro": "Scanare prin adb.\n\nCu PRO: dezinstalare, SHA-256, PDF.",
+        "de": "Scan per adb.\n\nMit PRO: Deinstallation, SHA-256, PDF."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
     }
   ],
   "Launcher": {
