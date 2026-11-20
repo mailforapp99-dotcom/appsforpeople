@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:40:20Z",
+  "Updated": "2026-11-20T21:40:29Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1550,6 +1550,58 @@
         "en": "Nine calculators on one screen with instant results and reserves. Collect everything into a shopping list.\n\nAll calculators are free. With PRO: shopping list PDF and saved list.",
         "ro": "Nouă calculatoare.\n\nCu PRO: PDF.",
         "de": "Neun Rechner.\n\nMit PRO: PDF."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
+      "Id": "ciecie",
+      "Name": "Planer cięcia",
+      "Publisher": "AppsForPeople",
+      "Category": "Firma",
+      "Version": "1.0.1",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.1/Ciecie.zip",
+      "FileName": "Ciecie.zip",
+      "Sha256": "d7fa4f92e0cc96c5268ce1f0d9d2bdcf0d449e84a096850b3a4a1e9ebf1fbfa0",
+      "Size": 617469,
+      "Args": null,
+      "Launch": "Ciecie.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/icon.png?v=639308076233277935",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261120214023-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261120214025-2.jpg"
+      ],
+      "Price": "19 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#A78BFA",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Planer cięcia",
+        "en": "Cut planner",
+        "ro": "Planificator tăiere",
+        "de": "Zuschnittplaner"
+      },
+      "Tagline": {
+        "pl": "Rozkrój płyt meblowych i desek: program układa elementy tak, żeby zużyć jak najmniej płyt, rysuje rozkrój, liczy odpad, koszt i okleinę.",
+        "en": "Sheet and board cutting optimizer: fewest sheets, layout drawing, waste, cost and edge banding.",
+        "ro": "Optimizare tăiere plăci și scânduri.",
+        "de": "Zuschnittoptimierung für Platten und Bretter."
+      },
+      "Description": {
+        "pl": "Wpisujesz wymiary płyty (np. 2800×2070), rzaz piły i elementy: szafki, półki, fronty – z ilością i informacją, czy można je obracać (słoje). Planer cięcia układa je na płytach, rysuje rozkrój każdej płyty, podaje liczbę płyt, wykorzystanie, odpad w m², koszt płyt i metry okleiny. Osobna zakładka liczy cięcie desek, listew i profili na sztangi.\n\nW PRO: bez limitu elementów (darmowo 15), PDF z rysunkami rozkroju i listą cięć dla stolarni albo klienta, zapisywanie projektów.",
+        "en": "Enter the sheet size, kerf and parts with quantities and grain direction. The planner packs them, draws each sheet, and reports sheets, usage, waste, cost and edge banding. A separate tab cuts boards and profiles from bars.\n\nWith PRO: unlimited parts (free: 15), PDF with layouts and cutting list, saved projects.",
+        "ro": "Optimizare tăiere.\n\nCu PRO: nelimitat, PDF, proiecte.",
+        "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
       },
       "Changelog": {
         "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
