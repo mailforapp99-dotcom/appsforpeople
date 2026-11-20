@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:47:36Z",
+  "Updated": "2026-11-20T19:47:45Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -932,19 +932,20 @@
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.0.2",
-      "Date": "2026-11-18",
+      "Version": "1.0.3",
+      "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.2/Tabliczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.3/Tabliczka.zip",
       "FileName": "Tabliczka.zip",
-      "Sha256": "e915b3b5029bc84d47f2629d3d52f71620badb0bf90957ad6a7dd5601038778e",
-      "Size": 164113,
+      "Sha256": "91283acb818d099a96faf3631ba29c29ff5a5db20e73b7e275c8097fb0078e67",
+      "Size": 791397,
       "Args": null,
       "Launch": "Tabliczka.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/icon.png?v=639306251120096897",
       "Shots": [
-        
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120194738-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120194740-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -972,10 +973,10 @@
         "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
       },
       "Changelog": {
-        "pl": "Nazwa programu w Twoim języku. Okno można mocno zmniejszyć – menu boczne chowa się pod przyciskiem ☰, a treść się przewija.",
-        "en": "Program name in your language. The window can be made much smaller – the side menu hides under the ☰ button and the content scrolls.",
-        "ro": "Numele programului în limba ta. Fereastra poate fi micșorată mult – meniul lateral se ascunde sub butonul ☰, iar conținutul se derulează.",
-        "de": "Programmname in Ihrer Sprache. Das Fenster lässt sich stark verkleinern – das Seitenmenü verschwindet hinter ☰, der Inhalt scrollt."
+        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
+        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
+        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
+        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
       }
     },
     {
