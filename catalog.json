@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:11:27Z",
+  "Updated": "2026-11-20T22:11:39Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1410,21 +1410,21 @@
       "Name": "Wycena",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.3",
+      "Version": "1.0.4",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.3/Wycena.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.4/Wycena.zip",
       "FileName": "Wycena.zip",
-      "Sha256": "ff790ad1f6c2683b0a9d27c567a42a8e5c79e9f638075c02793d2922b3c6127f",
-      "Size": 849066,
+      "Sha256": "c7007d22cfb2a7f64ec67cabae40b69bf2ea33b91006aaf0bd21bb310f7a09cb",
+      "Size": 851115,
       "Args": null,
       "Launch": "Wycena.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/icon.png?v=639308008940611290",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120214427-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120214428-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120214430-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120221129-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120221131-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120221135-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1452,10 +1452,10 @@
         "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
