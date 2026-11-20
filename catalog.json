@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:21:37Z",
+  "Updated": "2026-11-20T22:21:46Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1252,20 +1252,20 @@
       "Name": "Ekran",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.7/Ekran.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.8/Ekran.zip",
       "FileName": "Ekran.zip",
-      "Sha256": "2609445be8c38a2dd3b06bb576416c914162b940aeb6fa2a20a4786effe7a145",
-      "Size": 763356,
+      "Sha256": "d63590956e7e97bcfcda0fc14851e658711a5f5156ec05ae0ffcc274e5273ce8",
+      "Size": 768113,
       "Args": null,
       "Launch": "Ekran.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/icon.png?v=639306363424990057",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261120220747-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261120220749-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261120222139-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261120222141-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -1293,10 +1293,10 @@
         "de": "Ekran macht die Farben wärmer und dimmt, dazu Augenpausen.\n\nMit PRO: automatische Abendwärme, Profile und täglicher Bildschirmzeit-Zähler."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
