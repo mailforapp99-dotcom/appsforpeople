@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:09:52Z",
+  "Updated": "2026-11-20T22:10:03Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -413,21 +413,21 @@
       "Name": "Rachunki",
       "Publisher": "AppsForPeople",
       "Category": "Finanse",
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rachunki-v1.0.6/Rachunki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rachunki-v1.0.7/Rachunki.zip",
       "FileName": "Rachunki.zip",
-      "Sha256": "6d4137d6262cda6a17f98ca9797239dd4832d91fb50db9cb942b9ee7ed55481a",
-      "Size": 757723,
+      "Sha256": "bcb28f947e93a9e1bd6fb98287aa7f80f95f1a0214f5b2b7537bdb98382b704a",
+      "Size": 759784,
       "Args": null,
       "Launch": "Rachunki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/icon.png?v=639306219420944148",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/shot-20261120214251-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/shot-20261120214253-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/shot-20261120214255-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/shot-20261120220954-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/shot-20261120220956-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/rachunki/shot-20261120220958-3.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -455,10 +455,10 @@
         "de": "Rachunki ist ein einfaches Haushaltsbuch. Du trägst nacheinander Einnahmen (Arbeitsvertrag, Auftrag, B2B oder Sonstiges) und Rechnungen ein: Miete, Strom, Raten, Abos. Das Programm zeigt sofort, was nach den Rechnungen übrig bleibt, was noch offen und was überfällig ist. Zwei Buchstaben reichen – Rachunki schlägt frühere Einträge mit Betrag vor. Die Liste ist ab 2 Buchstaben durchsuchbar, die Seite „Ganzes Jahr“ zeigt alle Monate in einer Tabelle.\n\nMit PRO teilst du Rechnungen mit anderen (z. B. zahlt der Mitbewohner 50 % der Miete) und siehst, wer dir wie viel schuldet und ob schon zurückgezahlt wurde. Feste Rechnungen übernimmst du mit einem Klick in den neuen Monat, und die Daten lassen sich nach Excel exportieren. Alles bleibt auf deinem Computer – das Programm verbindet sich weder mit der Bank noch mit einem Dienst."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
