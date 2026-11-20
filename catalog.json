@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:08:50Z",
+  "Updated": "2026-11-20T22:09:00Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -677,21 +677,21 @@
       "Name": "Liczniki",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.6/Liczniki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.7/Liczniki.zip",
       "FileName": "Liczniki.zip",
-      "Sha256": "eb96b48e0a07ca3c9ca162945005be03e53f78ec40cb606440e2471f34652b93",
-      "Size": 883916,
+      "Sha256": "699f822fe15071a54ceed1d12975e191524848fcbc835215abea8c6c9a951591",
+      "Size": 885634,
       "Args": null,
       "Launch": "Liczniki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/icon.png?v=639306250788952423",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120214152-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120214153-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120214155-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120220851-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120220853-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120220855-3.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -719,10 +719,10 @@
         "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
