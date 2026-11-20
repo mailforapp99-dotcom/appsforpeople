@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:22:53Z",
+  "Updated": "2026-11-20T22:23:03Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1094,21 +1094,21 @@
       "Name": "Najem",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.7/Najem.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/najem-v1.0.8/Najem.zip",
       "FileName": "Najem.zip",
-      "Sha256": "83a1408fc3f257ae96474d420cedd25faca0dd6eac794b3c76439d166452cbda",
-      "Size": 861732,
+      "Sha256": "b1315ac37275df0d3249942d55affeda8d637597a6901da958b5a049edcb1f81",
+      "Size": 866420,
       "Args": null,
       "Launch": "Najem.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/icon.png?v=639306266068059414",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120220902-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120220904-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120220906-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120222255-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120222257-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/najem/shot-20261120222258-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1136,10 +1136,10 @@
         "de": "Najem zeigt, wer die Miete gezahlt hat und wer im Rückstand ist.\n\nMit PRO: mehrere Wohnungen, Jahresübersicht als PDF/CSV und Erinnerungen."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
