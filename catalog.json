@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:25:35Z",
+  "Updated": "2026-11-20T22:25:44Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -990,20 +990,20 @@
       "Name": "Zrzut",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.8",
+      "Version": "1.0.9",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.8/Zrzut.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.9/Zrzut.zip",
       "FileName": "Zrzut.zip",
-      "Sha256": "6bb76228f351758b1cc033ffad08b1c515d350b3007e64a6bd2c9aad0db07903",
-      "Size": 803520,
+      "Sha256": "51f9cf5933853787edd355ed366685f915ce02a28b427dca110700479388a15c",
+      "Size": 808191,
       "Args": null,
       "Launch": "Zrzut.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/icon.png?v=639306251183973058",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120221148-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120221149-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120222537-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120222539-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1031,10 +1031,10 @@
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
