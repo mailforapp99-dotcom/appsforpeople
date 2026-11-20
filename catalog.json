@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:42:40Z",
+  "Updated": "2026-11-20T21:42:45Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -780,13 +780,13 @@
       "Name": "Porty",
       "Publisher": "AppsForPeople",
       "Category": "Programiści",
-      "Version": "1.0.4",
+      "Version": "1.0.6",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.4/Porty.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.6/Porty.zip",
       "FileName": "Porty.zip",
-      "Sha256": "c76ba53d81d3377b4e465b7969c525cd91de6c5bdb31635f4481b26314076084",
-      "Size": 169606,
+      "Sha256": "405f047293d855a8cff5434200531d89ef754c0fa7cae3d0037c4eea1196a3b4",
+      "Size": 173549,
       "Args": null,
       "Launch": "Porty.exe",
       "UninstallName": null,
@@ -820,10 +820,10 @@
         "de": "Porty zeigt alle TCP- und UDP-Ports mit Programm und PID und beendet Prozesse mit einem Klick.\n\nMit PRO: PATH-Editor mit Sicherung, automatische Aktualisierung und Prüfung freier Ports."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
