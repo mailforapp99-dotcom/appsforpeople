@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:21:46Z",
+  "Updated": "2026-11-20T22:21:54Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1671,20 +1671,20 @@
       "Name": "Elektronik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektronik-v1.0.2/Elektronik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektronik-v1.0.3/Elektronik.zip",
       "FileName": "Elektronik.zip",
-      "Sha256": "d79afd237fda681c48c7e8f7c3c8e801840803998ccc245defaf319659e63a1d",
-      "Size": 564279,
+      "Sha256": "a8573a1bac504e01904e5de702fdddec2f33faac1934822e047e9bc6981c6a4b",
+      "Size": 568681,
       "Args": null,
       "Launch": "Elektronik.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/icon.png?v=639308076532774525",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120220755-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120220757-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120222148-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120222149-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1712,10 +1712,10 @@
         "de": "Rechner und Teilelager.\n\nMit PRO: unbegrenzt, PDF, Etiketten."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
