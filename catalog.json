@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:48:10Z",
+  "Updated": "2026-11-20T19:48:22Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1393,6 +1393,59 @@
         "en": "Enter your average monthly revenue and costs and see social ZUS, health contribution, tax and what you keep. 2026 rates are built in and editable.\n\nWith PRO: compare tax scale, flat tax and lump-sum, PDF report and deadlines added to Terminy.\n\nAn estimate – not a substitute for an accountant.",
         "ro": "Calculator ZUS și impozit pentru firme unipersonale.\n\nCu PRO: comparație, raport PDF, termene.",
         "de": "ZUS- und Steuerrechner für Einzelunternehmer.\n\nMit PRO: Vergleich, PDF-Bericht, Termine."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
+      }
+    },
+    {
+      "Id": "wycena",
+      "Name": "Wycena",
+      "Publisher": "AppsForPeople",
+      "Category": "Firma",
+      "Version": "1.0.0",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.0/Wycena.zip",
+      "FileName": "Wycena.zip",
+      "Sha256": "e02ee294eb5e069dc024a8b378e86501db79b56d2868271607d6c0059fae6358",
+      "Size": 851161,
+      "Args": null,
+      "Launch": "Wycena.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/icon.png?v=639308008940611290",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120194814-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120194815-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120194817-3.jpg"
+      ],
+      "Price": "19 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#FB923C",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Wycena",
+        "en": "Quotes",
+        "ro": "Oferte",
+        "de": "Angebote"
+      },
+      "Tagline": {
+        "pl": "Oferty i kosztorysy dla fachowców: własny cennik, pozycje z listy, rabat, VAT 8/23% i PDF z logo w kilka minut.",
+        "en": "Quotes for tradespeople: your price list, lines from the list, discount, VAT and a PDF with your logo in minutes.",
+        "ro": "Oferte pentru meseriași, PDF cu logo.",
+        "de": "Angebote für Handwerker, PDF mit Logo."
+      },
+      "Description": {
+        "pl": "Raz wpisujesz swój cennik prac i materiałów. Potem oferta to tylko: wybierz pozycję (wystarczą 2 litery), wpisz ilość, popraw cenę, jeśli trzeba – Wycena liczy netto, VAT (8% lub 23%) i brutto, dolicza rabat i robi PDF dla klienta. Widzisz też, które oferty klient przyjął.\n\nW PRO: bez limitu ofert (darmowo 5 w miesiącu), logo firmy na PDF, eksport do CSV/Excela.",
+        "en": "Enter your price list once; then a quote is just picking lines and quantities. Net, VAT and gross are calculated, discount applied and a PDF made.\n\nWith PRO: unlimited quotes, logo on PDF, CSV export.",
+        "ro": "Oferte rapide din lista ta de prețuri.\n\nCu PRO: nelimitat, logo, CSV.",
+        "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
       },
       "Changelog": {
         "pl": "Pierwsza wersja.",
