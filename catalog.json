@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:21:07Z",
+  "Updated": "2026-11-20T22:21:17Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1514,20 +1514,20 @@
       "Name": "Kalkulatory budowlane",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.2/Budowa.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.3/Budowa.zip",
       "FileName": "Budowa.zip",
-      "Sha256": "f0224366b85e731f1b8586958f525836d72983d91f3d1c4f0d007ea4e835f2e2",
-      "Size": 628377,
+      "Sha256": "ec50699539a687821f918c7d46bdffcf3e0876133eee079684e9a85e73080a19",
+      "Size": 633187,
       "Args": null,
       "Launch": "Budowa.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/icon.png?v=639308076135658234",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261120220719-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261120220721-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261120222110-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261120222112-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1555,10 +1555,10 @@
         "de": "Neun Rechner.\n\nMit PRO: PDF."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
