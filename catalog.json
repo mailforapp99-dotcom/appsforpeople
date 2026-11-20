@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:59:30Z",
+  "Updated": "2026-11-20T19:59:40Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1301,21 +1301,21 @@
       "Name": "Grafik",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.0/Grafik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.1/Grafik.zip",
       "FileName": "Grafik.zip",
-      "Sha256": "9f87d355227dd3925f4346ab7921f2e730a56813722d4a7cb1de9cffffad7469",
-      "Size": 650894,
+      "Sha256": "b90e7a61d8b600f09354f08e0e1f6047d08dd8d70f31af6a1a7c4e593bbfbc1f",
+      "Size": 849723,
       "Args": null,
       "Launch": "Grafik.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/icon.png?v=639308007184024061",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120194518-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120194520-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120194522-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120195931-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120195933-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120195935-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1343,10 +1343,10 @@
         "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
       },
       "Changelog": {
-        "pl": "Pierwsza wersja.",
-        "en": "First version.",
-        "ro": "Prima versiune.",
-        "de": "Erste Version."
+        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
+        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
+        "ro": "Încearcă PRO gratuit 7 zile.",
+        "de": "PRO 7 Tage kostenlos testen."
       }
     },
     {
