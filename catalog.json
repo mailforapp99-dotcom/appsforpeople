@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:40:49Z",
+  "Updated": "2026-11-20T21:40:59Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1655,6 +1655,58 @@
         "en": "Drop files or folders – thumbnails, size and volume from STL; grams and time from G-code. Cost calculator with filament, power, wear, work, failure reserve and margin. Print history with profit.\n\nWith PRO: unlimited library (free: 20), client quote PDF, CSV export.",
         "ro": "Bibliotecă și cost.\n\nCu PRO: nelimitat, PDF, CSV.",
         "de": "Bibliothek und Kosten.\n\nMit PRO: unbegrenzt, PDF, CSV."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
+      "Id": "elektronik",
+      "Name": "Elektronik",
+      "Publisher": "AppsForPeople",
+      "Category": "Narzędzia",
+      "Version": "1.0.1",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektronik-v1.0.1/Elektronik.zip",
+      "FileName": "Elektronik.zip",
+      "Sha256": "2f1299f0da8ff5f42c3353d4a77e014fe7b5954a74ef11de1a2abfc8c34b27e3",
+      "Size": 561970,
+      "Args": null,
+      "Launch": "Elektronik.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/icon.png?v=639308076532774525",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120214053-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261120214054-2.jpg"
+      ],
+      "Price": "9 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#34D399",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Elektronik",
+        "en": "Electronics",
+        "ro": "Electronică",
+        "de": "Elektronik"
+      },
+      "Tagline": {
+        "pl": "Kalkulatory elektronika (paski rezystora, LED, dzielnik, Ohm, NE555, filtr RC) i magazyn części w szufladach z listą zakupów.",
+        "en": "Electronics calculators (resistor colours, LED, divider, Ohm, NE555, RC) and a parts drawer inventory with a shopping list.",
+        "ro": "Calculatoare electronice și inventar piese.",
+        "de": "Elektronik-Rechner und Teilelager."
+      },
+      "Description": {
+        "pl": "Wartości wpisujesz jak na schemacie (4k7, 100n, 2M2), a wynik pojawia się od razu: paski rezystora z podglądem, rezystor do LED z najbliższą wartością z szeregu E12 i mocą, dzielnik napięcia, prawo Ohma z dowolnych dwóch wartości, NE555 i filtr RC. W zakładce „Moje części” prowadzisz magazyn w szufladach – szukanie od 2 liter, +1/−1 jednym kliknięciem, ostrzeżenie, gdy coś się kończy.\n\nW PRO: magazyn bez limitu (darmowo 30 części), lista zakupów do PDF, etykiety na szuflady.",
+        "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nWith PRO: unlimited parts (free: 30), shopping list PDF, drawer labels.",
+        "ro": "Calculatoare și inventar piese.\n\nCu PRO: nelimitat, PDF, etichete.",
+        "de": "Rechner und Teilelager.\n\nMit PRO: unbegrenzt, PDF, Etiketten."
       },
       "Changelog": {
         "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
