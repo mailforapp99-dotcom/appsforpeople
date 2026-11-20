@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:10:18Z",
+  "Updated": "2026-11-20T22:10:27Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1200,20 +1200,20 @@
       "Name": "Serwis",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.1",
+      "Version": "1.1.2",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.1.1/Serwis.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.1.2/Serwis.zip",
       "FileName": "Serwis.zip",
-      "Sha256": "bb297efa0e12baf550df98a6ebffd91af581497783f00c8aa03ec544a8048f42",
-      "Size": 744667,
+      "Sha256": "36b0799786f312092fed04abf89a5613a9cdc3ee1df99622d2da95ee0975a185",
+      "Size": 746447,
       "Args": null,
       "Launch": "Serwis.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/icon.png?v=639306266210937532",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261120214316-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261120214318-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261120221020-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261120221022-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1241,10 +1241,10 @@
         "de": "Serwis ersetzt Papierberichte, inklusive Unterschrift des Kunden.\n\nMit PRO: PDF mit Logo, Fotos und unbegrenzte Berichte."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
