@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:24:20Z",
+  "Updated": "2026-11-20T22:24:30Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1775,20 +1775,20 @@
       "Name": "Skaner Androida",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skaner-v1.0.2/Skaner.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skaner-v1.0.3/Skaner.zip",
       "FileName": "Skaner.zip",
-      "Sha256": "7144d4d3a0d250cdfcd759ddbde0c466f7f44fbc86c40e9ec73c8cd50108d33e",
-      "Size": 618989,
+      "Sha256": "715d610e782c207b65732c5bfaf58a7225a1cafa226ae8a0364838e972519dd8",
+      "Size": 623682,
       "Args": null,
       "Launch": "Skaner.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/icon.png?v=639308078075416838",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120221029-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120221031-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120222422-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261120222425-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1816,10 +1816,10 @@
         "de": "Scan per adb.\n\nMit PRO: Deinstallation, SHA-256, PDF."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     }
   ],
