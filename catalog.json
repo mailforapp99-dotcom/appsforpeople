@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T19:45:15Z",
+  "Updated": "2026-11-20T19:45:26Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1273,6 +1273,59 @@
         "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
         "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
         "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
+      }
+    },
+    {
+      "Id": "grafik",
+      "Name": "Grafik",
+      "Publisher": "AppsForPeople",
+      "Category": "Firma",
+      "Version": "1.0.0",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.0/Grafik.zip",
+      "FileName": "Grafik.zip",
+      "Sha256": "9f87d355227dd3925f4346ab7921f2e730a56813722d4a7cb1de9cffffad7469",
+      "Size": 650894,
+      "Args": null,
+      "Launch": "Grafik.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/icon.png?v=639308007184024061",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120194518-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120194520-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120194522-3.jpg"
+      ],
+      "Price": "19 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#A78BFA",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Grafik",
+        "en": "Rota",
+        "ro": "Program de lucru",
+        "de": "Dienstplan"
+      },
+      "Tagline": {
+        "pl": "Grafik pracy i ewidencja czasu pracy, która pilnuje Kodeksu pracy: odpoczynki, wymiar godzin, niedziele, nadgodziny.",
+        "en": "Staff rota and time records that watch the Polish Labour Code: rest periods, monthly hours, Sundays, overtime.",
+        "ro": "Program de lucru și evidența timpului, conform Codului muncii.",
+        "de": "Dienstplan und Zeiterfassung nach polnischem Arbeitsrecht."
+      },
+      "Description": {
+        "pl": "Układasz grafik w kratkach jak w Excelu, a Grafik od razu pokazuje, co jest nie tak: za krótki odpoczynek (11 h na dobę, 35 h w tygodniu), za dużo lub za mało godzin w miesiącu, brak wolnej niedzieli. Święta i wymiar czasu pracy liczą się same. Ewidencja pokazuje godziny, nadgodziny, nocne, niedziele, urlopy i L4.\n\nW PRO: bez limitu pracowników (darmowo 3), grafik i ewidencja w PDF do podpisu i na kontrolę PIP.\n\nTo podpowiedzi dla pracodawcy – przy nietypowych systemach czasu pracy zapytaj kadrową.",
+        "en": "Build the rota in a grid; Grafik instantly shows rest-period breaches, too many or too few hours and missing free Sundays. Holidays and monthly norms are automatic.\n\nWith PRO: unlimited employees (free: 3), rota and time records as PDF.",
+        "ro": "Program de lucru cu verificarea odihnei și a normelor.\n\nCu PRO: angajați nelimitați, PDF.",
+        "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
+      },
+      "Changelog": {
+        "pl": "Pierwsza wersja.",
+        "en": "First version.",
+        "ro": "Prima versiune.",
+        "de": "Erste Version."
       }
     }
   ],
