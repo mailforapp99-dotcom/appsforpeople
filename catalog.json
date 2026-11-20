@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:22:13Z",
+  "Updated": "2026-11-20T22:22:23Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1304,21 +1304,21 @@
       "Name": "Grafik",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.4/Grafik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.5/Grafik.zip",
       "FileName": "Grafik.zip",
-      "Sha256": "c0f76bf58b36ad54c19bd89afa17e8615f8d329df18c2c748b8fec1613f46892",
-      "Size": 856098,
+      "Sha256": "b1df839371878324bba677a6f6a7b507b6accf9efc5b5c69562211f3e9664d4c",
+      "Size": 860660,
       "Args": null,
       "Launch": "Grafik.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/icon.png?v=639308007184024061",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120220822-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120220824-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120220826-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120222215-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120222217-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120222219-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1346,10 +1346,10 @@
         "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
