@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:44:24Z",
+  "Updated": "2026-11-20T21:44:35Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1407,21 +1407,21 @@
       "Name": "Wycena",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.1",
+      "Version": "1.0.3",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.1/Wycena.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.3/Wycena.zip",
       "FileName": "Wycena.zip",
-      "Sha256": "d766b1a6729472056266ae2184ef2a940343017d61e3723bb6be35290de2897c",
-      "Size": 844855,
+      "Sha256": "ff790ad1f6c2683b0a9d27c567a42a8e5c79e9f638075c02793d2922b3c6127f",
+      "Size": 849066,
       "Args": null,
       "Launch": "Wycena.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/icon.png?v=639308008940611290",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120200235-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120200237-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120200238-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120214427-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120214428-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120214430-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1449,10 +1449,10 @@
         "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
