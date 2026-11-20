@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:24:07Z",
+  "Updated": "2026-11-20T22:24:11Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -887,13 +887,13 @@
       "Name": "Schowek",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.7/Schowek.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.8/Schowek.zip",
       "FileName": "Schowek.zip",
-      "Sha256": "f6acabfdde457ee2dfe35a2c9b813b0342c0e511debf40c1b41496971cbaee18",
-      "Size": 160423,
+      "Sha256": "fb1a58c2448ce20503c695c4f834bded90d20a497a1cf9d388c895e49193e3a0",
+      "Size": 165145,
       "Args": null,
       "Launch": "Schowek.exe",
       "UninstallName": null,
@@ -927,10 +927,10 @@
         "de": "Schowek merkt sich kopierte Texte; der Verlauf wird verschlüsselt; kostenlos die letzten 25.\n\nMit PRO: bis 1000 Einträge, angeheftete Texte, Bilder und Strg+Umschalt+V."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
