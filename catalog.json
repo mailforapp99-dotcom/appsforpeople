@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T20:02:50Z",
+  "Updated": "2026-11-20T20:02:58Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -987,20 +987,20 @@
       "Name": "Zrzut",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.4/Zrzut.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.5/Zrzut.zip",
       "FileName": "Zrzut.zip",
-      "Sha256": "9f3dc8cfb5869831db6a8443d33f73421c18a80038d9d0528fd6ba129e305d33",
-      "Size": 802394,
+      "Sha256": "46585c7f37b372aba74c15e121d701d5ae7de3044eefe7ce530e715daf6d0086",
+      "Size": 797790,
       "Args": null,
       "Launch": "Zrzut.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/icon.png?v=639306251183973058",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120194832-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120194834-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120200252-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261120200253-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1028,10 +1028,10 @@
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
       },
       "Changelog": {
-        "pl": "Nowy wygląd: szklane karty, pomarańczowy akcent. Interfejs dopasowuje się do rozdzielczości ekranu, przyciski zawijają się w wąskim oknie (także na stronie licencji). Lepsza ochrona licencji.",
-        "en": "New look: glass cards, orange accent. The interface adapts to screen resolution and wraps in narrow windows (also on the licence page). Stronger licence protection.",
-        "ro": "Aspect nou: carduri de sticlă, accent portocaliu. Interfața se adaptează rezoluției și se rearanjează în ferestre înguste. Protecție mai bună a licenței.",
-        "de": "Neues Design: Glaskarten, oranger Akzent. Die Oberfläche passt sich der Auflösung an und bricht in schmalen Fenstern um. Besserer Lizenzschutz."
+        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
+        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
+        "ro": "Încearcă PRO gratuit 7 zile.",
+        "de": "PRO 7 Tage kostenlos testen."
       }
     },
     {
