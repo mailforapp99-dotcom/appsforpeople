@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:43:34Z",
+  "Updated": "2026-11-20T21:43:44Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1354,21 +1354,21 @@
       "Name": "Składki",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.1",
+      "Version": "1.0.3",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skladki-v1.0.1/Skladki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skladki-v1.0.3/Skladki.zip",
       "FileName": "Skladki.zip",
-      "Sha256": "2325b349e52fd83080660db470b33845f8c4bb684cdd622dd7f3322cea3a5ea5",
-      "Size": 999848,
+      "Sha256": "152b5c5ff2d0442861ae18b24e7c1548524afa222c52d3ab49f838cbc28ca99e",
+      "Size": 1003618,
       "Args": null,
       "Launch": "Skladki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/icon.png?v=639308008439852693",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120200144-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120200146-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120200148-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120214336-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120214338-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120214340-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1396,10 +1396,10 @@
         "de": "ZUS- und Steuerrechner für Einzelunternehmer.\n\nMit PRO: Vergleich, PDF-Bericht, Termine."
       },
       "Changelog": {
-        "pl": "7 dni PRO za darmo do wypróbowania (raz na komputer). Poprawki wyglądu.",
-        "en": "Try PRO free for 7 days (once per computer). Visual fixes.",
-        "ro": "Încearcă PRO gratuit 7 zile.",
-        "de": "PRO 7 Tage kostenlos testen."
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
       }
     },
     {
