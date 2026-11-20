@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:22:23Z",
+  "Updated": "2026-11-20T22:22:32Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1042,20 +1042,20 @@
       "Name": "Kilometrówka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.7",
+      "Version": "1.0.8",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.7/Kilometrowka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.8/Kilometrowka.zip",
       "FileName": "Kilometrowka.zip",
-      "Sha256": "7e7cffffed4533675b55ef33e7f2bf4a6e1deb124c966a2140efd947b9a6cf1c",
-      "Size": 759250,
+      "Sha256": "13896b74c6aae9820727eb635383a779f1070ff4a0dbe1e8a796d1bf9a8179b7",
+      "Size": 764127,
       "Args": null,
       "Launch": "Kilometrowka.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/icon.png?v=639306265993052363",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120220833-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120220835-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120222225-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120222227-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1083,10 +1083,10 @@
         "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
