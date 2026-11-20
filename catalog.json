@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T21:40:59Z",
+  "Updated": "2026-11-20T21:41:10Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1707,6 +1707,58 @@
         "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nWith PRO: unlimited parts (free: 30), shopping list PDF, drawer labels.",
         "ro": "Calculatoare și inventar piese.\n\nCu PRO: nelimitat, PDF, etichete.",
         "de": "Rechner und Teilelager.\n\nMit PRO: unbegrenzt, PDF, Etiketten."
+      },
+      "Changelog": {
+        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
+        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
+        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
+        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+      }
+    },
+    {
+      "Id": "elektryk",
+      "Name": "Elektryk",
+      "Publisher": "AppsForPeople",
+      "Category": "Firma",
+      "Version": "1.0.1",
+      "Date": "2026-11-20",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.1/Elektryk.zip",
+      "FileName": "Elektryk.zip",
+      "Sha256": "1702c410aa305d8675d63188e342ab28bce61266a774be2e20322d2479f0c53b",
+      "Size": 665718,
+      "Args": null,
+      "Launch": "Elektryk.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/icon.png?v=639308076630237048",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120214103-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261120214104-2.jpg"
+      ],
+      "Price": "19 zł / miesiąc",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#FACC15",
+      "Featured": false,
+      "Hidden": false,
+      "Names": {
+        "pl": "Elektryk",
+        "en": "Electrician",
+        "ro": "Electrician",
+        "de": "Elektriker"
+      },
+      "Tagline": {
+        "pl": "Dobór przewodu i zabezpieczenia (prąd, spadek napięcia, pętla zwarcia) oraz zestawienie obwodów rozdzielnicy z rozkładem faz i PDF.",
+        "en": "Cable and breaker sizing (current, voltage drop, fault loop) plus a distribution board circuit list with phase balance and PDF.",
+        "ro": "Dimensionare cablu și protecție, listă circuite tablou, PDF.",
+        "de": "Kabel- und Sicherungsauswahl, Stromkreisliste, PDF."
+      },
+      "Description": {
+        "pl": "Wpisujesz moc albo prąd, długość i sposób ułożenia – Elektryk dobiera zabezpieczenie i przekrój przewodu (PN-HD 60364-5-52, temperatura, grupowanie), liczy spadek napięcia i sprawdza warunek samoczynnego wyłączenia. Jednym kliknięciem dodajesz wynik jako obwód rozdzielnicy: numer, nazwa, zabezpieczenie, RCD, przewód, faza – a program pilnuje równego obciążenia faz.\n\nW PRO: zestawienie rozdzielnicy do PDF dla klienta i odbioru, naklejki z opisem obwodów do drukowania, bez limitu obwodów (darmowo 12).\n\nWyniki są pomocą obliczeniową – ostateczny dobór i pomiary należą do uprawnionego elektryka.",
+        "en": "Enter power or current, length and installation method – get breaker and cable size, voltage drop and fault loop check. Add the result as a board circuit with phase balance.\n\nWith PRO: board list PDF, circuit labels, unlimited circuits (free: 12).\n\nResults are a calculation aid – final design belongs to a qualified electrician.",
+        "ro": "Dimensionare cablu și listă circuite.\n\nCu PRO: PDF, etichete, nelimitat.",
+        "de": "Kabelauswahl und Stromkreisliste.\n\nMit PRO: PDF, Etiketten, unbegrenzt."
       },
       "Changelog": {
         "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
