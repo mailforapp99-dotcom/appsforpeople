@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:21:17Z",
+  "Updated": "2026-11-20T22:21:26Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1566,20 +1566,20 @@
       "Name": "Planer cięcia",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.2",
+      "Version": "1.0.3",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.2/Ciecie.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.3/Ciecie.zip",
       "FileName": "Ciecie.zip",
-      "Sha256": "a0cfa96d3a9f416f2a4db2bd8cf3682db411bd40aecc5facb714ef711d3cc2c7",
-      "Size": 619755,
+      "Sha256": "42e1d07cfb947cf20b2ca85672fa09bbcb6d0f2014d81e3664d9f1d7bd52a33d",
+      "Size": 624186,
       "Args": null,
       "Launch": "Ciecie.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/icon.png?v=639308076233277935",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261120220728-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261120220729-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261120222119-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261120222121-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1607,10 +1607,10 @@
         "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
       },
       "Changelog": {
-        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
-        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
-        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
-        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
