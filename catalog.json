@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-20T22:08:21Z",
+  "Updated": "2026-11-20T22:08:31Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1304,21 +1304,21 @@
       "Name": "Grafik",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.3",
+      "Version": "1.0.4",
       "Date": "2026-11-20",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.3/Grafik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.4/Grafik.zip",
       "FileName": "Grafik.zip",
-      "Sha256": "56c304025dde072be160434bb99b38d50a610b7c00e31348dc8254c3fb712013",
-      "Size": 854148,
+      "Sha256": "c0f76bf58b36ad54c19bd89afa17e8615f8d329df18c2c748b8fec1613f46892",
+      "Size": 856098,
       "Args": null,
       "Launch": "Grafik.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/icon.png?v=639308007184024061",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120214122-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120214124-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120214126-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120220822-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120220824-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120220826-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1346,10 +1346,10 @@
         "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
       },
       "Changelog": {
-        "pl": "Nowy, własny wygląd programu: osobne kolory, tło, kształty i styl menu. Czytelniejsze nagłówki stron.",
-        "en": "New unique look: its own colours, background, shapes and menu style. Clearer page headers.",
-        "ro": "Aspect nou și unic: culori, fundal, forme și meniu proprii. Titluri mai clare.",
-        "de": "Neues, eigenes Aussehen: eigene Farben, Hintergrund, Formen und Menüstil. Klarere Seitentitel."
+        "pl": "Zupełnie nowy układ okna dopasowany do programu: menu z ikonami, zakładki u góry albo dok na dole, jasny lub ciemny motyw, nowe karty.",
+        "en": "A completely new window layout made for this app: icon rail, top tabs or bottom dock, light or dark theme, new cards.",
+        "ro": "Un aspect complet nou al ferestrei: meniu cu pictograme, file sus sau dock jos, temă luminoasă sau întunecată, carduri noi.",
+        "de": "Komplett neues Fensterlayout für dieses Programm: Symbolleiste, Reiter oben oder Dock unten, helles oder dunkles Design, neue Karten."
       }
     },
     {
