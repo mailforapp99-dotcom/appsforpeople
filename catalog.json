@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:31:38Z",
+  "Updated": "2026-11-21T06:31:49Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -621,24 +621,24 @@
     },
     {
       "Id": "godziny",
-      "Name": "Godziny",
+      "Name": "Czas pracy",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.9",
-      "Date": "2026-11-20",
+      "Version": "1.0.11",
+      "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.9/Godziny.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.11/Godziny.zip",
       "FileName": "Godziny.zip",
-      "Sha256": "c13b3c24412ea86fdb6ca7c6474e4b1633b64132e3c7154ba869c1c8da3a6196",
-      "Size": 929145,
+      "Sha256": "08f60e37a85a185502317116916c33861bde0ef15829239e5a39df677201ae10",
+      "Size": 960338,
       "Args": null,
       "Launch": "Godziny.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/icon.png?v=639306250721535025",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120222205-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120222207-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261120222208-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261121063141-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261121063143-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261121063144-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -648,16 +648,16 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Godziny",
-        "en": "Hours",
-        "ro": "Ore",
-        "de": "Stunden"
+        "pl": "Czas pracy",
+        "en": "Work time",
+        "ro": "Timp de lucru",
+        "de": "Arbeitszeit"
       },
       "Tagline": {
-        "pl": "Ewidencja czasu pracy: start/stop, projekty i zestawienie PDF dla klienta.",
-        "en": "Time tracking: start/stop, projects and a PDF summary for the client.",
-        "ro": "Evidența timpului: start/stop, proiecte și raport PDF pentru client.",
-        "de": "Zeiterfassung: Start/Stopp, Projekte und PDF-Übersicht für den Kunden."
+        "pl": "Licznik godzin i grafik zmian w jednym programie – z kontrolą odpoczynku i ewidencją.",
+        "en": "Hour tracker and shift rota in one – with rest checks and records.",
+        "ro": "Contor ore și program ture într-unul.",
+        "de": "Stundenzähler und Schichtplan in einem."
       },
       "Description": {
         "pl": "Godziny liczą czas pracy jednym kliknięciem: Start, gdy zaczynasz, Stop, gdy kończysz – licznik działa nawet po zamknięciu programu. Zapomniałeś? Dodasz czas ręcznie. Widzisz godziny z dziś, tygodnia i miesiąca.\n\nW PRO: wielu klientów i projektów, stawki godzinowe i zarobek w miesiącu oraz miesięczne zestawienie PDF – gotowy załącznik do faktury dla osób na zleceniu i B2B.",
@@ -666,10 +666,10 @@
         "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
       },
       "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
+        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
+        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
+        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
       }
     },
     {
