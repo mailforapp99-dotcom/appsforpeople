@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T22:24:01Z",
+  "Updated": "2026-11-21T22:24:09Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1252,20 +1252,20 @@
       "Name": "Ekran",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.11",
+      "Version": "1.0.12",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.11/Ekran.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.12/Ekran.zip",
       "FileName": "Ekran.zip",
-      "Sha256": "f3bc2b2a62dfacd50f174d3d284db90f10c8323063eb4ee7060c1cb3cf4bfd94",
-      "Size": 787120,
+      "Sha256": "3d4868721640e95cc5e3059995e2501a3c8f759519a1fc88457af9f6dda41cda",
+      "Size": 787469,
       "Args": null,
       "Launch": "Ekran.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/icon.png?v=639306363424990057",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261121065129-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261121065131-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261121222403-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261121222405-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -1293,10 +1293,10 @@
         "de": "Ekran macht die Farben wärmer und dimmt, dazu Augenpausen.\n\nMit PRO: automatische Abendwärme, Profile und täglicher Bildschirmzeit-Zähler."
       },
       "Changelog": {
-        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
-        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
-        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
-        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
+        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
+        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
+        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
+        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
       }
     },
     {
