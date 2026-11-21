@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:54:29Z",
+  "Updated": "2026-11-21T06:54:42Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -834,21 +834,21 @@
       "Name": "Ramki",
       "Publisher": "AppsForPeople",
       "Category": "Robotyka",
-      "Version": "1.0.11",
+      "Version": "1.0.12",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.11/Ramki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.12/Ramki.zip",
       "FileName": "Ramki.zip",
-      "Sha256": "d151b70c3da818d76271332adf3667dce25ad267115d2f5044bfef31887c3c32",
-      "Size": 795630,
+      "Sha256": "e14dcf0419844fc505b299aa81bab677fb43f0126be88273d7a461c42fc49dd4",
+      "Size": 796903,
       "Args": null,
       "Launch": "Ramki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/icon.png?v=639306250991029975",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121063305-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121063306-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121063308-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121065433-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121065435-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121065436-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -876,10 +876,10 @@
         "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nMit PRO: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
       },
       "Changelog": {
-        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
-        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
-        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
-        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
+        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
+        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
+        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
+        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
       }
     },
     {
