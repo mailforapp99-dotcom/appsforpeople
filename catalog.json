@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T22:24:55Z",
+  "Updated": "2026-11-21T22:25:00Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -103,13 +103,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.16",
+      "Version": "1.2.17",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.16/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.17/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "24c90fbeeefcd7e0798cf480f4ed37fa892fb68f362936b8def7e3c162b56ed2",
-      "Size": 424917,
+      "Sha256": "bd5b7e63d8416a8afbf1db2ed5651f29348f55669e587d2c818f9b4b06e3e297",
+      "Size": 425550,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -143,10 +143,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
-        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
-        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
-        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
+        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
+        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
+        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
+        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
       }
     },
     {
