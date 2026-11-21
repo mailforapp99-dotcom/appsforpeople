@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:31:11Z",
+  "Updated": "2026-11-21T06:31:19Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1252,20 +1252,20 @@
       "Name": "Ekran",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.8",
-      "Date": "2026-11-20",
+      "Version": "1.0.10",
+      "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.8/Ekran.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ekran-v1.0.10/Ekran.zip",
       "FileName": "Ekran.zip",
-      "Sha256": "d63590956e7e97bcfcda0fc14851e658711a5f5156ec05ae0ffcc274e5273ce8",
-      "Size": 768113,
+      "Sha256": "c670318c52a36dee6340660780f648ddc17670abb0a2611f0f936d0ecfa8c908",
+      "Size": 785679,
       "Args": null,
       "Launch": "Ekran.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/icon.png?v=639306363424990057",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261120222139-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261120222141-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261121063113-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ekran/shot-20261121063115-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -1293,10 +1293,10 @@
         "de": "Ekran macht die Farben wärmer und dimmt, dazu Augenpausen.\n\nMit PRO: automatische Abendwärme, Profile und täglicher Bildschirmzeit-Zähler."
       },
       "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
+        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
+        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
+        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
       }
     },
     {
