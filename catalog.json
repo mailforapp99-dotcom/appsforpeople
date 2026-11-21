@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T22:25:54Z",
+  "Updated": "2026-11-21T22:26:03Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1200,20 +1200,20 @@
       "Name": "Serwis",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.6",
+      "Version": "1.1.7",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.1.6/Serwis.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.1.7/Serwis.zip",
       "FileName": "Serwis.zip",
-      "Sha256": "73a59d4e95bcf65313536306f2675171c4f4bd53b668257bfca2896d976e9d3d",
-      "Size": 773742,
+      "Sha256": "d04daaf2591ad26dad77321f42aae73230e7ddf47e1fd5789a93f9717f93f785",
+      "Size": 773999,
       "Args": null,
       "Launch": "Serwis.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/icon.png?v=639306266210937532",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261121065445-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261121065446-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261121222556-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261121222558-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1241,10 +1241,10 @@
         "de": "Serwis ersetzt Papierberichte, inklusive Unterschrift des Kunden.\n\nMit PRO: PDF mit Logo, Fotos und unbegrenzte Berichte."
       },
       "Changelog": {
-        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
-        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
-        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
-        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
+        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
+        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
+        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
+        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
       }
     },
     {
