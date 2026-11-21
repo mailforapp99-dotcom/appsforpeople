@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T22:23:42Z",
+  "Updated": "2026-11-21T22:23:51Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1566,20 +1566,20 @@
       "Name": "Planer cięcia",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.6/Ciecie.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.7/Ciecie.zip",
       "FileName": "Ciecie.zip",
-      "Sha256": "ef3448e994e0f5ec2d55717c4205b5ac86393a86665083eb4c7a00de3df5d7ed",
-      "Size": 643246,
+      "Sha256": "eb6a7df4648b9b189853545307e0939e3a43fe673cdce5171c9430e3f75aafe5",
+      "Size": 643881,
       "Args": null,
       "Launch": "Ciecie.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/icon.png?v=639308076233277935",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121065108-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121065110-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121222344-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121222346-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1607,10 +1607,10 @@
         "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
       },
       "Changelog": {
-        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
-        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
-        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
-        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
+        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
+        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
+        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
+        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
       }
     },
     {
