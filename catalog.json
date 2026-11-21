@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:33:31Z",
+  "Updated": "2026-11-21T06:33:36Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -154,13 +154,13 @@
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.14",
-      "Date": "2026-11-20",
+      "Version": "1.0.16",
+      "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.14/Straznik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.16/Straznik.zip",
       "FileName": "Straznik.zip",
-      "Sha256": "70724b134c40188b44703c55c38266f33bb4670d3cb0b7b913bcc3ea62dad7df",
-      "Size": 201952,
+      "Sha256": "7bab8f0a9be44338263e93ccb5db0243f41b53d51f8f5a8e44c78d15ff3185b9",
+      "Size": 224208,
       "Args": "",
       "Launch": "Straznik.exe",
       "UninstallName": "Strażnik",
@@ -194,10 +194,10 @@
         "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nMit PRO läuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
       },
       "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
+        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
+        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
+        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
       }
     },
     {
