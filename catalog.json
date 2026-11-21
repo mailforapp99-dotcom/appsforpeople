@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T22:25:04Z",
+  "Updated": "2026-11-21T22:25:15Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -730,21 +730,21 @@
       "Name": "Pisma",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.12",
+      "Version": "1.0.13",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.12/Pisma.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.13/Pisma.zip",
       "FileName": "Pisma.zip",
-      "Sha256": "05dbe95d2ab7bedbe06fe7a896b5eac5a04126ce28c332b4362c71646368bbd3",
-      "Size": 916036,
+      "Sha256": "0433de1513c7b9062043e59c44fb71cf17824a98ebfd258c9e3f5a6f66b0cc21",
+      "Size": 916694,
       "Args": null,
       "Launch": "Pisma.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/icon.png?v=639306250854358924",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121065312-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121065314-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121065316-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121222506-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121222508-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121222510-3.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -772,10 +772,10 @@
         "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
       },
       "Changelog": {
-        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
-        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
-        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
-        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
+        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
+        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
+        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
+        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
       }
     },
     {
