@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:32:42Z",
+  "Updated": "2026-11-21T06:32:47Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -783,13 +783,13 @@
       "Name": "Porty",
       "Publisher": "AppsForPeople",
       "Category": "Programiści",
-      "Version": "1.0.8",
-      "Date": "2026-11-20",
+      "Version": "1.0.10",
+      "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.8/Porty.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.10/Porty.zip",
       "FileName": "Porty.zip",
-      "Sha256": "82dda7b861615a1ec7e3af2d90d8173c49c336090bbd7758fa01cf8bbc3e4ea0",
-      "Size": 180026,
+      "Sha256": "3c251a42cb98052d842654d35884e9826c4b64182a94714c4a7c50df6a8d06cf",
+      "Size": 197728,
       "Args": null,
       "Launch": "Porty.exe",
       "UninstallName": null,
@@ -823,10 +823,10 @@
         "de": "Porty zeigt alle TCP- und UDP-Ports mit Programm und PID und beendet Prozesse mit einem Klick.\n\nMit PRO: PATH-Editor mit Sicherung, automatische Aktualisierung und Prüfung freier Ports."
       },
       "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
+        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
+        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
+        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
       }
     },
     {
