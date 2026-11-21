@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:34:04Z",
+  "Updated": "2026-11-21T06:34:15Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1407,24 +1407,24 @@
     },
     {
       "Id": "wycena",
-      "Name": "Wycena",
+      "Name": "Biuro firmy",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.5",
-      "Date": "2026-11-20",
+      "Version": "1.0.7",
+      "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.5/Wycena.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.7/Wycena.zip",
       "FileName": "Wycena.zip",
-      "Sha256": "3debb5fe4eb2adcab18dd0f53ae737d6cb2b576feae64e8175b2dd8c83eb1f3a",
-      "Size": 855602,
+      "Sha256": "61584bcad6706833377ee8d6c5024727e5c6bb2899fd5bfe2d23259cf9de6981",
+      "Size": 895818,
       "Args": null,
       "Launch": "Wycena.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/icon.png?v=639308008940611290",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120222520-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120222522-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261120222524-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261121063406-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261121063408-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261121063410-3.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1434,16 +1434,16 @@
       "Featured": false,
       "Hidden": false,
       "Names": {
-        "pl": "Wycena",
-        "en": "Quotes",
-        "ro": "Oferte",
-        "de": "Angebote"
+        "pl": "Biuro firmy",
+        "en": "Business desk",
+        "ro": "Birou firmă",
+        "de": "Firmenbüro"
       },
       "Tagline": {
-        "pl": "Oferty i kosztorysy dla fachowców: własny cennik, pozycje z listy, rabat, VAT 8/23% i PDF z logo w kilka minut.",
-        "en": "Quotes for tradespeople: your price list, lines from the list, discount, VAT and a PDF with your logo in minutes.",
-        "ro": "Oferte pentru meseriași, PDF cu logo.",
-        "de": "Angebote für Handwerker, PDF mit Logo."
+        "pl": "Oferty z cennika, kilometrówka i ZUS z podatkiem na jednym pulpicie – ile zostaje Ci na rękę.",
+        "en": "Quotes from your price list, mileage log and taxes on one dashboard – what you take home.",
+        "ro": "Oferte, kilometraj și taxe pe un singur panou.",
+        "de": "Angebote, Fahrtenbuch und Abgaben auf einem Dashboard."
       },
       "Description": {
         "pl": "Raz wpisujesz swój cennik prac i materiałów. Potem oferta to tylko: wybierz pozycję (wystarczą 2 litery), wpisz ilość, popraw cenę, jeśli trzeba – Wycena liczy netto, VAT (8% lub 23%) i brutto, dolicza rabat i robi PDF dla klienta. Widzisz też, które oferty klient przyjął.\n\nW PRO: bez limitu ofert (darmowo 5 w miesiącu), logo firmy na PDF, eksport do CSV/Excela.",
@@ -1452,10 +1452,10 @@
         "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
       },
       "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
+        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
+        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
+        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
       }
     },
     {
