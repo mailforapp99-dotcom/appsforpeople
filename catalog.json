@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:51:06Z",
+  "Updated": "2026-11-21T06:51:16Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1566,20 +1566,20 @@
       "Name": "Planer cięcia",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.5/Ciecie.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.6/Ciecie.zip",
       "FileName": "Ciecie.zip",
-      "Sha256": "96bbb2a1d969f182e5b3ad3151f4960f6fe397dde54b56b7a08474765b0c7f64",
-      "Size": 641696,
+      "Sha256": "ef3448e994e0f5ec2d55717c4205b5ac86393a86665083eb4c7a00de3df5d7ed",
+      "Size": 643246,
       "Args": null,
       "Launch": "Ciecie.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/icon.png?v=639308076233277935",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121063053-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121063055-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121065108-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121065110-2.jpg"
       ],
       "Price": "19 zł / miesiąc",
       "Website": null,
@@ -1607,10 +1607,10 @@
         "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
       },
       "Changelog": {
-        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
-        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
-        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
-        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
+        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
+        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
+        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
+        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
       }
     },
     {
