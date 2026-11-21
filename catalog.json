@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:56:30Z",
+  "Updated": "2026-11-21T06:56:43Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -990,20 +990,20 @@
       "Name": "Zrzut i Schowek",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.11",
+      "Version": "1.0.12",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.11/Zrzut.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zrzut-v1.0.12/Zrzut.zip",
       "FileName": "Zrzut.zip",
-      "Sha256": "b1444cb6835669c7710ab1ed3fabfe68c9b48de10a534431dd0ef1689c1e7c3c",
-      "Size": 833247,
+      "Sha256": "3f299048102f87f84a6abf3efd51f418339644600779a66892d4d704bdb0270a",
+      "Size": 834761,
       "Args": null,
       "Launch": "Zrzut.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/icon.png?v=639306251183973058",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261121063423-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261121063425-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261121065634-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zrzut/shot-20261121065636-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1031,10 +1031,10 @@
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nMit PRO: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
       },
       "Changelog": {
-        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
-        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
-        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
-        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
+        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
+        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
+        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
+        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
       }
     },
     {
