@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T06:33:36Z",
+  "Updated": "2026-11-21T06:33:45Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -938,20 +938,20 @@
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.0.8",
-      "Date": "2026-11-20",
+      "Version": "1.0.10",
+      "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.8/Tabliczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.10/Tabliczka.zip",
       "FileName": "Tabliczka.zip",
-      "Sha256": "d2d30583c31cd714ee824535302baa86615dfeb422a00b4aa76e09ca8625485a",
-      "Size": 795377,
+      "Sha256": "b36b36eac00f98229ead68aed7c3003e7a832a5e35399adf43b7cfbf457790e3",
+      "Size": 813072,
       "Args": null,
       "Launch": "Tabliczka.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/icon.png?v=639306251120096897",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120222446-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261120222448-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261121063338-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261121063340-2.jpg"
       ],
       "Price": "5 zł / miesiąc",
       "Website": null,
@@ -979,10 +979,10 @@
         "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
       },
       "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+        "pl": "Każdy program ma teraz własny, całkiem inny ekran i układ okna (bez wspólnej strony startowej). Nowe ekrany główne: Strażnik – radar dysków, Dom – portfel, Serwis – tablica zleceń, Biuro firmy – pulpit, Elektryk – rysunek obwodu, Pisma – podgląd kartki A4. Scalone: Dom (Rachunki + Terminy + Liczniki), Czas pracy (Godziny + Grafik), Biuro firmy (Wycena + Kilometrówka + Składki), Zrzut i Schowek. Licencje na dawne programy działają dalej.",
+        "en": "Every app now has its own, completely different screen and window layout (no shared start page). New main screens: Strażnik – disk radar, Home – wallet, Serwis – job board, Business desk – dashboard, Elektryk – circuit drawing, Pisma – live A4 preview. Merged: Home (Bills + Dates + Meters), Work time (Hours + Rota), Business desk (Quotes + Mileage + Contributions), Snip \u0026 Clipboard. Licences for the old apps keep working.",
+        "ro": "Fiecare program are acum un ecran și o fereastră complet diferite. Programe unite: Casa, Timp de lucru, Birou firmă, Captură și clipboard. Licențele vechi funcționează în continuare.",
+        "de": "Jedes Programm hat jetzt einen völlig eigenen Bildschirm und Fensteraufbau. Zusammengeführt: Zuhause, Arbeitszeit, Firmenbüro, Ausschnitt \u0026 Zwischenablage. Alte Lizenzen gelten weiter."
       }
     },
     {
