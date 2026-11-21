@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T22:23:35Z",
+  "Updated": "2026-11-21T22:23:42Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1514,20 +1514,20 @@
       "Name": "Kalkulatory budowlane",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "Date": "2026-11-21",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.6/Budowa.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.7/Budowa.zip",
       "FileName": "Budowa.zip",
-      "Sha256": "c8fde62fb1831173220be835bbfe4910ee14f39aee3b33f1ad88cb9b1c442d67",
-      "Size": 652182,
+      "Sha256": "729a5d13a69709e366d9100e6887d4e6dedbfb1d6371f105c19edffa8a848112",
+      "Size": 652467,
       "Args": null,
       "Launch": "Budowa.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/icon.png?v=639308076135658234",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261121065058-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261121065100-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261121222336-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261121222338-2.jpg"
       ],
       "Price": "9 zł / miesiąc",
       "Website": null,
@@ -1555,10 +1555,10 @@
         "de": "Neun Rechner.\n\nMit PRO: PDF."
       },
       "Changelog": {
-        "pl": "Poprawka: menu u góry, w pasku tytułu, wstęga i dok zawsze mieszczą się w oknie – przy węższym oknie zakładki się ściskają, a reszta trafia pod „Więcej”. Okna formularzy (np. nowy protokół) nie wychodzą poza ekran: treść się przewija, a przyciski Zapisz/Anuluj są zawsze widoczne na dole.",
-        "en": "Fix: the top menu, title-bar tabs, ribbon and dock always fit the window – in a narrower window tabs shrink and the rest goes under “More”. Form windows never go off-screen: content scrolls and Save/Cancel stay visible at the bottom.",
-        "ro": "Corecție: meniul se adaptează mereu la fereastră („Mai mult”); formularele nu ies din ecran, butoanele rămân vizibile.",
-        "de": "Korrektur: das Menü passt sich immer dem Fenster an („Mehr“); Formulare bleiben im Bildschirm, Schaltflächen immer sichtbar."
+        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
+        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
+        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
+        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
       }
     },
     {
