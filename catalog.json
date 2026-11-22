@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:48:08Z",
+  "Updated": "2026-11-22T20:48:13Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -730,13 +730,13 @@
       "Name": "Porty",
       "Publisher": "AppsForPeople",
       "Category": "Programiści",
-      "Version": "1.0.12",
-      "Date": "2026-11-21",
+      "Version": "1.0.15",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.12/Porty.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/porty-v1.0.15/Porty.zip",
       "FileName": "Porty.zip",
-      "Sha256": "a9c71599295a84c1fd7371f2ba28140c498e0c9aa596072dd22dfdc80525fc21",
-      "Size": 199444,
+      "Sha256": "20feb5f8dad56045ceec99282f5a7a1200345c0b9cbea6988847c2ed2bb63d9e",
+      "Size": 200230,
       "Args": null,
       "Launch": "Porty.exe",
       "UninstallName": null,
@@ -744,7 +744,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -764,16 +764,16 @@
         "de": "Für Entwickler: welches Programm einen Port belegt, Prozess beenden, PATH-Editor."
       },
       "Description": {
-        "pl": "„Port 3000 is already in use”? Porty pokazują wszystkie porty TCP i UDP z nazwą programu i PID, mają szukanie od 2 znaków i zamykają proces jednym kliknięciem (procesy systemowe są chronione).\n\nW PRO: edytor zmiennej PATH Twojego konta z kopią zapasową przed każdą zmianą i oznaczeniem nieistniejących folderów, automatyczne odświeżanie listy co 2 sekundy oraz sprawdzanie, czy wybrany port jest wolny.",
-        "en": "“Port 3000 is already in use”? Porty lists all TCP and UDP ports with program name and PID, searches from 2 characters and ends a process with one click (system processes are protected).\n\nWith PRO: a user PATH editor with a backup before every change and missing folders highlighted, auto-refresh every 2 seconds and a free-port check.",
-        "ro": "Porty arată toate porturile TCP și UDP cu programul și PID-ul și închide procesul cu un clic.\n\nCu PRO: editor PATH cu copie de siguranță, reîmprospătare automată și verificarea porturilor libere.",
-        "de": "Porty zeigt alle TCP- und UDP-Ports mit Programm und PID und beendet Prozesse mit einem Klick.\n\nMit PRO: PATH-Editor mit Sicherung, automatische Aktualisierung und Prüfung freier Ports."
+        "pl": "„Port 3000 is already in use”? Porty pokazują wszystkie porty TCP i UDP z nazwą programu i PID, mają szukanie od 2 znaków i zamykają proces jednym kliknięciem (procesy systemowe są chronione).\n\nW zestawie także: edytor zmiennej PATH Twojego konta z kopią zapasową przed każdą zmianą i oznaczeniem nieistniejących folderów, automatyczne odświeżanie listy co 2 sekundy oraz sprawdzanie, czy wybrany port jest wolny.",
+        "en": "“Port 3000 is already in use”? Porty lists all TCP and UDP ports with program name and PID, searches from 2 characters and ends a process with one click (system processes are protected).\n\nAlso included: a user PATH editor with a backup before every change and missing folders highlighted, auto-refresh every 2 seconds and a free-port check.",
+        "ro": "Porty arată toate porturile TCP și UDP cu programul și PID-ul și închide procesul cu un clic.\n\nInclus și: editor PATH cu copie de siguranță, reîmprospătare automată și verificarea porturilor libere.",
+        "de": "Porty zeigt alle TCP- und UDP-Ports mit Programm und PID und beendet Prozesse mit einem Klick.\n\nAußerdem dabei: PATH-Editor mit Sicherung, automatische Aktualisierung und Prüfung freier Ports."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
