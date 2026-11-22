@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:46:58Z",
+  "Updated": "2026-11-22T20:47:07Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1460,22 +1460,22 @@
       "Name": "Elektryk",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.7",
-      "Date": "2026-11-21",
+      "Version": "1.0.10",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.7/Elektryk.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.10/Elektryk.zip",
       "FileName": "Elektryk.zip",
-      "Sha256": "12db543221f67d0d2ac11b0f5849bfdd5fe233c1b86d8406e6639779d3af8beb",
-      "Size": 694383,
+      "Sha256": "f4abc84e94b05bfac201381eb0c0286c692f39964888217877049f038538ee12",
+      "Size": 695435,
       "Args": null,
       "Launch": "Elektryk.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/icon.png?v=639308076630237048",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261121222420-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261121222421-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261122204700-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261122204702-2.jpg"
       ],
-      "Price": "19 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1495,16 +1495,16 @@
         "de": "Kabel- und Sicherungsauswahl, Stromkreisliste, PDF."
       },
       "Description": {
-        "pl": "Wpisujesz moc albo prąd, długość i sposób ułożenia – Elektryk dobiera zabezpieczenie i przekrój przewodu (PN-HD 60364-5-52, temperatura, grupowanie), liczy spadek napięcia i sprawdza warunek samoczynnego wyłączenia. Jednym kliknięciem dodajesz wynik jako obwód rozdzielnicy: numer, nazwa, zabezpieczenie, RCD, przewód, faza – a program pilnuje równego obciążenia faz.\n\nW PRO: zestawienie rozdzielnicy do PDF dla klienta i odbioru, naklejki z opisem obwodów do drukowania, bez limitu obwodów (darmowo 12).\n\nWyniki są pomocą obliczeniową – ostateczny dobór i pomiary należą do uprawnionego elektryka.",
-        "en": "Enter power or current, length and installation method – get breaker and cable size, voltage drop and fault loop check. Add the result as a board circuit with phase balance.\n\nWith PRO: board list PDF, circuit labels, unlimited circuits (free: 12).\n\nResults are a calculation aid – final design belongs to a qualified electrician.",
-        "ro": "Dimensionare cablu și listă circuite.\n\nCu PRO: PDF, etichete, nelimitat.",
-        "de": "Kabelauswahl und Stromkreisliste.\n\nMit PRO: PDF, Etiketten, unbegrenzt."
+        "pl": "Wpisujesz moc albo prąd, długość i sposób ułożenia – Elektryk dobiera zabezpieczenie i przekrój przewodu (PN-HD 60364-5-52, temperatura, grupowanie), liczy spadek napięcia i sprawdza warunek samoczynnego wyłączenia. Jednym kliknięciem dodajesz wynik jako obwód rozdzielnicy: numer, nazwa, zabezpieczenie, RCD, przewód, faza – a program pilnuje równego obciążenia faz.\n\nW zestawie także: zestawienie rozdzielnicy do PDF dla klienta i odbioru, naklejki z opisem obwodów do drukowania, bez limitu obwodów (darmowo 12).\n\nWyniki są pomocą obliczeniową – ostateczny dobór i pomiary należą do uprawnionego elektryka.",
+        "en": "Enter power or current, length and installation method – get breaker and cable size, voltage drop and fault loop check. Add the result as a board circuit with phase balance.\n\nAlso included: board list PDF, circuit labels, unlimited circuits (free: 12).\n\nResults are a calculation aid – final design belongs to a qualified electrician.",
+        "ro": "Dimensionare cablu și listă circuite.\n\nInclus și: PDF, etichete, nelimitat.",
+        "de": "Kabelauswahl und Stromkreisliste.\n\nAußerdem dabei: PDF, Etiketten, unbegrenzt."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
