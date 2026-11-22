@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T21:38:46Z",
+  "Updated": "2026-11-22T21:38:58Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1295,6 +1295,59 @@
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+      }
+    },
+    {
+      "Id": "teczka",
+      "Name": "Teczka",
+      "Publisher": "AppsForPeople",
+      "Category": "Biuro",
+      "Version": "1.1.22",
+      "Date": "2026-11-22",
+      "Type": "zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.22/Teczka.zip",
+      "FileName": "Teczka.zip",
+      "Sha256": "2be85775076705de0b34a67b7eea7b4919c0d4abb63f40b14a23cfb646d47604",
+      "Size": 4989349,
+      "Args": null,
+      "Launch": "Teczka.exe",
+      "UninstallName": null,
+      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639309803302464762",
+      "Shots": [
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261122213850-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261122213852-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261122213853-3.jpg"
+      ],
+      "Price": "13 zł / mies.",
+      "Website": null,
+      "Page": null,
+      "BuyUrl": null,
+      "Color": "#FF7A6B",
+      "Featured": true,
+      "Hidden": false,
+      "Names": {
+        "pl": "Teczka",
+        "en": "Folder",
+        "ro": "Dosar",
+        "de": "Mappe"
+      },
+      "Tagline": {
+        "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
+        "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
+        "ro": "Totul pentru PDF într-un singur loc: corectează text, semnează, unește, comprimă – fără să încarci fișierele pe internet.",
+        "de": "Alles für PDF an einem Ort: Text korrigieren, unterschreiben, zusammenfügen, verkleinern – ohne Dateien hochzuladen."
+      },
+      "Description": {
+        "pl": "Umowy, faktury i skany z PESEL-em czy numerem konta nie powinny trafiać na przypadkowe strony „PDF online”. Teczka robi wszystko na Twoim komputerze. Klikasz tekst w dokumencie i go poprawiasz, dopisujesz brakujące dane, zakrywasz to, czego inni nie powinni widzieć, zakreślasz ważne fragmenty i podpisujesz się myszką lub palcem. Zamienisz zdjęcia i skany na jeden PDF, połączysz kilka plików, wytniesz, obrócisz lub usuniesz strony, a z tekstu zrobisz porządny dokument A4. Oryginał nigdy nie jest nadpisywany: wynik zapisuje się jako nowy plik.\n\nCzytanie i drukowanie PDF jest za darmo – Teczka może być Twoim programem do otwierania PDF. Licencja odblokowuje wszystko, co zmienia lub tworzy pliki: zapis z edytora, tekst i zdjęcia → PDF, łączenie, strony, zmniejszanie, hasło, znak wodny, numery stron oraz zamianę Word, Excel i PowerPoint na PDF.",
+        "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nReading and printing PDFs is free – Teczka can be your PDF program. A licence unlocks everything that changes or creates files: saving from the editor, text and photos → PDF, merging, pages, compression, password, watermark, page numbers and converting Word, Excel and PowerPoint to PDF.",
+        "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nCitirea și tipărirea PDF sunt gratuite – Teczka poate fi programul tău pentru PDF. Licența deblochează tot ce modifică sau creează fișiere: salvarea din editor, text și poze → PDF, unire, pagini, micșorare, parolă, filigran, numere de pagină și conversia Word, Excel și PowerPoint în PDF.",
+        "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
+      },
+      "Changelog": {
+        "pl": "• Teczka (edytor PDF) to znowu program z licencją PRO: 13 zł / miesiąc albo 109 zł / rok. Czytanie i drukowanie PDF zostaje za darmo\n• Darmowa przeglądarka PDF: przycisk „Edytuj PDF” prowadzi do zakupu Teczki PRO",
+        "en": "• Teczka (PDF editor) is a PRO app again: 13 PLN / month or 109 PLN / year. Reading and printing PDFs stays free\n• Free PDF viewer: the “Edit PDF” button leads to buying Teczka PRO",
+        "ro": "• Teczka (editor PDF) are din nou licență PRO: 13 PLN / lună sau 109 PLN / an. Citirea și tipărirea PDF rămân gratuite",
+        "de": "• Teczka (PDF-Editor) ist wieder ein PRO-Programm: 13 PLN / Monat oder 109 PLN / Jahr. Lesen und Drucken bleibt kostenlos"
       }
     }
   ],
