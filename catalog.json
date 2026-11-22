@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:46:22Z",
+  "Updated": "2026-11-22T20:46:31Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1303,22 +1303,22 @@
       "Name": "Planer cięcia",
       "Publisher": "AppsForPeople",
       "Category": "Firma",
-      "Version": "1.0.7",
-      "Date": "2026-11-21",
+      "Version": "1.0.10",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.7/Ciecie.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ciecie-v1.0.10/Ciecie.zip",
       "FileName": "Ciecie.zip",
-      "Sha256": "eb6a7df4648b9b189853545307e0939e3a43fe673cdce5171c9430e3f75aafe5",
-      "Size": 643881,
+      "Sha256": "8a9d8e90d040b692ccab52e0434603e853a5a9c9ae24b4fd8769922f286dd719",
+      "Size": 645118,
       "Args": null,
       "Launch": "Ciecie.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/icon.png?v=639308076233277935",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121222344-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261121222346-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261122204624-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ciecie/shot-20261122204626-2.jpg"
       ],
-      "Price": "19 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1338,16 +1338,16 @@
         "de": "Zuschnittoptimierung für Platten und Bretter."
       },
       "Description": {
-        "pl": "Wpisujesz wymiary płyty (np. 2800×2070), rzaz piły i elementy: szafki, półki, fronty – z ilością i informacją, czy można je obracać (słoje). Planer cięcia układa je na płytach, rysuje rozkrój każdej płyty, podaje liczbę płyt, wykorzystanie, odpad w m², koszt płyt i metry okleiny. Osobna zakładka liczy cięcie desek, listew i profili na sztangi.\n\nW PRO: bez limitu elementów (darmowo 15), PDF z rysunkami rozkroju i listą cięć dla stolarni albo klienta, zapisywanie projektów.",
-        "en": "Enter the sheet size, kerf and parts with quantities and grain direction. The planner packs them, draws each sheet, and reports sheets, usage, waste, cost and edge banding. A separate tab cuts boards and profiles from bars.\n\nWith PRO: unlimited parts (free: 15), PDF with layouts and cutting list, saved projects.",
-        "ro": "Optimizare tăiere.\n\nCu PRO: nelimitat, PDF, proiecte.",
-        "de": "Zuschnittplanung.\n\nMit PRO: unbegrenzt, PDF, Projekte."
+        "pl": "Wpisujesz wymiary płyty (np. 2800×2070), rzaz piły i elementy: szafki, półki, fronty – z ilością i informacją, czy można je obracać (słoje). Planer cięcia układa je na płytach, rysuje rozkrój każdej płyty, podaje liczbę płyt, wykorzystanie, odpad w m², koszt płyt i metry okleiny. Osobna zakładka liczy cięcie desek, listew i profili na sztangi.\n\nW zestawie także: bez limitu elementów (darmowo 15), PDF z rysunkami rozkroju i listą cięć dla stolarni albo klienta, zapisywanie projektów.",
+        "en": "Enter the sheet size, kerf and parts with quantities and grain direction. The planner packs them, draws each sheet, and reports sheets, usage, waste, cost and edge banding. A separate tab cuts boards and profiles from bars.\n\nAlso included: unlimited parts (free: 15), PDF with layouts and cutting list, saved projects.",
+        "ro": "Optimizare tăiere.\n\nInclus și: nelimitat, PDF, proiecte.",
+        "de": "Zuschnittplanung.\n\nAußerdem dabei: unbegrenzt, PDF, Projekte."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
