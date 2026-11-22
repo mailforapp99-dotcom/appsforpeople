@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-21T22:27:09Z",
+  "Updated": "2026-11-22T19:20:33Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -245,59 +245,6 @@
         "en": "“Everything is fine on our side” – that\u0027s what the helpline usually says. Łącze checks every 15 seconds whether your internet works and logs every outage with its exact time and duration. It also tells you where the problem is: with your provider, or in your own Wi-Fi and router. The speed test shows download, upload and ping, and a comparison with your contract speed tells you whether you get what you pay for. The screen shows live ping for the last hour and today\u0027s number of outages.\n\nWith PRO, Łącze watches your internet 24/7 in the background, runs speed tests automatically and notifies you when the connection comes back after an outage. One click creates a report for your provider with the outages and test results from the last 30 days – ready to print and attach to your complaint.",
         "ro": "„La noi totul funcționează” – așa răspunde de obicei serviciul clienți. Łącze verifică la fiecare 15 secunde dacă internetul funcționează și înregistrează fiecare întrerupere cu ora exactă și durata. Arată și unde este problema: la furnizor sau în Wi-Fi-ul și routerul tău. Testul de viteză arată descărcarea, încărcarea și ping-ul, iar comparația cu viteza din contract îți spune dacă primești ce plătești. Pe ecran vezi în direct ping-ul din ultima oră și numărul de întreruperi de azi.\n\nCu PRO, Łącze supraveghează internetul 24/7 în fundal, face automat teste de viteză și te anunță când conexiunea revine după o întrerupere. Cu un clic creezi un raport pentru furnizor cu întreruperile și testele din ultimele 30 de zile – gata de tipărit și de atașat la reclamație.",
         "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nMit PRO überwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
-      },
-      "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
-      }
-    },
-    {
-      "Id": "teczka",
-      "Name": "Teczka",
-      "Publisher": "AppsForPeople",
-      "Category": "Biuro",
-      "Version": "1.1.18",
-      "Date": "2026-11-21",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.18/Teczka.zip",
-      "FileName": "Teczka.zip",
-      "Sha256": "6ce2971b7734fd597822990b02d0ff6a44bd762ede2794f001cbed7637a3ec77",
-      "Size": 4985968,
-      "Args": "",
-      "Launch": "Teczka.exe",
-      "UninstallName": "",
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639304179209908863",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261121222627-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261121222629-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261121222630-3.jpg"
-      ],
-      "Price": "9 zł / miesiąc",
-      "Website": "",
-      "Page": null,
-      "BuyUrl": "",
-      "Color": "#FF7A6B",
-      "Featured": true,
-      "Hidden": false,
-      "Names": {
-        "pl": "Teczka",
-        "en": "Folder",
-        "ro": "Dosar",
-        "de": "Mappe"
-      },
-      "Tagline": {
-        "pl": "Wszystko do PDF w jednym miejscu: popraw tekst, podpisz, połącz, zmniejsz – bez wysyłania plików do internetu.",
-        "en": "Everything for PDF in one place: fix text, sign, merge, compress – without uploading your files anywhere.",
-        "ro": "Totul pentru PDF într-un singur loc: corectează text, semnează, unește, comprimă – fără să încarci fișierele pe internet.",
-        "de": "Alles für PDF an einem Ort: Text korrigieren, unterschreiben, zusammenfügen, verkleinern – ohne Dateien hochzuladen."
-      },
-      "Description": {
-        "pl": "Umowy, faktury i skany z PESEL-em czy numerem konta nie powinny trafiać na przypadkowe strony „PDF online”. Teczka robi wszystko na Twoim komputerze. Klikasz tekst w dokumencie i go poprawiasz, dopisujesz brakujące dane, zakrywasz to, czego inni nie powinni widzieć, zakreślasz ważne fragmenty i podpisujesz się myszką lub palcem. Zamienisz zdjęcia i skany na jeden PDF, połączysz kilka plików, wytniesz, obrócisz lub usuniesz strony, a z tekstu zrobisz porządny dokument A4. Oryginał nigdy nie jest nadpisywany: wynik zapisuje się jako nowy plik.\n\nCzytanie i drukowanie PDF jest za darmo – Teczka może być Twoim programem do otwierania PDF. Licencja odblokowuje wszystko, co zmienia lub tworzy pliki: zapis z edytora, tekst i zdjęcia → PDF, łączenie, strony, zmniejszanie, hasło, znak wodny, numery stron oraz zamianę Word, Excel i PowerPoint na PDF.",
-        "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nReading and printing PDFs is free – Teczka can be your PDF program. A licence unlocks everything that changes or creates files: saving from the editor, text and photos → PDF, merging, pages, compression, password, watermark, page numbers and converting Word, Excel and PowerPoint to PDF.",
-        "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nCitirea și tipărirea PDF sunt gratuite – Teczka poate fi programul tău pentru PDF. Licența deblochează tot ce modifică sau creează fișiere: salvarea din editor, text și poze → PDF, unire, pagini, micșorare, parolă, filigran, numere de pagină și conversia Word, Excel și PowerPoint în PDF.",
-        "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
         "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
@@ -1038,58 +985,6 @@
       }
     },
     {
-      "Id": "kilometrowka",
-      "Name": "Kilometrówka",
-      "Publisher": "AppsForPeople",
-      "Category": "Biuro",
-      "Version": "1.0.8",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/kilometrowka-v1.0.8/Kilometrowka.zip",
-      "FileName": "Kilometrowka.zip",
-      "Sha256": "13896b74c6aae9820727eb635383a779f1070ff4a0dbe1e8a796d1bf9a8179b7",
-      "Size": 764127,
-      "Args": null,
-      "Launch": "Kilometrowka.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/icon.png?v=639306265993052363",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120222225-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/kilometrowka/shot-20261120222227-2.jpg"
-      ],
-      "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#60A5FA",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Kilometrówka",
-        "en": "Mileage Log",
-        "ro": "Foaie de parcurs",
-        "de": "Fahrtenbuch"
-      },
-      "Tagline": {
-        "pl": "Ewidencja przebiegu pojazdu: trasy, cele, kierowca – wydruk miesięczny dla księgowej.",
-        "en": "Vehicle mileage log: trips, purposes, driver – monthly printout for your accountant.",
-        "ro": "Evidența parcursului: trasee, scop, șofer – raport lunar.",
-        "de": "Fahrtenbuch: Strecken, Zweck, Fahrer – Monatsausdruck für den Steuerberater."
-      },
-      "Description": {
-        "pl": "Kilometrówka zapisuje każdy wyjazd służbowy: datę, trasę skąd–dokąd, cel wyjazdu, liczbę kilometrów i kierowcę. Podpowiada miejsca z poprzednich wpisów, a „Dodaj powrót” wpisuje drogę z powrotem jednym kliknięciem.\n\nW PRO: ewidencja przebiegu w PDF gotowa dla księgowej, kilka pojazdów, powtarzanie stałych tras i eksport CSV.",
-        "en": "Kilometrówka logs every business trip: date, route from–to, purpose, kilometres and driver. It suggests places from earlier entries, and “Add return” logs the way back with one click.\n\nWith PRO: mileage log PDF ready for your accountant, several vehicles, repeating regular trips and CSV export.",
-        "ro": "Kilometrówka notează fiecare deplasare: data, traseul, scopul, km și șoferul.\n\nCu PRO: evidență PDF, mai multe vehicule, repetarea traseelor și export CSV.",
-        "de": "Kilometrówka erfasst jede Dienstfahrt: Datum, Strecke, Zweck, km und Fahrer.\n\nMit PRO: Fahrtenbuch als PDF, mehrere Fahrzeuge, wiederkehrende Strecken und CSV-Export."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
-      }
-    },
-    {
       "Id": "najem",
       "Name": "Najem",
       "Publisher": "AppsForPeople",
@@ -1187,58 +1082,6 @@
         "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nWith PRO: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
         "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nCu PRO: PDF cu logo, măsurători nelimitate și șabloane.",
         "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
-      },
-      "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
-      }
-    },
-    {
-      "Id": "serwis",
-      "Name": "Serwis",
-      "Publisher": "AppsForPeople",
-      "Category": "Biuro",
-      "Version": "1.1.7",
-      "Date": "2026-11-21",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/serwis-v1.1.7/Serwis.zip",
-      "FileName": "Serwis.zip",
-      "Sha256": "d04daaf2591ad26dad77321f42aae73230e7ddf47e1fd5789a93f9717f93f785",
-      "Size": 773999,
-      "Args": null,
-      "Launch": "Serwis.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/icon.png?v=639306266210937532",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261121222556-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/serwis/shot-20261121222558-2.jpg"
-      ],
-      "Price": "19 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#2DD4BF",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Serwis",
-        "en": "Service",
-        "ro": "Service",
-        "de": "Kundendienst"
-      },
-      "Tagline": {
-        "pl": "Protokół serwisowy z podpisem klienta na ekranie: prace, części, czas – gotowy PDF po wizycie.",
-        "en": "Service report with the client\u0027s on-screen signature: work, parts, time – PDF right after the visit.",
-        "ro": "Raport de service cu semnătura clientului pe ecran.",
-        "de": "Servicebericht mit Unterschrift des Kunden am Bildschirm."
-      },
-      "Description": {
-        "pl": "Serwis zastępuje papierowe protokoły: opis zgłoszenia, wykonane prace, części z cenami, czas pracy i stawka, a na końcu podpis klienta myszką albo rysikiem. Program pamięta klientów i sam podpowiada ich adresy.\n\nW PRO: PDF z logo firmy do wysłania klientowi od razu po wizycie, zdjęcia przed i po naprawie oraz brak limitu protokołów.",
-        "en": "Serwis replaces paper reports: issue, work done, parts with prices, labour time and rate, and finally the client\u0027s signature with mouse or pen. It remembers clients and fills in their addresses.\n\nWith PRO: a PDF with your logo to send right after the visit, before/after photos and unlimited reports.",
-        "ro": "Serwis înlocuiește rapoartele pe hârtie, cu semnătura clientului.\n\nCu PRO: PDF cu logo, fotografii și rapoarte nelimitate.",
-        "de": "Serwis ersetzt Papierberichte, inklusive Unterschrift des Kunden.\n\nMit PRO: PDF mit Logo, Fotos und unbegrenzte Berichte."
       },
       "Changelog": {
         "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
@@ -1350,112 +1193,6 @@
         "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
         "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
         "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
-      }
-    },
-    {
-      "Id": "skladki",
-      "Name": "Składki",
-      "Publisher": "AppsForPeople",
-      "Category": "Firma",
-      "Version": "1.0.5",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skladki-v1.0.5/Skladki.zip",
-      "FileName": "Skladki.zip",
-      "Sha256": "3c961686d9463f3cb58afd80087a094d3046e8dfbf34003470d741de6d483ac7",
-      "Size": 1010400,
-      "Args": null,
-      "Launch": "Skladki.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/icon.png?v=639308008439852693",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120222432-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120222433-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skladki/shot-20261120222435-3.jpg"
-      ],
-      "Price": "9 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#FF6B2C",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Składki",
-        "en": "Contributions",
-        "ro": "Contribuții",
-        "de": "Beiträge"
-      },
-      "Tagline": {
-        "pl": "ZUS, składka zdrowotna i podatek dla JDG – ile naprawdę zostaje na rękę i która forma opodatkowania się opłaca.",
-        "en": "ZUS, health contribution and tax for sole traders – what you really keep and which tax form pays off.",
-        "ro": "ZUS, sănătate și impozit pentru PFA.",
-        "de": "ZUS, Krankenversicherung und Steuer für Einzelunternehmer."
-      },
-      "Description": {
-        "pl": "Wpisujesz średni przychód i koszty w miesiącu, a Składki pokazują: ZUS społeczny (ulga na start, mały ZUS, mały ZUS plus, pełny), składkę zdrowotną, podatek i ile zostaje Ci na rękę. Stawki na 2026 r. są wpisane, a gdy się zmienią – poprawisz je sam.\n\nW PRO: porównanie skali, podatku liniowego i ryczałtu dla Twoich liczb, raport PDF dla księgowej i terminy ZUS, PIT i VAT dodane jednym kliknięciem do programu Terminy.\n\nTo szacunek – nie zastępuje księgowej ani doradcy podatkowego.",
-        "en": "Enter your average monthly revenue and costs and see social ZUS, health contribution, tax and what you keep. 2026 rates are built in and editable.\n\nWith PRO: compare tax scale, flat tax and lump-sum, PDF report and deadlines added to Terminy.\n\nAn estimate – not a substitute for an accountant.",
-        "ro": "Calculator ZUS și impozit pentru firme unipersonale.\n\nCu PRO: comparație, raport PDF, termene.",
-        "de": "ZUS- und Steuerrechner für Einzelunternehmer.\n\nMit PRO: Vergleich, PDF-Bericht, Termine."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
-      }
-    },
-    {
-      "Id": "wycena",
-      "Name": "Biuro firmy",
-      "Publisher": "AppsForPeople",
-      "Category": "Firma",
-      "Version": "1.0.9",
-      "Date": "2026-11-21",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/wycena-v1.0.9/Wycena.zip",
-      "FileName": "Wycena.zip",
-      "Sha256": "003ca24bb2380565103dcaadc01e92fb27a216213ccc0607afa564bab6cd4ba8",
-      "Size": 898072,
-      "Args": null,
-      "Launch": "Wycena.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/icon.png?v=639308008940611290",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261121222645-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261121222647-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/wycena/shot-20261121222648-3.jpg"
-      ],
-      "Price": "19 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#FB923C",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Biuro firmy",
-        "en": "Business desk",
-        "ro": "Birou firmă",
-        "de": "Firmenbüro"
-      },
-      "Tagline": {
-        "pl": "Oferty z cennika, kilometrówka i ZUS z podatkiem na jednym pulpicie – ile zostaje Ci na rękę.",
-        "en": "Quotes from your price list, mileage log and taxes on one dashboard – what you take home.",
-        "ro": "Oferte, kilometraj și taxe pe un singur panou.",
-        "de": "Angebote, Fahrtenbuch und Abgaben auf einem Dashboard."
-      },
-      "Description": {
-        "pl": "Raz wpisujesz swój cennik prac i materiałów. Potem oferta to tylko: wybierz pozycję (wystarczą 2 litery), wpisz ilość, popraw cenę, jeśli trzeba – Wycena liczy netto, VAT (8% lub 23%) i brutto, dolicza rabat i robi PDF dla klienta. Widzisz też, które oferty klient przyjął.\n\nW PRO: bez limitu ofert (darmowo 5 w miesiącu), logo firmy na PDF, eksport do CSV/Excela.",
-        "en": "Enter your price list once; then a quote is just picking lines and quantities. Net, VAT and gross are calculated, discount applied and a PDF made.\n\nWith PRO: unlimited quotes, logo on PDF, CSV export.",
-        "ro": "Oferte rapide din lista ta de prețuri.\n\nCu PRO: nelimitat, logo, CSV.",
-        "de": "Schnelle Angebote aus deiner Preisliste.\n\nMit PRO: unbegrenzt, Logo, CSV."
-      },
-      "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
       }
     },
     {
