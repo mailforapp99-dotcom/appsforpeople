@@ -1,18 +1,18 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:49:20Z",
+  "Updated": "2026-11-22T20:49:33Z",
   "Apps": [
     {
       "Id": "rdzen",
       "Name": "Rdzeń",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.2.0",
-      "Date": "2026-11-20",
+      "Version": "1.2.1",
+      "Date": "2026-11-22",
       "Type": "installer",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.2.0/Rdzen-Setup.exe",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/rdzen-v1.2.1/Rdzen-Setup.exe",
       "FileName": "Rdzen-Setup.exe",
-      "Sha256": "91c07a87e1abf599cf8613b367ee4b68d876f2022d43ccb317dc623a2361477b",
+      "Sha256": "364945efa20dea3f39cf272020b53b8ae13a924889377acb8cce3bffa3a69847",
       "Size": 1470976,
       "Args": "",
       "Launch": "%LOCALAPPDATA%\\Programs\\Rdzen\\Rdzen.exe",
@@ -21,7 +21,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "",
       "Website": "",
       "Page": null,
       "BuyUrl": "",
@@ -38,13 +38,13 @@
         "de": "Sehen Sie, was Ihre Festplatte füllt – Scan, Duplikate, Datenmüll und Schutz an einem Ort."
       },
       "Description": {
-        "pl": "Rdzeń skanuje dysk w kilka minut i pokazuje na animowanym pierścieniu, które foldery zajmują najwięcej miejsca.\n\n• Czyszczenie śmieci systemowych jednym kliknięciem (pliki tymczasowe, Kosz, stare aktualizacje, cache)\n• Duplikaty i duże pliki nieruszane od roku – z podziałem na formaty\n• Pełna lista przed usunięciem, ważne pliki oznaczone na czerwono, wszystko trafia do Kosza\n• Ochrona: skanowanie wirusów przez Windows Defender, niechciane programy „bez ikon”, autostart, ukryte pliki\n\nWersja próbna: skanowanie, podgląd i sprawdzanie wirusów. Czyszczenie i usuwanie – licencja 5 zł / miesiąc."
+        "pl": "Rdzeń skanuje dysk w kilka minut i pokazuje na animowanym pierścieniu, które foldery zajmują najwięcej miejsca.\n\n• Czyszczenie śmieci systemowych jednym kliknięciem (pliki tymczasowe, Kosz, stare aktualizacje, cache)\n• Duplikaty i duże pliki nieruszane od roku – z podziałem na formaty\n• Pełna lista przed usunięciem, ważne pliki oznaczone na czerwono, wszystko trafia do Kosza\n• Ochrona: skanowanie wirusów przez Windows Defender, niechciane programy „bez ikon”, autostart, ukryte pliki"
       },
       "Changelog": {
-        "pl": "• Rdzeń otwiera się we własnym oknie programu (już nie w przeglądarce)\n• Ten sam wygląd i wszystkie funkcje",
-        "en": "• Rdzeń now opens in its own app window (no longer in the browser)\n• Same look and all features",
-        "ro": "• Rdzeń se deschide în propria fereastră (nu în browser)\n• Același aspect și toate funcțiile",
-        "de": "• Rdzeń öffnet sich im eigenen Programmfenster (nicht mehr im Browser)\n• Gleiches Aussehen, alle Funktionen"
+        "pl": "• Rdzeń jest teraz darmowy – czyszczenie i usuwanie plików bez licencji",
+        "en": "• Rdzeń is now free – cleaning and deleting files with no licence",
+        "ro": "• Rdzeń este acum gratuit – curățare și ștergere fără licență",
+        "de": "• Rdzeń ist jetzt kostenlos – Bereinigen und Löschen ohne Lizenz"
       }
     },
     {
