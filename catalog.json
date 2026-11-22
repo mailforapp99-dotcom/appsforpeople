@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T21:38:42Z",
+  "Updated": "2026-11-22T21:38:46Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -258,13 +258,13 @@
       "Name": "Opiekun – komputer dziecka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.20",
+      "Version": "1.2.21",
       "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.20/OpiekunDlaDziecka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.21/OpiekunDlaDziecka.zip",
       "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "a2ea3dbde49fe3b9e6296b7a07db29cfdd1ab64733b527e7cf48d8a09a3b095f",
-      "Size": 427639,
+      "Sha256": "1f7376829f9e548533e974982e6b43d3307aa28c243001e4167c6a091c5ea4ac",
+      "Size": 430927,
       "Args": null,
       "Launch": "Opiekun.exe",
       "UninstallName": null,
@@ -272,7 +272,7 @@
       "Shots": [
         
       ],
-      "Price": "",
+      "Price": "13 zł / mies.",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -298,10 +298,10 @@
         "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
       },
       "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+        "pl": "• Opiekun znowu ma wersję PRO: 13 zł / miesiąc albo 109 zł / rok (więcej dzieci, sterowanie z innego komputera, wykresy). Podstawowa ochrona zostaje za darmo",
+        "en": "• Opiekun has a PRO version again: 13 PLN / month or 109 PLN / year (more children, remote control, charts). Basic protection stays free",
+        "ro": "• Opiekun are din nou versiune PRO: 13 PLN / lună sau 109 PLN / an. Protecția de bază rămâne gratuită",
+        "de": "• Opiekun hat wieder eine PRO-Version: 13 PLN / Monat oder 109 PLN / Jahr. Der Grundschutz bleibt kostenlos"
       }
     },
     {
