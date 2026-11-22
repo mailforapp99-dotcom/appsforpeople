@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:48:28Z",
+  "Updated": "2026-11-22T20:48:38Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -781,23 +781,23 @@
       "Name": "Ramki",
       "Publisher": "AppsForPeople",
       "Category": "Robotyka",
-      "Version": "1.0.13",
-      "Date": "2026-11-21",
+      "Version": "1.0.16",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.13/Ramki.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/ramki-v1.0.16/Ramki.zip",
       "FileName": "Ramki.zip",
-      "Sha256": "6626dc21d68221cb33c0629c8bef3383c685e26b9c3aa2c4404c887692814792",
-      "Size": 797173,
+      "Sha256": "edf44a241a4dce20c622c74d38fac7f991900083574721d39d683c46b492b6c9",
+      "Size": 798538,
       "Args": null,
       "Launch": "Ramki.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/icon.png?v=639306250991029975",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121222546-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121222548-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261121222550-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261122204830-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261122204832-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/ramki/shot-20261122204833-3.jpg"
       ],
-      "Price": "19 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -817,16 +817,16 @@
         "de": "Roboterkoordinaten: KUKA ABC ↔ ABB-Quaternion ↔ Fanuc WPR, Basis und TCP."
       },
       "Description": {
-        "pl": "Ramki przeliczają orientację między robotami różnych firm: KUKA A, B, C, Fanuc/Yaskawa W, P, R, kwaternion ABB i macierz obrotu. Wklejasz liczby z teach pendanta – dostajesz wszystkie formaty naraz.\n\nW PRO: przeliczanie punktów między BASE i WORLD, base z 3 zmierzonych punktów, TCP narzędzia metodą 4 punktów z oceną dokładności oraz gotowe linie dla KRL, RAPID i Fanuc do skopiowania.",
-        "en": "Ramki converts orientations between robot brands: KUKA A, B, C, Fanuc/Yaskawa W, P, R, ABB quaternion and rotation matrix. Paste numbers from the teach pendant and get every format at once.\n\nWith PRO: point transformation between BASE and WORLD, base from 3 measured points, tool TCP with the 4-point method and accuracy check, and ready lines for KRL, RAPID and Fanuc.",
-        "ro": "Ramki convertește orientarea între roboți: KUKA ABC, Fanuc WPR, cuaternion ABB și matrice.\n\nCu PRO: transformare puncte BASE ↔ WORLD, bază din 3 puncte, TCP prin metoda 4 puncte și linii pentru KRL, RAPID, Fanuc.",
-        "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nMit PRO: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
+        "pl": "Ramki przeliczają orientację między robotami różnych firm: KUKA A, B, C, Fanuc/Yaskawa W, P, R, kwaternion ABB i macierz obrotu. Wklejasz liczby z teach pendanta – dostajesz wszystkie formaty naraz.\n\nW zestawie także: przeliczanie punktów między BASE i WORLD, base z 3 zmierzonych punktów, TCP narzędzia metodą 4 punktów z oceną dokładności oraz gotowe linie dla KRL, RAPID i Fanuc do skopiowania.",
+        "en": "Ramki converts orientations between robot brands: KUKA A, B, C, Fanuc/Yaskawa W, P, R, ABB quaternion and rotation matrix. Paste numbers from the teach pendant and get every format at once.\n\nAlso included: point transformation between BASE and WORLD, base from 3 measured points, tool TCP with the 4-point method and accuracy check, and ready lines for KRL, RAPID and Fanuc.",
+        "ro": "Ramki convertește orientarea între roboți: KUKA ABC, Fanuc WPR, cuaternion ABB și matrice.\n\nInclus și: transformare puncte BASE ↔ WORLD, bază din 3 puncte, TCP prin metoda 4 puncte și linii pentru KRL, RAPID, Fanuc.",
+        "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nAußerdem dabei: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
