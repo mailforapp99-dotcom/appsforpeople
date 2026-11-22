@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:47:43Z",
+  "Updated": "2026-11-22T20:47:48Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -258,13 +258,13 @@
       "Name": "Opiekun – komputer dziecka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.17",
-      "Date": "2026-11-21",
+      "Version": "1.2.20",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.17/OpiekunDlaDziecka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-dziecko-v1.2.20/OpiekunDlaDziecka.zip",
       "FileName": "OpiekunDlaDziecka.zip",
-      "Sha256": "b3b86dfa474f73724721b7601d134ce5e83b9455a79d9aeb5d44b4d323784a2f",
-      "Size": 425224,
+      "Sha256": "a2ea3dbde49fe3b9e6296b7a07db29cfdd1ab64733b527e7cf48d8a09a3b095f",
+      "Size": 427639,
       "Args": null,
       "Launch": "Opiekun.exe",
       "UninstallName": null,
@@ -272,7 +272,7 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -292,16 +292,16 @@
         "de": "Opiekun-Installer für den Kindercomputer – Zeitlimits, Anfragen und Steuerung vom Elterncomputer."
       },
       "Description": {
-        "pl": "Ten pakiet instaluje się na komputerze dziecka. Zaloguj się tam na konto rodzica (administratora), uruchom go z launchera – od razu otworzy się instalacja ochrony. Ustawiasz PIN, zaznaczasz konto dziecka i gotowe. Dziecko dostaje swoją aplikację z licznikiem czasu i przyciskiem „Poproś o więcej czasu”.\n\nOchrony nie da się odinstalować bez PIN-u rodzica, a gdy ktoś spróbuje ją wyłączyć, zobaczysz alarm w panelu rodzica. Z wersją PRO sterujesz tym komputerem ze swojego – w domowej sieci, bez chodzenia do pokoju dziecka. To ten sam Opiekun i ta sama licencja.",
-        "en": "This package is installed on your child\u0027s computer. Sign in there to the parent (administrator) account and start it from the launcher – protection setup opens straight away. Set a PIN, tick the child\u0027s account and you\u0027re done. Your child gets their own app with a time counter and an “Ask for more time” button.\n\nProtection cannot be uninstalled without the parent PIN, and if someone tries to switch it off you\u0027ll see an alert in the parent panel. With PRO you control this computer from your own – on the home network, without going to your child\u0027s room. It\u0027s the same Opiekun and the same licence.",
-        "ro": "Acest pachet se instalează pe calculatorul copilului. Conectează-te acolo pe contul părintelui (administrator) și pornește-l din launcher – se deschide direct instalarea protecției. Setezi PIN-ul, bifezi contul copilului și gata. Copilul primește aplicația lui cu cronometru și butonul „Cere mai mult timp”.\n\nProtecția nu poate fi dezinstalată fără PIN-ul de părinte, iar dacă cineva încearcă s-o oprească, vei vedea o alertă în panoul părintelui. Cu PRO controlezi acest calculator de pe al tău – în rețeaua de acasă. Este același Opiekun și aceeași licență.",
-        "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Mit PRO steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
+        "pl": "Ten pakiet instaluje się na komputerze dziecka. Zaloguj się tam na konto rodzica (administratora), uruchom go z launchera – od razu otworzy się instalacja ochrony. Ustawiasz PIN, zaznaczasz konto dziecka i gotowe. Dziecko dostaje swoją aplikację z licznikiem czasu i przyciskiem „Poproś o więcej czasu”.\n\nOchrony nie da się odinstalować bez PIN-u rodzica, a gdy ktoś spróbuje ją wyłączyć, zobaczysz alarm w panelu rodzica. Sterujesz tym komputerem ze swojego – w domowej sieci, bez chodzenia do pokoju dziecka. To ten sam Opiekun i ta sama licencja.",
+        "en": "This package is installed on your child\u0027s computer. Sign in there to the parent (administrator) account and start it from the launcher – protection setup opens straight away. Set a PIN, tick the child\u0027s account and you\u0027re done. Your child gets their own app with a time counter and an “Ask for more time” button.\n\nProtection cannot be uninstalled without the parent PIN, and if someone tries to switch it off you\u0027ll see an alert in the parent panel. You control this computer from your own – on the home network, without going to your child\u0027s room. It\u0027s the same Opiekun and the same licence.",
+        "ro": "Acest pachet se instalează pe calculatorul copilului. Conectează-te acolo pe contul părintelui (administrator) și pornește-l din launcher – se deschide direct instalarea protecției. Setezi PIN-ul, bifezi contul copilului și gata. Copilul primește aplicația lui cu cronometru și butonul „Cere mai mult timp”.\n\nProtecția nu poate fi dezinstalată fără PIN-ul de părinte, iar dacă cineva încearcă s-o oprească, vei vedea o alertă în panoul părintelui. Controlezi acest calculator de pe al tău – în rețeaua de acasă. Este același Opiekun și aceeași licență.",
+        "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
