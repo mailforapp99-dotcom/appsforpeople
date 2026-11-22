@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T21:38:36Z",
+  "Updated": "2026-11-22T21:38:42Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -103,13 +103,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.20",
+      "Version": "1.2.21",
       "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.20/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.21/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "97b15b2afc2f2dc936c12167dfb672e28dc4fd5c0d99e5309db6ee8db59160e9",
-      "Size": 427952,
+      "Sha256": "4fa9d930ce8cb20d7543857277bf598b87c41258964f77dd8bf411980e666680",
+      "Size": 431234,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -117,7 +117,7 @@
       "Shots": [
         
       ],
-      "Price": "",
+      "Price": "13 zł / mies.",
       "Website": "",
       "Page": null,
       "BuyUrl": null,
@@ -143,10 +143,10 @@
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+        "pl": "• Opiekun znowu ma wersję PRO: 13 zł / miesiąc albo 109 zł / rok (więcej dzieci, sterowanie z innego komputera, wykresy). Podstawowa ochrona zostaje za darmo",
+        "en": "• Opiekun has a PRO version again: 13 PLN / month or 109 PLN / year (more children, remote control, charts). Basic protection stays free",
+        "ro": "• Opiekun are din nou versiune PRO: 13 PLN / lună sau 109 PLN / an. Protecția de bază rămâne gratuită",
+        "de": "• Opiekun hat wieder eine PRO-Version: 13 PLN / Monat oder 109 PLN / Jahr. Der Grundschutz bleibt kostenlos"
       }
     },
     {
