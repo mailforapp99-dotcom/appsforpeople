@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:47:07Z",
+  "Updated": "2026-11-22T20:47:17Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -571,23 +571,23 @@
       "Name": "Czas pracy",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.13",
-      "Date": "2026-11-21",
+      "Version": "1.0.16",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.13/Godziny.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/godziny-v1.0.16/Godziny.zip",
       "FileName": "Godziny.zip",
-      "Sha256": "b35adc08efeee52904ed863bbbb1f3c68c26cc352cd0ecde99cc17a4ed9acdce",
-      "Size": 962361,
+      "Sha256": "2eb79e722f08f6969627a6e68ac98bac649b77ed4bfc6e4ac81db81fa5aff6bd",
+      "Size": 963378,
       "Args": null,
       "Launch": "Godziny.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/icon.png?v=639306250721535025",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261121222428-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261121222430-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261121222431-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261122204708-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261122204710-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/godziny/shot-20261122204712-3.jpg"
       ],
-      "Price": "9 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -607,16 +607,16 @@
         "de": "Stundenzähler und Schichtplan in einem."
       },
       "Description": {
-        "pl": "Godziny liczą czas pracy jednym kliknięciem: Start, gdy zaczynasz, Stop, gdy kończysz – licznik działa nawet po zamknięciu programu. Zapomniałeś? Dodasz czas ręcznie. Widzisz godziny z dziś, tygodnia i miesiąca.\n\nW PRO: wielu klientów i projektów, stawki godzinowe i zarobek w miesiącu oraz miesięczne zestawienie PDF – gotowy załącznik do faktury dla osób na zleceniu i B2B.",
-        "en": "Godziny tracks work time with one click: Start when you begin, Stop when you finish – the timer keeps running even after closing the program. Forgot? Add time manually. See hours for today, the week and the month.\n\nWith PRO: many clients and projects, hourly rates and monthly earnings, and a monthly PDF summary – ready to attach to an invoice.",
-        "ro": "Godziny măsoară timpul de lucru cu un clic: Start când începi, Stop când termini. Ai uitat? Adaugi timpul manual.\n\nCu PRO: mai mulți clienți și proiecte, tarife orare, câștig lunar și raport PDF lunar pentru factură.",
-        "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nMit PRO: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
+        "pl": "Godziny liczą czas pracy jednym kliknięciem: Start, gdy zaczynasz, Stop, gdy kończysz – licznik działa nawet po zamknięciu programu. Zapomniałeś? Dodasz czas ręcznie. Widzisz godziny z dziś, tygodnia i miesiąca.\n\nW zestawie także: wielu klientów i projektów, stawki godzinowe i zarobek w miesiącu oraz miesięczne zestawienie PDF – gotowy załącznik do faktury dla osób na zleceniu i B2B.",
+        "en": "Godziny tracks work time with one click: Start when you begin, Stop when you finish – the timer keeps running even after closing the program. Forgot? Add time manually. See hours for today, the week and the month.\n\nAlso included: many clients and projects, hourly rates and monthly earnings, and a monthly PDF summary – ready to attach to an invoice.",
+        "ro": "Godziny măsoară timpul de lucru cu un clic: Start când începi, Stop când termini. Ai uitat? Adaugi timpul manual.\n\nInclus și: mai mulți clienți și proiecte, tarife orare, câștig lunar și raport PDF lunar pentru factură.",
+        "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nAußerdem dabei: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
