@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:49:05Z",
+  "Updated": "2026-11-22T20:49:12Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1200,21 +1200,21 @@
       "Name": "Zdjęcia",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.9",
-      "Date": "2026-11-21",
+      "Version": "1.0.12",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.9/Zdjecia.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.12/Zdjecia.zip",
       "FileName": "Zdjecia.zip",
-      "Sha256": "344caa7e5b4092403f5e0eef53bec7acc09d0e26b9f6c44bfb23332233c6288f",
-      "Size": 619113,
+      "Sha256": "5bc1bdd258b2dfa11c0107b4ce6ec9dddfe56beb03d60ebb3a91821a6c5eb6e7",
+      "Size": 620299,
       "Args": null,
       "Launch": "Zdjecia.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261121222655-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261122204907-1.jpg"
       ],
-      "Price": "9 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1229,21 +1229,21 @@
       },
       "Tagline": {
         "pl": "HEIC z iPhone\u0027a na JPG, zmniejszanie pod Allegro, OLX i maile, kwadraty, kompresja i nazwy – setki zdjęć naraz.",
-        "en": "iPhone HEIC to JPG, resizing for marketplaces and e-mail, squares, compression and renaming – hundreds at once.",
+        "en": "IPhone HEIC to JPG, resizing for marketplaces and e-mail, squares, compression and renaming – hundreds at once.",
         "ro": "HEIC în JPG, redimensionare, pătrat, compresie.",
         "de": "HEIC zu JPG, verkleinern, quadratisch, komprimieren."
       },
       "Description": {
-        "pl": "Przeciągasz zdjęcia albo cały folder, wybierasz format, rozmiar i jakość – i gotowe. Zdjęcia obracają się same według zapisu z aparatu, a oryginały zostają nietknięte. Wszystko na Twoim komputerze, bez wysyłania gdziekolwiek.\n\nW PRO: bez limitu zdjęć naraz, znak wodny z nazwą sklepu i własne nazwy plików (np. kody produktów).",
-        "en": "Drag photos or a whole folder, choose format, size and quality – done. Photos are rotated automatically, originals stay untouched, nothing is uploaded.\n\nWith PRO: unlimited photos, watermark and custom file names.",
-        "ro": "Conversie rapidă a fotografiilor, local.\n\nCu PRO: fără limită, filigran, nume proprii.",
-        "de": "Schnelle Fotokonvertierung, lokal.\n\nMit PRO: unbegrenzt, Wasserzeichen, eigene Namen."
+        "pl": "Przeciągasz zdjęcia albo cały folder, wybierasz format, rozmiar i jakość – i gotowe. Zdjęcia obracają się same według zapisu z aparatu, a oryginały zostają nietknięte. Wszystko na Twoim komputerze, bez wysyłania gdziekolwiek.\n\nW zestawie także: bez limitu zdjęć naraz, znak wodny z nazwą sklepu i własne nazwy plików (np. Kody produktów).",
+        "en": "Drag photos or a whole folder, choose format, size and quality – done. Photos are rotated automatically, originals stay untouched, nothing is uploaded.\n\nAlso included: unlimited photos, watermark and custom file names.",
+        "ro": "Conversie rapidă a fotografiilor, local.\n\nInclus și: fără limită, filigran, nume proprii.",
+        "de": "Schnelle Fotokonvertierung, lokal.\n\nAußerdem dabei: unbegrenzt, Wasserzeichen, eigene Namen."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
