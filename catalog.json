@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:47:58Z",
+  "Updated": "2026-11-22T20:48:08Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1042,23 +1042,23 @@
       "Name": "Pomiary",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.12",
-      "Date": "2026-11-21",
+      "Version": "1.0.15",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.12/Pomiary.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.15/Pomiary.zip",
       "FileName": "Pomiary.zip",
-      "Sha256": "7de2bd9fad810c4e5458ea81612d249f48b926a236b5b0479486b2790f952c29",
-      "Size": 898502,
+      "Sha256": "10f98a262a97f9ecc9f2f2e4c5c419b63596d4b5d0ca5d04638c16f6ca55e5ec",
+      "Size": 899481,
       "Args": null,
       "Launch": "Pomiary.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/icon.png?v=639306266137339986",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261121222517-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261121222519-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261121222521-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261122204800-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261122204802-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261122204804-3.jpg"
       ],
-      "Price": "19 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1078,16 +1078,16 @@
         "de": "Elektrische Messprotokolle: Schleife, Isolation, RCD – mit automatischer Bewertung und PDF."
       },
       "Description": {
-        "pl": "Pomiary to program dla elektryków z uprawnieniami: wpisujesz zmierzone wartości impedancji pętli zwarcia, rezystancji izolacji i parametrów wyłączników różnicowoprądowych, a program sam liczy wartości wymagane (B/C/D, In, U0) i ocenia „spełnia / nie spełnia”. Ostatnie wartości podpowiada przy kolejnym punkcie.\n\nW PRO: protokół w PDF z logo firmy i Twoimi danymi (numer świadectwa), bez limitu pomiarów i kopiowanie protokołu jako szablonu dla podobnego obiektu.",
-        "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nWith PRO: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
-        "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nCu PRO: PDF cu logo, măsurători nelimitate și șabloane.",
-        "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nMit PRO: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
+        "pl": "Pomiary to program dla elektryków z uprawnieniami: wpisujesz zmierzone wartości impedancji pętli zwarcia, rezystancji izolacji i parametrów wyłączników różnicowoprądowych, a program sam liczy wartości wymagane (B/C/D, In, U0) i ocenia „spełnia / nie spełnia”. Ostatnie wartości podpowiada przy kolejnym punkcie.\n\nW zestawie także: protokół w PDF z logo firmy i Twoimi danymi (numer świadectwa), bez limitu pomiarów i kopiowanie protokołu jako szablonu dla podobnego obiektu.",
+        "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nAlso included: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
+        "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nInclus și: PDF cu logo, măsurători nelimitate și șabloane.",
+        "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nAußerdem dabei: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
