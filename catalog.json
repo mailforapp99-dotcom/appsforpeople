@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:46:31Z",
+  "Updated": "2026-11-22T20:46:41Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1355,23 +1355,23 @@
       "Name": "Druk 3D",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.7",
-      "Date": "2026-11-21",
+      "Version": "1.0.10",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/druk3d-v1.0.7/Druk3D.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/druk3d-v1.0.10/Druk3D.zip",
       "FileName": "Druk3D.zip",
-      "Sha256": "fe8da7f22c1a1c28edc5b06b5c5110dbf2d6528ec8771624abf4ec905e70fb42",
-      "Size": 1194435,
+      "Sha256": "a04e2c46119019d32b1c3dd265524c06bfa00cc7fd882e84dd88cde4c2995ee2",
+      "Size": 1195482,
       "Args": null,
       "Launch": "Druk3D.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/icon.png?v=639308076331679939",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261121222352-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261121222354-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261121222356-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261122204633-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261122204634-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/druk3d/shot-20261122204636-3.jpg"
       ],
-      "Price": "9 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1391,16 +1391,16 @@
         "de": "3D-Modellbibliothek und Druckkosten."
       },
       "Description": {
-        "pl": "Przeciągasz pliki albo cały folder – Druk 3D robi miniatury modeli STL, odczytuje wymiary i objętość, a z G-code (PrusaSlicer, Orca, Bambu, Cura) gramy filamentu i czas druku. Kalkulator liczy koszt: filament, prąd, zużycie drukarki, Twoją pracę i zapas na nieudane wydruki, a potem cenę dla klienta z marżą. Każdy wydruk możesz zapisać w historii z podsumowaniem zarobku.\n\nW PRO: biblioteka bez limitu (darmowo 20 modeli), wycena PDF dla klienta, eksport historii do CSV.",
-        "en": "Drop files or folders – thumbnails, size and volume from STL; grams and time from G-code. Cost calculator with filament, power, wear, work, failure reserve and margin. Print history with profit.\n\nWith PRO: unlimited library (free: 20), client quote PDF, CSV export.",
-        "ro": "Bibliotecă și cost.\n\nCu PRO: nelimitat, PDF, CSV.",
-        "de": "Bibliothek und Kosten.\n\nMit PRO: unbegrenzt, PDF, CSV."
+        "pl": "Przeciągasz pliki albo cały folder – Druk 3D robi miniatury modeli STL, odczytuje wymiary i objętość, a z G-code (PrusaSlicer, Orca, Bambu, Cura) gramy filamentu i czas druku. Kalkulator liczy koszt: filament, prąd, zużycie drukarki, Twoją pracę i zapas na nieudane wydruki, a potem cenę dla klienta z marżą. Każdy wydruk możesz zapisać w historii z podsumowaniem zarobku.\n\nW zestawie także: biblioteka bez limitu (darmowo 20 modeli), wycena PDF dla klienta, eksport historii do CSV.",
+        "en": "Drop files or folders – thumbnails, size and volume from STL; grams and time from G-code. Cost calculator with filament, power, wear, work, failure reserve and margin. Print history with profit.\n\nAlso included: unlimited library (free: 20), client quote PDF, CSV export.",
+        "ro": "Bibliotecă și cost.\n\nInclus și: nelimitat, PDF, CSV.",
+        "de": "Bibliothek und Kosten.\n\nAußerdem dabei: unbegrenzt, PDF, CSV."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
