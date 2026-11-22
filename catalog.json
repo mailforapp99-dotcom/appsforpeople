@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:47:48Z",
+  "Updated": "2026-11-22T20:47:58Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -677,23 +677,23 @@
       "Name": "Pisma",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.0.13",
-      "Date": "2026-11-21",
+      "Version": "1.0.16",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.13/Pisma.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.16/Pisma.zip",
       "FileName": "Pisma.zip",
-      "Sha256": "0433de1513c7b9062043e59c44fb71cf17824a98ebfd258c9e3f5a6f66b0cc21",
-      "Size": 916694,
+      "Sha256": "9de430a84cf83ae1da39b2e49e04e68a6a91ee469961baa8d74f3a84ae65c0b2",
+      "Size": 917827,
       "Args": null,
       "Launch": "Pisma.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/icon.png?v=639306250854358924",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121222506-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121222508-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261121222510-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261122204750-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261122204751-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261122204753-3.jpg"
       ],
-      "Price": "9 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -713,16 +713,16 @@
         "de": "Briefgenerator: Reklamation, Widerruf, Kündigung, Mahnung – mit Logo, als PDF."
       },
       "Description": {
-        "pl": "Pisma podpowiadają gotowe wzory polskich pism: reklamację towaru, odstąpienie od umowy zawartej przez internet i wypowiedzenie umowy. Uzupełniasz pola w nawiasach, a program składa pismo z Twoimi danymi, miejscowością i datą i zapisuje je jako PDF albo drukuje.\n\nW PRO: Twoje logo w nagłówku i podpis z obrazka, pełna biblioteka wzorów (wezwanie do zapłaty, wniosek RODO, wypowiedzenie najmu, pełnomocnictwo, reklamacja usługi i inne), własne wzory, historia pism i termin odpowiedzi dodawany do programu Terminy.",
-        "en": "Pisma offers ready templates of Polish letters: product complaint, withdrawal from an online purchase and contract termination. Fill in the fields in brackets and the program builds the letter with your details and date and saves it as PDF or prints it.\n\nWith PRO: your logo and signature image, the full template library (payment demand, GDPR request, lease termination, power of attorney and more), your own templates, letter history and reply deadlines in Terminy.",
-        "ro": "Pisma oferă modele de scrisori poloneze gata făcute. Completezi câmpurile, iar programul salvează scrisoarea ca PDF.\n\nCu PRO: logo și semnătură, bibliotecă completă de modele, modele proprii, istoric și termene de răspuns în Terminy.",
-        "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nMit PRO: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
+        "pl": "Pisma podpowiadają gotowe wzory polskich pism: reklamację towaru, odstąpienie od umowy zawartej przez internet i wypowiedzenie umowy. Uzupełniasz pola w nawiasach, a program składa pismo z Twoimi danymi, miejscowością i datą i zapisuje je jako PDF albo drukuje.\n\nW zestawie także: Twoje logo w nagłówku i podpis z obrazka, pełna biblioteka wzorów (wezwanie do zapłaty, wniosek RODO, wypowiedzenie najmu, pełnomocnictwo, reklamacja usługi i inne), własne wzory, historia pism i termin odpowiedzi dodawany do programu Terminy.",
+        "en": "Pisma offers ready templates of Polish letters: product complaint, withdrawal from an online purchase and contract termination. Fill in the fields in brackets and the program builds the letter with your details and date and saves it as PDF or prints it.\n\nAlso included: your logo and signature image, the full template library (payment demand, GDPR request, lease termination, power of attorney and more), your own templates, letter history and reply deadlines in Terminy.",
+        "ro": "Pisma oferă modele de scrisori poloneze gata făcute. Completezi câmpurile, iar programul salvează scrisoarea ca PDF.\n\nInclus și: logo și semnătură, bibliotecă completă de modele, modele proprii, istoric și termene de răspuns în Terminy.",
+        "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nAußerdem dabei: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
