@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T21:37:42Z",
+  "Updated": "2026-11-22T21:38:36Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -409,58 +409,6 @@
       }
     },
     {
-      "Id": "terminy",
-      "Name": "Terminy",
-      "Publisher": "AppsForPeople",
-      "Category": "Dom",
-      "Version": "1.0.8",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/terminy-v1.0.8/Terminy.zip",
-      "FileName": "Terminy.zip",
-      "Sha256": "d823974ec2cfb9f3119e9795b35c7fbe5f68e08b6bb4b28958eb2a3893cf2ceb",
-      "Size": 557418,
-      "Args": null,
-      "Launch": "Terminy.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/icon.png?v=639306248913972063",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120222512-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/terminy/shot-20261120222514-2.jpg"
-      ],
-      "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#F59E6B",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Terminy",
-        "en": "Deadlines",
-        "ro": "Termene",
-        "de": "Fristen"
-      },
-      "Tagline": {
-        "pl": "Przegląd auta, OC, dowód, paszport, wizyty – przypomni Ci na czas, zanim zapłacisz karę.",
-        "en": "Car inspection, insurance, ID, passport, appointments – reminds you in time, before you pay a penalty.",
-        "ro": "Inspecția mașinii, asigurare, buletin, pașaport, programări – îți amintește la timp, înainte de amendă.",
-        "de": "TÜV, Versicherung, Ausweis, Reisepass, Arzttermine – erinnert dich rechtzeitig, bevor Strafe fällig wird."
-      },
-      "Description": {
-        "pl": "Terminy zbierają w jednym miejscu wszystkie ważne daty całej rodziny: przegląd i OC samochodu, ważność dowodu i paszportu, wizyty u lekarza, opłaty roczne i szkolne sprawy. Lista od razu pokazuje, co jest po terminie (na czerwono), co się zbliża (na żółto) i ile dni zostało. Przy otwarciu programu dostaniesz przypomnienie o tym, co pilne. Szukanie działa od 2 liter.\n\nW wersji PRO Terminy przypominają w tle – dymkiem przy zegarze, nawet gdy program jest zamknięty. Terminy powtarzalne (co miesiąc, co rok) po oznaczeniu jako zrobione same przechodzą na następny raz. Bez limitu terminów, a inne programy AppsForPeople (Auto, Pisma, Liczniki) mogą same dopisywać tu daty. Jedna przegapiona kara za brak OC kosztuje więcej niż kilka lat licencji.",
-        "en": "Terminy keeps all your family\u0027s important dates in one place: car inspection and insurance, ID and passport expiry, doctor\u0027s appointments, yearly fees and school matters. The list instantly shows what is overdue (red), what is coming up (yellow) and how many days are left. When you open the program you get a reminder of anything urgent. Search works from 2 letters.\n\nWith PRO, Terminy reminds you in the background – with a notification near the clock, even when the program is closed. Repeating dates (monthly, yearly) move to the next time automatically once marked as done. No limit on dates, and other AppsForPeople programs (Auto, Pisma, Liczniki) can add dates here themselves.",
-        "ro": "Terminy adună într-un singur loc toate datele importante ale familiei: inspecția și asigurarea mașinii, valabilitatea buletinului și pașaportului, programările la medic, taxele anuale și treburile școlare. Lista arată imediat ce e restant (roșu), ce se apropie (galben) și câte zile au rămas. La deschiderea programului primești un memento pentru ce e urgent. Căutarea merge de la 2 litere.\n\nCu PRO, Terminy îți amintește în fundal – cu o notificare lângă ceas, chiar și cu programul închis. Termenele repetate (lunar, anual) trec automat la următoarea dată după ce le marchezi ca rezolvate. Fără limită de termene, iar alte programe AppsForPeople pot adăuga singure date aici.",
-        "de": "Terminy sammelt alle wichtigen Termine der Familie an einem Ort: TÜV und Kfz-Versicherung, Ablauf von Ausweis und Reisepass, Arzttermine, Jahresgebühren und Schulsachen. Die Liste zeigt sofort, was überfällig ist (rot), was bald kommt (gelb) und wie viele Tage bleiben. Beim Öffnen erinnert das Programm an Dringendes. Suche ab 2 Buchstaben.\n\nMit PRO erinnert Terminy im Hintergrund – mit einer Benachrichtigung bei der Uhr, auch wenn das Programm geschlossen ist. Wiederkehrende Termine (monatlich, jährlich) springen nach dem Erledigen automatisch weiter. Unbegrenzte Termine, und andere AppsForPeople-Programme können hier selbst Termine eintragen."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
-      }
-    },
-    {
       "Id": "auto",
       "Name": "Auto",
       "Publisher": "AppsForPeople",
@@ -670,59 +618,6 @@
         "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
         "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
         "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
-      }
-    },
-    {
-      "Id": "pisma",
-      "Name": "Pisma",
-      "Publisher": "AppsForPeople",
-      "Category": "Biuro",
-      "Version": "1.0.16",
-      "Date": "2026-11-22",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pisma-v1.0.16/Pisma.zip",
-      "FileName": "Pisma.zip",
-      "Sha256": "9de430a84cf83ae1da39b2e49e04e68a6a91ee469961baa8d74f3a84ae65c0b2",
-      "Size": 917827,
-      "Args": null,
-      "Launch": "Pisma.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/icon.png?v=639306250854358924",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261122204750-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261122204751-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pisma/shot-20261122204753-3.jpg"
-      ],
-      "Price": "",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#7AA2FF",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Pisma",
-        "en": "Letters",
-        "ro": "Scrisori",
-        "de": "Schreiben"
-      },
-      "Tagline": {
-        "pl": "Generator pism: reklamacja, odstąpienie, wypowiedzenie, wezwanie do zapłaty – z logo, do PDF.",
-        "en": "Letter generator: complaints, withdrawals, terminations, payment demands – with your logo, to PDF.",
-        "ro": "Generator de scrisori: reclamații, rezilieri, somații – cu logo, în PDF.",
-        "de": "Briefgenerator: Reklamation, Widerruf, Kündigung, Mahnung – mit Logo, als PDF."
-      },
-      "Description": {
-        "pl": "Pisma podpowiadają gotowe wzory polskich pism: reklamację towaru, odstąpienie od umowy zawartej przez internet i wypowiedzenie umowy. Uzupełniasz pola w nawiasach, a program składa pismo z Twoimi danymi, miejscowością i datą i zapisuje je jako PDF albo drukuje.\n\nW zestawie także: Twoje logo w nagłówku i podpis z obrazka, pełna biblioteka wzorów (wezwanie do zapłaty, wniosek RODO, wypowiedzenie najmu, pełnomocnictwo, reklamacja usługi i inne), własne wzory, historia pism i termin odpowiedzi dodawany do programu Terminy.",
-        "en": "Pisma offers ready templates of Polish letters: product complaint, withdrawal from an online purchase and contract termination. Fill in the fields in brackets and the program builds the letter with your details and date and saves it as PDF or prints it.\n\nAlso included: your logo and signature image, the full template library (payment demand, GDPR request, lease termination, power of attorney and more), your own templates, letter history and reply deadlines in Terminy.",
-        "ro": "Pisma oferă modele de scrisori poloneze gata făcute. Completezi câmpurile, iar programul salvează scrisoarea ca PDF.\n\nInclus și: logo și semnătură, bibliotecă completă de modele, modele proprii, istoric și termene de răspuns în Terminy.",
-        "de": "Pisma bietet fertige Vorlagen polnischer Schreiben. Felder ausfüllen – das Programm erstellt das Schreiben als PDF oder druckt es.\n\nAußerdem dabei: Logo und Unterschrift, komplette Vorlagenbibliothek, eigene Vorlagen, Verlauf und Antwortfristen in Terminy."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
@@ -1038,59 +933,6 @@
       }
     },
     {
-      "Id": "pomiary",
-      "Name": "Pomiary",
-      "Publisher": "AppsForPeople",
-      "Category": "Automatyka",
-      "Version": "1.0.15",
-      "Date": "2026-11-22",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/pomiary-v1.0.15/Pomiary.zip",
-      "FileName": "Pomiary.zip",
-      "Sha256": "10f98a262a97f9ecc9f2f2e4c5c419b63596d4b5d0ca5d04638c16f6ca55e5ec",
-      "Size": 899481,
-      "Args": null,
-      "Launch": "Pomiary.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/icon.png?v=639306266137339986",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261122204800-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261122204802-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/pomiary/shot-20261122204804-3.jpg"
-      ],
-      "Price": "",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#FBBF24",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Pomiary",
-        "en": "Measurements",
-        "ro": "Măsurători",
-        "de": "Messungen"
-      },
-      "Tagline": {
-        "pl": "Protokoły pomiarów elektrycznych: pętla zwarcia, izolacja, RCD – z automatyczną oceną i PDF.",
-        "en": "Electrical test reports: loop impedance, insulation, RCD – automatic verdict and PDF.",
-        "ro": "Procese-verbale de măsurători electrice cu evaluare automată și PDF.",
-        "de": "Elektrische Messprotokolle: Schleife, Isolation, RCD – mit automatischer Bewertung und PDF."
-      },
-      "Description": {
-        "pl": "Pomiary to program dla elektryków z uprawnieniami: wpisujesz zmierzone wartości impedancji pętli zwarcia, rezystancji izolacji i parametrów wyłączników różnicowoprądowych, a program sam liczy wartości wymagane (B/C/D, In, U0) i ocenia „spełnia / nie spełnia”. Ostatnie wartości podpowiada przy kolejnym punkcie.\n\nW zestawie także: protokół w PDF z logo firmy i Twoimi danymi (numer świadectwa), bez limitu pomiarów i kopiowanie protokołu jako szablonu dla podobnego obiektu.",
-        "en": "Pomiary is for qualified electricians: enter measured loop impedance, insulation resistance and RCD values, and the program calculates the required values (B/C/D, In, U0) and gives a pass/fail verdict.\n\nAlso included: a PDF report with your company logo and details, unlimited measurements and copying a report as a template.",
-        "ro": "Pomiary pentru electricieni: introduci valorile măsurate, iar programul calculează cerințele și evaluează.\n\nInclus și: PDF cu logo, măsurători nelimitate și șabloane.",
-        "de": "Pomiary für Elektrofachkräfte: Messwerte eingeben – das Programm berechnet die Grenzwerte und bewertet.\n\nAußerdem dabei: PDF mit Logo, unbegrenzte Messungen und Vorlagen."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
       "Id": "ekran",
       "Name": "Ekran",
       "Publisher": "AppsForPeople",
@@ -1238,58 +1080,6 @@
         "en": "Drag photos or a whole folder, choose format, size and quality – done. Photos are rotated automatically, originals stay untouched, nothing is uploaded.\n\nAlso included: unlimited photos, watermark and custom file names.",
         "ro": "Conversie rapidă a fotografiilor, local.\n\nInclus și: fără limită, filigran, nume proprii.",
         "de": "Schnelle Fotokonvertierung, lokal.\n\nAußerdem dabei: unbegrenzt, Wasserzeichen, eigene Namen."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
-      "Id": "budowa",
-      "Name": "Kalkulatory budowlane",
-      "Publisher": "AppsForPeople",
-      "Category": "Dom",
-      "Version": "1.0.10",
-      "Date": "2026-11-22",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.10/Budowa.zip",
-      "FileName": "Budowa.zip",
-      "Sha256": "33548d650e331e0e480877eb5380865bc14d951e2421842f02f3550ade948d60",
-      "Size": 653499,
-      "Args": null,
-      "Launch": "Budowa.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/icon.png?v=639308076135658234",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261122204616-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261122204618-2.jpg"
-      ],
-      "Price": "",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#F59E0B",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Kalkulatory budowlane",
-        "en": "Building calculators",
-        "ro": "Calculatoare construcții",
-        "de": "Baurechner"
-      },
-      "Tagline": {
-        "pl": "Ile materiału kupić: beton, bloczki, farba, płytki z klejem i fugą, tynk, panele, wylewka, płyty G-K, ocieplenie – z zapasem i listą zakupów.",
-        "en": "How much material to buy: concrete, blocks, paint, tiles, plaster, flooring, screed, drywall, insulation – with a shopping list.",
-        "ro": "Calculatoare materiale construcții.",
-        "de": "Materialrechner für den Bau."
-      },
-      "Description": {
-        "pl": "Dziewięć kalkulatorów na jednym ekranie: wpisujesz wymiary, a ilości liczą się od razu – worki, paczki, sztuki i m², z zapasem. Przyciskiem „Do listy” zbierasz wszystko w jedną listę zakupów, którą skopiujesz do SMS-a albo maila do hurtowni.\n\nWszystkie kalkulatory są darmowe. W zestawie także: lista zakupów do PDF i zapamiętywanie listy.\n\nWyniki są orientacyjne – zawsze sprawdź zużycie podane przez producenta.",
-        "en": "Nine calculators on one screen with instant results and reserves. Collect everything into a shopping list.\n\nAll calculators are free. Also included: shopping list PDF and saved list.",
-        "ro": "Nouă calculatoare.\n\nInclus și: PDF.",
-        "de": "Neun Rechner.\n\nAußerdem dabei: PDF."
       },
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
@@ -1447,58 +1237,6 @@
         "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nAlso included: unlimited parts (free: 30), shopping list PDF, drawer labels.",
         "ro": "Calculatoare și inventar piese.\n\nInclus și: nelimitat, PDF, etichete.",
         "de": "Rechner und Teilelager.\n\nAußerdem dabei: unbegrenzt, PDF, Etiketten."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
-      "Id": "elektryk",
-      "Name": "Elektryk",
-      "Publisher": "AppsForPeople",
-      "Category": "Firma",
-      "Version": "1.0.10",
-      "Date": "2026-11-22",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektryk-v1.0.10/Elektryk.zip",
-      "FileName": "Elektryk.zip",
-      "Sha256": "f4abc84e94b05bfac201381eb0c0286c692f39964888217877049f038538ee12",
-      "Size": 695435,
-      "Args": null,
-      "Launch": "Elektryk.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/icon.png?v=639308076630237048",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261122204700-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektryk/shot-20261122204702-2.jpg"
-      ],
-      "Price": "",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#FACC15",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Elektryk",
-        "en": "Electrician",
-        "ro": "Electrician",
-        "de": "Elektriker"
-      },
-      "Tagline": {
-        "pl": "Dobór przewodu i zabezpieczenia (prąd, spadek napięcia, pętla zwarcia) oraz zestawienie obwodów rozdzielnicy z rozkładem faz i PDF.",
-        "en": "Cable and breaker sizing (current, voltage drop, fault loop) plus a distribution board circuit list with phase balance and PDF.",
-        "ro": "Dimensionare cablu și protecție, listă circuite tablou, PDF.",
-        "de": "Kabel- und Sicherungsauswahl, Stromkreisliste, PDF."
-      },
-      "Description": {
-        "pl": "Wpisujesz moc albo prąd, długość i sposób ułożenia – Elektryk dobiera zabezpieczenie i przekrój przewodu (PN-HD 60364-5-52, temperatura, grupowanie), liczy spadek napięcia i sprawdza warunek samoczynnego wyłączenia. Jednym kliknięciem dodajesz wynik jako obwód rozdzielnicy: numer, nazwa, zabezpieczenie, RCD, przewód, faza – a program pilnuje równego obciążenia faz.\n\nW zestawie także: zestawienie rozdzielnicy do PDF dla klienta i odbioru, naklejki z opisem obwodów do drukowania, bez limitu obwodów (darmowo 12).\n\nWyniki są pomocą obliczeniową – ostateczny dobór i pomiary należą do uprawnionego elektryka.",
-        "en": "Enter power or current, length and installation method – get breaker and cable size, voltage drop and fault loop check. Add the result as a board circuit with phase balance.\n\nAlso included: board list PDF, circuit labels, unlimited circuits (free: 12).\n\nResults are a calculation aid – final design belongs to a qualified electrician.",
-        "ro": "Dimensionare cablu și listă circuite.\n\nInclus și: PDF, etichete, nelimitat.",
-        "de": "Kabelauswahl und Stromkreisliste.\n\nAußerdem dabei: PDF, Etiketten, unbegrenzt."
       },
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
