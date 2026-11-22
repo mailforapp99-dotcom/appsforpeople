@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:48:46Z",
+  "Updated": "2026-11-22T20:48:50Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -154,13 +154,13 @@
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.18",
-      "Date": "2026-11-21",
+      "Version": "1.0.21",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.18/Straznik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/straznik-v1.0.21/Straznik.zip",
       "FileName": "Straznik.zip",
-      "Sha256": "93d780dbce78c57ddd4cd1a6763a5f0fa2921644c1a12bc159598eab9ddea688",
-      "Size": 225798,
+      "Sha256": "66ab84e1febc179d6ed98e570428d2fde58e164a9c4f9c9051c5e2e964060c83",
+      "Size": 226885,
       "Args": "",
       "Launch": "Straznik.exe",
       "UninstallName": "Strażnik",
@@ -168,10 +168,10 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "",
       "Website": "",
       "Page": null,
-      "BuyUrl": "",
+      "BuyUrl": null,
       "Color": "#4FD1C5",
       "Featured": false,
       "Hidden": false,
@@ -188,16 +188,16 @@
         "de": "Überwacht den Zustand Ihrer Laufwerke und warnt, bevor Fotos und Dateien verloren gehen."
       },
       "Description": {
-        "pl": "Dysk rzadko psuje się bez ostrzeżenia, tylko nikt tych ostrzeżeń nie widzi. Strażnik czyta dane SMART wbudowane w każdy dysk i pokazuje je po ludzku: temperaturę, zużycie SSD w procentach, czas pracy i błędy. Na górze jedna jasna ocena: zielony – wszystko dobrze, żółty – warto sprawdzić, czerwony – zrób kopię zapasową teraz. Widzisz też, ile miejsca zostało na każdym dysku, a gdy go brakuje, jednym przyciskiem otworzysz Rdzeń. Program niczego nie zmienia na dyskach i nie łączy się z internetem.\n\nW wersji PRO Strażnik działa w tle, sprawdza dyski co kilka godzin i wysyła powiadomienie, gdy coś się pogarsza. Dostajesz też wykresy temperatury i zużycia, prognozę życia SSD i raport do zapisania lub wydruku.",
-        "en": "A disk rarely fails without warning – it\u0027s just that nobody sees the warnings. Strażnik reads the SMART data built into every disk and explains it in plain language: temperature, SSD wear in percent, power-on time and errors. At the top you get one clear verdict: green – all good, yellow – worth checking, red – back up now. You also see how much space is left on each disk, and when it runs low you can open Rdzeń with one click. The program changes nothing on your disks and never connects to the internet.\n\nWith PRO, Strażnik runs in the background, checks your disks every few hours and notifies you when something gets worse. You also get temperature and wear charts, an SSD life forecast and a report to save or print.",
-        "ro": "Un disc se strică rareori fără avertisment – doar că nimeni nu vede avertismentele. Strażnik citește datele SMART din fiecare disc și le explică pe înțeles: temperatură, uzura SSD în procente, timp de funcționare și erori. Sus primești un verdict clar: verde – totul e în regulă, galben – merită verificat, roșu – fă o copie de rezervă acum. Vezi și cât spațiu a rămas pe fiecare disc, iar când e puțin, deschizi Rdzeń cu un clic. Programul nu modifică nimic pe discuri și nu se conectează la internet.\n\nCu PRO, Strażnik rulează în fundal, verifică discurile la câteva ore și te anunță când ceva se înrăutățește. Primești și grafice de temperatură și uzură, o prognoză pentru SSD și un raport de salvat sau tipărit.",
-        "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nMit PRO läuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
+        "pl": "Dysk rzadko psuje się bez ostrzeżenia, tylko nikt tych ostrzeżeń nie widzi. Strażnik czyta dane SMART wbudowane w każdy dysk i pokazuje je po ludzku: temperaturę, zużycie SSD w procentach, czas pracy i błędy. Na górze jedna jasna ocena: zielony – wszystko dobrze, żółty – warto sprawdzić, czerwony – zrób kopię zapasową teraz. Widzisz też, ile miejsca zostało na każdym dysku, a gdy go brakuje, jednym przyciskiem otworzysz Rdzeń. Program niczego nie zmienia na dyskach i nie łączy się z internetem.\n\nStrażnik działa w tle, sprawdza dyski co kilka godzin i wysyła powiadomienie, gdy coś się pogarsza. Dostajesz też wykresy temperatury i zużycia, prognozę życia SSD i raport do zapisania lub wydruku.",
+        "en": "A disk rarely fails without warning – it\u0027s just that nobody sees the warnings. Strażnik reads the SMART data built into every disk and explains it in plain language: temperature, SSD wear in percent, power-on time and errors. At the top you get one clear verdict: green – all good, yellow – worth checking, red – back up now. You also see how much space is left on each disk, and when it runs low you can open Rdzeń with one click. The program changes nothing on your disks and never connects to the internet.\n\nStrażnik runs in the background, checks your disks every few hours and notifies you when something gets worse. You also get temperature and wear charts, an SSD life forecast and a report to save or print.",
+        "ro": "Un disc se strică rareori fără avertisment – doar că nimeni nu vede avertismentele. Strażnik citește datele SMART din fiecare disc și le explică pe înțeles: temperatură, uzura SSD în procente, timp de funcționare și erori. Sus primești un verdict clar: verde – totul e în regulă, galben – merită verificat, roșu – fă o copie de rezervă acum. Vezi și cât spațiu a rămas pe fiecare disc, iar când e puțin, deschizi Rdzeń cu un clic. Programul nu modifică nimic pe discuri și nu se conectează la internet.\n\nStrażnik rulează în fundal, verifică discurile la câteva ore și te anunță când ceva se înrăutățește. Primești și grafice de temperatură și uzură, o prognoză pentru SSD și un raport de salvat sau tipărit.",
+        "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nLäuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
