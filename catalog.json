@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:46:03Z",
+  "Updated": "2026-11-22T20:46:15Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -518,23 +518,23 @@
       "Name": "Automatyk",
       "Publisher": "AppsForPeople",
       "Category": "Automatyka",
-      "Version": "1.0.13",
-      "Date": "2026-11-21",
+      "Version": "1.0.16",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.13/Automatyk.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/automatyk-v1.0.16/Automatyk.zip",
       "FileName": "Automatyk.zip",
-      "Sha256": "1e1a1757caa21553c6297a31ccb6c25f4839df20a20d8d8091868b89bc36c901",
-      "Size": 1026659,
+      "Sha256": "c630e2dc9351fe57937ce7caba1df17aa3994590e66e438eef3e4a5a5adaf781",
+      "Size": 1027931,
       "Args": null,
       "Launch": "Automatyk.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/icon.png?v=639306250594013735",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261121222326-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261121222328-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261121222330-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261122204605-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261122204607-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/automatyk/shot-20261122204609-3.jpg"
       ],
-      "Price": "19 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -554,16 +554,16 @@
         "de": "Rechner für Automatisierer: 4–20 mA, SPS-Rohwerte, PT100, Motorstrom, Leitungen."
       },
       "Description": {
-        "pl": "Automatyk to szybkie przeliczenia do szafy i na budowę: sygnał 4–20 mA / 0–10 V ↔ wartość fizyczna ↔ wartość surowa w sterowniku S7 (0–27648), PT100/PT500/PT1000 ↔ temperatura według IEC 60751 i prawo Ohma z mocą. Działa bez internetu.\n\nW PRO: prąd znamionowy silnika z mocy, spadek napięcia na przewodzie z doborem najmniejszego przekroju, historia obliczeń z opisem urządzenia i raport PDF do dokumentacji projektu.",
-        "en": "Automatyk does quick conversions for panel building and commissioning: 4–20 mA / 0–10 V ↔ physical value ↔ S7 raw value (0–27648), PT100/PT500/PT1000 ↔ temperature per IEC 60751 and Ohm\u0027s law with power. Works offline.\n\nWith PRO: motor rated current from power, cable voltage drop with smallest cross-section, calculation history with device tags and a PDF report for project documentation.",
-        "ro": "Automatyk face conversii rapide: 4–20 mA ↔ valoare fizică ↔ valoare brută S7, PT100 ↔ temperatură, legea lui Ohm. Funcționează offline.\n\nCu PRO: curent motor, cădere de tensiune și secțiune minimă, istoric și raport PDF.",
-        "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nMit PRO: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
+        "pl": "Automatyk to szybkie przeliczenia do szafy i na budowę: sygnał 4–20 mA / 0–10 V ↔ wartość fizyczna ↔ wartość surowa w sterowniku S7 (0–27648), PT100/PT500/PT1000 ↔ temperatura według IEC 60751 i prawo Ohma z mocą. Działa bez internetu.\n\nW zestawie także: prąd znamionowy silnika z mocy, spadek napięcia na przewodzie z doborem najmniejszego przekroju, historia obliczeń z opisem urządzenia i raport PDF do dokumentacji projektu.",
+        "en": "Automatyk does quick conversions for panel building and commissioning: 4–20 mA / 0–10 V ↔ physical value ↔ S7 raw value (0–27648), PT100/PT500/PT1000 ↔ temperature per IEC 60751 and Ohm\u0027s law with power. Works offline.\n\nAlso included: motor rated current from power, cable voltage drop with smallest cross-section, calculation history with device tags and a PDF report for project documentation.",
+        "ro": "Automatyk face conversii rapide: 4–20 mA ↔ valoare fizică ↔ valoare brută S7, PT100 ↔ temperatură, legea lui Ohm. Funcționează offline.\n\nInclus și: curent motor, cădere de tensiune și secțiune minimă, istoric și raport PDF.",
+        "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nAußerdem dabei: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
