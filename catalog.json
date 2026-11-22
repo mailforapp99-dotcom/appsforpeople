@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:48:50Z",
+  "Updated": "2026-11-22T20:48:58Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -885,22 +885,22 @@
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.0.12",
-      "Date": "2026-11-21",
+      "Version": "1.0.15",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.12/Tabliczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/tabliczka-v1.0.15/Tabliczka.zip",
       "FileName": "Tabliczka.zip",
-      "Sha256": "c47c89dbc7ed5d542572062f05d881e9898b7f57f9a5f8f397f13a480fecf178",
-      "Size": 814624,
+      "Sha256": "e7ae289a21da47512538c0bdf211f09677b87a264cf75fe1383688ae85d2a29a",
+      "Size": 815646,
       "Args": null,
       "Launch": "Tabliczka.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/icon.png?v=639306251120096897",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261121222618-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261121222620-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261122204852-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/tabliczka/shot-20261122204854-2.jpg"
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -920,16 +920,16 @@
         "de": "Spielend lernen: Einmaleins, Addition, Subtraktion, Rechtschreibung."
       },
       "Description": {
-        "pl": "Tabliczka to prosta gra dla dzieci z klas 1–3: duże przyciski, gwiazdki za dobre odpowiedzi i serie. Bez reklam, czatów i zakupów w grze.\n\nW PRO: ortografia (ó/u, rz/ż, ch/h, ą/ę), poziomy do 20 i do 100 oraz raport dla rodzica – co dziecku idzie dobrze, a co trzeba jeszcze poćwiczyć.",
-        "en": "Tabliczka is a simple game for grades 1–3: big buttons, stars for right answers and streaks. No ads, chats or in-game purchases.\n\nWith PRO: Polish spelling (ó/u, rz/ż, ch/h, ą/ę), levels up to 20 and 100 and a parent report showing what goes well and what needs practice.",
-        "ro": "Tabliczka este un joc simplu pentru clasele 1–3, fără reclame.\n\nCu PRO: ortografie poloneză, niveluri până la 20 și 100 și raport pentru părinți.",
-        "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nMit PRO: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
+        "pl": "Tabliczka to prosta gra dla dzieci z klas 1–3: duże przyciski, gwiazdki za dobre odpowiedzi i serie. Bez reklam, czatów i zakupów w grze.\n\nW zestawie także: ortografia (ó/u, rz/ż, ch/h, ą/ę), poziomy do 20 i do 100 oraz raport dla rodzica – co dziecku idzie dobrze, a co trzeba jeszcze poćwiczyć.",
+        "en": "Tabliczka is a simple game for grades 1–3: big buttons, stars for right answers and streaks. No ads, chats or in-game purchases.\n\nAlso included: Polish spelling (ó/u, rz/ż, ch/h, ą/ę), levels up to 20 and 100 and a parent report showing what goes well and what needs practice.",
+        "ro": "Tabliczka este un joc simplu pentru clasele 1–3, fără reclame.\n\nInclus și: ortografie poloneză, niveluri până la 20 și 100 și raport pentru părinți.",
+        "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nAußerdem dabei: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
