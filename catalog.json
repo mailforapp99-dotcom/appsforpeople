@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:46:49Z",
+  "Updated": "2026-11-22T20:46:58Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1408,22 +1408,22 @@
       "Name": "Elektronik",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.7",
-      "Date": "2026-11-21",
+      "Version": "1.0.10",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektronik-v1.0.7/Elektronik.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/elektronik-v1.0.10/Elektronik.zip",
       "FileName": "Elektronik.zip",
-      "Sha256": "186e5293bbeef6c6d43d218245a84bc8501ff43e56965266d1244402ec152ca4",
-      "Size": 588424,
+      "Sha256": "db1877b2247e0aba5edc83cc32d7a5b1ec979fd40fdcf96f41a165fb468521e6",
+      "Size": 589601,
       "Args": null,
       "Launch": "Elektronik.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/icon.png?v=639308076532774525",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261121222411-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261121222413-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261122204651-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/elektronik/shot-20261122204653-2.jpg"
       ],
-      "Price": "9 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1443,16 +1443,16 @@
         "de": "Elektronik-Rechner und Teilelager."
       },
       "Description": {
-        "pl": "Wartości wpisujesz jak na schemacie (4k7, 100n, 2M2), a wynik pojawia się od razu: paski rezystora z podglądem, rezystor do LED z najbliższą wartością z szeregu E12 i mocą, dzielnik napięcia, prawo Ohma z dowolnych dwóch wartości, NE555 i filtr RC. W zakładce „Moje części” prowadzisz magazyn w szufladach – szukanie od 2 liter, +1/−1 jednym kliknięciem, ostrzeżenie, gdy coś się kończy.\n\nW PRO: magazyn bez limitu (darmowo 30 części), lista zakupów do PDF, etykiety na szuflady.",
-        "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nWith PRO: unlimited parts (free: 30), shopping list PDF, drawer labels.",
-        "ro": "Calculatoare și inventar piese.\n\nCu PRO: nelimitat, PDF, etichete.",
-        "de": "Rechner und Teilelager.\n\nMit PRO: unbegrenzt, PDF, Etiketten."
+        "pl": "Wartości wpisujesz jak na schemacie (4k7, 100n, 2M2), a wynik pojawia się od razu: paski rezystora z podglądem, rezystor do LED z najbliższą wartością z szeregu E12 i mocą, dzielnik napięcia, prawo Ohma z dowolnych dwóch wartości, NE555 i filtr RC. W zakładce „Moje części” prowadzisz magazyn w szufladach – szukanie od 2 liter, +1/−1 jednym kliknięciem, ostrzeżenie, gdy coś się kończy.\n\nW zestawie także: magazyn bez limitu (darmowo 30 części), lista zakupów do PDF, etykiety na szuflady.",
+        "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nAlso included: unlimited parts (free: 30), shopping list PDF, drawer labels.",
+        "ro": "Calculatoare și inventar piese.\n\nInclus și: nelimitat, PDF, etichete.",
+        "de": "Rechner und Teilelager.\n\nAußerdem dabei: unbegrenzt, PDF, Etiketten."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
