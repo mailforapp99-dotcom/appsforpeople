@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T19:20:33Z",
+  "Updated": "2026-11-22T20:46:03Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -465,23 +465,23 @@
       "Name": "Auto",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.12",
-      "Date": "2026-11-21",
+      "Version": "1.0.15",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.12/Auto.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/auto-v1.0.15/Auto.zip",
       "FileName": "Auto.zip",
-      "Sha256": "617609eee576f3ea9f53c8a2fb454dfd85455e898bb5f3c9d1281beab345bcf8",
-      "Size": 903690,
+      "Sha256": "ba99f1f4b33a6d978c8f3481e723a95b03a40cef2830aebb769a7d3aca28fdf3",
+      "Size": 904936,
       "Args": null,
       "Launch": "Auto.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/icon.png?v=639306250522543695",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261121222315-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261121222317-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261121222319-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261122204555-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261122204557-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/auto/shot-20261122204559-3.jpg"
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -495,22 +495,22 @@
         "de": "Auto"
       },
       "Tagline": {
-        "pl": "Tankowania, spalanie i koszt kilometra – a w PRO serwisy, OC, przegląd i historia PDF.",
-        "en": "Refuels, consumption and cost per km – with PRO: service, insurance, inspection and PDF history.",
-        "ro": "Alimentări, consum și cost pe km – cu PRO service, asigurare și istoric PDF.",
-        "de": "Tanken, Verbrauch und Kosten pro km – mit PRO Service, Versicherung, TÜV und PDF-Historie."
+        "pl": "Tankowania, spalanie i koszt kilometra – a do tego serwisy, OC, przegląd i historia PDF.",
+        "en": "Refuels, consumption and cost per km – plus service, insurance, inspection and PDF history.",
+        "ro": "Alimentări, consum și cost pe km – plus service, asigurare și istoric PDF.",
+        "de": "Tanken, Verbrauch und Kosten pro km – plus Service, Versicherung, TÜV und PDF-Historie."
       },
       "Description": {
-        "pl": "Auto liczy prawdziwe spalanie metodą „od pełnego do pełnego”, koszt paliwa na kilometr i wydatki w roku. Wystarczy po tankowaniu wpisać przebieg, litry i kwotę.\n\nW PRO: kilka samochodów, serwisy z przypomnieniem po kilometrach, OC i przegląd przekazywane do programu Terminy oraz historia serwisowa w PDF – auto z udokumentowaną historią sprzedasz drożej.",
-        "en": "Auto calculates real fuel consumption (full to full), fuel cost per km and yearly spending. After refuelling just enter odometer, litres and amount.\n\nWith PRO: several cars, service log with kilometre reminders, insurance and inspection sent to Terminy, and a PDF service history – documented cars sell for more.",
-        "ro": "Auto calculează consumul real, costul pe km și cheltuielile anuale.\n\nCu PRO: mai multe mașini, service cu memento, asigurare și ITP în Terminy și istoric service PDF.",
-        "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nMit PRO: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
+        "pl": "Auto liczy prawdziwe spalanie metodą „od pełnego do pełnego”, koszt paliwa na kilometr i wydatki w roku. Wystarczy po tankowaniu wpisać przebieg, litry i kwotę.\n\nW zestawie także: kilka samochodów, serwisy z przypomnieniem po kilometrach, OC i przegląd przekazywane do programu Terminy oraz historia serwisowa w PDF – auto z udokumentowaną historią sprzedasz drożej.",
+        "en": "Auto calculates real fuel consumption (full to full), fuel cost per km and yearly spending. After refuelling just enter odometer, litres and amount.\n\nAlso included: several cars, service log with kilometre reminders, insurance and inspection sent to Terminy, and a PDF service history – documented cars sell for more.",
+        "ro": "Auto calculează consumul real, costul pe km și cheltuielile anuale.\n\nInclus și: mai multe mașini, service cu memento, asigurare și ITP în Terminy și istoric service PDF.",
+        "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nAußerdem dabei: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
