@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:46:15Z",
+  "Updated": "2026-11-22T20:46:22Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1251,22 +1251,22 @@
       "Name": "Kalkulatory budowlane",
       "Publisher": "AppsForPeople",
       "Category": "Dom",
-      "Version": "1.0.7",
-      "Date": "2026-11-21",
+      "Version": "1.0.10",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.7/Budowa.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/budowa-v1.0.10/Budowa.zip",
       "FileName": "Budowa.zip",
-      "Sha256": "729a5d13a69709e366d9100e6887d4e6dedbfb1d6371f105c19edffa8a848112",
-      "Size": 652467,
+      "Sha256": "33548d650e331e0e480877eb5380865bc14d951e2421842f02f3550ade948d60",
+      "Size": 653499,
       "Args": null,
       "Launch": "Budowa.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/icon.png?v=639308076135658234",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261121222336-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261121222338-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261122204616-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/budowa/shot-20261122204618-2.jpg"
       ],
-      "Price": "9 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1286,16 +1286,16 @@
         "de": "Materialrechner für den Bau."
       },
       "Description": {
-        "pl": "Dziewięć kalkulatorów na jednym ekranie: wpisujesz wymiary, a ilości liczą się od razu – worki, paczki, sztuki i m², z zapasem. Przyciskiem „Do listy” zbierasz wszystko w jedną listę zakupów, którą skopiujesz do SMS-a albo maila do hurtowni.\n\nWszystkie kalkulatory są darmowe. W PRO: lista zakupów do PDF i zapamiętywanie listy.\n\nWyniki są orientacyjne – zawsze sprawdź zużycie podane przez producenta.",
-        "en": "Nine calculators on one screen with instant results and reserves. Collect everything into a shopping list.\n\nAll calculators are free. With PRO: shopping list PDF and saved list.",
-        "ro": "Nouă calculatoare.\n\nCu PRO: PDF.",
-        "de": "Neun Rechner.\n\nMit PRO: PDF."
+        "pl": "Dziewięć kalkulatorów na jednym ekranie: wpisujesz wymiary, a ilości liczą się od razu – worki, paczki, sztuki i m², z zapasem. Przyciskiem „Do listy” zbierasz wszystko w jedną listę zakupów, którą skopiujesz do SMS-a albo maila do hurtowni.\n\nWszystkie kalkulatory są darmowe. W zestawie także: lista zakupów do PDF i zapamiętywanie listy.\n\nWyniki są orientacyjne – zawsze sprawdź zużycie podane przez producenta.",
+        "en": "Nine calculators on one screen with instant results and reserves. Collect everything into a shopping list.\n\nAll calculators are free. Also included: shopping list PDF and saved list.",
+        "ro": "Nouă calculatoare.\n\nInclus și: PDF.",
+        "de": "Neun Rechner.\n\nAußerdem dabei: PDF."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
