@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T21:39:04Z",
+  "Updated": "2026-11-22T21:39:11Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -48,6 +48,12 @@
       }
     },
     {
+      "Changelog": {
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+      },
       "Id": "porzadek",
       "Name": "Porządek",
       "Publisher": "AppsForPeople",
@@ -90,15 +96,15 @@
         "en": "After a few months, the Downloads folder holds hundreds of files you can never find. Porządek sorts them into subfolders: Documents, Images, Videos, Music, Archives, Installers and Other. It shows you a preview of where everything will go before moving anything. Nothing is ever deleted, and every clean-up can be undone with one click. Files that are still downloading are skipped. It also finds old program installers taking up gigabytes and moves them to the Recycle Bin once you agree.\n\nPorządek works on its own in the background: each new file is sorted shortly after it downloads. You can also split files by month (e.g. Documents\\2026-11) and tidy other folders, such as your Desktop.",
         "ro": "După câteva luni, folderul Descărcări are sute de fișiere în care nu mai găsești nimic. Porządek le sortează în subfoldere: Documente, Imagini, Video, Muzică, Arhive, Programe de instalare și Altele. Înainte să mute ceva, îți arată unde va ajunge fiecare fișier. Nu șterge nimic, iar orice organizare se anulează cu un clic. Fișierele aflate în curs de descărcare sunt omise. Găsește și instalatoarele vechi care ocupă gigabați și, cu acordul tău, le mută în Coșul de reciclare.\n\nPorządek lucrează singur în fundal: fiecare fișier nou ajunge la locul lui la scurt timp după descărcare. Poți împărți fișierele pe luni (de ex. Documente\\2026-11) și poți organiza și alte foldere, cum ar fi Desktopul.",
         "de": "Nach ein paar Monaten liegen im Download-Ordner Hunderte Dateien, in denen man nichts mehr findet. Porządek sortiert sie in Unterordner: Dokumente, Bilder, Videos, Musik, Archive, Installationsprogramme und Sonstiges. Bevor etwas verschoben wird, sehen Sie eine Vorschau, wohin jede Datei kommt. Es wird nichts gelöscht, und jedes Aufräumen lässt sich mit einem Klick rückgängig machen. Dateien, die noch heruntergeladen werden, bleiben unberührt. Außerdem findet das Programm alte Installer, die Gigabytes belegen, und verschiebt sie nach Ihrer Zustimmung in den Papierkorb.\n\nArbeitet Porządek selbstständig im Hintergrund: Jede neue Datei wird kurz nach dem Download einsortiert. Sie können Dateien nach Monaten aufteilen (z. B. Dokumente\\2026-11) und auch andere Ordner aufräumen, etwa den Desktop."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
+      "Changelog": {
+        "pl": "• Opiekun znowu ma wersję PRO: 13 zł / miesiąc albo 109 zł / rok (więcej dzieci, sterowanie z innego komputera, wykresy). Podstawowa ochrona zostaje za darmo",
+        "en": "• Opiekun has a PRO version again: 13 PLN / month or 109 PLN / year (more children, remote control, charts). Basic protection stays free",
+        "ro": "• Opiekun are din nou versiune PRO: 13 PLN / lună sau 109 PLN / an. Protecția de bază rămâne gratuită",
+        "de": "• Opiekun hat wieder eine PRO-Version: 13 PLN / Monat oder 109 PLN / Jahr. Der Grundschutz bleibt kostenlos"
+      },
       "Id": "opiekun",
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
@@ -141,15 +147,15 @@
         "en": "Opiekun helps you set healthy computer rules without arguments. You set a daily limit separately for each day of the week, and your child always sees how much time is left. A warning appears 5 minutes and 1 minute before the end, so there is time to save work. When your child needs more time, for example for homework, they send a request and you approve or decline it with one click. Opiekun runs as a Windows service, so a child with a standard account cannot switch it off. The parent panel is protected by a PIN.\n\nOpiekun is fair to your child: the child can see that parental control is on. The program takes no screenshots, reads no messages and records no websites. You can add more children, set allowed hours (e.g. 8:00–20:00), block chosen games and programs, and see which apps your child used and how their week looked on a chart. Does your child have their own computer? You control it from your own computer on your home network – no need to go to their room.",
         "ro": "Opiekun te ajută să stabilești reguli sănătoase pentru calculator, fără certuri. Setezi o limită zilnică separat pentru fiecare zi a săptămânii, iar copilul vede mereu cât timp i-a rămas. Cu 5 minute și cu 1 minut înainte de final primește un avertisment, ca să-și poată salva munca. Când are nevoie de mai mult timp, de exemplu pentru teme, trimite o cerere, iar tu aprobi sau refuzi cu un clic. Opiekun rulează ca serviciu Windows, deci un copil cu cont standard nu îl poate opri. Panoul părintelui este protejat cu PIN.\n\nOpiekun este corect față de copil: copilul vede că controlul parental este activ. Programul nu face capturi de ecran, nu citește mesaje și nu înregistrează site-urile vizitate. Poți adăuga mai mulți copii, seta ore permise (de ex. 8:00–20:00), bloca jocuri și programe alese și vedea ce aplicații a folosit copilul și cum a arătat săptămâna lui într-un grafic. Copilul are propriul calculator? Îl controlezi de pe calculatorul tău, în rețeaua de acasă – fără să mergi în camera lui.",
         "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
-      },
-      "Changelog": {
-        "pl": "• Opiekun znowu ma wersję PRO: 13 zł / miesiąc albo 109 zł / rok (więcej dzieci, sterowanie z innego komputera, wykresy). Podstawowa ochrona zostaje za darmo",
-        "en": "• Opiekun has a PRO version again: 13 PLN / month or 109 PLN / year (more children, remote control, charts). Basic protection stays free",
-        "ro": "• Opiekun are din nou versiune PRO: 13 PLN / lună sau 109 PLN / an. Protecția de bază rămâne gratuită",
-        "de": "• Opiekun hat wieder eine PRO-Version: 13 PLN / Monat oder 109 PLN / Jahr. Der Grundschutz bleibt kostenlos"
       }
     },
     {
+      "Changelog": {
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+      },
       "Id": "straznik",
       "Name": "Strażnik",
       "Publisher": "AppsForPeople",
@@ -192,15 +198,15 @@
         "en": "A disk rarely fails without warning – it\u0027s just that nobody sees the warnings. Strażnik reads the SMART data built into every disk and explains it in plain language: temperature, SSD wear in percent, power-on time and errors. At the top you get one clear verdict: green – all good, yellow – worth checking, red – back up now. You also see how much space is left on each disk, and when it runs low you can open Rdzeń with one click. The program changes nothing on your disks and never connects to the internet.\n\nStrażnik runs in the background, checks your disks every few hours and notifies you when something gets worse. You also get temperature and wear charts, an SSD life forecast and a report to save or print.",
         "ro": "Un disc se strică rareori fără avertisment – doar că nimeni nu vede avertismentele. Strażnik citește datele SMART din fiecare disc și le explică pe înțeles: temperatură, uzura SSD în procente, timp de funcționare și erori. Sus primești un verdict clar: verde – totul e în regulă, galben – merită verificat, roșu – fă o copie de rezervă acum. Vezi și cât spațiu a rămas pe fiecare disc, iar când e puțin, deschizi Rdzeń cu un clic. Programul nu modifică nimic pe discuri și nu se conectează la internet.\n\nStrażnik rulează în fundal, verifică discurile la câteva ore și te anunță când ceva se înrăutățește. Primești și grafice de temperatură și uzură, o prognoză pentru SSD și un raport de salvat sau tipărit.",
         "de": "Ein Laufwerk fällt selten ohne Vorwarnung aus – nur sieht die Warnungen niemand. Strażnik liest die SMART-Daten, die jedes Laufwerk mitbringt, und erklärt sie verständlich: Temperatur, SSD-Verschleiß in Prozent, Betriebszeit und Fehler. Oben steht eine klare Bewertung: Grün – alles gut, Gelb – prüfen, Rot – jetzt sichern. Sie sehen außerdem, wie viel Platz auf jedem Laufwerk frei ist, und öffnen bei Platzmangel Rdzeń mit einem Klick. Das Programm verändert nichts an Ihren Laufwerken und verbindet sich nie mit dem Internet.\n\nLäuft Strażnik im Hintergrund, prüft die Laufwerke alle paar Stunden und benachrichtigt Sie, wenn sich etwas verschlechtert. Dazu kommen Diagramme für Temperatur und Verschleiß, eine SSD-Prognose und ein Bericht zum Speichern oder Drucken."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "lacze",
       "Name": "Łącze",
       "Publisher": "AppsForPeople",
@@ -245,15 +251,15 @@
         "en": "“Everything is fine on our side” – that\u0027s what the helpline usually says. Łącze checks every 15 seconds whether your internet works and logs every outage with its exact time and duration. It also tells you where the problem is: with your provider, or in your own Wi-Fi and router. The speed test shows download, upload and ping, and a comparison with your contract speed tells you whether you get what you pay for. The screen shows live ping for the last hour and today\u0027s number of outages.\n\nŁącze watches your internet 24/7 in the background, runs speed tests automatically and notifies you when the connection comes back after an outage. One click creates a report for your provider with the outages and test results from the last 30 days – ready to print and attach to your complaint.",
         "ro": "„La noi totul funcționează” – așa răspunde de obicei serviciul clienți. Łącze verifică la fiecare 15 secunde dacă internetul funcționează și înregistrează fiecare întrerupere cu ora exactă și durata. Arată și unde este problema: la furnizor sau în Wi-Fi-ul și routerul tău. Testul de viteză arată descărcarea, încărcarea și ping-ul, iar comparația cu viteza din contract îți spune dacă primești ce plătești. Pe ecran vezi în direct ping-ul din ultima oră și numărul de întreruperi de azi.\n\nŁącze supraveghează internetul 24/7 în fundal, face automat teste de viteză și te anunță când conexiunea revine după o întrerupere. Cu un clic creezi un raport pentru furnizor cu întreruperile și testele din ultimele 30 de zile – gata de tipărit și de atașat la reclamație.",
         "de": "„Bei uns funktioniert alles“ – das hört man oft von der Hotline. Łącze prüft alle 15 Sekunden, ob Ihr Internet funktioniert, und protokolliert jeden Ausfall mit genauer Uhrzeit und Dauer. Es erkennt auch, wo das Problem liegt: beim Anbieter oder im eigenen WLAN und Router. Der Geschwindigkeitstest zeigt Download, Upload und Ping, und der Vergleich mit der Vertragsgeschwindigkeit zeigt, ob Sie bekommen, wofür Sie bezahlen. Auf dem Bildschirm sehen Sie live den Ping der letzten Stunde und die Ausfälle von heute.\n\nüberwacht Łącze Ihr Internet rund um die Uhr im Hintergrund, führt automatisch Geschwindigkeitstests durch und benachrichtigt Sie, wenn die Verbindung nach einem Ausfall zurück ist. Mit einem Klick erstellen Sie einen Bericht für den Anbieter mit den Ausfällen und Testergebnissen der letzten 30 Tage – bereit zum Drucken und für Ihre Beschwerde."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
+      "Changelog": {
+        "pl": "• Opiekun znowu ma wersję PRO: 13 zł / miesiąc albo 109 zł / rok (więcej dzieci, sterowanie z innego komputera, wykresy). Podstawowa ochrona zostaje za darmo",
+        "en": "• Opiekun has a PRO version again: 13 PLN / month or 109 PLN / year (more children, remote control, charts). Basic protection stays free",
+        "ro": "• Opiekun are din nou versiune PRO: 13 PLN / lună sau 109 PLN / an. Protecția de bază rămâne gratuită",
+        "de": "• Opiekun hat wieder eine PRO-Version: 13 PLN / Monat oder 109 PLN / Jahr. Der Grundschutz bleibt kostenlos"
+      },
       "Id": "opiekun-dziecko",
       "Name": "Opiekun – komputer dziecka",
       "Publisher": "AppsForPeople",
@@ -296,15 +302,15 @@
         "en": "This package is installed on your child\u0027s computer. Sign in there to the parent (administrator) account and start it from the launcher – protection setup opens straight away. Set a PIN, tick the child\u0027s account and you\u0027re done. Your child gets their own app with a time counter and an “Ask for more time” button.\n\nProtection cannot be uninstalled without the parent PIN, and if someone tries to switch it off you\u0027ll see an alert in the parent panel. You control this computer from your own – on the home network, without going to your child\u0027s room. It\u0027s the same Opiekun and the same licence.",
         "ro": "Acest pachet se instalează pe calculatorul copilului. Conectează-te acolo pe contul părintelui (administrator) și pornește-l din launcher – se deschide direct instalarea protecției. Setezi PIN-ul, bifezi contul copilului și gata. Copilul primește aplicația lui cu cronometru și butonul „Cere mai mult timp”.\n\nProtecția nu poate fi dezinstalată fără PIN-ul de părinte, iar dacă cineva încearcă s-o oprească, vei vedea o alertă în panoul părintelui. Controlezi acest calculator de pe al tău – în rețeaua de acasă. Este același Opiekun și aceeași licență.",
         "de": "Dieses Paket wird auf dem Kindercomputer installiert. Dort im Eltern-Konto (Administrator) anmelden und aus dem Launcher starten – die Schutzeinrichtung öffnet sich sofort. PIN festlegen, Kinderkonto wählen, fertig. Ihr Kind erhält eine eigene App mit Zeitanzeige und „Mehr Zeit anfragen“.\n\nDer Schutz lässt sich ohne Eltern-PIN nicht deinstallieren, und wenn jemand ihn abschalten will, sehen Sie eine Warnung im Elternpanel. Steuern Sie diesen Computer von Ihrem aus – im Heimnetz. Es ist derselbe Opiekun mit derselben Lizenz."
-      },
-      "Changelog": {
-        "pl": "• Opiekun znowu ma wersję PRO: 13 zł / miesiąc albo 109 zł / rok (więcej dzieci, sterowanie z innego komputera, wykresy). Podstawowa ochrona zostaje za darmo",
-        "en": "• Opiekun has a PRO version again: 13 PLN / month or 109 PLN / year (more children, remote control, charts). Basic protection stays free",
-        "ro": "• Opiekun are din nou versiune PRO: 13 PLN / lună sau 109 PLN / an. Protecția de bază rămâne gratuită",
-        "de": "• Opiekun hat wieder eine PRO-Version: 13 PLN / Monat oder 109 PLN / Jahr. Der Grundschutz bleibt kostenlos"
       }
     },
     {
+      "Changelog": {
+        "pl": "• Przeglądarka zostaje całkowicie darmowa\n• „Edytuj PDF” – edycja jest w Teczce PRO (13 zł / miesiąc albo 109 zł / rok); przycisk prowadzi do zakupu",
+        "en": "• The viewer stays completely free\n• “Edit PDF” – editing is in Teczka PRO (13 PLN / month or 109 PLN / year); the button leads to the purchase",
+        "ro": "• Vizualizatorul rămâne complet gratuit\n• „Editează PDF” – editarea este în Teczka PRO",
+        "de": "• Der Viewer bleibt komplett kostenlos\n• „PDF bearbeiten“ – Bearbeitung in Teczka PRO"
+      },
       "Id": "teczka-podglad",
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
@@ -347,15 +353,15 @@
         "en": "Teczka – PDF viewer opens PDF documents with a double-click, like Adobe Reader, but with no ads, accounts or clutter. Scroll all pages one after another, zoom with Ctrl+mouse wheel, search the whole document (Ctrl+F), print (Ctrl+P) and copy text. It also opens password-protected PDFs.\n\nThe program is completely free and works only on your computer. Need to fix text, sign or merge files? Click “Edit PDF” – editing is in the Teczka program (with a licence).",
         "ro": "Teczka – vizualizator PDF deschide documente PDF cu dublu clic, ca Adobe Reader, dar fără reclame, conturi sau lucruri inutile. Derulezi toate paginile, mărești cu Ctrl+rotiță, cauți în tot documentul (Ctrl+F), tipărești (Ctrl+P) și copiezi text. Deschide și PDF-uri cu parolă.\n\nProgramul este complet gratuit și funcționează doar pe calculatorul tău. Vrei să corectezi text, să semnezi sau să unești fișiere? Apasă „Editează PDF” – editarea este în programul Teczka (cu licență).",
         "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
-      },
-      "Changelog": {
-        "pl": "• Przeglądarka zostaje całkowicie darmowa\n• „Edytuj PDF” – edycja jest w Teczce PRO (13 zł / miesiąc albo 109 zł / rok); przycisk prowadzi do zakupu",
-        "en": "• The viewer stays completely free\n• “Edit PDF” – editing is in Teczka PRO (13 PLN / month or 109 PLN / year); the button leads to the purchase",
-        "ro": "• Vizualizatorul rămâne complet gratuit\n• „Editează PDF” – editarea este în Teczka PRO",
-        "de": "• Der Viewer bleibt komplett kostenlos\n• „PDF bearbeiten“ – Bearbeitung in Teczka PRO"
       }
     },
     {
+      "Changelog": {
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+      },
       "Id": "rachunki",
       "Name": "Dom",
       "Publisher": "AppsForPeople",
@@ -400,15 +406,15 @@
         "en": "Rachunki is a simple home budget. Add your income (employment, mandate contract, B2B or other) and bills one by one: rent, electricity, loans, subscriptions. The program instantly shows what\u0027s left after bills, what is still unpaid and what is overdue. Two letters of a name are enough – Rachunki suggests earlier entries with their amounts. The list can be searched from 2 letters, and the “Whole year” page shows every month in one table.\n\nYou can share bills with others (e.g. A flatmate pays 50% of the rent) and see who owes you how much and whether they have paid back. Recurring bills move to a new month with one click, and you can export your data to Excel. Everything stays on your computer – the program never connects to your bank or any service.",
         "ro": "Rachunki este un buget casnic simplu. Adaugi pe rând veniturile (contract de muncă, contract de mandat, B2B sau altele) și facturile: chirie, curent, rate, abonamente. Programul arată imediat cât rămâne după plăți, ce mai e de plătit și ce e restant. Două litere din nume sunt suficiente – Rachunki sugerează intrările anterioare cu sumele lor. Lista se caută de la 2 litere, iar pagina „Tot anul” arată toate lunile într-un singur tabel.\n\nÎmparți facturile cu alții (ex. Colegul plătește 50% din chirie) și vezi cine cât îți datorează și dacă a returnat. Facturile fixe se copiază în luna nouă cu un clic, iar datele se exportă în Excel. Totul rămâne pe calculatorul tău – programul nu se conectează la bancă sau la vreun serviciu.",
         "de": "Rachunki ist ein einfaches Haushaltsbuch. Du trägst nacheinander Einnahmen (Arbeitsvertrag, Auftrag, B2B oder Sonstiges) und Rechnungen ein: Miete, Strom, Raten, Abos. Das Programm zeigt sofort, was nach den Rechnungen übrig bleibt, was noch offen und was überfällig ist. Zwei Buchstaben reichen – Rachunki schlägt frühere Einträge mit Betrag vor. Die Liste ist ab 2 Buchstaben durchsuchbar, die Seite „Ganzes Jahr“ zeigt alle Monate in einer Tabelle.\n\nTeilst du Rechnungen mit anderen (z. B. Zahlt der Mitbewohner 50 % der Miete) und siehst, wer dir wie viel schuldet und ob schon zurückgezahlt wurde. Feste Rechnungen übernimmst du mit einem Klick in den neuen Monat, und die Daten lassen sich nach Excel exportieren. Alles bleibt auf deinem Computer – das Programm verbindet sich weder mit der Bank noch mit einem Dienst."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "auto",
       "Name": "Auto",
       "Publisher": "AppsForPeople",
@@ -453,15 +459,15 @@
         "en": "Auto calculates real fuel consumption (full to full), fuel cost per km and yearly spending. After refuelling just enter odometer, litres and amount.\n\nAlso included: several cars, service log with kilometre reminders, insurance and inspection sent to Terminy, and a PDF service history – documented cars sell for more.",
         "ro": "Auto calculează consumul real, costul pe km și cheltuielile anuale.\n\nInclus și: mai multe mașini, service cu memento, asigurare și ITP în Terminy și istoric service PDF.",
         "de": "Auto berechnet den echten Verbrauch, Spritkosten pro km und Jahresausgaben.\n\nAußerdem dabei: mehrere Autos, Service mit km-Erinnerung, Versicherung und TÜV in Terminy und Servicehistorie als PDF."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "automatyk",
       "Name": "Automatyk",
       "Publisher": "AppsForPeople",
@@ -506,15 +512,15 @@
         "en": "Automatyk does quick conversions for panel building and commissioning: 4–20 mA / 0–10 V ↔ physical value ↔ S7 raw value (0–27648), PT100/PT500/PT1000 ↔ temperature per IEC 60751 and Ohm\u0027s law with power. Works offline.\n\nAlso included: motor rated current from power, cable voltage drop with smallest cross-section, calculation history with device tags and a PDF report for project documentation.",
         "ro": "Automatyk face conversii rapide: 4–20 mA ↔ valoare fizică ↔ valoare brută S7, PT100 ↔ temperatură, legea lui Ohm. Funcționează offline.\n\nInclus și: curent motor, cădere de tensiune și secțiune minimă, istoric și raport PDF.",
         "de": "Automatyk rechnet schnell um: 4–20 mA ↔ physikalischer Wert ↔ S7-Rohwert, PT100 ↔ Temperatur, Ohmsches Gesetz. Offline.\n\nAußerdem dabei: Motorstrom, Spannungsfall mit kleinstem Querschnitt, Verlauf und PDF-Bericht."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "godziny",
       "Name": "Czas pracy",
       "Publisher": "AppsForPeople",
@@ -559,15 +565,15 @@
         "en": "Godziny tracks work time with one click: Start when you begin, Stop when you finish – the timer keeps running even after closing the program. Forgot? Add time manually. See hours for today, the week and the month.\n\nAlso included: many clients and projects, hourly rates and monthly earnings, and a monthly PDF summary – ready to attach to an invoice.",
         "ro": "Godziny măsoară timpul de lucru cu un clic: Start când începi, Stop când termini. Ai uitat? Adaugi timpul manual.\n\nInclus și: mai mulți clienți și proiecte, tarife orare, câștig lunar și raport PDF lunar pentru factură.",
         "de": "Godziny erfasst Arbeitszeit mit einem Klick: Start und Stopp – der Zähler läuft auch nach dem Schließen weiter. Vergessen? Zeit manuell nachtragen.\n\nAußerdem dabei: mehrere Kunden und Projekte, Stundensätze, Monatsverdienst und PDF-Monatsübersicht als Rechnungsanlage."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
+      "Changelog": {
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+      },
       "Id": "liczniki",
       "Name": "Liczniki",
       "Publisher": "AppsForPeople",
@@ -612,15 +618,15 @@
         "en": "Liczniki stores meter readings and calculates daily and monthly usage, so you see at once whether you use more than usual.\n\nWith PRO: many meters and homes, cost by your tariff and fixed fees, year-to-year comparison, a sudden-usage alarm (e.g. a leaking toilet) and a monthly reading reminder in Terminy.",
         "ro": "Liczniki reține indexurile și calculează consumul zilnic și lunar.\n\nCu PRO: mai multe contoare, cost după tarif, comparație an la an, alarmă și memento lunar în Terminy.",
         "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
+      "Changelog": {
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+      },
       "Id": "porty",
       "Name": "Porty",
       "Publisher": "AppsForPeople",
@@ -663,15 +669,15 @@
         "en": "“Port 3000 is already in use”? Porty lists all TCP and UDP ports with program name and PID, searches from 2 characters and ends a process with one click (system processes are protected).\n\nAlso included: a user PATH editor with a backup before every change and missing folders highlighted, auto-refresh every 2 seconds and a free-port check.",
         "ro": "Porty arată toate porturile TCP și UDP cu programul și PID-ul și închide procesul cu un clic.\n\nInclus și: editor PATH cu copie de siguranță, reîmprospătare automată și verificarea porturilor libere.",
         "de": "Porty zeigt alle TCP- und UDP-Ports mit Programm und PID und beendet Prozesse mit einem Klick.\n\nAußerdem dabei: PATH-Editor mit Sicherung, automatische Aktualisierung und Prüfung freier Ports."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "ramki",
       "Name": "Ramki",
       "Publisher": "AppsForPeople",
@@ -716,15 +722,15 @@
         "en": "Ramki converts orientations between robot brands: KUKA A, B, C, Fanuc/Yaskawa W, P, R, ABB quaternion and rotation matrix. Paste numbers from the teach pendant and get every format at once.\n\nAlso included: point transformation between BASE and WORLD, base from 3 measured points, tool TCP with the 4-point method and accuracy check, and ready lines for KRL, RAPID and Fanuc.",
         "ro": "Ramki convertește orientarea între roboți: KUKA ABC, Fanuc WPR, cuaternion ABB și matrice.\n\nInclus și: transformare puncte BASE ↔ WORLD, bază din 3 puncte, TCP prin metoda 4 puncte și linii pentru KRL, RAPID, Fanuc.",
         "de": "Ramki rechnet Orientierungen zwischen Roboterherstellern um: KUKA ABC, Fanuc WPR, ABB-Quaternion und Matrix.\n\nAußerdem dabei: Punkte BASE ↔ WORLD, Basis aus 3 Punkten, TCP mit 4-Punkt-Methode und fertige Zeilen für KRL, RAPID, Fanuc."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
+      "Changelog": {
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+      },
       "Id": "schowek",
       "Name": "Schowek",
       "Publisher": "AppsForPeople",
@@ -767,15 +773,15 @@
         "en": "Schowek remembers the texts you copy (Ctrl+C). Type 2 letters, find and copy back with Enter. Passwords marked private by password managers are skipped. The history on disk is encrypted (only your Windows account can read it). Free version keeps the last 25 entries.\n\nWith PRO: up to 1000 entries, pinned texts (tax ID, account number, address), images and a Ctrl+Shift+V shortcut from any program.",
         "ro": "Schowek reține textele copiate; istoricul este criptat; gratuit ultimele 25.\n\nCu PRO: până la 1000 de intrări, texte fixate, imagini și Ctrl+Shift+V.",
         "de": "Schowek merkt sich kopierte Texte; der Verlauf wird verschlüsselt; kostenlos die letzten 25.\n\nMit PRO: bis 1000 Einträge, angeheftete Texte, Bilder und Strg+Umschalt+V."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
+      "Changelog": {
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+      },
       "Id": "tabliczka",
       "Name": "Tabliczka",
       "Publisher": "AppsForPeople",
@@ -819,15 +825,15 @@
         "en": "Tabliczka is a simple game for grades 1–3: big buttons, stars for right answers and streaks. No ads, chats or in-game purchases.\n\nAlso included: Polish spelling (ó/u, rz/ż, ch/h, ą/ę), levels up to 20 and 100 and a parent report showing what goes well and what needs practice.",
         "ro": "Tabliczka este un joc simplu pentru clasele 1–3, fără reclame.\n\nInclus și: ortografie poloneză, niveluri până la 20 și 100 și raport pentru părinți.",
         "de": "Tabliczka ist ein einfaches Lernspiel für die Klassen 1–3, ohne Werbung.\n\nAußerdem dabei: polnische Rechtschreibung, Stufen bis 20 und 100 und ein Elternbericht."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "zrzut",
       "Name": "Zrzut i Schowek",
       "Publisher": "AppsForPeople",
@@ -871,15 +877,15 @@
         "en": "Zrzut selects part of the screen (Ctrl+Shift+S from any program); add arrows, boxes and text, then copy the image into an e-mail or save it as PNG.\n\nAlso included: blurring personal data, numbered steps and a step-by-step PDF guide from many screenshots – for a client, colleague or parent.",
         "ro": "Zrzut selectează o zonă a ecranului; adaugi săgeți și text, apoi copiezi sau salvezi PNG.\n\nInclus și: estompare, pași numerotați și ghid PDF pas cu pas.",
         "de": "Zrzut wählt einen Bildschirmbereich; Pfeile und Text hinzufügen, kopieren oder als PNG speichern.\n\nAußerdem dabei: Verpixeln, nummerierte Schritte und Schritt-für-Schritt-PDF."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "najem",
       "Name": "Najem",
       "Publisher": "AppsForPeople",
@@ -924,15 +930,15 @@
         "en": "Najem shows who has paid the rent, who is behind and by how much – monthly and in total. Mark a payment with one click; deposits, due dates and lease periods are remembered.\n\nAlso included: several flats, a yearly income summary as PDF and CSV for your accountant and rent reminders in Terminy.",
         "ro": "Najem arată cine a plătit chiria și cine e restant.\n\nInclus și: mai multe apartamente, rezumat anual PDF/CSV și mementouri.",
         "de": "Najem zeigt, wer die Miete gezahlt hat und wer im Rückstand ist.\n\nAußerdem dabei: mehrere Wohnungen, Jahresübersicht als PDF/CSV und Erinnerungen."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "ekran",
       "Name": "Ekran",
       "Publisher": "AppsForPeople",
@@ -976,15 +982,15 @@
         "en": "Ekran warms the monitor colours and lowers brightness so your eyes tire less and falling asleep is easier. It also reminds you to rest your eyes (20-20-20 rule). Colours return to normal on exit.\n\nAlso included: automatic, smooth evening warming by schedule, profiles (day, evening work, night, movie) and a daily screen-time counter.",
         "ro": "Ekran încălzește culorile și reduce luminozitatea, plus pauze pentru ochi.\n\nInclus și: încălzire automată seara, profiluri și contor de timp la ecran.",
         "de": "Ekran macht die Farben wärmer und dimmt, dazu Augenpausen.\n\nAußerdem dabei: automatische Abendwärme, Profile und täglicher Bildschirmzeit-Zähler."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
+      "Changelog": {
+        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
+        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
+        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
+        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
+      },
       "Id": "grafik",
       "Name": "Grafik",
       "Publisher": "AppsForPeople",
@@ -1029,34 +1035,34 @@
         "en": "Build the rota in a grid; Grafik instantly shows rest-period breaches, too many or too few hours and missing free Sundays. Holidays and monthly norms are automatic.\n\nWith PRO: unlimited employees (free: 3), rota and time records as PDF.",
         "ro": "Program de lucru cu verificarea odihnei și a normelor.\n\nCu PRO: angajați nelimitați, PDF.",
         "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
+      "Changelog": {
+        "pl": "• Zdjęcia znowu mają wersję PRO: 5 zł / miesiąc albo 39 zł / rok (bez limitu zdjęć naraz, znak wodny, własne nazwy). Do 20 zdjęć naraz – za darmo",
+        "en": "• Zdjęcia has a PRO version again: 5 PLN / month or 39 PLN / year (unlimited photos, watermark, custom names). Up to 20 photos at once – free",
+        "ro": "• Zdjęcia are din nou versiune PRO: 5 PLN / lună sau 39 PLN / an. Până la 20 de fotografii odată – gratuit",
+        "de": "• Zdjęcia hat wieder eine PRO-Version: 5 PLN / Monat oder 39 PLN / Jahr. Bis zu 20 Fotos auf einmal – kostenlos"
+      },
       "Id": "zdjecia",
       "Name": "Zdjęcia",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.12",
+      "Version": "1.0.13",
       "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.12/Zdjecia.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.13/Zdjecia.zip",
       "FileName": "Zdjecia.zip",
-      "Sha256": "5bc1bdd258b2dfa11c0107b4ce6ec9dddfe56beb03d60ebb3a91821a6c5eb6e7",
-      "Size": 620299,
+      "Sha256": "db497565fbb6b335804c292f5a144024e1cf3bcea56863e52107a512be3c3fbe",
+      "Size": 622132,
       "Args": null,
       "Launch": "Zdjecia.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261122204907-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261122213906-1.jpg"
       ],
-      "Price": "",
+      "Price": "5 zł / mies.",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1076,19 +1082,19 @@
         "de": "HEIC zu JPG, verkleinern, quadratisch, komprimieren."
       },
       "Description": {
-        "pl": "Przeciągasz zdjęcia albo cały folder, wybierasz format, rozmiar i jakość – i gotowe. Zdjęcia obracają się same według zapisu z aparatu, a oryginały zostają nietknięte. Wszystko na Twoim komputerze, bez wysyłania gdziekolwiek.\n\nW zestawie także: bez limitu zdjęć naraz, znak wodny z nazwą sklepu i własne nazwy plików (np. Kody produktów).",
-        "en": "Drag photos or a whole folder, choose format, size and quality – done. Photos are rotated automatically, originals stay untouched, nothing is uploaded.\n\nAlso included: unlimited photos, watermark and custom file names.",
+        "pl": "Przeciągasz zdjęcia albo cały folder, wybierasz format, rozmiar i jakość – i gotowe. Zdjęcia obracają się same według zapisu z aparatu, a oryginały zostają nietknięte. Wszystko na Twoim komputerze, bez wysyłania gdziekolwiek.\n\nW wersji PRO: bez limitu zdjęć naraz, znak wodny z nazwą sklepu i własne nazwy plików (np. Kody produktów).",
+        "en": "Drag photos or a whole folder, choose format, size and quality – done. Photos are rotated automatically, originals stay untouched, nothing is uploaded.\n\nIn PRO: unlimited photos, watermark and custom file names.",
         "ro": "Conversie rapidă a fotografiilor, local.\n\nInclus și: fără limită, filigran, nume proprii.",
         "de": "Schnelle Fotokonvertierung, lokal.\n\nAußerdem dabei: unbegrenzt, Wasserzeichen, eigene Namen."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "ciecie",
       "Name": "Planer cięcia",
       "Publisher": "AppsForPeople",
@@ -1132,15 +1138,15 @@
         "en": "Enter the sheet size, kerf and parts with quantities and grain direction. The planner packs them, draws each sheet, and reports sheets, usage, waste, cost and edge banding. A separate tab cuts boards and profiles from bars.\n\nAlso included: unlimited parts (free: 15), PDF with layouts and cutting list, saved projects.",
         "ro": "Optimizare tăiere.\n\nInclus și: nelimitat, PDF, proiecte.",
         "de": "Zuschnittplanung.\n\nAußerdem dabei: unbegrenzt, PDF, Projekte."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "druk3d",
       "Name": "Druk 3D",
       "Publisher": "AppsForPeople",
@@ -1185,15 +1191,15 @@
         "en": "Drop files or folders – thumbnails, size and volume from STL; grams and time from G-code. Cost calculator with filament, power, wear, work, failure reserve and margin. Print history with profit.\n\nAlso included: unlimited library (free: 20), client quote PDF, CSV export.",
         "ro": "Bibliotecă și cost.\n\nInclus și: nelimitat, PDF, CSV.",
         "de": "Bibliothek und Kosten.\n\nAußerdem dabei: unbegrenzt, PDF, CSV."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "elektronik",
       "Name": "Elektronik",
       "Publisher": "AppsForPeople",
@@ -1237,15 +1243,15 @@
         "en": "Type values like on a schematic and get results instantly: resistor bands, LED resistor (E12), divider, Ohm, NE555, RC filter. Keep a parts drawer inventory with low-stock warnings.\n\nAlso included: unlimited parts (free: 30), shopping list PDF, drawer labels.",
         "ro": "Calculatoare și inventar piese.\n\nInclus și: nelimitat, PDF, etichete.",
         "de": "Rechner und Teilelager.\n\nAußerdem dabei: unbegrenzt, PDF, Etiketten."
-      },
+      }
+    },
+    {
       "Changelog": {
         "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
+      },
       "Id": "skaner",
       "Name": "Skaner Androida",
       "Publisher": "AppsForPeople",
@@ -1289,15 +1295,15 @@
         "en": "Checks all user-installed apps over adb: overlay permission, device admin, accessibility, hidden icon, sideloaded. Every result lists its reasons. Only apps on your threat list (SHA-256 or package) are marked CERTAIN. Requires the free Android Platform-Tools.\n\nAlso included: one-click uninstall/disable, SHA-256 check, client PDF report.",
         "ro": "Scanare prin adb.\n\nInclus și: dezinstalare, SHA-256, PDF.",
         "de": "Scan per adb.\n\nAußerdem dabei: Deinstallation, SHA-256, PDF."
-      },
-      "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
+      "Changelog": {
+        "pl": "• Teczka (edytor PDF) to znowu program z licencją PRO: 13 zł / miesiąc albo 109 zł / rok. Czytanie i drukowanie PDF zostaje za darmo\n• Darmowa przeglądarka PDF: przycisk „Edytuj PDF” prowadzi do zakupu Teczki PRO",
+        "en": "• Teczka (PDF editor) is a PRO app again: 13 PLN / month or 109 PLN / year. Reading and printing PDFs stays free\n• Free PDF viewer: the “Edit PDF” button leads to buying Teczka PRO",
+        "ro": "• Teczka (editor PDF) are din nou licență PRO: 13 PLN / lună sau 109 PLN / an. Citirea și tipărirea PDF rămân gratuite",
+        "de": "• Teczka (PDF-Editor) ist wieder ein PRO-Programm: 13 PLN / Monat oder 109 PLN / Jahr. Lesen und Drucken bleibt kostenlos"
+      },
       "Id": "teczka",
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
@@ -1342,12 +1348,6 @@
         "en": "Contracts, invoices and scans with your ID or bank details shouldn\u0027t end up on random “online PDF” websites. Teczka does everything on your own computer. Click text in a document to correct it, add missing details, cover what others shouldn\u0027t see, highlight important parts and sign with your mouse or finger. Turn photos and scans into one PDF, merge several files, extract, rotate or delete pages, and turn plain text into a clean A4 document. The original is never overwritten: the result is always saved as a new file.\n\nReading and printing PDFs is free – Teczka can be your PDF program. A licence unlocks everything that changes or creates files: saving from the editor, text and photos → PDF, merging, pages, compression, password, watermark, page numbers and converting Word, Excel and PowerPoint to PDF.",
         "ro": "Contractele, facturile și scanările cu CNP sau date bancare nu ar trebui să ajungă pe site-uri „PDF online” oarecare. Teczka face totul pe calculatorul tău. Dai clic pe text și îl corectezi, adaugi datele lipsă, acoperi ce nu trebuie să vadă alții, evidențiezi părțile importante și semnezi cu mouse-ul sau cu degetul. Transformi fotografii și scanări într-un singur PDF, unești mai multe fișiere, extragi, rotești sau ștergi pagini și faci dintr-un text un document A4 îngrijit. Originalul nu este suprascris niciodată: rezultatul se salvează mereu ca fișier nou.\n\nCitirea și tipărirea PDF sunt gratuite – Teczka poate fi programul tău pentru PDF. Licența deblochează tot ce modifică sau creează fișiere: salvarea din editor, text și poze → PDF, unire, pagini, micșorare, parolă, filigran, numere de pagină și conversia Word, Excel și PowerPoint în PDF.",
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
-      },
-      "Changelog": {
-        "pl": "• Teczka (edytor PDF) to znowu program z licencją PRO: 13 zł / miesiąc albo 109 zł / rok. Czytanie i drukowanie PDF zostaje za darmo\n• Darmowa przeglądarka PDF: przycisk „Edytuj PDF” prowadzi do zakupu Teczki PRO",
-        "en": "• Teczka (PDF editor) is a PRO app again: 13 PLN / month or 109 PLN / year. Reading and printing PDFs stays free\n• Free PDF viewer: the “Edit PDF” button leads to buying Teczka PRO",
-        "ro": "• Teczka (editor PDF) are din nou licență PRO: 13 PLN / lună sau 109 PLN / an. Citirea și tipărirea PDF rămân gratuite",
-        "de": "• Teczka (PDF-Editor) ist wieder ein PRO-Programm: 13 PLN / Monat oder 109 PLN / Jahr. Lesen und Drucken bleibt kostenlos"
       }
     }
   ],
