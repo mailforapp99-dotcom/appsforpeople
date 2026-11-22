@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:48:58Z",
+  "Updated": "2026-11-22T20:49:05Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -309,21 +309,21 @@
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.18",
-      "Date": "2026-11-21",
+      "Version": "1.1.21",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.18/TeczkaPodglad.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.21/TeczkaPodglad.zip",
       "FileName": "TeczkaPodglad.zip",
-      "Sha256": "e4856ef564cf04313c4f5311aceb8c12b460c640db74c4d2005aec63a0d06548",
-      "Size": 4533335,
+      "Sha256": "1602f5cbd77010fc77dbde2082b22bf23849cf780cb3b393b0348d48fb9d6a19",
+      "Size": 4534395,
       "Args": null,
       "Launch": "TeczkaPodglad.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261121222638-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261122204900-1.jpg"
       ],
-      "Price": "Za darmo",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -349,10 +349,10 @@
         "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
