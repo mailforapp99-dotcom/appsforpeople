@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:47:38Z",
+  "Updated": "2026-11-22T20:47:43Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -103,13 +103,13 @@
       "Name": "Opiekun",
       "Publisher": "AppsForPeople",
       "Category": "Rodzina",
-      "Version": "1.2.17",
-      "Date": "2026-11-21",
+      "Version": "1.2.20",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.17/Opiekun.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/opiekun-v1.2.20/Opiekun.zip",
       "FileName": "Opiekun.zip",
-      "Sha256": "bd5b7e63d8416a8afbf1db2ed5651f29348f55669e587d2c818f9b4b06e3e297",
-      "Size": 425550,
+      "Sha256": "97b15b2afc2f2dc936c12167dfb672e28dc4fd5c0d99e5309db6ee8db59160e9",
+      "Size": 427952,
       "Args": "",
       "Launch": "Opiekun.exe",
       "UninstallName": "",
@@ -117,10 +117,10 @@
       "Shots": [
         
       ],
-      "Price": "5 zł / miesiąc",
+      "Price": "",
       "Website": "",
       "Page": null,
-      "BuyUrl": "",
+      "BuyUrl": null,
       "Color": "#A78BFA",
       "Featured": false,
       "Hidden": false,
@@ -137,16 +137,16 @@
         "de": "Faire Kindersicherung: Zeitlimits am Computer, erlaubte Zeiten und Anfragen nach mehr Zeit."
       },
       "Description": {
-        "pl": "Opiekun pomaga ustalić zdrowe zasady korzystania z komputera bez kłótni. Ustawiasz dzienny limit osobno na każdy dzień tygodnia, a dziecko zawsze widzi, ile czasu mu zostało. Na 5 i 1 minutę przed końcem dostaje ostrzeżenie, żeby zdążyło zapisać pracę. Gdy potrzebuje więcej czasu, np. na zadanie domowe, wysyła prośbę, a Ty jednym kliknięciem się zgadzasz albo odmawiasz. Opiekun działa jako usługa Windows, więc dziecko na koncie standardowym nie może go wyłączyć. Panel rodzica chroni PIN.\n\nOpiekun jest uczciwy wobec dziecka: dziecko widzi, że kontrola jest włączona. Program nie robi zrzutów ekranu, nie czyta wiadomości i nie zapisuje odwiedzanych stron. W wersji PRO możesz dodać więcej dzieci, ustawić dozwolone godziny (np. 8:00–20:00), zablokować wybrane gry i programy oraz zobaczyć, czego dziecko używało i jak wyglądał jego tydzień na wykresie. Dziecko ma własny komputer? Z wersją PRO sterujesz nim ze swojego komputera w domowej sieci – bez chodzenia do jego pokoju.",
-        "en": "Opiekun helps you set healthy computer rules without arguments. You set a daily limit separately for each day of the week, and your child always sees how much time is left. A warning appears 5 minutes and 1 minute before the end, so there is time to save work. When your child needs more time, for example for homework, they send a request and you approve or decline it with one click. Opiekun runs as a Windows service, so a child with a standard account cannot switch it off. The parent panel is protected by a PIN.\n\nOpiekun is fair to your child: the child can see that parental control is on. The program takes no screenshots, reads no messages and records no websites. With PRO you can add more children, set allowed hours (e.g. 8:00–20:00), block chosen games and programs, and see which apps your child used and how their week looked on a chart. Does your child have their own computer? With PRO you control it from your own computer on your home network – no need to go to their room.",
-        "ro": "Opiekun te ajută să stabilești reguli sănătoase pentru calculator, fără certuri. Setezi o limită zilnică separat pentru fiecare zi a săptămânii, iar copilul vede mereu cât timp i-a rămas. Cu 5 minute și cu 1 minut înainte de final primește un avertisment, ca să-și poată salva munca. Când are nevoie de mai mult timp, de exemplu pentru teme, trimite o cerere, iar tu aprobi sau refuzi cu un clic. Opiekun rulează ca serviciu Windows, deci un copil cu cont standard nu îl poate opri. Panoul părintelui este protejat cu PIN.\n\nOpiekun este corect față de copil: copilul vede că controlul parental este activ. Programul nu face capturi de ecran, nu citește mesaje și nu înregistrează site-urile vizitate. Cu PRO poți adăuga mai mulți copii, seta ore permise (de ex. 8:00–20:00), bloca jocuri și programe alese și vedea ce aplicații a folosit copilul și cum a arătat săptămâna lui într-un grafic. Copilul are propriul calculator? Cu PRO îl controlezi de pe calculatorul tău, în rețeaua de acasă – fără să mergi în camera lui.",
-        "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Mit PRO können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Mit PRO steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
+        "pl": "Opiekun pomaga ustalić zdrowe zasady korzystania z komputera bez kłótni. Ustawiasz dzienny limit osobno na każdy dzień tygodnia, a dziecko zawsze widzi, ile czasu mu zostało. Na 5 i 1 minutę przed końcem dostaje ostrzeżenie, żeby zdążyło zapisać pracę. Gdy potrzebuje więcej czasu, np. Na zadanie domowe, wysyła prośbę, a Ty jednym kliknięciem się zgadzasz albo odmawiasz. Opiekun działa jako usługa Windows, więc dziecko na koncie standardowym nie może go wyłączyć. Panel rodzica chroni PIN.\n\nOpiekun jest uczciwy wobec dziecka: dziecko widzi, że kontrola jest włączona. Program nie robi zrzutów ekranu, nie czyta wiadomości i nie zapisuje odwiedzanych stron. Możesz dodać więcej dzieci, ustawić dozwolone godziny (np. 8:00–20:00), zablokować wybrane gry i programy oraz zobaczyć, czego dziecko używało i jak wyglądał jego tydzień na wykresie. Dziecko ma własny komputer? Sterujesz nim ze swojego komputera w domowej sieci – bez chodzenia do jego pokoju.",
+        "en": "Opiekun helps you set healthy computer rules without arguments. You set a daily limit separately for each day of the week, and your child always sees how much time is left. A warning appears 5 minutes and 1 minute before the end, so there is time to save work. When your child needs more time, for example for homework, they send a request and you approve or decline it with one click. Opiekun runs as a Windows service, so a child with a standard account cannot switch it off. The parent panel is protected by a PIN.\n\nOpiekun is fair to your child: the child can see that parental control is on. The program takes no screenshots, reads no messages and records no websites. You can add more children, set allowed hours (e.g. 8:00–20:00), block chosen games and programs, and see which apps your child used and how their week looked on a chart. Does your child have their own computer? You control it from your own computer on your home network – no need to go to their room.",
+        "ro": "Opiekun te ajută să stabilești reguli sănătoase pentru calculator, fără certuri. Setezi o limită zilnică separat pentru fiecare zi a săptămânii, iar copilul vede mereu cât timp i-a rămas. Cu 5 minute și cu 1 minut înainte de final primește un avertisment, ca să-și poată salva munca. Când are nevoie de mai mult timp, de exemplu pentru teme, trimite o cerere, iar tu aprobi sau refuzi cu un clic. Opiekun rulează ca serviciu Windows, deci un copil cu cont standard nu îl poate opri. Panoul părintelui este protejat cu PIN.\n\nOpiekun este corect față de copil: copilul vede că controlul parental este activ. Programul nu face capturi de ecran, nu citește mesaje și nu înregistrează site-urile vizitate. Poți adăuga mai mulți copii, seta ore permise (de ex. 8:00–20:00), bloca jocuri și programe alese și vedea ce aplicații a folosit copilul și cum a arătat săptămâna lui într-un grafic. Copilul are propriul calculator? Îl controlezi de pe calculatorul tău, în rețeaua de acasă – fără să mergi în camera lui.",
+        "de": "Opiekun hilft Ihnen, gesunde Computerregeln ohne Streit festzulegen. Sie stellen für jeden Wochentag ein eigenes Tageslimit ein, und Ihr Kind sieht immer, wie viel Zeit noch übrig ist. 5 Minuten und 1 Minute vor dem Ende erscheint eine Warnung, damit Zeit zum Speichern bleibt. Braucht Ihr Kind mehr Zeit, etwa für Hausaufgaben, sendet es eine Anfrage, und Sie stimmen mit einem Klick zu oder lehnen ab. Opiekun läuft als Windows-Dienst, daher kann ein Kind mit Standardkonto ihn nicht abschalten. Das Elternpanel ist mit einer PIN geschützt.\n\nOpiekun ist fair zu Ihrem Kind: Es sieht, dass die Kindersicherung aktiv ist. Das Programm macht keine Screenshots, liest keine Nachrichten und speichert keine besuchten Websites. Können Sie weitere Kinder hinzufügen, erlaubte Zeiten festlegen (z. B. 8:00–20:00), ausgewählte Spiele und Programme sperren und sehen, welche Apps Ihr Kind genutzt hat und wie seine Woche im Diagramm aussah. Hat Ihr Kind einen eigenen Computer? Steuern Sie ihn im Heimnetz vom eigenen Computer aus – ohne ins Kinderzimmer zu gehen."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     },
     {
