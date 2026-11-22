@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T20:48:38Z",
+  "Updated": "2026-11-22T20:48:46Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1512,22 +1512,22 @@
       "Name": "Skaner Androida",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.7",
-      "Date": "2026-11-21",
+      "Version": "1.0.10",
+      "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skaner-v1.0.7/Skaner.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/skaner-v1.0.10/Skaner.zip",
       "FileName": "Skaner.zip",
-      "Sha256": "09ee482792690ce997b933538f15226427e747956ac4f3cfa91df73db5da2d6a",
-      "Size": 643336,
+      "Sha256": "2ebfa0f44f5602954d49170aae8a3588bf149701be0f105d53a72e3ea01f86e8",
+      "Size": 644440,
       "Args": null,
       "Launch": "Skaner.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/icon.png?v=639308078075416838",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261121222605-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261121222606-2.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261122204839-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/skaner/shot-20261122204841-2.jpg"
       ],
-      "Price": "19 zł / miesiąc",
+      "Price": "",
       "Website": null,
       "Page": null,
       "BuyUrl": null,
@@ -1547,16 +1547,16 @@
         "de": "Android-Telefone per USB prüfen."
       },
       "Description": {
-        "pl": "Skaner przez adb sprawdza wszystkie aplikacje zainstalowane przez użytkownika: które mogą wyświetlać okna na innych aplikacjach (typowe dla reklam), są administratorem urządzenia, mają ułatwienia dostępu, ukryły ikonę albo pochodzą spoza sklepu. Każdy wynik ma wypisane powody. Jako PEWNE oznaczane są tylko aplikacje z Twojej listy znanych zagrożeń (suma SHA-256 pliku lub nazwa pakietu – listę wczytasz z pliku, np. z MalwareBazaar). Potrzebne są bezpłatne Android Platform-Tools od Google.\n\nW PRO: odinstalowanie lub wyłączenie aplikacji jednym kliknięciem, porównywanie sum SHA-256, raport PDF dla klienta.\n\nAplikacje usuwaj tylko za zgodą właściciela telefonu.",
-        "en": "Checks all user-installed apps over adb: overlay permission, device admin, accessibility, hidden icon, sideloaded. Every result lists its reasons. Only apps on your threat list (SHA-256 or package) are marked CERTAIN. Requires the free Android Platform-Tools.\n\nWith PRO: one-click uninstall/disable, SHA-256 check, client PDF report.",
-        "ro": "Scanare prin adb.\n\nCu PRO: dezinstalare, SHA-256, PDF.",
-        "de": "Scan per adb.\n\nMit PRO: Deinstallation, SHA-256, PDF."
+        "pl": "Skaner przez adb sprawdza wszystkie aplikacje zainstalowane przez użytkownika: które mogą wyświetlać okna na innych aplikacjach (typowe dla reklam), są administratorem urządzenia, mają ułatwienia dostępu, ukryły ikonę albo pochodzą spoza sklepu. Każdy wynik ma wypisane powody. Jako PEWNE oznaczane są tylko aplikacje z Twojej listy znanych zagrożeń (suma SHA-256 pliku lub nazwa pakietu – listę wczytasz z pliku, np. Z MalwareBazaar). Potrzebne są bezpłatne Android Platform-Tools od Google.\n\nW zestawie także: odinstalowanie lub wyłączenie aplikacji jednym kliknięciem, porównywanie sum SHA-256, raport PDF dla klienta.\n\nAplikacje usuwaj tylko za zgodą właściciela telefonu.",
+        "en": "Checks all user-installed apps over adb: overlay permission, device admin, accessibility, hidden icon, sideloaded. Every result lists its reasons. Only apps on your threat list (SHA-256 or package) are marked CERTAIN. Requires the free Android Platform-Tools.\n\nAlso included: one-click uninstall/disable, SHA-256 check, client PDF report.",
+        "ro": "Scanare prin adb.\n\nInclus și: dezinstalare, SHA-256, PDF.",
+        "de": "Scan per adb.\n\nAußerdem dabei: Deinstallation, SHA-256, PDF."
       },
       "Changelog": {
-        "pl": "Drobne poprawki wspólne (pasek tytułu, menu) i przygotowanie pod nowy program Fachowiec PRO.",
-        "en": "Small shared fixes (title bar, menu) and groundwork for the new Fachowiec PRO app.",
-        "ro": "Mici corecții comune și pregătire pentru noua aplicație Fachowiec PRO.",
-        "de": "Kleine gemeinsame Korrekturen und Vorbereitung für die neue App Fachowiec PRO."
+        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
+        "en": "• The app is now completely free – every feature, no licence and no limits",
+        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
+        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
       }
     }
   ],
