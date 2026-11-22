@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-22T21:38:58Z",
+  "Updated": "2026-11-22T21:39:04Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -309,19 +309,19 @@
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.21",
+      "Version": "1.1.22",
       "Date": "2026-11-22",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.21/TeczkaPodglad.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.22/TeczkaPodglad.zip",
       "FileName": "TeczkaPodglad.zip",
-      "Sha256": "1602f5cbd77010fc77dbde2082b22bf23849cf780cb3b393b0348d48fb9d6a19",
-      "Size": 4534395,
+      "Sha256": "d6d4d6a8e730b3fd90528a5ae04fafa597f9760b6f7f1ae3063af39627ed0db7",
+      "Size": 4536697,
       "Args": null,
       "Launch": "TeczkaPodglad.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261122204900-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261122213859-1.jpg"
       ],
       "Price": "",
       "Website": null,
@@ -343,16 +343,16 @@
         "de": "Kostenloser, schneller PDF-Leser: lesen, suchen, drucken – ohne Werbung, ohne Upload."
       },
       "Description": {
-        "pl": "Teczka – przeglądarka PDF otwiera dokumenty PDF dwuklikiem, tak jak Adobe Reader, ale bez reklam, kont i zbędnych dodatków. Wszystkie strony przewijasz jedna pod drugą, powiększasz kółkiem myszy z Ctrl, szukasz słów w całym dokumencie (Ctrl+F), drukujesz (Ctrl+P) i kopiujesz tekst. Otwiera także PDF-y z hasłem.\n\nProgram jest całkowicie darmowy i działa tylko na Twoim komputerze. Potrzebujesz poprawić tekst, podpisać się albo połączyć pliki? Kliknij „Edytuj PDF” – edycja jest w programie Teczka (z licencją).",
+        "pl": "Teczka – przeglądarka PDF otwiera dokumenty PDF dwuklikiem, tak jak Adobe Reader, ale bez reklam, kont i zbędnych dodatków. Wszystkie strony przewijasz jedna pod drugą, powiększasz kółkiem myszy z Ctrl, szukasz słów w całym dokumencie (Ctrl+F), drukujesz (Ctrl+P) i kopiujesz tekst. Otwiera także PDF-y z hasłem.\n\nProgram jest całkowicie darmowy i działa tylko na Twoim komputerze. Potrzebujesz poprawić tekst, podpisać się albo połączyć pliki? Kliknij „Edytuj PDF” – edycja jest w Teczce PRO (13 zł / miesiąc albo 109 zł / rok).",
         "en": "Teczka – PDF viewer opens PDF documents with a double-click, like Adobe Reader, but with no ads, accounts or clutter. Scroll all pages one after another, zoom with Ctrl+mouse wheel, search the whole document (Ctrl+F), print (Ctrl+P) and copy text. It also opens password-protected PDFs.\n\nThe program is completely free and works only on your computer. Need to fix text, sign or merge files? Click “Edit PDF” – editing is in the Teczka program (with a licence).",
         "ro": "Teczka – vizualizator PDF deschide documente PDF cu dublu clic, ca Adobe Reader, dar fără reclame, conturi sau lucruri inutile. Derulezi toate paginile, mărești cu Ctrl+rotiță, cauți în tot documentul (Ctrl+F), tipărești (Ctrl+P) și copiezi text. Deschide și PDF-uri cu parolă.\n\nProgramul este complet gratuit și funcționează doar pe calculatorul tău. Vrei să corectezi text, să semnezi sau să unești fișiere? Apasă „Editează PDF” – editarea este în programul Teczka (cu licență).",
         "de": "Teczka – PDF-Betrachter öffnet PDF-Dokumente per Doppelklick wie Adobe Reader, aber ohne Werbung, Konten oder Ballast. Alle Seiten untereinander scrollen, mit Strg+Mausrad zoomen, das ganze Dokument durchsuchen (Strg+F), drucken (Strg+P) und Text kopieren. Öffnet auch passwortgeschützte PDFs.\n\nDas Programm ist völlig kostenlos und läuft nur auf Ihrem Computer. Text korrigieren, unterschreiben oder Dateien zusammenfügen? „PDF bearbeiten“ klicken – die Bearbeitung gibt es im Programm Teczka (mit Lizenz)."
       },
       "Changelog": {
-        "pl": "• Program jest teraz całkowicie darmowy – wszystkie funkcje bez licencji i bez limitów",
-        "en": "• The app is now completely free – every feature, no licence and no limits",
-        "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
-        "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
+        "pl": "• Przeglądarka zostaje całkowicie darmowa\n• „Edytuj PDF” – edycja jest w Teczce PRO (13 zł / miesiąc albo 109 zł / rok); przycisk prowadzi do zakupu",
+        "en": "• The viewer stays completely free\n• “Edit PDF” – editing is in Teczka PRO (13 PLN / month or 109 PLN / year); the button leads to the purchase",
+        "ro": "• Vizualizatorul rămâne complet gratuit\n• „Editează PDF” – editarea este în Teczka PRO",
+        "de": "• Der Viewer bleibt komplett kostenlos\n• „PDF bearbeiten“ – Bearbeitung in Teczka PRO"
       }
     },
     {
