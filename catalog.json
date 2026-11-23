@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-23T08:49:04Z",
+  "Updated": "2026-11-23T08:49:50Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1302,21 +1302,21 @@
       "Name": "Teczka",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.22",
-      "Date": "2026-11-22",
+      "Version": "1.1.23",
+      "Date": "2026-11-23",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.22/Teczka.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-v1.1.23/Teczka.zip",
       "FileName": "Teczka.zip",
-      "Sha256": "2be85775076705de0b34a67b7eea7b4919c0d4abb63f40b14a23cfb646d47604",
-      "Size": 4989349,
+      "Sha256": "c50a49e0ce787518e5c4283bc11293b9c3f036dbbd9439dc2251219ca8d0210f",
+      "Size": 4991885,
       "Args": null,
       "Launch": "Teczka.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/icon.png?v=639309803302464762",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261122213850-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261122213852-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261122213853-3.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261123084907-1.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261123084912-2.jpg",
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka/shot-20261123084915-3.jpg"
       ],
       "Price": "13 zł / mies.",
       "Website": null,
@@ -1344,10 +1344,10 @@
         "de": "Verträge, Rechnungen und Scans mit Ausweis- oder Bankdaten gehören nicht auf beliebige „Online-PDF“-Seiten. Teczka erledigt alles auf Ihrem eigenen Computer. Klicken Sie auf Text, um ihn zu korrigieren, ergänzen Sie fehlende Angaben, decken Sie ab, was andere nicht sehen sollen, markieren Sie wichtige Stellen und unterschreiben Sie mit Maus oder Finger. Machen Sie aus Fotos und Scans ein PDF, fügen Sie mehrere Dateien zusammen, extrahieren, drehen oder löschen Sie Seiten und machen Sie aus einfachem Text ein sauberes A4-Dokument. Das Original wird nie überschrieben: Das Ergebnis wird immer als neue Datei gespeichert.\n\nLesen und Drucken von PDFs ist kostenlos – Teczka kann Ihr PDF-Programm sein. Die Lizenz schaltet alles frei, was Dateien ändert oder erstellt: Speichern aus dem Editor, Text und Fotos → PDF, Zusammenfügen, Seiten, Verkleinern, Passwort, Wasserzeichen, Seitenzahlen und Word-, Excel- und PowerPoint-Konvertierung."
       },
       "Changelog": {
-        "pl": "• Teczka (edytor PDF) to znowu program z licencją PRO: 13 zł / miesiąc albo 109 zł / rok. Czytanie i drukowanie PDF zostaje za darmo\n• Darmowa przeglądarka PDF: przycisk „Edytuj PDF” prowadzi do zakupu Teczki PRO",
-        "en": "• Teczka (PDF editor) is a PRO app again: 13 PLN / month or 109 PLN / year. Reading and printing PDFs stays free\n• Free PDF viewer: the “Edit PDF” button leads to buying Teczka PRO",
-        "ro": "• Teczka (editor PDF) are din nou licență PRO: 13 PLN / lună sau 109 PLN / an. Citirea și tipărirea PDF rămân gratuite",
-        "de": "• Teczka (PDF-Editor) ist wieder ein PRO-Programm: 13 PLN / Monat oder 109 PLN / Jahr. Lesen und Drucken bleibt kostenlos"
+        "pl": "• Zamów licencję przelewem albo BLIK-iem prosto z programu (zakładka PRO) – licencja przyjdzie sama po zaksięgowaniu wpłaty\n• Teczka (edytor PDF) to znowu program z licencją PRO: 13 zł / miesiąc albo 109 zł / rok. Czytanie i drukowanie PDF zostaje za darmo\n• Darmowa przeglądarka PDF: przycisk „Edytuj PDF” prowadzi do zakupu Teczki PRO",
+        "en": "• Order a licence by bank transfer or BLIK right from the app (PRO tab) – the licence arrives by itself once paid\n• Teczka (PDF editor) is a PRO app again: 13 PLN / month or 109 PLN / year. Reading and printing PDFs stays free\n• Free PDF viewer: the “Edit PDF” button leads to buying Teczka PRO",
+        "ro": "• Comandă licența prin transfer sau BLIK direct din aplicație (fila PRO) – licența vine singură după plată\n• Teczka (editor PDF) are din nou licență PRO: 13 PLN / lună sau 109 PLN / an. Citirea și tipărirea PDF rămân gratuite",
+        "de": "• Lizenz per Überweisung oder BLIK direkt im Programm bestellen (Reiter PRO) – die Lizenz kommt nach Zahlung von selbst\n• Teczka (PDF-Editor) ist wieder ein PRO-Programm: 13 PLN / Monat oder 109 PLN / Jahr. Lesen und Drucken bleibt kostenlos"
       }
     }
   ],
