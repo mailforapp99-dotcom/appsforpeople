@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-23T08:50:36Z",
+  "Updated": "2026-11-23T08:50:46Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1042,19 +1042,19 @@
       "Name": "Zdjęcia",
       "Publisher": "AppsForPeople",
       "Category": "Narzędzia",
-      "Version": "1.0.13",
-      "Date": "2026-11-22",
+      "Version": "1.0.14",
+      "Date": "2026-11-23",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.13/Zdjecia.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/zdjecia-v1.0.14/Zdjecia.zip",
       "FileName": "Zdjecia.zip",
-      "Sha256": "db497565fbb6b335804c292f5a144024e1cf3bcea56863e52107a512be3c3fbe",
-      "Size": 622132,
+      "Sha256": "542178c5764a2fd0351784eaa752cf45f0835accfa25251d90c19028e861e6c1",
+      "Size": 624724,
       "Args": null,
       "Launch": "Zdjecia.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/icon.png?v=639308009060617878",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261122213906-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/zdjecia/shot-20261123085039-1.jpg"
       ],
       "Price": "5 zł / mies.",
       "Website": null,
@@ -1082,10 +1082,10 @@
         "de": "Schnelle Fotokonvertierung, lokal.\n\nAußerdem dabei: unbegrenzt, Wasserzeichen, eigene Namen."
       },
       "Changelog": {
-        "pl": "• Zdjęcia znowu mają wersję PRO: 5 zł / miesiąc albo 39 zł / rok (bez limitu zdjęć naraz, znak wodny, własne nazwy). Do 20 zdjęć naraz – za darmo",
-        "en": "• Zdjęcia has a PRO version again: 5 PLN / month or 39 PLN / year (unlimited photos, watermark, custom names). Up to 20 photos at once – free",
-        "ro": "• Zdjęcia are din nou versiune PRO: 5 PLN / lună sau 39 PLN / an. Până la 20 de fotografii odată – gratuit",
-        "de": "• Zdjęcia hat wieder eine PRO-Version: 5 PLN / Monat oder 39 PLN / Jahr. Bis zu 20 Fotos auf einmal – kostenlos"
+        "pl": "• Zamów licencję przelewem albo BLIK-iem prosto z programu (zakładka PRO) – licencja przyjdzie sama po zaksięgowaniu wpłaty\n• Zdjęcia znowu mają wersję PRO: 5 zł / miesiąc albo 39 zł / rok (bez limitu zdjęć naraz, znak wodny, własne nazwy). Do 20 zdjęć naraz – za darmo",
+        "en": "• Order a licence by bank transfer or BLIK right from the app (PRO tab) – the licence arrives by itself once paid\n• Zdjęcia has a PRO version again: 5 PLN / month or 39 PLN / year (unlimited photos, watermark, custom names). Up to 20 photos at once – free",
+        "ro": "• Comandă licența prin transfer sau BLIK direct din aplicație (fila PRO) – licența vine singură după plată\n• Zdjęcia are din nou versiune PRO: 5 PLN / lună sau 39 PLN / an. Până la 20 de fotografii odată – gratuit",
+        "de": "• Lizenz per Überweisung oder BLIK direkt im Programm bestellen (Reiter PRO) – die Lizenz kommt nach Zahlung von selbst\n• Zdjęcia hat wieder eine PRO-Version: 5 PLN / Monat oder 39 PLN / Jahr. Bis zu 20 Fotos auf einmal – kostenlos"
       }
     },
     {
