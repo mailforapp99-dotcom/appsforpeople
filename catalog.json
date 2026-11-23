@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-23T08:50:46Z",
+  "Updated": "2026-11-23T08:53:15Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -1352,9 +1352,9 @@
     }
   ],
   "Launcher": {
-    "Version": "1.5.4",
-    "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/launcher-v1.5.4/AppsForPeople.exe",
-    "Sha256": "db5b1aff683a377a891b2edc7e6144be2c433218f353a0bfb7669b05bc3ad4b1",
+    "Version": "1.5.5",
+    "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/launcher-v1.5.5/AppsForPeople.exe",
+    "Sha256": "579a181476aedf398fc6df63224cdae5c232d5d40bcae6681f633a8671fe7db5",
     "Size": 1217024
   }
 }
