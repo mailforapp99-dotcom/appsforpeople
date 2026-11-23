@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-23T08:49:50Z",
+  "Updated": "2026-11-23T08:50:36Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -309,19 +309,19 @@
       "Name": "Teczka – przeglądarka PDF",
       "Publisher": "AppsForPeople",
       "Category": "Biuro",
-      "Version": "1.1.22",
-      "Date": "2026-11-22",
+      "Version": "1.1.23",
+      "Date": "2026-11-23",
       "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.22/TeczkaPodglad.zip",
+      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/teczka-podglad-v1.1.23/TeczkaPodglad.zip",
       "FileName": "TeczkaPodglad.zip",
-      "Sha256": "d6d4d6a8e730b3fd90528a5ae04fafa597f9760b6f7f1ae3063af39627ed0db7",
-      "Size": 4536697,
+      "Sha256": "c89bacdce94c54ad1702eff795dadaff3ea6cbc9265945c907907478abb602d7",
+      "Size": 4538941,
       "Args": null,
       "Launch": "TeczkaPodglad.exe",
       "UninstallName": null,
       "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/icon.png?v=639305082992577599",
       "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261122213859-1.jpg"
+        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/teczka-podglad/shot-20261123084953-1.jpg"
       ],
       "Price": "",
       "Website": null,
