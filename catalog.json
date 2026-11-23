@@ -1,6 +1,6 @@
 {
   "Name": "AppsForPeople",
-  "Updated": "2026-11-23T08:53:15Z",
+  "Updated": "2026-11-23T08:54:10Z",
   "Apps": [
     {
       "Id": "rdzen",
@@ -568,59 +568,6 @@
       }
     },
     {
-      "Id": "liczniki",
-      "Name": "Liczniki",
-      "Publisher": "AppsForPeople",
-      "Category": "Dom",
-      "Version": "1.0.8",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/liczniki-v1.0.8/Liczniki.zip",
-      "FileName": "Liczniki.zip",
-      "Sha256": "6be0f5b6a80040dce20bb0a6230ab8c76fb67dfb661406ba6194bbcd9dbffa20",
-      "Size": 890412,
-      "Args": null,
-      "Launch": "Liczniki.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/icon.png?v=639306250788952423",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120222244-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120222246-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/liczniki/shot-20261120222248-3.jpg"
-      ],
-      "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#34D399",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Liczniki",
-        "en": "Meters",
-        "ro": "Contoare",
-        "de": "Zähler"
-      },
-      "Tagline": {
-        "pl": "Prąd, gaz, woda: odczyty, zużycie i koszt – alarm, gdy zużycie nagle skoczy.",
-        "en": "Power, gas, water: readings, usage and cost – an alarm when usage suddenly jumps.",
-        "ro": "Curent, gaz, apă: citiri, consum și cost – alarmă la creșteri bruște.",
-        "de": "Strom, Gas, Wasser: Ablesungen, Verbrauch, Kosten – Alarm bei plötzlichem Anstieg."
-      },
-      "Description": {
-        "pl": "Liczniki zapamiętują stany licznika i liczą zużycie dzienne i miesięczne. Od razu widać, czy zużywasz więcej niż zwykle.\n\nW PRO: wiele liczników i mieszkań, koszt według Twojej taryfy i opłat stałych, porównanie rok do roku, alarm nagłego wzrostu (np. cieknąca spłuczka czy zapomniany grzejnik) i comiesięczne przypomnienie o odczycie w programie Terminy.",
-        "en": "Liczniki stores meter readings and calculates daily and monthly usage, so you see at once whether you use more than usual.\n\nWith PRO: many meters and homes, cost by your tariff and fixed fees, year-to-year comparison, a sudden-usage alarm (e.g. a leaking toilet) and a monthly reading reminder in Terminy.",
-        "ro": "Liczniki reține indexurile și calculează consumul zilnic și lunar.\n\nCu PRO: mai multe contoare, cost după tarif, comparație an la an, alarmă și memento lunar în Terminy.",
-        "de": "Liczniki speichert Zählerstände und berechnet Tages- und Monatsverbrauch.\n\nMit PRO: mehrere Zähler, Kosten nach Tarif, Jahresvergleich, Verbrauchsalarm und monatliche Erinnerung in Terminy."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
-      }
-    },
-    {
       "Id": "porty",
       "Name": "Porty",
       "Publisher": "AppsForPeople",
@@ -722,57 +669,6 @@
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
-      "Id": "schowek",
-      "Name": "Schowek",
-      "Publisher": "AppsForPeople",
-      "Category": "Narzędzia",
-      "Version": "1.0.8",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/schowek-v1.0.8/Schowek.zip",
-      "FileName": "Schowek.zip",
-      "Sha256": "fb1a58c2448ce20503c695c4f834bded90d20a497a1cf9d388c895e49193e3a0",
-      "Size": 165145,
-      "Args": null,
-      "Launch": "Schowek.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/schowek/icon.png?v=639306251054250333",
-      "Shots": [
-        
-      ],
-      "Price": "5 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#C084FC",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Schowek",
-        "en": "Clipboard",
-        "ro": "Clipboard",
-        "de": "Zwischenablage"
-      },
-      "Tagline": {
-        "pl": "Historia schowka: wszystko, co kopiujesz, z szukaniem od 2 liter.",
-        "en": "Clipboard history: everything you copy, searchable from 2 letters.",
-        "ro": "Istoric clipboard: tot ce copiezi, cu căutare de la 2 litere.",
-        "de": "Zwischenablage-Verlauf: alles Kopierte, durchsuchbar ab 2 Buchstaben."
-      },
-      "Description": {
-        "pl": "Schowek zapamiętuje teksty, które kopiujesz (Ctrl+C). Wpisz 2 litery, znajdź i skopiuj z powrotem jednym Enterem. Hasła oznaczone przez menedżery haseł jako prywatne są pomijane. Historia na dysku jest szyfrowana (tylko Twoje konto Windows może ją odczytać). Darmowo zapamiętuje 25 ostatnich wpisów.\n\nW PRO: do 1000 wpisów, przypięte teksty (NIP, numer konta, adres), obrazki i skrót Ctrl+Shift+V z każdego programu.",
-        "en": "Schowek remembers the texts you copy (Ctrl+C). Type 2 letters, find and copy back with Enter. Passwords marked private by password managers are skipped. The history on disk is encrypted (only your Windows account can read it). Free version keeps the last 25 entries.\n\nWith PRO: up to 1000 entries, pinned texts (tax ID, account number, address), images and a Ctrl+Shift+V shortcut from any program.",
-        "ro": "Schowek reține textele copiate; istoricul este criptat; gratuit ultimele 25.\n\nCu PRO: până la 1000 de intrări, texte fixate, imagini și Ctrl+Shift+V.",
-        "de": "Schowek merkt sich kopierte Texte; der Verlauf wird verschlüsselt; kostenlos die letzten 25.\n\nMit PRO: bis 1000 Einträge, angeheftete Texte, Bilder und Strg+Umschalt+V."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
@@ -982,59 +878,6 @@
         "en": "• The app is now completely free – every feature, no licence and no limits",
         "ro": "• Aplicația este acum complet gratuită – toate funcțiile, fără licență și fără limite",
         "de": "• Das Programm ist jetzt komplett kostenlos – alle Funktionen, ohne Lizenz und ohne Limits"
-      }
-    },
-    {
-      "Id": "grafik",
-      "Name": "Grafik",
-      "Publisher": "AppsForPeople",
-      "Category": "Firma",
-      "Version": "1.0.5",
-      "Date": "2026-11-20",
-      "Type": "zip",
-      "Url": "https://github.com/mailforapp99-dotcom/appsforpeople/releases/download/grafik-v1.0.5/Grafik.zip",
-      "FileName": "Grafik.zip",
-      "Sha256": "b1df839371878324bba677a6f6a7b507b6accf9efc5b5c69562211f3e9664d4c",
-      "Size": 860660,
-      "Args": null,
-      "Launch": "Grafik.exe",
-      "UninstallName": null,
-      "Icon": "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/icon.png?v=639308007184024061",
-      "Shots": [
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120222215-1.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120222217-2.jpg",
-        "https://raw.githubusercontent.com/mailforapp99-dotcom/appsforpeople/main/media/grafik/shot-20261120222219-3.jpg"
-      ],
-      "Price": "19 zł / miesiąc",
-      "Website": null,
-      "Page": null,
-      "BuyUrl": null,
-      "Color": "#A78BFA",
-      "Featured": false,
-      "Hidden": false,
-      "Names": {
-        "pl": "Grafik",
-        "en": "Rota",
-        "ro": "Program de lucru",
-        "de": "Dienstplan"
-      },
-      "Tagline": {
-        "pl": "Grafik pracy i ewidencja czasu pracy, która pilnuje Kodeksu pracy: odpoczynki, wymiar godzin, niedziele, nadgodziny.",
-        "en": "Staff rota and time records that watch the Polish Labour Code: rest periods, monthly hours, Sundays, overtime.",
-        "ro": "Program de lucru și evidența timpului, conform Codului muncii.",
-        "de": "Dienstplan und Zeiterfassung nach polnischem Arbeitsrecht."
-      },
-      "Description": {
-        "pl": "Układasz grafik w kratkach jak w Excelu, a Grafik od razu pokazuje, co jest nie tak: za krótki odpoczynek (11 h na dobę, 35 h w tygodniu), za dużo lub za mało godzin w miesiącu, brak wolnej niedzieli. Święta i wymiar czasu pracy liczą się same. Ewidencja pokazuje godziny, nadgodziny, nocne, niedziele, urlopy i L4.\n\nW PRO: bez limitu pracowników (darmowo 3), grafik i ewidencja w PDF do podpisu i na kontrolę PIP.\n\nTo podpowiedzi dla pracodawcy – przy nietypowych systemach czasu pracy zapytaj kadrową.",
-        "en": "Build the rota in a grid; Grafik instantly shows rest-period breaches, too many or too few hours and missing free Sundays. Holidays and monthly norms are automatic.\n\nWith PRO: unlimited employees (free: 3), rota and time records as PDF.",
-        "ro": "Program de lucru cu verificarea odihnei și a normelor.\n\nCu PRO: angajați nelimitați, PDF.",
-        "de": "Dienstplan mit Prüfung der Ruhezeiten.\n\nMit PRO: unbegrenzt, PDF."
-      },
-      "Changelog": {
-        "pl": "Całkiem nowy wygląd: animowany baner na każdej stronie, płynne przejścia, wyszukiwarka funkcji (Ctrl+K), pulpit startowy z powitaniem.",
-        "en": "Brand-new look: animated banner on every page, smooth transitions, feature search (Ctrl+K), welcome dashboard.",
-        "ro": "Aspect complet nou: banner animat pe fiecare pagină, tranziții fluide, căutare funcții (Ctrl+K), panou de start.",
-        "de": "Komplett neues Design: animiertes Banner auf jeder Seite, flüssige Übergänge, Funktionssuche (Strg+K), Start-Dashboard."
       }
     },
     {
